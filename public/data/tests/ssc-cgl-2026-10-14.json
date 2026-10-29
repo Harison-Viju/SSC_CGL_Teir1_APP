@@ -1,0 +1,4727 @@
+{
+  "schema_version": 1,
+  "id": "ssc-cgl-2026-10-14",
+  "title": "SSC CGL Exam Day Based Paper (14 Oct 2026)",
+  "exam": "SSC CGL Tier 1",
+  "date": "2026-10-14",
+  "shift": null,
+  "language": "en",
+  "source_file": "pdfs/ssc/SSC-CGL-Exam-Day-Based-Paper-14-Oct-2026_3b970887.pdf",
+  "source_sha256": "3b9708871b9e1d7bc1b977578deadf5122c420ad3dfa526ddf626bf72b051bb7",
+  "marking": {
+    "correct": 2.0,
+    "wrong": -0.5,
+    "unanswered": 0.0
+  },
+  "duration_minutes": 60,
+  "sections": [
+    {
+      "id": "reasoning",
+      "name": "General Intelligence & Reasoning",
+      "from": 1,
+      "to": 25,
+      "duration_minutes": 15
+    },
+    {
+      "id": "general_awareness",
+      "name": "General Awareness",
+      "from": 26,
+      "to": 50,
+      "duration_minutes": 15
+    },
+    {
+      "id": "quantitative_aptitude",
+      "name": "Quantitative Aptitude",
+      "from": 51,
+      "to": 75,
+      "duration_minutes": 15
+    },
+    {
+      "id": "english",
+      "name": "English Comprehension",
+      "from": 76,
+      "to": 100,
+      "duration_minutes": 15
+    }
+  ],
+  "passages": [
+    {
+      "id": "p90-94",
+      "range": [
+        90,
+        94
+      ],
+      "text": "In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank. The modern obsession with productivity has bequeathed us a curious (1)______: the more contrivances we invent to economise time, the less of it we appear to possess. A century ago the labour-saving device was hailed as an emancipator, a benevolent servant that would hand the common man the leisure once monopolised by the aristocracy. Today the same device functions as an exacting taskmaster. Had our forebears foreseen this inversion, they (2)______ their faith in machinery with rather more circumspection. The smartphone, that most (3)______ of companions, promises liberation while quietly colonising every interstice of the day — the queue, the commute, the dinner table, the sleepless hour before dawn. Sociologists have christened this condition ‘time famine’, a scarcity that is psychological rather than arithmetical, for the hours have not contracted; only our capacity to inhabit them has withered. The malady is aggravated by a culture that treats busyness as a badge of moral worth, so that the executive who boasts of sleeping four hours a night is admired rather than pitied. (4)______ we persist in regarding efficiency as an unqualified good, we shall continue to mistake velocity for direction and motion for progress. The remedy proposed by a growing body of thinkers is neither Luddite nor (5)______; nobody seriously proposes smashing the looms or retreating to a hermitage in the hills. It is, rather, the deliberate cultivation of idleness — unstructured, unmonetised, gloriously purposeless time in which the mind is permitted to wander without the obligation to produce. Such reverie, the neuroscientists assure us, is not indolence but incubation: the default network of the brain stitching together the scattered fragments of experience into insight. Perhaps the most radical act available to the contemporary citizen is simply to sit still and do nothing at all."
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "image_full",
+      "stem": "Select an appropriate figure from the four options that would complete the figure.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select an appropriate figure from the four options that would complete the figure."
+        }
+      ],
+      "stem_image": null,
+      "full_image": "img/ssc-cgl-2026-10-14/q001_full.webp",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "raw_options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 131.83399999999995,
+        "stem_bottom": 237.43999999999994,
+        "first_opt_top": 228.09399999999994,
+        "opts_bottom": 388.70399999999995,
+        "ans_top": 390.62399999999997,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 2,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "image_full",
+      "stem": "Find the one which completes the series.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the one which completes the series."
+        }
+      ],
+      "stem_image": null,
+      "full_image": "img/ssc-cgl-2026-10-14/q002_full.webp",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "raw_options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 418.94399999999996,
+        "stem_bottom": 524.28,
+        "first_opt_top": 515.204,
+        "opts_bottom": 675.574,
+        "ans_top": 677.7339999999999,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 3,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "MKPT is related to QOTX in a certain way based on the English alphabetical order. In the same way, ENSU is related to IRWY.\nTo which of the following is DHGR related, following the same logic?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "MKPT is related to QOTX in a certain way based on the English alphabetical order. In the same way, ENSU is related to IRWY."
+        },
+        {
+          "type": "paragraph",
+          "text": "To which of the following is DHGR related, following the same logic?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "HLKV",
+        "HDRG",
+        "FJIT",
+        "QEIY"
+      ],
+      "raw_options": [
+        "HLKV",
+        "HDRG",
+        "FJIT",
+        "QEIY"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 4,
+        "stem_top": 705.8439999999999,
+        "stem_bottom": 745.92,
+        "first_opt_top": 95.08399999999995,
+        "opts_bottom": 774.0,
+        "ans_top": 123.19399999999996,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 4,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "image_full",
+      "stem": "Which will be the correct image formed towards shaded part when question diagram is put in front of it?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which will be the correct image formed towards shaded part when question diagram is put in front of it?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": "img/ssc-cgl-2026-10-14/q004_full.webp",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "raw_options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 151.5139999999999,
+        "stem_bottom": 290.5,
+        "first_opt_top": 281.404,
+        "opts_bottom": 441.74399999999997,
+        "ans_top": 443.90399999999994,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 5,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "image_stem",
+      "stem": "The given Venn diagram shows the number of students who can play cricket, basketball and football. How many people can play both cricket and basketball?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The given Venn diagram shows the number of students who can play cricket, basketball and football. How many people can play both cricket and basketball?"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2026-10-14/q005_stem.webp",
+      "full_image": null,
+      "options": [
+        "66",
+        "107",
+        "45",
+        "145"
+      ],
+      "raw_options": [
+        "66",
+        "107",
+        "45",
+        "145"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 472.00399999999996,
+        "stem_bottom": 629.03,
+        "first_opt_top": 631.414,
+        "opts_bottom": 685.414,
+        "ans_top": 687.574,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 6,
+      "section": "reasoning",
+      "topic": "Statement & Assumption / Argument",
+      "render_mode": "text",
+      "stem": "A bus service reduced fare by 15% and passengers increased by 20%. Which inference is correct?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A bus service reduced fare by 15% and passengers increased by 20%. Which inference is correct?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Revenue decreased",
+        "Revenue remained same",
+        "Bus speed improved",
+        "Revenue increased"
+      ],
+      "raw_options": [
+        "Revenue decreased",
+        "Revenue remained same",
+        "Bus speed improved",
+        "Revenue increased"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 5,
+        "stem_top": 715.684,
+        "stem_bottom": 727.684,
+        "first_opt_top": 729.8439999999999,
+        "opts_bottom": 784.0799999999999,
+        "ans_top": 95.08399999999995,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 7,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "Which of the following letter cluster will come next to the series?\nPG, WB, DW, KR, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following letter cluster will come next to the series?"
+        },
+        {
+          "type": "paragraph",
+          "text": "PG, WB, DW, KR, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "OT",
+        "RS",
+        "RM",
+        "OW"
+      ],
+      "raw_options": [
+        "OT",
+        "RS",
+        "RM",
+        "OW"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 124.154,
+        "stem_bottom": 150.79399999999998,
+        "first_opt_top": 153.67399999999998,
+        "opts_bottom": 210.09399999999994,
+        "ans_top": 212.73399999999992,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 8,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "image_full",
+      "stem": "Select the figure that will replace the question mark (?) in the following figure series.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the figure that will replace the question mark (?) in the following figure series."
+        }
+      ],
+      "stem_image": null,
+      "full_image": "img/ssc-cgl-2026-10-14/q008_full.webp",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "raw_options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 242.2539999999999,
+        "stem_bottom": 359.91999999999996,
+        "first_opt_top": 350.76399999999995,
+        "opts_bottom": 513.2839999999999,
+        "ans_top": 516.164,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 9,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "Direction: Select the correct options from the given alternatives:\n50, 59, 49, 58, 48, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Direction: Select the correct options from the given alternatives:"
+        },
+        {
+          "type": "paragraph",
+          "text": "50, 59, 49, 58, 48, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "58",
+        "57",
+        "56",
+        "62"
+      ],
+      "raw_options": [
+        "58",
+        "57",
+        "56",
+        "62"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 545.7139999999999,
+        "stem_bottom": 572.3539999999999,
+        "first_opt_top": 575.2339999999999,
+        "opts_bottom": 631.654,
+        "ans_top": 634.294,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 10,
+      "section": "reasoning",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "In this question some conditions or circumstances is provided to you, you have to make logical judgement according to mentioned circumstances and mark the correct judgement for question. A tech startup develops a powerful AI that can imitate human voices perfectly. It’s groundbreaking but risks being misused for fraud. What is the most responsible judgment? In this question some conditions or circumstances is provided to you, you have to make logical judgement according to mentioned circumstances and mark the correct judgement for question. A tech startup develops a powerful AI that can imitate human voices perfectly. It’s groundbreaking but risks being misused for fraud. What is the most responsible judgment?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In this question some conditions or circumstances is provided to you, you have to make logical judgement according to mentioned circumstances and mark the correct judgement for question. A tech startup develops a powerful AI that can imitate human voices perfectly. It’s groundbreaking but risks being misused for fraud. What is the most responsible judgment? In this question some conditions or circumstances is provided to you, you have to make logical judgement according to mentioned circumstances and mark the correct judgement for question. A tech startup develops a powerful AI that can imitate human voices perfectly. It’s groundbreaking but risks being misused for fraud. What is the most responsible judgment?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Launch the AI without restrictions.",
+        "Keep the AI a company secret.",
+        "Release the AI with strict ethical guidelines and detection tools.",
+        "Sell it to the highest bidder."
+      ],
+      "raw_options": [
+        "Launch the AI without restrictions.",
+        "Keep the AI a company secret.",
+        "Release the AI with strict ethical guidelines and detection tools.",
+        "Sell it to the highest bidder."
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 6,
+        "stem_top": 663.814,
+        "stem_bottom": 779.28,
+        "first_opt_top": 95.32399999999996,
+        "opts_bottom": 150.31399999999996,
+        "ans_top": 152.71399999999994,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 11,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "image_full",
+      "stem": "From the given option figures, select the one in which the question figure is hidden/embedded. (Rotation is not allowed)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "From the given option figures, select the one in which the question figure is hidden/embedded. (Rotation is not allowed)"
+        }
+      ],
+      "stem_image": null,
+      "full_image": "img/ssc-cgl-2026-10-14/q011_full.webp",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "raw_options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 181.5139999999999,
+        "stem_bottom": 301.80999999999995,
+        "first_opt_top": 292.68399999999997,
+        "opts_bottom": 453.9839999999999,
+        "ans_top": 456.40399999999994,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 12,
+      "section": "reasoning",
+      "topic": "Syllogism & Deductive Logic",
+      "render_mode": "text",
+      "stem": "In the following question, four number pairs are given. In each pair the number on left side of ( - ) is related to the number of the right side of (-) with some Logic/Rule/Relation. Three pairs are similar on the basis of same Logic/Rule/Relation. Select the odd one out from the given alternatives. (NOTE: Operations should be performed on the whole numbers, without breaking down the number into its constituent digits. E.g. 13 - Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In the following question, four number pairs are given. In each pair the number on left side of ( - ) is related to the number of the right side of (-) with some Logic/Rule/Relation. Three pairs are similar on the basis of same Logic/Rule/Relation. Select the odd one out from the given alternatives. (NOTE: Operations should be performed on the whole numbers, without breaking down the number into its constituent digits. E.g. 13 - Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "13-225",
+        "11-169",
+        "15-289",
+        "17-381"
+      ],
+      "raw_options": [
+        "13-225",
+        "11-169",
+        "15-289",
+        "17-381"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 485.20399999999995,
+        "stem_bottom": 583.394,
+        "first_opt_top": 585.554,
+        "opts_bottom": 640.7739999999999,
+        "ans_top": 643.174,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 13,
+      "section": "reasoning",
+      "topic": "Analogy & Classification",
+      "render_mode": "text",
+      "stem": "Select the option that is related to the fifth number in the same way as the second number is related to the first number and fourth number is related to third number.\n691 : 4834 :: 514 : 3595 :: 927 : ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the option that is related to the fifth number in the same way as the second number is related to the first number and fourth number is related to third number."
+        },
+        {
+          "type": "paragraph",
+          "text": "691 : 4834 :: 514 : 3595 :: 927 : ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "6495",
+        "6488",
+        "6490",
+        "6486"
+      ],
+      "raw_options": [
+        "6495",
+        "6488",
+        "6490",
+        "6486"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 671.7339999999999,
+        "stem_bottom": 712.564,
+        "first_opt_top": 714.9639999999999,
+        "opts_bottom": 770.16,
+        "ans_top": 772.3199999999999,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 14,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "image_full",
+      "stem": "A mirror is placed on the line AB. Out of the option figures which figure will be the right image of the question figure?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A mirror is placed on the line AB. Out of the option figures which figure will be the right image of the question figure?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": "img/ssc-cgl-2026-10-14/q014_full.webp",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "raw_options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 109.48399999999992,
+        "stem_bottom": 276.7099999999999,
+        "first_opt_top": 267.45399999999995,
+        "opts_bottom": 428.78399999999993,
+        "ans_top": 431.18399999999997,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 15,
+      "section": "reasoning",
+      "topic": "Syllogism & Deductive Logic",
+      "render_mode": "text",
+      "stem": "In this question some conditions or circumstances is provided to you, you have to make logical judgement according to mentioned circumstances and mark the correct judgement for question. A school principal receives multiple complaints from parents about a teacher's strict disciplinary methods, though student grades under the teacher are among the best in the school. The principal must decide how to handle the complaints while also ensuring continued academic success.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In this question some conditions or circumstances is provided to you, you have to make logical judgement according to mentioned circumstances and mark the correct judgement for question. A school principal receives multiple complaints from parents about a teacher's strict disciplinary methods, though student grades under the teacher are among the best in the school. The principal must decide how to handle the complaints while also ensuring continued academic success."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Immediately terminate the teacher to satisfy the parents.",
+        "Ignore the complaints since the students are doing well.",
+        "Meet with the teacher to discuss alternative discipline strategies and monitor classroom dynamics.",
+        "Ask students to tolerate the methods since it improves grades."
+      ],
+      "raw_options": [
+        "Immediately terminate the teacher to satisfy the parents.",
+        "Ignore the complaints since the students are doing well.",
+        "Meet with the teacher to discuss alternative discipline strategies and monitor classroom dynamics.",
+        "Ask students to tolerate the methods since it improves grades."
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 460.00399999999996,
+        "stem_bottom": 529.3639999999999,
+        "first_opt_top": 531.7939999999999,
+        "opts_bottom": 586.9939999999999,
+        "ans_top": 589.394,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 16,
+      "section": "reasoning",
+      "topic": "Statement & Assumption / Argument",
+      "render_mode": "text",
+      "stem": "In each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing.\nStatement:\nSeveral complaints have been received about delayed emergency ambulance services in a metro city.\nCourse of action I : Increase the number of ambulances and ensure GPS tracking for quick response. Course of action II : Close all emergency services until better management is implemented.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In each question below is given a statement followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing."
+        },
+        {
+          "type": "label",
+          "text": "Statement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Several complaints have been received about delayed emergency ambulance services in a metro city."
+        },
+        {
+          "type": "paragraph",
+          "text": "Course of action I : Increase the number of ambulances and ensure GPS tracking for quick response. Course of action II : Close all emergency services until better management is implemented."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Either I or II follows"
+      ],
+      "raw_options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Either I or II follows"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 617.9739999999999,
+        "stem_bottom": 716.164,
+        "first_opt_top": 718.564,
+        "opts_bottom": 773.76,
+        "ans_top": 775.92,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 17,
+      "section": "reasoning",
+      "topic": "Master Address Matching",
+      "render_mode": "text",
+      "stem": "Master Address (MA): B-45, Rose Villa, Street 5, Ashok Nagar, Jaipur - 302015\nWhich option exactly matches the MA?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Master Address (MA): B-45, Rose Villa, Street 5, Ashok Nagar, Jaipur - 302015"
+        },
+        {
+          "type": "paragraph",
+          "text": "Which option exactly matches the MA?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "B45, Rose Villa, Street 5, Ashok Nagar, Jaipur-302015",
+        "B-45, Rose Villa, Street 5, Ashok Nagar, Jaipur - 302015",
+        "B-45 Rose Villa, Street 5, Ashok Nagar, Jaipur - 302015",
+        "B-45, Rose Villas, Street 5, Ashok Nagar, Jaipur - 302015"
+      ],
+      "raw_options": [
+        "B45, Rose Villa, Street 5, Ashok Nagar, Jaipur-302015",
+        "B-45, Rose Villa, Street 5, Ashok Nagar, Jaipur - 302015",
+        "B-45 Rose Villa, Street 5, Ashok Nagar, Jaipur - 302015",
+        "B-45, Rose Villas, Street 5, Ashok Nagar, Jaipur - 302015"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 109.24399999999991,
+        "stem_bottom": 135.19399999999996,
+        "first_opt_top": 137.35399999999993,
+        "opts_bottom": 191.59399999999994,
+        "ans_top": 193.7539999999999,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 18,
+      "section": "reasoning",
+      "topic": "Seating Arrangement & Direction",
+      "render_mode": "text",
+      "stem": "The criteria for selecting a candidate for the post of 'Sales Executive' are as follow.\nThe candidate:\n1. must have completed graduation in any stream with at least 60% marks.\n2. must have secured at least 60% marks in the Mathematics paper in Class 12 examination.\n3. must have at least two years experience of working as a sales executive.\nHowever, if a candidate fulfils all the above criteria EXCEPT:\na. no. 2, but has got more than 70% marks in graduation, his/her case is to be referred to the Deputy Director.\nb. no. 1, but has 4 years of work experience as sales executive, his/her case is to be referred to the Senior Sales Manager.\nBased on the criteria given and without assuming any additional information, you have to a take a decision for the following candidate.\nTanya has passed Class 12 examination with 60% marks. She is pursuing her graduation. She has got four years work experience as sales executive She obtained 62% marks in Mathematics in class 12.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The criteria for selecting a candidate for the post of 'Sales Executive' are as follow."
+        },
+        {
+          "type": "paragraph",
+          "text": "The candidate:"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "must have completed graduation in any stream with at least 60% marks."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "must have secured at least 60% marks in the Mathematics paper in Class 12 examination."
+        },
+        {
+          "type": "list_item",
+          "marker": "3.",
+          "text": "must have at least two years experience of working as a sales executive."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, if a candidate fulfils all the above criteria EXCEPT:"
+        },
+        {
+          "type": "paragraph",
+          "text": "a. no. 2, but has got more than 70% marks in graduation, his/her case is to be referred to the Deputy Director."
+        },
+        {
+          "type": "paragraph",
+          "text": "b. no. 1, but has 4 years of work experience as sales executive, his/her case is to be referred to the Senior Sales Manager."
+        },
+        {
+          "type": "paragraph",
+          "text": "Based on the criteria given and without assuming any additional information, you have to a take a decision for the following candidate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tanya has passed Class 12 examination with 60% marks. She is pursuing her graduation. She has got four years work experience as sales executive She obtained 62% marks in Mathematics in class 12."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The candidate is to be selected.",
+        "The candidate is not to be selected.",
+        "The candidate's case is to be referred to the Deputy Director.",
+        "The candidate's case is to be referred to Senior Sales Manager."
+      ],
+      "raw_options": [
+        "The candidate is to be selected.",
+        "The candidate is not to be selected.",
+        "The candidate's case is to be referred to the Deputy Director.",
+        "The candidate's case is to be referred to Senior Sales Manager."
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 221.85399999999993,
+        "stem_bottom": 416.78399999999993,
+        "first_opt_top": 418.70399999999995,
+        "opts_bottom": 472.96399999999994,
+        "ans_top": 475.12399999999997,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 19,
+      "section": "reasoning",
+      "topic": "Statement & Assumption / Argument",
+      "render_mode": "text",
+      "stem": "Read the following statement carefully and identify the action that follows.\nStatement:\nA new strain of virus is spreading rapidly.\nCourse of Action:\n1. Lockdown must be imposed.\n2. Mask-wearing and sanitizing must be reinforced.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Read the following statement carefully and identify the action that follows."
+        },
+        {
+          "type": "label",
+          "text": "Statement"
+        },
+        {
+          "type": "paragraph",
+          "text": "A new strain of virus is spreading rapidly."
+        },
+        {
+          "type": "label",
+          "text": "Course of Action"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "Lockdown must be imposed."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "Mask-wearing and sanitizing must be reinforced."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both follow",
+        "Neither follows"
+      ],
+      "raw_options": [
+        "Only 1",
+        "Only 2",
+        "Both follow",
+        "Neither follows"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 503.20399999999995,
+        "stem_bottom": 571.634,
+        "first_opt_top": 573.554,
+        "opts_bottom": 627.814,
+        "ans_top": 629.9739999999999,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 20,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "image_stem",
+      "stem": "Which of the following rows/columns are related to each other in the same way?\nRow Column I Column II Column III Column IV Column V\n1 6 12 36 144 720\n2 5 15 60 300 1800\n3 7 14 42 168 840\n4 8 24 96 480 2880\n5 9 18 54 216 1080",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following rows/columns are related to each other in the same way?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Row Column I Column II Column III Column IV Column V"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 6 12 36 144 720"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 5 15 60 300 1800"
+        },
+        {
+          "type": "paragraph",
+          "text": "3 7 14 42 168 840"
+        },
+        {
+          "type": "paragraph",
+          "text": "4 8 24 96 480 2880"
+        },
+        {
+          "type": "paragraph",
+          "text": "5 9 18 54 216 1080"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2026-10-14/q020_stem.webp",
+      "full_image": null,
+      "options": [
+        "Row 1, 3, 5",
+        "Row 2, 3, 4",
+        "Row 1, 2, 4",
+        "Row 2, 4, 5"
+      ],
+      "raw_options": [
+        "Row 1, 3, 5",
+        "Row 2, 3, 4",
+        "Row 1, 2, 4",
+        "Row 2, 4, 5"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 9,
+        "stem_top": 658.054,
+        "stem_bottom": 757.4399999999999,
+        "first_opt_top": 95.08399999999995,
+        "opts_bottom": 786.24,
+        "ans_top": 123.19399999999996,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 21,
+      "section": "reasoning",
+      "topic": "Cube & Dice / Paper Folding",
+      "render_mode": "image_stem",
+      "stem": "Study the three different orientations of a cube given below and answer the question.\nThe number on the face opposite to the face having 6 is",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Study the three different orientations of a cube given below and answer the question."
+        },
+        {
+          "type": "paragraph",
+          "text": "The number on the face opposite to the face having 6 is"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2026-10-14/q021_stem.webp",
+      "full_image": null,
+      "options": [
+        "1",
+        "4",
+        "5",
+        "2"
+      ],
+      "raw_options": [
+        "1",
+        "4",
+        "5",
+        "2"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 151.7539999999999,
+        "stem_bottom": 269.3739999999999,
+        "first_opt_top": 271.774,
+        "opts_bottom": 326.284,
+        "ans_top": 328.44399999999996,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 22,
+      "section": "reasoning",
+      "topic": "Statement & Assumption / Argument",
+      "render_mode": "text",
+      "stem": "The statement given below is followed by two decisions labeled I, and II. You have to assume everything in the statement to be true, and then decide which of the two suggested decisions logically follows for pursuing.\nStatement:\nAll employees of the office have gone on strike in protest against the privatization of women helpline.\nDecisions:\nI. All the concern authority should interfere in this matter to resolve issue.\nII. All the employees should be immediately terminated from job.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The statement given below is followed by two decisions labeled I, and II. You have to assume everything in the statement to be true, and then decide which of the two suggested decisions logically follows for pursuing."
+        },
+        {
+          "type": "label",
+          "text": "Statement"
+        },
+        {
+          "type": "paragraph",
+          "text": "All employees of the office have gone on strike in protest against the privatization of women helpline."
+        },
+        {
+          "type": "label",
+          "text": "Decisions"
+        },
+        {
+          "type": "list_item",
+          "marker": "I.",
+          "text": "All the concern authority should interfere in this matter to resolve issue."
+        },
+        {
+          "type": "list_item",
+          "marker": "II.",
+          "text": "All the employees should be immediately terminated from job."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only I follows.",
+        "Both I and II follow.",
+        "Either I or II follow.",
+        "Only II follows."
+      ],
+      "raw_options": [
+        "Only I follows.",
+        "Both I and II follow.",
+        "Either I or II follow.",
+        "Only II follows."
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 356.76399999999995,
+        "stem_bottom": 468.16399999999993,
+        "first_opt_top": 470.32399999999996,
+        "opts_bottom": 524.804,
+        "ans_top": 526.9639999999999,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 23,
+      "section": "reasoning",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "In this type of questions, question is provided with some issues/disputes/problem, followed by few methods to resolve the problem in statement choosing the appropriate problem solving method that can be implemented.\nA politician wants to win votes by promising unrealistic freebies. What's the responsible approach?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In this type of questions, question is provided with some issues/disputes/problem, followed by few methods to resolve the problem in statement choosing the appropriate problem solving method that can be implemented."
+        },
+        {
+          "type": "paragraph",
+          "text": "A politician wants to win votes by promising unrealistic freebies. What's the responsible approach?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Make those promises anyway to gain short-term support",
+        "Avoid campaigning",
+        "Blame previous administrations",
+        "Communicate realistic benefits and phased implementation"
+      ],
+      "raw_options": [
+        "Make those promises anyway to gain short-term support",
+        "Avoid campaigning",
+        "Blame previous administrations",
+        "Communicate realistic benefits and phased implementation"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 555.554,
+        "stem_bottom": 610.0339999999999,
+        "first_opt_top": 612.194,
+        "opts_bottom": 666.694,
+        "ans_top": 669.0939999999999,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 24,
+      "section": "reasoning",
+      "topic": "Coding-Decoding",
+      "render_mode": "text",
+      "stem": "If 'LEMON' is coded as 'KDLNM', then how is 'MANGO' coded in the same way?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If 'LEMON' is coded as 'KDLNM', then how is 'MANGO' coded in the same way?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "LZMFN",
+        "LZMNF",
+        "NZNGB",
+        "LZMEN"
+      ],
+      "raw_options": [
+        "LZMFN",
+        "LZMNF",
+        "NZNGB",
+        "LZMEN"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 697.444,
+        "stem_bottom": 709.444,
+        "first_opt_top": 711.6039999999999,
+        "opts_bottom": 766.0799999999999,
+        "ans_top": 768.24,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 25,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "What will come in place of the question mark (?) in the following equation if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?\n26 − 27 × 3 ÷ 5 + 33 = ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What will come in place of the question mark (?) in the following equation if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?"
+        },
+        {
+          "type": "paragraph",
+          "text": "26 − 27 × 3 ÷ 5 + 33 = ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "36",
+        "42",
+        "40",
+        "38"
+      ],
+      "raw_options": [
+        "36",
+        "42",
+        "40",
+        "38"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 110.20399999999995,
+        "stem_bottom": 151.99399999999991,
+        "first_opt_top": 154.8739999999999,
+        "opts_bottom": 211.534,
+        "ans_top": 214.414,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 26,
+      "section": "general_awareness",
+      "topic": "Geography & Environment",
+      "render_mode": "text",
+      "stem": "Which of the following statements best explains how the Theory of Plate Tectonics provides a comprehensive framework for understanding the distribution of earthquakes, volcanoes, and mountain-building processes across the Earth's surface?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following statements best explains how the Theory of Plate Tectonics provides a comprehensive framework for understanding the distribution of earthquakes, volcanoes, and mountain-building processes across the Earth's surface?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Plate tectonics explains crustal deformation exclusively at convergent boundaries, with no significant tectonic activity observed along divergent or transform boundaries.",
+        "The movement of lithospheric plates over the asthenosphere is driven by slab pull, ridge push, and mantle convection currents, leading to varied geological phenomena like ocean trench formation, rift valleys, and fault lines.",
+        "The Himalayas were formed by oceanic-continental convergence, resulting in subduction and volcanic mountain formation along the Indo-Gangetic Plain.",
+        "Plate tectonics states that major tectonic activity is confined to oceanic crust, while continental plates are geologically stable and unaffected by internal earth processes."
+      ],
+      "raw_options": [
+        "Plate tectonics explains crustal deformation exclusively at convergent boundaries, with no significant tectonic activity observed along divergent or transform boundaries.",
+        "The movement of lithospheric plates over the asthenosphere is driven by slab pull, ridge push, and mantle convection currents, leading to varied geological phenomena like ocean trench formation, rift valleys, and fault lines.",
+        "The Himalayas were formed by oceanic-continental convergence, resulting in subduction and volcanic mountain formation along the Indo-Gangetic Plain.",
+        "Plate tectonics states that major tectonic activity is confined to oceanic crust, while continental plates are geologically stable and unaffected by internal earth processes."
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 244.17399999999998,
+        "stem_bottom": 285.93399999999997,
+        "first_opt_top": 288.84399999999994,
+        "opts_bottom": 405.02399999999994,
+        "ans_top": 422.78399999999993,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 27,
+      "section": "general_awareness",
+      "topic": "Economy & Government Schemes",
+      "render_mode": "text",
+      "stem": "Consider the following statements regarding the implementation and monitoring of the Prime Minister Dhan-Dhaanya Krishi Yojana:\nThe State Dhan Dhaanya Krishi Yojana Samiti is headed by the Chief Secretary.\nThe National Monitoring Committee is headed by the Secretary, Department of Agriculture and Farmers Welfare.\nDistrict performance on output indicators is ranked monthly through the Prime Minister Dhan-Dhaanya Krishi Yojana dashboard.\nWhich of the statements given above are correct?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Consider the following statements regarding the implementation and monitoring of the Prime Minister Dhan-Dhaanya Krishi Yojana:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The State Dhan Dhaanya Krishi Yojana Samiti is headed by the Chief Secretary."
+        },
+        {
+          "type": "paragraph",
+          "text": "The National Monitoring Committee is headed by the Secretary, Department of Agriculture and Farmers Welfare."
+        },
+        {
+          "type": "paragraph",
+          "text": "District performance on output indicators is ranked monthly through the Prime Minister Dhan-Dhaanya Krishi Yojana dashboard."
+        },
+        {
+          "type": "paragraph",
+          "text": "Which of the statements given above are correct?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "raw_options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 452.804,
+        "stem_bottom": 568.9939999999999,
+        "first_opt_top": 571.874,
+        "opts_bottom": 628.5339999999999,
+        "ans_top": 631.414,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 28,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "The Factories Act of 1881 is often criticized for being more aligned with British economic interests than Indian labor welfare. Which of the following provisions supports this interpretation?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Factories Act of 1881 is often criticized for being more aligned with British economic interests than Indian labor welfare. Which of the following provisions supports this interpretation?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "It introduced mandatory weekly holidays and daily work-hour limits for all factory workers.",
+        "It prohibited child labor under the age of 14 and regulated adult working hours",
+        "It imposed restrictions only on children, without addressing the working conditions of adult laborers.",
+        "It ensured minimum wages and union rights for factory workers across British India."
+      ],
+      "raw_options": [
+        "It introduced mandatory weekly holidays and daily work-hour limits for all factory workers.",
+        "It prohibited child labor under the age of 14 and regulated adult working hours",
+        "It imposed restrictions only on children, without addressing the working conditions of adult laborers.",
+        "It ensured minimum wages and union rights for factory workers across British India."
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 661.174,
+        "stem_bottom": 688.054,
+        "first_opt_top": 690.934,
+        "opts_bottom": 762.48,
+        "ans_top": 765.3599999999999,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 29,
+      "section": "general_awareness",
+      "topic": "Indian Polity & Constitution",
+      "render_mode": "text",
+      "stem": "Consider the following statements regarding Article 361 of the Indian Constitution :\n1. The President of India is not answerable to any court for the exercise of official powers and duties.\n2. No criminal proceedings can be instituted against the President during the term of office. 3.Civil proceedings can be initiated against the President during the term of office without prior notice. Which of the statements given above is/are correct?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Consider the following statements regarding Article 361 of the Indian Constitution :"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "The President of India is not answerable to any court for the exercise of official powers and duties."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "No criminal proceedings can be instituted against the President during the term of office. 3.Civil proceedings can be initiated against the President during the term of office without prior notice. Which of the statements given above is/are correct?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "raw_options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 110.68399999999997,
+        "stem_bottom": 183.43399999999997,
+        "first_opt_top": 186.55399999999997,
+        "opts_bottom": 244.17399999999998,
+        "ans_top": 247.29399999999998,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 30,
+      "section": "general_awareness",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "Consider the following statements regarding Sonam Lhochhar:\n1. It is the New Year festival of the Tamang community.\n2. It is celebrated in the month of Magh, usually falling in January–February.\n3. It marks the beginning of the New Year according to the lunar calendar.\nWhich of the statements given above is/are correct?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Consider the following statements regarding Sonam Lhochhar:"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "It is the New Year festival of the Tamang community."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "It is celebrated in the month of Magh, usually falling in January–February."
+        },
+        {
+          "type": "list_item",
+          "marker": "3.",
+          "text": "It marks the beginning of the New Year according to the lunar calendar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Which of the statements given above is/are correct?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "raw_options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 277.774,
+        "stem_bottom": 350.52399999999994,
+        "first_opt_top": 353.64399999999995,
+        "opts_bottom": 411.26399999999995,
+        "ans_top": 414.38399999999996,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 31,
+      "section": "general_awareness",
+      "topic": "Indian Polity & Constitution",
+      "render_mode": "text",
+      "stem": "Who was appointed as the interim President and CEO of the World Economic Forum (WEF) in February 2026?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Who was appointed as the interim President and CEO of the World Economic Forum (WEF) in February 2026?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Klaus Schwab",
+        "Alois Zwinggi",
+        "Børge Brende",
+        "Kristalina Georgieva"
+      ],
+      "raw_options": [
+        "Klaus Schwab",
+        "Alois Zwinggi",
+        "Børge Brende",
+        "Kristalina Georgieva"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 444.8639999999999,
+        "stem_bottom": 472.00399999999996,
+        "first_opt_top": 475.12399999999997,
+        "opts_bottom": 532.7239999999999,
+        "ans_top": 535.874,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 32,
+      "section": "general_awareness",
+      "topic": "Current Affairs & Sports",
+      "render_mode": "text",
+      "stem": "At which summit did India’s NSA Ajit Doval push for a unified counter-terrorism stance in June 2025?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "At which summit did India’s NSA Ajit Doval push for a unified counter-terrorism stance in June 2025?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "EU Summit in Brussels",
+        "G20 Summit in New Delhi",
+        "ASEAN Summit in Jakarta",
+        "SCO Summit in China"
+      ],
+      "raw_options": [
+        "EU Summit in Brussels",
+        "G20 Summit in New Delhi",
+        "ASEAN Summit in Jakarta",
+        "SCO Summit in China"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 566.3539999999999,
+        "stem_bottom": 593.4739999999999,
+        "first_opt_top": 596.5939999999999,
+        "opts_bottom": 654.2139999999999,
+        "ans_top": 657.334,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 33,
+      "section": "general_awareness",
+      "topic": "Indian Polity & Constitution",
+      "render_mode": "text",
+      "stem": "Which of the following is not permitted under Article 3 of the Constitution?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following is not permitted under Article 3 of the Constitution?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Legislature’s veto over state reorganisation",
+        "Increase in area of a state",
+        "Change of name of a state",
+        "Formation of a new state from a Union Territory"
+      ],
+      "raw_options": [
+        "Legislature’s veto over state reorganisation",
+        "Increase in area of a state",
+        "Change of name of a state",
+        "Formation of a new state from a Union Territory"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 687.814,
+        "stem_bottom": 699.814,
+        "first_opt_top": 702.9639999999999,
+        "opts_bottom": 760.56,
+        "ans_top": 763.68,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 34,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "What role did the WTO membership (1995) play in India's post-reform globalization strategy?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What role did the WTO membership (1995) play in India's post-reform globalization strategy?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Strengthened balance of payments",
+        "Deepened India's integration into global trade",
+        "Abolished domestic subsidies completely",
+        "Encouraged protective tariffs"
+      ],
+      "raw_options": [
+        "Strengthened balance of payments",
+        "Deepened India's integration into global trade",
+        "Abolished domestic subsidies completely",
+        "Encouraged protective tariffs"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 109.24399999999991,
+        "stem_bottom": 121.24399999999991,
+        "first_opt_top": 123.19399999999996,
+        "opts_bottom": 177.43399999999997,
+        "ans_top": 179.59399999999994,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 35,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Who assumed charge as the 48th Vice Chief of the Naval Staff (VCNS) of the Indian Navy in May 2026?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Who assumed charge as the 48th Vice Chief of the Naval Staff (VCNS) of the Indian Navy in May 2026?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Sanjay Vatsayan",
+        "Ajay Kochhar",
+        "Dinesh Tripathi",
+        "R. Hari Kumar"
+      ],
+      "raw_options": [
+        "Sanjay Vatsayan",
+        "Ajay Kochhar",
+        "Dinesh Tripathi",
+        "R. Hari Kumar"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 207.69399999999996,
+        "stem_bottom": 233.85399999999993,
+        "first_opt_top": 235.774,
+        "opts_bottom": 290.0139999999999,
+        "ans_top": 292.20399999999995,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 36,
+      "section": "general_awareness",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "Which of the following musical instruments is traditionally associated with the lively celebrations and dance performances of Bohag Bihu?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following musical instruments is traditionally associated with the lively celebrations and dance performances of Bohag Bihu?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Sitar and Tabla",
+        "Dhol and Pepa",
+        "Veena and Mridangam",
+        "Flute and Harmonium"
+      ],
+      "raw_options": [
+        "Sitar and Tabla",
+        "Dhol and Pepa",
+        "Veena and Mridangam",
+        "Flute and Harmonium"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 320.284,
+        "stem_bottom": 346.44399999999996,
+        "first_opt_top": 348.3639999999999,
+        "opts_bottom": 402.62399999999997,
+        "ans_top": 404.78399999999993,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 37,
+      "section": "general_awareness",
+      "topic": "Economy & Government Schemes",
+      "render_mode": "text",
+      "stem": "India had two ______ five year plans. Practically ______ formulated one in 1978-83 and the ______ formulated another one in 1980-85.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "India had two ______ five year plans. Practically ______ formulated one in 1978-83 and the ______ formulated another one in 1980-85."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "5th; Government led by Indian National Congress party; Government led by Janata Party",
+        "6th; Government led by Janata Party; government led by Congress party",
+        "5th; Government led by Janata Party; Government led by Indian National Congress party",
+        "6th; Government led by Indian National Congress party; Government led by Janata Party"
+      ],
+      "raw_options": [
+        "5th; Government led by Indian National Congress party; Government led by Janata Party",
+        "6th; Government led by Janata Party; government led by Congress party",
+        "5th; Government led by Janata Party; Government led by Indian National Congress party",
+        "6th; Government led by Indian National Congress party; Government led by Janata Party"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 432.8639999999999,
+        "stem_bottom": 459.0439999999999,
+        "first_opt_top": 460.96399999999994,
+        "opts_bottom": 515.204,
+        "ans_top": 517.3639999999999,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 38,
+      "section": "general_awareness",
+      "topic": "Indian Polity & Constitution",
+      "render_mode": "text",
+      "stem": "With which of the following subjects are Article 123 and Article 213 of the Constitution of India associated?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "With which of the following subjects are Article 123 and Article 213 of the Constitution of India associated?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Annual financial statement",
+        "Jurisdiction of Courts",
+        "Ordinance-making power",
+        "Issuing writs"
+      ],
+      "raw_options": [
+        "Annual financial statement",
+        "Jurisdiction of Courts",
+        "Ordinance-making power",
+        "Issuing writs"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 545.4739999999999,
+        "stem_bottom": 571.634,
+        "first_opt_top": 573.554,
+        "opts_bottom": 627.814,
+        "ans_top": 629.9739999999999,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 39,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Consider the following pairs of folk dances and the states with which they are associated:\n1. Yakshagana — Karnataka\n2. Chhau — Odisha\n3. Rouf — Himachal Pradesh\n4. Lai Haraoba — Manipur\nWhich of the pairs given above are correctly matched?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Consider the following pairs of folk dances and the states with which they are associated:"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "Yakshagana — Karnataka"
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "Chhau — Odisha"
+        },
+        {
+          "type": "list_item",
+          "marker": "3.",
+          "text": "Rouf — Himachal Pradesh"
+        },
+        {
+          "type": "list_item",
+          "marker": "4.",
+          "text": "Lai Haraoba — Manipur"
+        },
+        {
+          "type": "paragraph",
+          "text": "Which of the pairs given above are correctly matched?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1, 2 and 4 only",
+        "1 and 3 only",
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "raw_options": [
+        "1, 2 and 4 only",
+        "1 and 3 only",
+        "2, 3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 13,
+        "stem_top": 658.054,
+        "stem_bottom": 740.404,
+        "first_opt_top": 95.32399999999996,
+        "opts_bottom": 785.52,
+        "ans_top": 110.20399999999995,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 40,
+      "section": "general_awareness",
+      "topic": "Geography & Environment",
+      "render_mode": "text",
+      "stem": "The Shipki La Pass serves as the entry point for which river into India?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Shipki La Pass serves as the entry point for which river into India?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Indus River",
+        "Sutlej River",
+        "Yamuna River",
+        "Brahmaputra River"
+      ],
+      "raw_options": [
+        "Indus River",
+        "Sutlej River",
+        "Yamuna River",
+        "Brahmaputra River"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 139.99399999999991,
+        "stem_bottom": 151.99399999999991,
+        "first_opt_top": 154.8739999999999,
+        "opts_bottom": 211.534,
+        "ans_top": 214.414,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 41,
+      "section": "general_awareness",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "Who assumed charge as Secretary (Defence Finance) in the Ministry of Defence in May 2026?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Who assumed charge as Secretary (Defence Finance) in the Ministry of Defence in May 2026?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Rasika Chaube",
+        "Vishvajit Sahay",
+        "Ajay Kumar",
+        "Rajesh Kumar"
+      ],
+      "raw_options": [
+        "Rasika Chaube",
+        "Vishvajit Sahay",
+        "Ajay Kumar",
+        "Rajesh Kumar"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 244.17399999999998,
+        "stem_bottom": 256.174,
+        "first_opt_top": 259.054,
+        "opts_bottom": 315.72399999999993,
+        "ans_top": 318.6039999999999,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 42,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "What is the central message of Earth Day 2025 regarding energy transition?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What is the central message of Earth Day 2025 regarding energy transition?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Reduce fossil fuel use by 10% by 2050",
+        "Triple clean energy production by 2030",
+        "Ban all plastic by 2025",
+        "Limit global temperature rise to 3°C by 2040"
+      ],
+      "raw_options": [
+        "Reduce fossil fuel use by 10% by 2050",
+        "Triple clean energy production by 2030",
+        "Ban all plastic by 2025",
+        "Limit global temperature rise to 3°C by 2040"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 348.3639999999999,
+        "stem_bottom": 360.3639999999999,
+        "first_opt_top": 363.26399999999995,
+        "opts_bottom": 419.90399999999994,
+        "ans_top": 422.78399999999993,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 43,
+      "section": "general_awareness",
+      "topic": "Indian Polity & Constitution",
+      "render_mode": "text",
+      "stem": "Which Article of the Indian Constitution mandates the provision of humane working conditions and maternity relief?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which Article of the Indian Constitution mandates the provision of humane working conditions and maternity relief?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Article 48",
+        "Article 41",
+        "Article 42",
+        "Article 44"
+      ],
+      "raw_options": [
+        "Article 48",
+        "Article 41",
+        "Article 42",
+        "Article 44"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 452.804,
+        "stem_bottom": 479.68399999999997,
+        "first_opt_top": 482.56399999999996,
+        "opts_bottom": 539.204,
+        "ans_top": 542.1139999999999,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 44,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Who was appointed as the Director of the National Crime Records Bureau (NCRB) in July 2026?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Who was appointed as the Director of the National Crime Records Bureau (NCRB) in July 2026?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Alok Kumar Mittal",
+        "Amit Garg",
+        "Sujeet Pandey",
+        "Alok Ranjan"
+      ],
+      "raw_options": [
+        "Alok Kumar Mittal",
+        "Amit Garg",
+        "Sujeet Pandey",
+        "Alok Ranjan"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 571.874,
+        "stem_bottom": 583.874,
+        "first_opt_top": 586.7539999999999,
+        "opts_bottom": 643.414,
+        "ans_top": 646.294,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 45,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "The commercial unit of electric energy is kilowatt hour (kWh). Which of the following is the correct value of 1kWh?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The commercial unit of electric energy is kilowatt hour (kWh). Which of the following is the correct value of 1kWh?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1.9 x 106 Joule",
+        "1.6 x 106 Joule",
+        "3.6 x 106 Joule",
+        "3.0 x 106 Joule"
+      ],
+      "raw_options": [
+        "1.9 x 106 Joule",
+        "1.6 x 106 Joule",
+        "3.6 x 106 Joule",
+        "3.0 x 106 Joule"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 676.054,
+        "stem_bottom": 702.934,
+        "first_opt_top": 705.8439999999999,
+        "opts_bottom": 762.48,
+        "ans_top": 765.3599999999999,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 46,
+      "section": "general_awareness",
+      "topic": "Data Interpretation & Statistics",
+      "render_mode": "text",
+      "stem": "Match the following traditional dances with the states they are performed in:\nThe following table:\nColumn A (Dance Form) Column B (State)\nA. Thiruvathira Kali\n1. Odisha\nB. Saila\n2. Kashmir\nC. Rouf\n3. Kerala",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Match the following traditional dances with the states they are performed in:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The following table:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Column A (Dance Form) Column B (State)"
+        },
+        {
+          "type": "list_item",
+          "marker": "A.",
+          "text": "Thiruvathira Kali"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "Odisha"
+        },
+        {
+          "type": "list_item",
+          "marker": "B.",
+          "text": "Saila"
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "Kashmir"
+        },
+        {
+          "type": "list_item",
+          "marker": "C.",
+          "text": "Rouf"
+        },
+        {
+          "type": "list_item",
+          "marker": "3.",
+          "text": "Kerala"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "A-3, B-1, C-2",
+        "A-1, B-3, C-2",
+        "A-2, B-1, C-3",
+        "A-3, B-2, C-1"
+      ],
+      "raw_options": [
+        "A-3, B-1, C-2",
+        "A-1, B-3, C-2",
+        "A-2, B-1, C-3",
+        "A-3, B-2, C-1"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 107.80399999999997,
+        "stem_bottom": 188.71399999999994,
+        "first_opt_top": 190.6339999999999,
+        "opts_bottom": 242.73399999999992,
+        "ans_top": 243.93399999999997,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 47,
+      "section": "general_awareness",
+      "topic": "Time, Speed & Distance",
+      "render_mode": "text",
+      "stem": "A car covers the first 30 km at 60 km/h and the next 30 km at 30 km/h. Its average speed is:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A car covers the first 30 km at 60 km/h and the next 30 km at 30 km/h. Its average speed is:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "45 km/h",
+        "50 km/h",
+        "35 km/h",
+        "40 km/h"
+      ],
+      "raw_options": [
+        "45 km/h",
+        "50 km/h",
+        "35 km/h",
+        "40 km/h"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 270.81399999999996,
+        "stem_bottom": 282.81399999999996,
+        "first_opt_top": 284.044,
+        "opts_bottom": 336.12399999999997,
+        "ans_top": 337.56399999999996,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 48,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "What does the term 'Hindu Rate of Growth' signify in the context of India's economic history, and what were the structural factors that contributed to this phenomenon during the pre-liberalization period (1950s-1980s)?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What does the term 'Hindu Rate of Growth' signify in the context of India's economic history, and what were the structural factors that contributed to this phenomenon during the pre-liberalization period (1950s-1980s)?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "A growth model based on Hindu philosophical principles of minimalism and austerity",
+        "A period of high economic growth during the license-permit era, driven by state-led industrialization",
+        "A prolonged phase of low and stagnant economic growth averaging around 3-3.5% annually, caused by excessive state control, bureaucratic inefficiencies, and limited private sector participation under a socialist policy framework",
+        "A rapid increase in GDP driven by population growth among Hindu-majority states"
+      ],
+      "raw_options": [
+        "A growth model based on Hindu philosophical principles of minimalism and austerity",
+        "A period of high economic growth during the license-permit era, driven by state-led industrialization",
+        "A prolonged phase of low and stagnant economic growth averaging around 3-3.5% annually, caused by excessive state control, bureaucratic inefficiencies, and limited private sector participation under a socialist policy framework",
+        "A rapid increase in GDP driven by population growth among Hindu-majority states"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 364.22399999999993,
+        "stem_bottom": 403.1039999999999,
+        "first_opt_top": 404.5439999999999,
+        "opts_bottom": 483.28399999999993,
+        "ans_top": 484.72399999999993,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 49,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Regarding the 'Subsidiary Alliance' system introduced by Lord Wellesley (1798–1805), which of the following statements is INCORRECT?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Regarding the 'Subsidiary Alliance' system introduced by Lord Wellesley (1798–1805), which of the following statements is INCORRECT?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The ruler was free to employ any European (French, Portuguese, etc.) as long as they were not in active conflict with the British.",
+        "If the ruler failed to make payments for the maintenance of the British force, a portion of his territory was ceded as a penalty.",
+        "The British promised not to interfere in the internal administrative affairs of the allied state.",
+        "The Indian ruler was required to disband his own military and maintain a permanent British contingent within his territory."
+      ],
+      "raw_options": [
+        "The ruler was free to employ any European (French, Portuguese, etc.) as long as they were not in active conflict with the British.",
+        "If the ruler failed to make payments for the maintenance of the British force, a portion of his territory was ceded as a penalty.",
+        "The British promised not to interfere in the internal administrative affairs of the allied state.",
+        "The Indian ruler was required to disband his own military and maintain a permanent British contingent within his territory."
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 511.3639999999999,
+        "stem_bottom": 536.804,
+        "first_opt_top": 538.0339999999999,
+        "opts_bottom": 616.9939999999999,
+        "ans_top": 631.654,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 50,
+      "section": "general_awareness",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "Match List-1 with list List-2 and select the correct answer by using the code given below the list.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Match List-1 with list List-2 and select the correct answer by using the code given below the list."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "A-2, B-1, C-3",
+        "A-2, B-3, C-1",
+        "A-1, B-2, C-3",
+        "A-3, B-2, C-1"
+      ],
+      "raw_options": [
+        "A-2, B-1, C-3",
+        "A-2, B-3, C-1",
+        "A-1, B-2, C-3",
+        "A-3, B-2, C-1"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 15,
+        "stem_top": 658.5339999999999,
+        "stem_bottom": 670.5339999999999,
+        "first_opt_top": 95.08399999999995,
+        "opts_bottom": 149.35399999999993,
+        "ans_top": 151.5139999999999,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 51,
+      "section": "quantitative_aptitude",
+      "topic": "Geometry & Mensuration",
+      "render_mode": "text",
+      "stem": "Find the area of a triangle whose vertices are (a, b +c), (a, b - c) and (- a, c).",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the area of a triangle whose vertices are (a, b +c), (a, b - c) and (- a, c)."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "2b (a + c)",
+        "c (a-b)",
+        "2bc",
+        "2ac"
+      ],
+      "raw_options": [
+        "2b (a + c)",
+        "c (a-b)",
+        "2bc",
+        "2ac"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 179.59399999999994,
+        "stem_bottom": 191.59399999999994,
+        "first_opt_top": 193.7539999999999,
+        "opts_bottom": 247.774,
+        "ans_top": 249.93399999999997,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 52,
+      "section": "quantitative_aptitude",
+      "topic": "Time & Work / Pipes & Cisterns",
+      "render_mode": "text",
+      "stem": "Pipe A can fill a tank in 6 hours, pipe B can fill the same tank in 30 hours and pipe C can fill the same tank in 20 hours. The time taken (in hours) by them to fill one-fourth of the same tank if they operate together is:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pipe A can fill a tank in 6 hours, pipe B can fill the same tank in 30 hours and pipe C can fill the same tank in 20 hours. The time taken (in hours) by them to fill one-fourth of the same tank if they operate together is:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "raw_options": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 278.0139999999999,
+        "stem_bottom": 318.3639999999999,
+        "first_opt_top": 320.284,
+        "opts_bottom": 374.52399999999994,
+        "ans_top": 376.70399999999995,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 53,
+      "section": "quantitative_aptitude",
+      "topic": "Time, Speed & Distance",
+      "render_mode": "text",
+      "stem": "The distance between two parallel sides of a trapezium is 8\ncm. If the perimeter of the trapezium is 52 cm and its non-parallel sides are of length 10 cm each, then area of the trapezium (in cm²) is :",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The distance between two parallel sides of a trapezium is 8"
+        },
+        {
+          "type": "paragraph",
+          "text": "cm. If the perimeter of the trapezium is 52 cm and its non-parallel sides are of length 10 cm each, then area of the trapezium (in cm²) is :"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "96",
+        "128",
+        "192",
+        "64"
+      ],
+      "raw_options": [
+        "96",
+        "128",
+        "192",
+        "64"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 404.78399999999993,
+        "stem_bottom": 430.70399999999995,
+        "first_opt_top": 432.8639999999999,
+        "opts_bottom": 487.12399999999997,
+        "ans_top": 489.28399999999993,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 54,
+      "section": "quantitative_aptitude",
+      "topic": "Algebra & Number System",
+      "render_mode": "text",
+      "stem": "A triangle is formed by the intersection of the lines x - y = 0, x + y = 0, and y = k. If the area of this triangle is 25 square units, what is the value of k?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A triangle is formed by the intersection of the lines x - y = 0, x + y = 0, and y = k. If the area of this triangle is 25 square units, what is the value of k?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "±5",
+        "±20",
+        "±25",
+        "±12"
+      ],
+      "raw_options": [
+        "±5",
+        "±20",
+        "±25",
+        "±12"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 517.3639999999999,
+        "stem_bottom": 543.314,
+        "first_opt_top": 545.4739999999999,
+        "opts_bottom": 599.7139999999999,
+        "ans_top": 601.8739999999999,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 55,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "Study the given graph and answer the following question.\nThe ratio of the average exports of the company in 2018 and 2020 to the total imports in 2017 and 2019 is:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Study the given graph and answer the following question."
+        },
+        {
+          "type": "paragraph",
+          "text": "The ratio of the average exports of the company in 2018 and 2020 to the total imports in 2017 and 2019 is:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "118:153",
+        "31:39",
+        "41:51",
+        "115:151"
+      ],
+      "raw_options": [
+        "118:153",
+        "31:39",
+        "41:51",
+        "115:151"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 16,
+        "stem_top": 95.32399999999996,
+        "stem_bottom": 641.9739999999999,
+        "first_opt_top": 126.31399999999996,
+        "opts_bottom": 184.6339999999999,
+        "ans_top": 188.23399999999992,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 56,
+      "section": "quantitative_aptitude",
+      "topic": "Geometry & Mensuration",
+      "render_mode": "text",
+      "stem": "A right prism has a trapezoidal base with parallel sides 6 cm and 10 cm, height of trapezoid 4 cm, and prism height 12\ncm. Find the volume.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A right prism has a trapezoidal base with parallel sides 6 cm and 10 cm, height of trapezoid 4 cm, and prism height 12"
+        },
+        {
+          "type": "paragraph",
+          "text": "cm. Find the volume."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "384 cm³",
+        "456 cm³",
+        "420 cm³",
+        "386 cm³"
+      ],
+      "raw_options": [
+        "384 cm³",
+        "456 cm³",
+        "420 cm³",
+        "386 cm³"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 16,
+        "stem_top": 218.97399999999993,
+        "stem_bottom": 246.57399999999996,
+        "first_opt_top": 249.93399999999997,
+        "opts_bottom": 308.524,
+        "ans_top": 311.8839999999999,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 57,
+      "section": "quantitative_aptitude",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "From the top of a vertical tower of height 75 m, the angle of depression of the foot of a building is 60°, and the angle of depression of the top of the building is 30°. If the average of the heights of the tower and the building equals the height of a pole, what is the height of the pole?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "From the top of a vertical tower of height 75 m, the angle of depression of the foot of a building is 60°, and the angle of depression of the top of the building is 30°. If the average of the heights of the tower and the building equals the height of a pole, what is the height of the pole?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "62.5 m",
+        "65 m",
+        "55.5 m",
+        "60 m"
+      ],
+      "raw_options": [
+        "62.5 m",
+        "65 m",
+        "55.5 m",
+        "60 m"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 16,
+        "stem_top": 342.84399999999994,
+        "stem_bottom": 385.82399999999996,
+        "first_opt_top": 389.4239999999999,
+        "opts_bottom": 447.74399999999997,
+        "ans_top": 451.3639999999999,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 58,
+      "section": "quantitative_aptitude",
+      "topic": "Time, Speed & Distance",
+      "render_mode": "text",
+      "stem": "Pratik starts walking from E towards F. Raju starts walking from F towards E at the same time. The speed of Pratik and Raju are 20 km/hr and 15 km/hr respectively. After meeting each other, time taken by Raju to reach E is 16 hours. What will be the time taken by Pratik to reach F after meeting Raju?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pratik starts walking from E towards F. Raju starts walking from F towards E at the same time. The speed of Pratik and Raju are 20 km/hr and 15 km/hr respectively. After meeting each other, time taken by Raju to reach E is 16 hours. What will be the time taken by Pratik to reach F after meeting Raju?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "6 hours",
+        "12 hours",
+        "9 hours",
+        "15 hours"
+      ],
+      "raw_options": [
+        "6 hours",
+        "12 hours",
+        "9 hours",
+        "15 hours"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 16,
+        "stem_top": 482.32399999999996,
+        "stem_bottom": 525.2839999999999,
+        "first_opt_top": 528.644,
+        "opts_bottom": 586.9939999999999,
+        "ans_top": 590.5939999999999,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 59,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "A trader claims to sell his goods at cost price, but he uses a 950 gm weight for 1 kg. Find his profit percentage.\n4",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A trader claims to sell his goods at cost price, but he uses a 950 gm weight for 1 kg. Find his profit percentage."
+        },
+        {
+          "type": "paragraph",
+          "text": "4"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "4 % 19 4",
+        "2 % 7 5",
+        "5 % 19 5",
+        "3 % 19"
+      ],
+      "raw_options": [
+        "4 % 19 4",
+        "2 % 7 5",
+        "5 % 19 5",
+        "3 % 19"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 16,
+        "stem_top": 621.574,
+        "stem_bottom": 659.4148,
+        "first_opt_top": 655.174,
+        "opts_bottom": 732.4839999999999,
+        "ans_top": 739.4399999999999,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 60,
+      "section": "quantitative_aptitude",
+      "topic": "Algebra & Number System",
+      "render_mode": "image_stem",
+      "stem": "A. If tan 2 𝛼 and tan 2 𝛽 are the roots of the quadratic equation 𝑥 2 −𝑝𝑥+𝑞 = 0 , then the value of cos 2 (𝛼 +𝛽) is:\n(1−√𝑞) 2",
+      "blocks": [
+        {
+          "type": "list_item",
+          "marker": "A.",
+          "text": "If tan 2 𝛼 and tan 2 𝛽 are the roots of the quadratic equation 𝑥 2 −𝑝𝑥+𝑞 = 0 , then the value of cos 2 (𝛼 +𝛽) is:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1−√𝑞) 2"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2026-10-14/q060_stem.webp",
+      "full_image": null,
+      "options": [
+        "1+𝑝+𝑞 (1+√𝑞) 2",
+        "1+𝑝+𝑞 1−𝑞",
+        "1+𝑝+𝑞 (1−𝑞) 2",
+        "1+𝑝+𝑞"
+      ],
+      "raw_options": [
+        "1+𝑝+𝑞 (1+√𝑞) 2",
+        "1+𝑝+𝑞 1−𝑞",
+        "1+𝑝+𝑞 (1−𝑞) 2",
+        "1+𝑝+𝑞"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 17,
+        "min_page": 17,
+        "max_page": 17,
+        "stem_top": 93.80479999999989,
+        "stem_bottom": 136.31479999999988,
+        "first_opt_top": 131.11399999999992,
+        "opts_bottom": 216.57399999999996,
+        "ans_top": 225.21399999999994,
+        "ans_page": 17
+      }
+    },
+    {
+      "n": 61,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "In a business, Ankit invests 3/5 of the total capital for 4 months, while Chintu invests 11/40 of the total capital for 1 year. If Ankit's share of the profit is ₹40,000, what is the total profit earned by the business?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In a business, Ankit invests 3/5 of the total capital for 4 months, while Chintu invests 11/40 of the total capital for 1 year. If Ankit's share of the profit is ₹40,000, what is the total profit earned by the business?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "95,000",
+        "1,14,000",
+        "90,000",
+        "85,000"
+      ],
+      "raw_options": [
+        "95,000",
+        "1,14,000",
+        "90,000",
+        "85,000"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 17,
+        "min_page": 17,
+        "max_page": 17,
+        "stem_top": 256.174,
+        "stem_bottom": 299.164,
+        "first_opt_top": 302.524,
+        "opts_bottom": 361.08399999999995,
+        "ans_top": 364.46399999999994,
+        "ans_page": 17
+      }
+    },
+    {
+      "n": 62,
+      "section": "quantitative_aptitude",
+      "topic": "Time, Speed & Distance",
+      "render_mode": "text",
+      "stem": "One-third of a journey is covered at a speed of 62 km/hr, the next one-third of the journey is covered at a speed of 99 km/hr, and the remaining journey is covered at a speed of 51 km/hr. The average speed (in km/hr, rounded off to 1 decimal place) for the entire journey is:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "One-third of a journey is covered at a speed of 62 km/hr, the next one-third of the journey is covered at a speed of 99 km/hr, and the remaining journey is covered at a speed of 51 km/hr. The average speed (in km/hr, rounded off to 1 decimal place) for the entire journey is:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "62.1",
+        "61.4",
+        "65.5",
+        "60.8"
+      ],
+      "raw_options": [
+        "62.1",
+        "61.4",
+        "65.5",
+        "60.8"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 17,
+        "min_page": 17,
+        "max_page": 17,
+        "stem_top": 395.4239999999999,
+        "stem_bottom": 438.38399999999996,
+        "first_opt_top": 441.9839999999999,
+        "opts_bottom": 500.32399999999996,
+        "ans_top": 503.9239999999999,
+        "ans_page": 17
+      }
+    },
+    {
+      "n": 63,
+      "section": "quantitative_aptitude",
+      "topic": "Geometry & Mensuration",
+      "render_mode": "text",
+      "stem": "The perimeter of the base of a right circular cone is 176\ncm. If the height of the cone is 21 cm, then what is the total surface area (in sq. cm) of the cone? (Use π = 22/7)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The perimeter of the base of a right circular cone is 176"
+        },
+        {
+          "type": "paragraph",
+          "text": "cm. If the height of the cone is 21 cm, then what is the total surface area (in sq. cm) of the cone? (Use π = 22/7)"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "4,158",
+        "5,544",
+        "5,390",
+        "6,930"
+      ],
+      "raw_options": [
+        "4,158",
+        "5,544",
+        "5,390",
+        "6,930"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 17,
+        "min_page": 17,
+        "max_page": 17,
+        "stem_top": 534.914,
+        "stem_bottom": 562.2739999999999,
+        "first_opt_top": 565.874,
+        "opts_bottom": 624.194,
+        "ans_top": 627.814,
+        "ans_page": 17
+      }
+    },
+    {
+      "n": 64,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "The printed price of a TV set is 10,000. After two consecutive discounts, it is sold for 8,100. What is the second discount if the first one is 10%?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The printed price of a TV set is 10,000. After two consecutive discounts, it is sold for 8,100. What is the second discount if the first one is 10%?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "8%",
+        "10%",
+        "12%",
+        "20%"
+      ],
+      "raw_options": [
+        "8%",
+        "10%",
+        "12%",
+        "20%"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 17,
+        "min_page": 17,
+        "max_page": 17,
+        "stem_top": 658.5339999999999,
+        "stem_bottom": 686.134,
+        "first_opt_top": 689.4939999999999,
+        "opts_bottom": 748.0799999999999,
+        "ans_top": 751.4399999999999,
+        "ans_page": 17
+      }
+    },
+    {
+      "n": 65,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "If a=101,b=102 and c=103, then a 2 +b 2 +c 2 -ab-bc-ca=",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If a=101,b=102 and c=103, then a 2 +b 2 +c 2 -ab-bc-ca="
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "2",
+        "4",
+        "3",
+        "6"
+      ],
+      "raw_options": [
+        "2",
+        "4",
+        "3",
+        "6"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 18,
+        "stem_top": 95.32399999999996,
+        "stem_bottom": 107.32399999999996,
+        "first_opt_top": 110.68399999999997,
+        "opts_bottom": 169.274,
+        "ans_top": 172.6339999999999,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 66,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "A. If a = 3+√5 and b = 3−√5 , find the value of 𝑎 2 +𝑏 2 +3𝑎𝑏.\n3−√5 3+√5",
+      "blocks": [
+        {
+          "type": "list_item",
+          "marker": "A.",
+          "text": "If a = 3+√5 and b = 3−√5 , find the value of 𝑎 2 +𝑏 2 +3𝑎𝑏."
+        },
+        {
+          "type": "paragraph",
+          "text": "3−√5 3+√5"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "42",
+        "50",
+        "98",
+        "78"
+      ],
+      "raw_options": [
+        "42",
+        "50",
+        "98",
+        "78"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 18,
+        "stem_top": 204.73479999999995,
+        "stem_bottom": 226.57479999999987,
+        "first_opt_top": 228.57399999999996,
+        "opts_bottom": 286.8939999999999,
+        "ans_top": 290.524,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 67,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "When 24 is subtracted from a number, it reduces to 60%. The two-fifth of that number is:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "When 24 is subtracted from a number, it reduces to 60%. The two-fifth of that number is:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "48",
+        "36",
+        "24",
+        "60"
+      ],
+      "raw_options": [
+        "48",
+        "36",
+        "24",
+        "60"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 18,
+        "stem_top": 321.4839999999999,
+        "stem_bottom": 333.4839999999999,
+        "first_opt_top": 336.84399999999994,
+        "opts_bottom": 395.4239999999999,
+        "ans_top": 398.78399999999993,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 68,
+      "section": "quantitative_aptitude",
+      "topic": "Geometry & Mensuration",
+      "render_mode": "text",
+      "stem": "PA and PB are tangents to a circle with centre Q, from a point P outside the circle, and A and B are points on the circle. If ∠APB = 40°, then ∠QAB is equal to:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "PA and PB are tangents to a circle with centre Q, from a point P outside the circle, and A and B are points on the circle. If ∠APB = 40°, then ∠QAB is equal to:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "50°",
+        "20°",
+        "25°",
+        "40°"
+      ],
+      "raw_options": [
+        "50°",
+        "20°",
+        "25°",
+        "40°"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 18,
+        "stem_top": 429.74399999999997,
+        "stem_bottom": 457.34399999999994,
+        "first_opt_top": 460.72399999999993,
+        "opts_bottom": 519.2839999999999,
+        "ans_top": 522.644,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 69,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "A dairy farmer manages a massive stainless-steel cooling vat currently holding exactly 40 liters of a precisely mixed liquid solution containing raw milk and filtered water blended in a strict 7:1 volumetric ratio. A corporate buyer requests a slightly more diluted shipment, necessitating that the final ratio of milk to water strictly becomes 3:1. How many exact liters of pure filtered water must the farmer meticulously add to the cooling vat to achieve this new ratio?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A dairy farmer manages a massive stainless-steel cooling vat currently holding exactly 40 liters of a precisely mixed liquid solution containing raw milk and filtered water blended in a strict 7:1 volumetric ratio. A corporate buyer requests a slightly more diluted shipment, necessitating that the final ratio of milk to water strictly becomes 3:1. How many exact liters of pure filtered water must the farmer meticulously add to the cooling vat to achieve this new ratio?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "5.33 liters",
+        "7.5 liters",
+        "6.67 liters",
+        "8 liters"
+      ],
+      "raw_options": [
+        "5.33 liters",
+        "7.5 liters",
+        "6.67 liters",
+        "8 liters"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 18,
+        "stem_top": 553.634,
+        "stem_bottom": 627.574,
+        "first_opt_top": 630.934,
+        "opts_bottom": 689.4939999999999,
+        "ans_top": 692.8539999999999,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 70,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "The following graph represents the number distribution of all the directors in the film industry of country X by their birth origin.\nWhat is the ratio of the number of directors from the continent of America to the total number of directors?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The following graph represents the number distribution of all the directors in the film industry of country X by their birth origin."
+        },
+        {
+          "type": "paragraph",
+          "text": "What is the ratio of the number of directors from the continent of America to the total number of directors?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1:6",
+        "1:5",
+        "1:3",
+        "1:4"
+      ],
+      "raw_options": [
+        "1:6",
+        "1:5",
+        "1:3",
+        "1:4"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 19,
+        "stem_top": 357.96399999999994,
+        "stem_bottom": 751.4399999999999,
+        "first_opt_top": 388.94399999999996,
+        "opts_bottom": 447.26399999999995,
+        "ans_top": 450.88399999999996,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 71,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "The ratio of the price of two bicycles was 7 :\n8. Two years later, when the price of the first has risen by 30% and the price of the second increases by ₹1,500, then their prices are in the ratio 15 :\n16. What is the original price (in ₹) of the second bicycle?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The ratio of the price of two bicycles was 7 :"
+        },
+        {
+          "type": "list_item",
+          "marker": "8.",
+          "text": "Two years later, when the price of the first has risen by 30% and the price of the second increases by ₹1,500, then their prices are in the ratio 15 :"
+        },
+        {
+          "type": "list_item",
+          "marker": "16.",
+          "text": "What is the original price (in ₹) of the second bicycle?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "₹7,031.25",
+        "₹8,103.25",
+        "₹7,013.25",
+        "₹8,031.25"
+      ],
+      "raw_options": [
+        "₹7,031.25",
+        "₹8,103.25",
+        "₹7,013.25",
+        "₹8,031.25"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 481.84399999999994,
+        "stem_bottom": 524.804,
+        "first_opt_top": 528.164,
+        "opts_bottom": 586.7539999999999,
+        "ans_top": 590.1139999999999,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 72,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "If 𝑥 = 2+√3 then the value of 𝑥 2 + 1 =\n𝑥 2",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If 𝑥 = 2+√3 then the value of 𝑥 2 + 1 ="
+        },
+        {
+          "type": "paragraph",
+          "text": "𝑥 2"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "4",
+        "8",
+        "10",
+        "14"
+      ],
+      "raw_options": [
+        "4",
+        "8",
+        "10",
+        "14"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 619.5748,
+        "stem_bottom": 640.9348,
+        "first_opt_top": 642.694,
+        "opts_bottom": 701.2539999999999,
+        "ans_top": 704.644,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 73,
+      "section": "quantitative_aptitude",
+      "topic": "Data Interpretation & Statistics",
+      "render_mode": "text",
+      "stem": "The following is the price of Cabbage over 12 months. what is the median price?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The following is the price of Cabbage over 12 months. what is the median price?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "55",
+        "60",
+        "50",
+        "40"
+      ],
+      "raw_options": [
+        "55",
+        "60",
+        "50",
+        "40"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 20,
+        "stem_top": 735.5999999999999,
+        "stem_bottom": 747.5999999999999,
+        "first_opt_top": 371.66399999999993,
+        "opts_bottom": 430.22399999999993,
+        "ans_top": 433.58399999999995,
+        "ans_page": 20
+      }
+    },
+    {
+      "n": 74,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "The compound interest on a certain sum for the second year and third year are ₹3,960 and ₹4,356 respectively, at the same rate percent per annum, compounded yearly. The sum (in ₹) and the rate of interest (p.a) are respectively:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The compound interest on a certain sum for the second year and third year are ₹3,960 and ₹4,356 respectively, at the same rate percent per annum, compounded yearly. The sum (in ₹) and the rate of interest (p.a) are respectively:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "30000 and 10%",
+        "36000 and 10%",
+        "42000 and 9%",
+        "45000 and 9%"
+      ],
+      "raw_options": [
+        "30000 and 10%",
+        "36000 and 10%",
+        "42000 and 9%",
+        "45000 and 9%"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 20,
+        "min_page": 20,
+        "max_page": 20,
+        "stem_top": 464.56399999999996,
+        "stem_bottom": 507.52399999999994,
+        "first_opt_top": 511.12399999999997,
+        "opts_bottom": 569.4739999999999,
+        "ans_top": 573.074,
+        "ans_page": 20
+      }
+    },
+    {
+      "n": 75,
+      "section": "quantitative_aptitude",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "A robotic arm is designed with a triangular linkage system △𝐴𝐵𝐶 . To ensure precise movement across a horizontal track, a laser guide is shot from joint A, perfectly bisecting ∠𝐴 and hitting the base track BC at point\nD. If the structural lengths are AB = 12 cm, AC = 15 cm, and the base BC = 18 cm, find the exact length of the angle bisector AD needed to calibrate the laser.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A robotic arm is designed with a triangular linkage system △𝐴𝐵𝐶 . To ensure precise movement across a horizontal track, a laser guide is shot from joint A, perfectly bisecting ∠𝐴 and hitting the base track BC at point"
+        },
+        {
+          "type": "list_item",
+          "marker": "D.",
+          "text": "If the structural lengths are AB = 12 cm, AC = 15 cm, and the base BC = 18 cm, find the exact length of the angle bisector AD needed to calibrate the laser."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "10 cm",
+        "9 cm",
+        "12 cm",
+        "8 cm"
+      ],
+      "raw_options": [
+        "10 cm",
+        "9 cm",
+        "12 cm",
+        "8 cm"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 20,
+        "min_page": 20,
+        "max_page": 20,
+        "stem_top": 604.0339999999999,
+        "stem_bottom": 662.3739999999999,
+        "first_opt_top": 665.7339999999999,
+        "opts_bottom": 724.324,
+        "ans_top": 727.684,
+        "ans_page": 20
+      }
+    },
+    {
+      "n": 76,
+      "section": "english",
+      "topic": "Spelling Correction",
+      "render_mode": "text",
+      "stem": "Select the correctly spelt word.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correctly spelt word."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Sacreligious",
+        "Sacriligious",
+        "Sacrilegious",
+        "Sacrelegious"
+      ],
+      "raw_options": [
+        "Sacreligious",
+        "Sacriligious",
+        "Sacrilegious",
+        "Sacrelegious"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 20,
+        "min_page": 20,
+        "max_page": 21,
+        "stem_top": 758.64,
+        "stem_bottom": 770.64,
+        "first_opt_top": 95.32399999999996,
+        "opts_bottom": 786.24,
+        "ans_top": 141.67399999999998,
+        "ans_page": 21
+      }
+    },
+    {
+      "n": 77,
+      "section": "english",
+      "topic": "Para Jumbles & Sentence Rearrangement",
+      "render_mode": "text",
+      "stem": "The following sentences, when rearranged in the proper order, form a coherent paragraph. Select the correct sequence.\nP. Yet the very technology that enabled this unprecedented access has simultaneously fragmented our attention into ever smaller and more restless units.\nQ For the greater part of human history, knowledge was a scarce commodity, jealously guarded by monasteries, guilds and a handful of universities.\nR. The printing press, and centuries later the internet, democratised this hoarded wisdom beyond the wildest imagination of the medieval scribe.\nS. Consequently, we now find ourselves drowning in information while remaining curiously starved of genuine understanding.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The following sentences, when rearranged in the proper order, form a coherent paragraph. Select the correct sequence."
+        },
+        {
+          "type": "list_item",
+          "marker": "P.",
+          "text": "Yet the very technology that enabled this unprecedented access has simultaneously fragmented our attention into ever smaller and more restless units."
+        },
+        {
+          "type": "paragraph",
+          "text": "Q For the greater part of human history, knowledge was a scarce commodity, jealously guarded by monasteries, guilds and a handful of universities."
+        },
+        {
+          "type": "list_item",
+          "marker": "R.",
+          "text": "The printing press, and centuries later the internet, democratised this hoarded wisdom beyond the wildest imagination of the medieval scribe."
+        },
+        {
+          "type": "list_item",
+          "marker": "S.",
+          "text": "Consequently, we now find ourselves drowning in information while remaining curiously starved of genuine understanding."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Q-R-P-S",
+        "R-Q-S-P",
+        "Q-P-R-S",
+        "P-R-Q-S"
+      ],
+      "raw_options": [
+        "Q-R-P-S",
+        "R-Q-S-P",
+        "Q-P-R-S",
+        "P-R-Q-S"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 21,
+        "min_page": 21,
+        "max_page": 21,
+        "stem_top": 172.6339999999999,
+        "stem_bottom": 323.8839999999999,
+        "first_opt_top": 327.4839999999999,
+        "opts_bottom": 385.82399999999996,
+        "ans_top": 389.4239999999999,
+        "ans_page": 21
+      }
+    },
+    {
+      "n": 78,
+      "section": "english",
+      "topic": "Direct & Indirect Speech",
+      "render_mode": "text",
+      "stem": "Among the given options, choose the correct indirect narration of the following direct narration: Rohit said to Meena, \"Please give me your book today for two days.\"",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Among the given options, choose the correct indirect narration of the following direct narration: Rohit said to Meena, \"Please give me your book today for two days.\""
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Rohit told Meena to give him her book that day for two days.",
+        "Rohit requested Meena to give him her book today for two days.",
+        "Rohit requested Meena to give her his book that day for two days.",
+        "Rohit requested Meena to give him her book that day for two days."
+      ],
+      "raw_options": [
+        "Rohit told Meena to give him her book that day for two days.",
+        "Rohit requested Meena to give him her book today for two days.",
+        "Rohit requested Meena to give her his book that day for two days.",
+        "Rohit requested Meena to give him her book that day for two days."
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 21,
+        "min_page": 21,
+        "max_page": 21,
+        "stem_top": 420.38399999999996,
+        "stem_bottom": 447.74399999999997,
+        "first_opt_top": 451.3639999999999,
+        "opts_bottom": 509.68399999999997,
+        "ans_top": 513.2839999999999,
+        "ans_page": 21
+      }
+    },
+    {
+      "n": 79,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Select the sentence in which ‘ assimilation’ is used as a homonym of the highlighted word: The sociologist’s lecture examined the gradual assimilation of migrant communities into the cultural mainstream of the state.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the sentence in which ‘ assimilation’ is used as a homonym of the highlighted word: The sociologist’s lecture examined the gradual assimilation of migrant communities into the cultural mainstream of the state."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The complete assimilation of tribal customs into the dominant culture took almost three generations to achieve.",
+        "Successive governments have encouraged the assimilation of minority groups through language training and local employment schemes.",
+        "The nutritionist explained that the assimilation of iron by the body improves considerably in the presence of vitamin C.",
+        "The assimilation of the refugee families into the neighbourhood was surprisingly smooth and almost entirely free of friction."
+      ],
+      "raw_options": [
+        "The complete assimilation of tribal customs into the dominant culture took almost three generations to achieve.",
+        "Successive governments have encouraged the assimilation of minority groups through language training and local employment schemes.",
+        "The nutritionist explained that the assimilation of iron by the body improves considerably in the presence of vitamin C.",
+        "The assimilation of the refugee families into the neighbourhood was surprisingly smooth and almost entirely free of friction."
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 21,
+        "min_page": 21,
+        "max_page": 21,
+        "stem_top": 544.2739999999999,
+        "stem_bottom": 586.9939999999999,
+        "first_opt_top": 590.5939999999999,
+        "opts_bottom": 695.4939999999999,
+        "ans_top": 714.4839999999999,
+        "ans_page": 21
+      }
+    },
+    {
+      "n": 80,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Four sentences are given below. Select the sentence in which the article has been used incorrectly.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Four sentences are given below. Select the sentence in which the article has been used incorrectly."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The principal of the college announced that an honorary degree would be conferred upon the eminent scientist at the annual convocation held in December.",
+        "After a hour of heated deliberation, the committee resolved to appoint a new treasurer and to place the entire matter before the general body.",
+        "The Ganga, which rises in the Himalayas and traverses several states, is regarded by millions as the holiest of all the rivers in the country.",
+        "An MLA from the eastern district has demanded that the government sanction a university in the region within the next five years."
+      ],
+      "raw_options": [
+        "The principal of the college announced that an honorary degree would be conferred upon the eminent scientist at the annual convocation held in December.",
+        "After a hour of heated deliberation, the committee resolved to appoint a new treasurer and to place the entire matter before the general body.",
+        "The Ganga, which rises in the Himalayas and traverses several states, is regarded by millions as the holiest of all the rivers in the country.",
+        "An MLA from the eastern district has demanded that the government sanction a university in the region within the next five years."
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 21,
+        "min_page": 21,
+        "max_page": 22,
+        "stem_top": 745.4399999999999,
+        "stem_bottom": 757.4399999999999,
+        "first_opt_top": 95.32399999999996,
+        "opts_bottom": 200.23399999999992,
+        "ans_top": 218.97399999999993,
+        "ans_page": 22
+      }
+    },
+    {
+      "n": 81,
+      "section": "english",
+      "topic": "Geography & Environment",
+      "render_mode": "text",
+      "stem": "Select the word that can correctly fill both the blanks in the sentences given below.\ni. The old wooden bridge could no longer ______ the weight of the loaded lorry.\nii. The trekkers froze when they spotted a ______ foraging near the riverbank.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the word that can correctly fill both the blanks in the sentences given below."
+        },
+        {
+          "type": "paragraph",
+          "text": "i. The old wooden bridge could no longer ______ the weight of the loaded lorry."
+        },
+        {
+          "type": "paragraph",
+          "text": "ii. The trekkers froze when they spotted a ______ foraging near the riverbank."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "bare",
+        "bear",
+        "boar",
+        "bore"
+      ],
+      "raw_options": [
+        "bare",
+        "bear",
+        "boar",
+        "bore"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 22,
+        "min_page": 22,
+        "max_page": 22,
+        "stem_top": 249.93399999999997,
+        "stem_bottom": 292.924,
+        "first_opt_top": 296.524,
+        "opts_bottom": 354.84399999999994,
+        "ans_top": 358.44399999999996,
+        "ans_page": 22
+      }
+    },
+    {
+      "n": 82,
+      "section": "english",
+      "topic": "Spelling Correction",
+      "render_mode": "text",
+      "stem": "Select the correctly spelt word.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correctly spelt word."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Connundrum",
+        "Conundrum",
+        "Conundrem",
+        "Conandrum"
+      ],
+      "raw_options": [
+        "Connundrum",
+        "Conundrum",
+        "Conundrem",
+        "Conandrum"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 22,
+        "min_page": 22,
+        "max_page": 22,
+        "stem_top": 389.4239999999999,
+        "stem_bottom": 401.4239999999999,
+        "first_opt_top": 404.78399999999993,
+        "opts_bottom": 463.3639999999999,
+        "ans_top": 466.72399999999993,
+        "ans_page": 22
+      }
+    },
+    {
+      "n": 83,
+      "section": "english",
+      "topic": "Spelling Correction",
+      "render_mode": "text",
+      "stem": "Select the incorrectly spelt word.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the incorrectly spelt word."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Biennial",
+        "Biannual",
+        "Perennial",
+        "Millenium"
+      ],
+      "raw_options": [
+        "Biennial",
+        "Biannual",
+        "Perennial",
+        "Millenium"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 22,
+        "min_page": 22,
+        "max_page": 22,
+        "stem_top": 497.68399999999997,
+        "stem_bottom": 509.68399999999997,
+        "first_opt_top": 513.2839999999999,
+        "opts_bottom": 571.634,
+        "ans_top": 574.9939999999999,
+        "ans_page": 22
+      }
+    },
+    {
+      "n": 84,
+      "section": "english",
+      "topic": "Cloze Test & Fill in the Blanks",
+      "render_mode": "text",
+      "stem": "Select the most appropriate option to fill in the blank.\nThe auditors refused to ______ the discrepancy, however small it appeared, and insisted on a line-by-line reconciliation of the ledger.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the most appropriate option to fill in the blank."
+        },
+        {
+          "type": "paragraph",
+          "text": "The auditors refused to ______ the discrepancy, however small it appeared, and insisted on a line-by-line reconciliation of the ledger."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "pass up",
+        "pass over",
+        "pass off",
+        "pass out"
+      ],
+      "raw_options": [
+        "pass up",
+        "pass over",
+        "pass off",
+        "pass out"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 22,
+        "min_page": 22,
+        "max_page": 22,
+        "stem_top": 605.954,
+        "stem_bottom": 648.934,
+        "first_opt_top": 652.5339999999999,
+        "opts_bottom": 710.884,
+        "ans_top": 714.4839999999999,
+        "ans_page": 22
+      }
+    },
+    {
+      "n": 85,
+      "section": "english",
+      "topic": "Para Jumbles & Sentence Rearrangement",
+      "render_mode": "text",
+      "stem": "The following sentences, when rearranged in the proper order, form a coherent paragraph. Select the correct sequence.\nP. However, the conservationists who drafted the counter-petition insisted that no amount of monetary compensation could restore an ecosystem which had taken several millennia to evolve.\nQ The state government recently announced an ambitious plan to divert a substantial portion of the river towards an industrial corridor on the eastern bank.\nR. The project, its proponents argued, would generate thousands of jobs and bring long-overdue prosperity to a region starved of investment for decades.\nS. Their sustained objection eventually compelled the authorities to commission an independent environmental impact assessment before granting any clearance.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The following sentences, when rearranged in the proper order, form a coherent paragraph. Select the correct sequence."
+        },
+        {
+          "type": "list_item",
+          "marker": "P.",
+          "text": "However, the conservationists who drafted the counter-petition insisted that no amount of monetary compensation could restore an ecosystem which had taken several millennia to evolve."
+        },
+        {
+          "type": "paragraph",
+          "text": "Q The state government recently announced an ambitious plan to divert a substantial portion of the river towards an industrial corridor on the eastern bank."
+        },
+        {
+          "type": "list_item",
+          "marker": "R.",
+          "text": "The project, its proponents argued, would generate thousands of jobs and bring long-overdue prosperity to a region starved of investment for decades."
+        },
+        {
+          "type": "list_item",
+          "marker": "S.",
+          "text": "Their sustained objection eventually compelled the authorities to commission an independent environmental impact assessment before granting any clearance."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "R-Q-P-S",
+        "Q-R-P-S",
+        "P-S-Q-R",
+        "S-R-Q-P"
+      ],
+      "raw_options": [
+        "R-Q-P-S",
+        "Q-R-P-S",
+        "P-S-Q-R",
+        "S-R-Q-P"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 22,
+        "min_page": 22,
+        "max_page": 23,
+        "stem_top": 95.32399999999996,
+        "stem_bottom": 772.8,
+        "first_opt_top": 218.97399999999993,
+        "opts_bottom": 277.534,
+        "ans_top": 280.924,
+        "ans_page": 23
+      }
+    },
+    {
+      "n": 86,
+      "section": "english",
+      "topic": "One-Word Substitution",
+      "render_mode": "text",
+      "stem": "Select the most appropriate one-word substitution for the given group of words.\nA speech or piece of writing composed in elaborate public praise of a person or achievement",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the most appropriate one-word substitution for the given group of words."
+        },
+        {
+          "type": "paragraph",
+          "text": "A speech or piece of writing composed in elaborate public praise of a person or achievement"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Polemic",
+        "Epitaph",
+        "Panegyric",
+        "Obituary"
+      ],
+      "raw_options": [
+        "Polemic",
+        "Epitaph",
+        "Panegyric",
+        "Obituary"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 23,
+        "min_page": 23,
+        "max_page": 23,
+        "stem_top": 311.8839999999999,
+        "stem_bottom": 339.4839999999999,
+        "first_opt_top": 342.84399999999994,
+        "opts_bottom": 401.4239999999999,
+        "ans_top": 404.78399999999993,
+        "ans_page": 23
+      }
+    },
+    {
+      "n": 87,
+      "section": "english",
+      "topic": "Vocabulary: Synonyms & Antonyms",
+      "render_mode": "text",
+      "stem": "Select the most appropriate antonym of the given word.\nCONNIVE",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the most appropriate antonym of the given word."
+        },
+        {
+          "type": "paragraph",
+          "text": "CONNIVE"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "collude",
+        "abet",
+        "denounce",
+        "condone"
+      ],
+      "raw_options": [
+        "collude",
+        "abet",
+        "denounce",
+        "condone"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 23,
+        "min_page": 23,
+        "max_page": 23,
+        "stem_top": 435.74399999999997,
+        "stem_bottom": 463.3639999999999,
+        "first_opt_top": 466.72399999999993,
+        "opts_bottom": 525.2839999999999,
+        "ans_top": 528.644,
+        "ans_page": 23
+      }
+    },
+    {
+      "n": 88,
+      "section": "english",
+      "topic": "Idioms & Phrases",
+      "render_mode": "text",
+      "stem": "Select the most appropriate meaning of the given idiom.\nTo make a dog’s dinner of something",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the most appropriate meaning of the given idiom."
+        },
+        {
+          "type": "paragraph",
+          "text": "To make a dog’s dinner of something"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "To perform a task so badly that the result is a complete mess",
+        "To finish a piece of work with unexpected speed and skill",
+        "To profit unfairly from the labour of other people",
+        "To eat hurriedly and without any regard for manners"
+      ],
+      "raw_options": [
+        "To perform a task so badly that the result is a complete mess",
+        "To finish a piece of work with unexpected speed and skill",
+        "To profit unfairly from the labour of other people",
+        "To eat hurriedly and without any regard for manners"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 23,
+        "min_page": 23,
+        "max_page": 23,
+        "stem_top": 559.634,
+        "stem_bottom": 586.9939999999999,
+        "first_opt_top": 590.5939999999999,
+        "opts_bottom": 648.934,
+        "ans_top": 652.5339999999999,
+        "ans_page": 23
+      }
+    },
+    {
+      "n": 89,
+      "section": "english",
+      "topic": "Data Interpretation & Statistics",
+      "render_mode": "text",
+      "stem": "Choose the option that best describes the meaning of the highlighted word:\nThe new recruit's explanation was a plausible excuse which the manager fell for.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the option that best describes the meaning of the highlighted word:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The new recruit's explanation was a plausible excuse which the manager fell for."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "unbelievable",
+        "dangerous",
+        "imaginative",
+        "reasonable"
+      ],
+      "raw_options": [
+        "unbelievable",
+        "dangerous",
+        "imaginative",
+        "reasonable"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 23,
+        "min_page": 23,
+        "max_page": 24,
+        "stem_top": 683.4939999999999,
+        "stem_bottom": 710.884,
+        "first_opt_top": 714.4839999999999,
+        "opts_bottom": 772.8,
+        "ans_top": 95.32399999999996,
+        "ans_page": 24
+      }
+    },
+    {
+      "n": 90,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "",
+      "blocks": [],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "paradox",
+        "panacea",
+        "precedent",
+        "prologue"
+      ],
+      "raw_options": [
+        "paradox",
+        "panacea",
+        "precedent",
+        "prologue"
+      ],
+      "answer": 0,
+      "passage_id": "p90-94",
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 24,
+        "min_page": 24,
+        "max_page": 24,
+        "stem_top": 466.72399999999993,
+        "stem_bottom": 478.72399999999993,
+        "first_opt_top": 482.32399999999996,
+        "opts_bottom": 540.644,
+        "ans_top": 544.2739999999999,
+        "ans_page": 24
+      }
+    },
+    {
+      "n": 91,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "",
+      "blocks": [],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "will have invested",
+        "would have invested",
+        "would invest",
+        "had invested"
+      ],
+      "raw_options": [
+        "will have invested",
+        "would have invested",
+        "would invest",
+        "had invested"
+      ],
+      "answer": 1,
+      "passage_id": "p90-94",
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 24,
+        "min_page": 24,
+        "max_page": 24,
+        "stem_top": 574.9939999999999,
+        "stem_bottom": 586.9939999999999,
+        "first_opt_top": 590.5939999999999,
+        "opts_bottom": 648.934,
+        "ans_top": 652.5339999999999,
+        "ans_page": 24
+      }
+    },
+    {
+      "n": 92,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "",
+      "blocks": [],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "obsolete",
+        "taciturn",
+        "ubiquitous",
+        "ephemeral"
+      ],
+      "raw_options": [
+        "obsolete",
+        "taciturn",
+        "ubiquitous",
+        "ephemeral"
+      ],
+      "answer": 2,
+      "passage_id": "p90-94",
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 24,
+        "min_page": 24,
+        "max_page": 24,
+        "stem_top": 683.4939999999999,
+        "stem_bottom": 695.4939999999999,
+        "first_opt_top": 698.884,
+        "opts_bottom": 757.4399999999999,
+        "ans_top": 760.8,
+        "ans_page": 24
+      }
+    },
+    {
+      "n": 93,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "",
+      "blocks": [],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "In case",
+        "Whereas",
+        "Much as",
+        "So long as"
+      ],
+      "raw_options": [
+        "In case",
+        "Whereas",
+        "Much as",
+        "So long as"
+      ],
+      "answer": 3,
+      "passage_id": "p90-94",
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 25,
+        "min_page": 25,
+        "max_page": 25,
+        "stem_top": 110.68399999999997,
+        "stem_bottom": 122.68399999999997,
+        "first_opt_top": 126.31399999999996,
+        "opts_bottom": 184.6339999999999,
+        "ans_top": 188.23399999999992,
+        "ans_page": 25
+      }
+    },
+    {
+      "n": 94,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "",
+      "blocks": [],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "pragmatic",
+        "quixotic",
+        "prosaic",
+        "didactic"
+      ],
+      "raw_options": [
+        "pragmatic",
+        "quixotic",
+        "prosaic",
+        "didactic"
+      ],
+      "answer": 1,
+      "passage_id": "p90-94",
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 25,
+        "min_page": 25,
+        "max_page": 25,
+        "stem_top": 218.97399999999993,
+        "stem_bottom": 230.97399999999993,
+        "first_opt_top": 234.57399999999996,
+        "opts_bottom": 292.44399999999996,
+        "ans_top": 295.32399999999996,
+        "ans_page": 25
+      }
+    },
+    {
+      "n": 95,
+      "section": "english",
+      "topic": "Active & Passive Voice",
+      "render_mode": "text",
+      "stem": "Select the option that expresses the given sentence in passive voice.\nThe organisers had already distributed the printed pamphlets among the delegates before the chief guest arrived at the auditorium.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the option that expresses the given sentence in passive voice."
+        },
+        {
+          "type": "paragraph",
+          "text": "The organisers had already distributed the printed pamphlets among the delegates before the chief guest arrived at the auditorium."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The printed pamphlets were already distributed among the delegates by the organisers before the chief guest arrived at the auditorium.",
+        "The printed pamphlets had already been distributed among the delegates by the organisers before the chief guest arrived at the auditorium.",
+        "The printed pamphlets have already been distributed among the delegates by the organisers before the chief guest arrived at the auditorium.",
+        "The printed pamphlets had already distributed among the delegates by the organisers before the chief guest arrived at the auditorium."
+      ],
+      "raw_options": [
+        "The printed pamphlets were already distributed among the delegates by the organisers before the chief guest arrived at the auditorium.",
+        "The printed pamphlets had already been distributed among the delegates by the organisers before the chief guest arrived at the auditorium.",
+        "The printed pamphlets have already been distributed among the delegates by the organisers before the chief guest arrived at the auditorium.",
+        "The printed pamphlets had already distributed among the delegates by the organisers before the chief guest arrived at the auditorium."
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 25,
+        "min_page": 25,
+        "max_page": 25,
+        "stem_top": 325.08399999999995,
+        "stem_bottom": 366.84399999999994,
+        "first_opt_top": 369.74399999999997,
+        "opts_bottom": 471.0439999999999,
+        "ans_top": 488.804,
+        "ans_page": 25
+      }
+    },
+    {
+      "n": 96,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Four sentences are given below. Select the sentence in which the article has been used incorrectly.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Four sentences are given below. Select the sentence in which the article has been used incorrectly."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The poor in this city have been promised a subsidised ration card and free medical treatment at the clinic that was opened last month.",
+        "An European delegation visited the historic fort on Monday and expressed an interest in funding the restoration of the crumbling ramparts.",
+        "The Prime Minister laid the foundation stone of a new airport which is expected to become the busiest terminal in the entire eastern region.",
+        "She has been appointed secretary of the association and will also serve as an adviser to the research wing of the institute from next month."
+      ],
+      "raw_options": [
+        "The poor in this city have been promised a subsidised ration card and free medical treatment at the clinic that was opened last month.",
+        "An European delegation visited the historic fort on Monday and expressed an interest in funding the restoration of the crumbling ramparts.",
+        "The Prime Minister laid the foundation stone of a new airport which is expected to become the busiest terminal in the entire eastern region.",
+        "She has been appointed secretary of the association and will also serve as an adviser to the research wing of the institute from next month."
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 25,
+        "min_page": 25,
+        "max_page": 25,
+        "stem_top": 518.804,
+        "stem_bottom": 530.804,
+        "first_opt_top": 533.7139999999999,
+        "opts_bottom": 635.0139999999999,
+        "ans_top": 652.7739999999999,
+        "ans_page": 25
+      }
+    },
+    {
+      "n": 97,
+      "section": "english",
+      "topic": "Direct & Indirect Speech",
+      "render_mode": "text",
+      "stem": "Select the option that expresses the given sentence in Direct Speech.\nShe said that she might have left her purse at the cafe .",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the option that expresses the given sentence in Direct Speech."
+        },
+        {
+          "type": "paragraph",
+          "text": "She said that she might have left her purse at the cafe ."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "She said, \"I might have left my purse at the cafe .\"",
+        "She said, \"I may have left my purse at the cafe .\"",
+        "She said, \"I could have left my purse at the cafe .\"",
+        "She said, \"I must have left my purse at the cafe .\""
+      ],
+      "raw_options": [
+        "She said, \"I might have left my purse at the cafe .\"",
+        "She said, \"I may have left my purse at the cafe .\"",
+        "She said, \"I could have left my purse at the cafe .\"",
+        "She said, \"I must have left my purse at the cafe .\""
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 25,
+        "min_page": 25,
+        "max_page": 25,
+        "stem_top": 682.5339999999999,
+        "stem_bottom": 709.444,
+        "first_opt_top": 712.324,
+        "opts_bottom": 768.9599999999999,
+        "ans_top": 771.8399999999999,
+        "ans_page": 25
+      }
+    },
+    {
+      "n": 98,
+      "section": "english",
+      "topic": "Active & Passive Voice",
+      "render_mode": "text",
+      "stem": "Select the option that expresses the given sentence in active voice.\nWhy was the entire proposal rejected by the standing committee without any discussion being held on its financial implications?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the option that expresses the given sentence in active voice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Why was the entire proposal rejected by the standing committee without any discussion being held on its financial implications?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Why did the standing committee reject the entire proposal without holding any discussion on its financial implications?",
+        "Why the standing committee rejected the entire proposal without any discussion held on its financial implications?",
+        "Why was the standing committee rejecting the entire proposal without holding any discussion on its financial implications?",
+        "Why had the standing committee rejected the entire proposal without any discussion on its financial implications?"
+      ],
+      "raw_options": [
+        "Why did the standing committee reject the entire proposal without holding any discussion on its financial implications?",
+        "Why the standing committee rejected the entire proposal without any discussion held on its financial implications?",
+        "Why was the standing committee rejecting the entire proposal without holding any discussion on its financial implications?",
+        "Why had the standing committee rejected the entire proposal without any discussion on its financial implications?"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 28,
+        "min_page": 28,
+        "max_page": 28,
+        "stem_top": 110.20399999999995,
+        "stem_bottom": 153.19399999999996,
+        "first_opt_top": 156.55399999999997,
+        "opts_bottom": 261.45399999999995,
+        "ans_top": 280.44399999999996,
+        "ans_page": 28
+      }
+    },
+    {
+      "n": 99,
+      "section": "english",
+      "topic": "Active & Passive Voice",
+      "render_mode": "text",
+      "stem": "Select the option that expresses the given sentence in passive voice.\nOne should never postpone until tomorrow the work that one can comfortably finish today.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the option that expresses the given sentence in passive voice."
+        },
+        {
+          "type": "paragraph",
+          "text": "One should never postpone until tomorrow the work that one can comfortably finish today."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The work that can be comfortably finished today should never be postponed until tomorrow.",
+        "The work that one can comfortably finish today should never be postponed by one until tomorrow.",
+        "The work that can be comfortably finished today must never postpone until tomorrow.",
+        "The work that can be comfortably finished today should never postponed until tomorrow by anyone."
+      ],
+      "raw_options": [
+        "The work that can be comfortably finished today should never be postponed until tomorrow.",
+        "The work that one can comfortably finish today should never be postponed by one until tomorrow.",
+        "The work that can be comfortably finished today must never postpone until tomorrow.",
+        "The work that can be comfortably finished today should never postponed until tomorrow by anyone."
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 28,
+        "min_page": 28,
+        "max_page": 28,
+        "stem_top": 311.404,
+        "stem_bottom": 338.76399999999995,
+        "first_opt_top": 342.3639999999999,
+        "opts_bottom": 400.70399999999995,
+        "ans_top": 404.304,
+        "ans_page": 28
+      }
+    },
+    {
+      "n": 100,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Four sentences are given below. Select the sentence in which the article has been used incorrectly.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Four sentences are given below. Select the sentence in which the article has been used incorrectly."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The headmaster, who had served the school faithfully for nearly three decades, was unanimously elected the chairman of the newly constituted managing committee.",
+        "A camel, which can survive for several days without water in the harshest conditions, is justly called the ship of the desert by the people of Rajasthan.",
+        "The sooner the government clears the pending file, the better it will be for the thousands of farmers who are still awaiting compensation.",
+        "He is one of the finest violinists in the country and has recently been honoured with an award instituted by the state academy of music."
+      ],
+      "raw_options": [
+        "The headmaster, who had served the school faithfully for nearly three decades, was unanimously elected the chairman of the newly constituted managing committee.",
+        "A camel, which can survive for several days without water in the harshest conditions, is justly called the ship of the desert by the people of Rajasthan.",
+        "The sooner the government clears the pending file, the better it will be for the thousands of farmers who are still awaiting compensation.",
+        "He is one of the finest violinists in the country and has recently been honoured with an award instituted by the state academy of music."
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 28,
+        "min_page": 28,
+        "max_page": 28,
+        "stem_top": 435.26399999999995,
+        "stem_bottom": 447.26399999999995,
+        "first_opt_top": 450.64399999999995,
+        "opts_bottom": 555.554,
+        "ans_top": 574.5139999999999,
+        "ans_page": 28
+      }
+    }
+  ]
+}

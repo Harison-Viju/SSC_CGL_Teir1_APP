@@ -1,0 +1,19 @@
+name: "Generic Exam Paper"
+slug: "generic"
+description: "Generic multiple-choice question paper profile"
+marking:
+  correct: 1.0
+  wrong: -0.25
+  unanswered: 0.0
+duration_minutes: 60
+header_height_pt: 100
+footer_margin_pt: 40
+noise_patterns: []
+title_regex: '(?i)(?:Mock\s+Test|Paper|Exam).*'
+
+sections:
+  - id: "all"
+    name: "All Questions"
+    from: 1
+    to: 200
+    duration_minutes: 60

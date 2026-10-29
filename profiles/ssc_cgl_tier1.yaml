@@ -1,0 +1,50 @@
+name: "SSC CGL Tier 1"
+slug: "ssc_cgl_tier1"
+description: "Staff Selection Commission Combined Graduate Level Examination (Tier-1)"
+marking:
+  correct: 2.0
+  wrong: -0.5
+  unanswered: 0.0
+duration_minutes: 60
+header_height_pt: 135
+footer_margin_pt: 40
+noise_patterns:
+  - '(?i)Adda247'
+  - '(?i)GET IT ON\s+Google Play'
+  - '(?i)Test\s+Prime'
+  - '(?i)FREE\s+Quizzes'
+  - '(?i)FREE\s+PYPs'
+  - '(?i)FREE\s+PDFs'
+  - '(?i)DOWNLOAD\s+THE\s+APP'
+  - '(?i)DOWNLOAD\s+TEST\s+PRIME'
+  - '(?i)ALL\s+EXAMS,\s+ONE\s+SUBSCRIPTION'
+  - '(?i)SUCCESS\s+GALLERY'
+  - '(?i)MEET\s+THE\s+ACHIEVERS'
+  - '(?i)PREVIOUS\s+YEAR\s+PAPERS\s+PDF'
+  - '(?i)Practice\s+more,\s+score\s+higher'
+  - '(?i)Turn\s+PDFs\s+into\s+real\s+exam'
+  - '(?i)Your\s+Success\s+Partner'
+
+title_regex: '(?i)SSC\s+CGL.*?Paper\s*(?:\(Held\s+on\s+)?\(?(\d{1,2}\s+[A-Za-z]{3}\s+\d{4})(?:\s+S(\d))?'
+
+sections:
+  - id: "reasoning"
+    name: "General Intelligence & Reasoning"
+    from: 1
+    to: 25
+    duration_minutes: 15
+  - id: "general_awareness"
+    name: "General Awareness"
+    from: 26
+    to: 50
+    duration_minutes: 15
+  - id: "quantitative_aptitude"
+    name: "Quantitative Aptitude"
+    from: 51
+    to: 75
+    duration_minutes: 15
+  - id: "english"
+    name: "English Comprehension"
+    from: 76
+    to: 100
+    duration_minutes: 15

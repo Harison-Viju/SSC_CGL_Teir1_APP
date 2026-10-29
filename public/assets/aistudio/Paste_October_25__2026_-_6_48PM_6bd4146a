@@ -1,0 +1,289 @@
+# MASTER PROMPT: "ExamQuest" – A Duolingo-style Mock Test App (free, static, GitHub Pages)
+
+> Paste everything below this line into your LLM. Attach the sample PDF and any other PDFs. Ask it to work **phase by phase** (see Section 12) and to stop after each phase so you can test.
+
+---
+
+## 0. Your role
+
+You are a senior full-stack engineer and product designer. Build a production-quality, open-source web app called **ExamQuest** (the name can change) that turns previous-year / memory-based exam PDFs into interactive timed mock tests, with a Duolingo-like animated mascot, gamification and detailed score history.
+
+### Hard constraints
+1. **Zero running cost.** No paid APIs, no LLM calls, no OCR services, no backend server, no database server. Everything is either (a) an offline script that runs on my machine or in GitHub Actions, or (b) static files served by GitHub Pages.
+2. **PDF ingestion must be fully automated and rule-based** (regex + layout/bounding-box analysis). Drop a PDF in a folder, push to GitHub, and the test appears in the app.
+3. **Every user's data stays in their browser** (IndexedDB). Provide JSON export/import for backups.
+4. Mobile-first, installable PWA, works offline after first load.
+5. Use **original** artwork and mascot. Do not copy Duolingo's owl or any brand's logos (including the source PDF publishers' logos).
+6. Write clean, typed, documented, tested code. No placeholder "TODO" implementations.
+
+---
+
+## 1. Analysis of the sample PDF format (treat as ground truth)
+
+The sample is "SSC CGL Exam Day Based Paper (01 Oct 2026)", published as a text-based PDF (not scanned), 100 questions. Observed structure:
+
+**Page layout**
+- Every content page has a header: publisher logo (left), "GET IT ON Google Play" badge (right), a thin horizontal rule, and a faint diagonal watermark behind the text. Page 1 additionally has a blue title bar: `SSC CGL Exam Day Based Paper (01 Oct 2026)`.
+- **Full-page advertisement pages** (images only, no extractable text, e.g. "ALL EXAMS, ONE SUBSCRIPTION", "SUCCESS GALLERY", "PREVIOUS YEAR PAPERS PDF") are inserted between content pages. They must be detected (page has ~no text) and skipped.
+- The last page has only Q100 and a watermark.
+
+**Question grammar** (text pages)
+- Question starts with a bold `Q<number>.` e.g. `Q12. A, B, C, D, E...`
+- Options are on separate lines: `(a) ...`, `(b) ...`, `(c) ...`, `(d) ...`
+- The correct answer is a bold line right after the options: `Ans.(b)`
+- There is no explanation/solution text.
+- Questions can have multi-line stems, sub-statements (`1.`, `2.`, `I.`, `II.`, `III.`), passage text, or tables.
+
+**Pitfalls the parser must handle**
+- **Page-break splits:** a question's `Ans.(x)` line can land at the top of the next page, right under the header (e.g. Q7's answer, Q22's, Q62's, Q66's). Treat the document as one continuous stream ordered by (page, y) after removing headers/footers/ads.
+- **Figure-based questions:** the stem and/or the options are embedded images. In text extraction these appear as empty options like `(a) ` with nothing after them. In the sample: Q1 (mirror image), Q3 and Q9 (figure series), Q13 and Q24 (figure analogy), Q14 (cube from unfolded net). Q24-style items have images in the stem and options.
+- **Math-formatted questions:** fractions, roots, superscripts get shredded by text extraction (e.g. Q52, Q53, Q55 come out as `cos x = 12` / `13` on separate lines with the numerator and denominator split across lines). These must be rendered as an **image crop** rather than trusted as text.
+- **Tables as text** (Q21 matrices, Q56 data table) come out as flattened rows. Detect tables and render the stem as an image crop (or as a real HTML table if reliably detected).
+- **Hyphenation/line-join artefacts** like `longterm`, `postconstitutional` (a hyphen lost at a line break). Provide a de-hyphenation step: if a line ends with `-` join without space; keep a small user-editable fix dictionary.
+- **Truncated or odd option text** exists in the source (e.g. Q11(c) `(SU,MI,G`). Never crash; keep the text and add a warning to the report.
+- **Passage-based sets:** "Directions (77-81): Read the passage..." precedes Q77–Q81. The passage paragraph must be captured once and attached to all questions in that range (`passage_id`). Detect with regex `Directions\s*\((\d+)\s*-\s*(\d+)\)`.
+- Typographic characters: curly quotes, `₹`, `²`, `³`, `√`, `θ`, `€`, `%`, `?` used as code symbols, etc. Preserve Unicode (UTF-8 everywhere).
+- The answer key is the publisher's and **may contain mistakes** (some GK items refer to future/unverifiable events, some are debatable). Therefore the app needs a "Report wrong answer / flag question" button and an `overrides` mechanism (Section 3.6).
+
+**Sections inferred from numbering** (25 questions each, matching a 4 × 15 min = 60 min test):
+| Q range | Section |
+|---|---|
+| 1–25 | General Intelligence & Reasoning |
+| 26–50 | General Awareness |
+| 51–75 | Quantitative Aptitude |
+| 76–100 | English Comprehension |
+
+Section boundaries must be **configurable per exam profile** (YAML), because other PDFs may have different sizes/sections.
+
+---
+
+## 2. Tech stack (decide and justify in README, default below)
+
+**App:** Vite + React 18 + TypeScript, Tailwind CSS, Framer Motion (animation), Zustand (state), Dexie (IndexedDB), Recharts (charts), Howler (optional sound), canvas-confetti, vite-plugin-pwa, React Router (HashRouter so GitHub Pages works without server rewrites), Vitest + React Testing Library, Playwright (a couple of e2e smoke tests).
+
+**Ingestion (offline, no AI):** Python 3.11, `pdfplumber` (words, lines, rects, images with bounding boxes) + `pypdfium2` (rendering page regions to PNG) + `Pillow` (crop, trim, optimize/convert to WebP) + `PyYAML` + `pytest`. (Chosen over PyMuPDF for a permissive license since the repo will be public.)
+
+**CI/CD:** GitHub Actions: on push to `main`, run ingestion on any new/changed files in `pdfs/`, run tests, build the app, deploy to GitHub Pages.
+
+---
+
+## 3. Ingestion pipeline (the most important part – build and test this FIRST)
+
+### 3.1 Folder layout
+```
+repo/
+  pdfs/                         # I drop PDFs here (any subfolders allowed)
+  profiles/                     # exam profile YAMLs (ssc_cgl_tier1.yaml, generic.yaml)
+  overrides/                    # per-test manual fixes (JSON), merged after parsing
+  ingest/                       # python package
+    cli.py                      # `python -m ingest --all` or `--file pdfs/x.pdf`
+    layout.py  parser.py  figures.py  sections.py  topics.py  validate.py  docs.py
+    tests/ (pytest, with the sample PDF as a fixture)
+  public/data/
+    manifest.json               # list of all tests (small, loads fast)
+    tests/<test_id>.json        # one file per test
+    img/<test_id>/q012_stem.webp, q012_full.webp ...
+  docs/tests/<test_id>.md       # auto-generated documentation per test
+  src/                          # React app
+```
+
+### 3.2 Algorithm (deterministic)
+1. **Open PDF**, iterate pages. For each page compute `text_len`. If `text_len < 150` and the page has a large image covering > 50 % of the page → mark as **ad page**, skip. Log it.
+2. **Remove header/footer/watermark noise** by geometry and string rules from the profile: ignore words whose `top` < header_height (default ≈ 140 pt on a 842 pt page, calibrate from sample) and any line matching profile `noise_patterns` (e.g. `Adda247`, `GET IT ON`, `Google Play`, `Test Prime`, `Download`, page URLs). Page-1 title bar is parsed for metadata, then removed.
+3. **Build a continuous stream of lines** across pages with `(page, top, bottom, x0, text, is_bold)`; bold detection from font name containing `Bold`.
+4. **Segment questions** with `^Q\s*(\d{1,3})\s*[.)]` anchored at the left margin. Sanity-check numbering is strictly increasing by 1; report gaps/duplicates.
+5. For each question block, extract:
+   - **stem** = lines until the first option line,
+   - **options** = lines matching `^\(?([a-dA-D])[\).]` (support `(a)`, `a)`, `A.`, and 4 or 5 options per profile). Continuation lines (no marker) append to the previous option,
+   - **answer** = regex `Ans\.?\s*\(?([a-eA-E])\)?` anywhere in the block, **including at the top of the next page** (guaranteed by the continuous stream),
+   - the **bounding boxes** of the whole block (possibly spanning two pages) and of the `Ans.` line (to exclude it from images).
+6. **Render mode decision** (`render_mode`):
+   - `text`: normal, trusted text.
+   - `image_stem`: stem contains an embedded image, a detected table (`page.find_tables`/rect-line grid), math-garble heuristics (a line that is only digits/short token directly above/below another short token inside the same block; lines containing `√`, `²`, `³`, `⁴`, `∈`, `θ`, `sin`/`cos`/`tan` together with isolated numeric lines; fonts containing "Math"), or ≥ 5 consecutive very short lines. The stem is cropped as an image; **options remain text buttons**.
+   - `image_full`: ≥ 2 options are empty/very short (≤ 1 char) OR images sit in the option area. The whole region (stem + figure + options) is cropped as one image and the app shows plain **A / B / C / D** buttons beneath it.
+   - Optionally also store the cropped image for `text` questions with a `has_alt_image` flag so the user can toggle "view original" if the text looks wrong.
+7. **Image cropping**: render the page region at ≥ 2.5× scale with `pypdfium2`, crop to the block bbox with a small padding, **exclude the `Ans.(x)` line**, and exclude header/footer. If a block spans two pages, crop both parts and stitch them vertically. Trim whitespace, convert to WebP (quality ~85), keep each image under ~120 KB. The faint watermark is acceptable.
+8. **Passages**: detect `Directions (a-b)` blocks; store passage text (or image if complex) once in `passages[]` and reference by `passage_id` from each question in range.
+9. **Metadata** from the title line via profile regex: exam name, date (`01 Oct 2026` → `2026-10-01`), shift if present (`Shift 1/2`). Generate `test_id` slug: `ssc-cgl-2026-10-01[-shift-1]`; if it already exists, append `-v2`.
+10. **Sections**: assign by profile ranges; if the profile is `generic`, create one section "All questions".
+11. **Topic tagging without AI**: `profiles/topics.yaml` holds keyword/regex → topic rules (e.g. `Article \d+|Fundamental Rights|Constitution` → Polity; `tangent|chord|circle|prism|cylinder` → Geometry/Mensuration; `coded|code language` → Coding-Decoding; `Master Address|candidate address` → Address Matching; synonym/antonym/idiom/one-word → Vocabulary; `Rearrange` → Para Jumbles; etc.). Unmatched → "Other". Topics are optional hints used for analytics.
+12. **Duplicate detection**: normalized-text hash per question; mark `duplicate_of` when the same question exists in another test (so analytics can avoid double counting, and users can build "unique question" practice sets).
+13. **Validation report** (`public/data/tests/<id>.report.json` and printed in the CLI): expected vs. found question count, missing answers, answer letter not in options, < 2 options in `text` mode, numbering gaps, empty stems, count of image questions, list of every question with a warning, and a **confidence score** per question (1.0 = clean text; lower when heuristics were triggered). The CLI exits non-zero only for fatal errors; warnings never block the build but are surfaced in the generated docs and in the app's "Test details" page.
+14. **Overrides**: `overrides/<test_id>.json` can patch any field of any question (`answer`, `render_mode`, `stem`, `options`, `section`, `delete: true`, `note`). Applied after parsing and before writing output. Provide `python -m ingest --suggest-overrides` that prints a ready-to-edit skeleton for every low-confidence question.
+15. **Incremental & idempotent**: skip PDFs whose SHA-256 hash is unchanged (store in `public/data/.ingest-cache.json`). Re-running must produce byte-identical output.
+16. **Auto documentation**: for each test write `docs/tests/<test_id>.md` with headings: `# <Test title>`, `## Source`, `## Summary` (date, total questions, sections, counts of text/image questions, warnings), `## Sections` (table with ranges and counts), `## Topic distribution`, `## Warnings & manual review needed`, `## Answer key (compact table)`, `## Changelog`. Also regenerate a top-level `docs/INDEX.md` listing all tests.
+
+### 3.3 Output schema (`public/data/tests/<id>.json`)
+```json
+{
+  "schema_version": 1,
+  "id": "ssc-cgl-2026-10-01",
+  "title": "SSC CGL Exam Day Based Paper",
+  "exam": "SSC CGL Tier 1",
+  "date": "2026-10-01",
+  "shift": null,
+  "language": "en",
+  "source_file": "pdfs/ssc/SSC-CGL-...pdf",
+  "source_sha256": "...",
+  "marking": { "correct": 2, "wrong": -0.5, "unanswered": 0 },
+  "duration_minutes": 60,
+  "sections": [
+    { "id": "reasoning", "name": "General Intelligence & Reasoning",
+      "from": 1, "to": 25, "duration_minutes": 15 }
+  ],
+  "passages": [ { "id": "p77-81", "range": [77,81], "text": "..." } ],
+  "questions": [
+    {
+      "n": 12,
+      "section": "reasoning",
+      "topic": "Seating Arrangement",
+      "render_mode": "text",
+      "stem": "A, B, C, D, E, F and G are sitting ...",
+      "stem_image": null,
+      "full_image": null,
+      "options": ["F", "B", "D", "E"],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null
+    }
+  ]
+}
+```
+`manifest.json` holds only lightweight entries (id, title, exam, date, counts, sections, tags) so the Library loads instantly; question files are lazy-loaded.
+
+### 3.4 Acceptance tests for the parser (use the sample PDF as a fixture)
+- Finds exactly **100** questions, numbered 1–100 with no gaps, and **100 answers**.
+- Skips the ad pages (zero questions are produced from them).
+- Q7's answer = **b** and Q22's answer = **b** (their `Ans.` lines are at the top of the next page); Q62 = **a**; Q66 = **b**.
+- Q1, Q3, Q9, Q13, Q14, Q24 are `image_full` (or `image_stem` where the options are text); each has an image file ≤ 150 KB and the image does **not** contain an `Ans.(x)` line.
+- Q52, Q53, Q55 are `image_stem`.
+- Q21 and Q56 (tables) are `image_stem` (or rendered tables), not garbled text.
+- Q77–Q81 share the passage `p77-81`.
+- Section ranges 1–25 / 26–50 / 51–75 / 76–100 are assigned correctly.
+- Re-running produces identical output (idempotency test).
+- A "golden" JSON snapshot test protects against regressions.
+
+### 3.5 Extensibility
+Different publishers have different headers/answer styles. Put all of this in profile YAML (header height, noise patterns, question regex, option regex, answer regex, answer-at-end-of-document mode "answer key table at the end", section ranges, marking scheme, duration). Implement the "answer key table at end" mode as well, since many PDFs do that. Provide `generic.yaml` and document how to write a new profile in `docs/ADDING_A_PROFILE.md`.
+
+### 3.6 In-app corrections
+Users can flag a question (wrong answer / bad image / typo). Flags are stored locally and can be exported as a `overrides/<id>.json` snippet to commit to the repo.
+
+---
+
+## 4. Test engine (mimic the real exam)
+
+### Modes
+1. **Full Mock** – all sections; each section has its own timer (default **15 min per 25 questions**, 60 min total). When a section's time ends it **auto-submits that section and moves to the next**; the user cannot return to a finished section (configurable switch: "strict sections" on/off).
+2. **Section Test** – one section with its own timer.
+3. **Practice (Learn) mode** – no timer, **instant feedback after each answer** with the mascot reacting, option to see correct answer, XP per correct answer. Lessons of 10 questions, Duolingo-style progress bar on top.
+4. **Mistake Review** – re-attempt only questions you got wrong or skipped, across all tests (spaced-repetition-lite: Leitner boxes 1–3, due dates stored in IndexedDB).
+5. **Custom Quiz** – choose topic(s), number of questions, source tests.
+
+### Exam UI (Full Mock / Section)
+- Top bar: test name, section tabs, big **countdown timer** (turns amber at 5 min left, red + pulse at 1 min), question counter.
+- Main: question card (text or image), A/B/C/D option buttons (big tap targets), Save & Next, Mark for Review, Clear Response, Previous.
+- **Question palette** (drawer on mobile, sidebar on desktop) with SSC-like statuses: Not Visited (grey), Not Answered (red), Answered (green), Marked for Review (purple), Answered & Marked (purple with tick).
+- Keyboard shortcuts: `A–D`/`1–4` choose, `N`/→ next, `P`/← previous, `M` mark, `C` clear.
+- Confirm dialog for Submit with a summary (answered / unanswered / marked).
+- **Timer correctness is critical:** compute remaining time from an absolute `endsAt` timestamp (never by counting `setInterval` ticks); handle tab hidden/throttling, device sleep, and clock drift; **persist attempt state to IndexedDB every answer/second-ish** so a refresh/crash **resumes** with the right remaining time ("Resume your test" banner on Home). Time spent per question is tracked with the same approach.
+- Marking scheme from test JSON (+2 / −0.5 default for SSC CGL, editable in Settings).
+- Option shuffling is **off** by default for exam modes (letters matter for image-based options) and **on** optionally in Practice mode only for `text` questions.
+
+### Result screen
+- Score, accuracy, attempted, correct/wrong/skipped, percentile-free (no fake ranking), time used, **section-wise table + radar/bar chart**, topic-wise accuracy, time-per-question histogram, "slowest questions".
+- **Review mode**: every question with your answer, correct answer, status, time spent, bookmark, flag. Filter: All / Wrong / Skipped / Marked / Slow.
+- Buttons: Retry wrong ones, Retake test, Share result image (canvas-generated card), Export PDF report.
+
+---
+
+## 5. Mascot & gamification (the "Duolingo feel")
+
+### Mascot
+Create an **original** mascot (e.g. a round, expressive "study buddy" creature – name it, e.g. "Quizzy") as **layered SVG** with CSS/Framer Motion animation (or Lottie/Rive only if the asset is generated in-repo and free). States: `idle` (blink, breathe), `thinking`, `happy` (bounce + sparkle), `celebrate` (confetti + dance), `sad`, `facepalm`, `sleepy` (timer low / inactivity), `shocked` (timer almost out), `proud` (streak), `cheer` (result > 80 %).
+- **Practice mode:** after each answer the mascot switches state and speech bubble shows a random line from `src/content/messages.json`. Wrong-answer lines must be **funny but kind** (never insulting). Provide ≥ 40 lines per category: correct, wrong, streak-3/5/10, skipped, timer-low, test-start, test-finish-good, test-finish-bad, welcome-back, streak-lost. Rotate without immediate repeats.
+- **Mock-exam mode:** do NOT reveal correctness during the test (that would break exam realism). The mascot is small, calm, and only gives timer/time-management nudges ("5 minutes left in this section!"). It reacts fully on the results screen.
+- Sound effects (correct ding, wrong boop, finish fanfare) are optional, lazy-loaded, and **muted by default with a visible toggle**. Respect `prefers-reduced-motion` (swap animations for static poses).
+
+### Gamification
+XP per correct answer (+ bonus for speed/streaks), daily goal, **daily streak** with calendar heatmap, levels, achievements/badges (First Test, 7-day Streak, 100 Correct, Perfect Section, Speed Demon, Comeback Kid, etc.), combo meter in Practice mode, hearts/lives **optional** in Practice mode (off by default; never in mock mode). All logic is local; no accounts.
+
+### Visual design
+Vibrant, friendly, rounded UI; chunky 3D-style buttons; progress bars; smooth page transitions; a coherent palette with a light and dark theme (follow system, switchable); large legible typography (e.g. Nunito/Inter via self-hosted fonts, **no CDN dependency** for offline PWA); consistent spacing scale; skeleton loaders; empty states with the mascot; accessible contrast (WCAG AA), focus rings, ARIA labels, screen-reader friendly timer announcements at key moments only.
+
+---
+
+## 6. Pages / information architecture
+
+1. **Home**: greeting + mascot, streak, daily goal ring, "Resume test" card, recommended next test, quick actions.
+2. **Library**: grid/list of tests from `manifest.json` with search, filters (exam, year, month, language, has-figures), sort, status chips (New / In progress / Completed + best score).
+3. **Test Details**: headings and details per test (sections, question counts, image-question count, marking scheme, parser warnings, attempts history, best/avg score) with start buttons for each mode.
+4. **Exam** (full-screen focused layout) and **Practice** (lesson layout).
+5. **Result / Review**.
+6. **History & Analytics**: table of all attempts (date, test, mode, score, accuracy, time) with sorting; charts: score trend, section-wise trend, topic strengths/weaknesses heatmap, time management; compare two attempts; filters; **Export CSV / JSON / printable PDF report**. Each attempt gets a stable ID and is documented with headings (Test, Date/time, Mode, Score, Section breakdown, Topic breakdown, Time analysis, Notes field where I can write my own notes).
+7. **Mistake Notebook** & **Bookmarks**.
+8. **Settings**: theme, sound, motion, marking scheme override, strict sections, default durations, data export/import/reset, language of UI.
+9. **About / How to add PDFs** (renders `docs/ADDING_TESTS.md`).
+
+---
+
+## 7. Data & storage
+
+- Dexie tables: `attempts`, `answers` (per question: chosen, status, timeSpent, markedAt), `bookmarks`, `flags`, `srsBoxes`, `stats` (xp, streak, badges), `settings`, `inProgress`.
+- Versioned migrations; schema version constant; graceful handling of missing/renamed tests (attempts keep a copy of the test title + `source_sha256`).
+- Export/import full backup as one JSON file; merging imports must not duplicate attempts.
+- Optional: "Sync via file" only; no cloud.
+
+---
+
+## 8. Performance, offline, PWA
+- Lazy-load question JSON and images per test; prefetch the next 3 images in an exam; images have explicit width/height to avoid layout shift.
+- Service worker precaches the app shell and caches test data on first open; "Download for offline" button per test.
+- Lighthouse targets: Performance ≥ 90, Accessibility ≥ 95, PWA installable.
+
+---
+
+## 9. Quality
+- Parser: pytest as in 3.4. App: Vitest unit tests for scoring, timer, section transitions, palette status logic, Dexie migrations; Playwright e2e: start mock → answer → refresh mid-test (timer resumes correctly) → submit → result appears in History.
+- ESLint + Prettier + `tsc --strict`. Husky/pre-commit optional.
+- Error boundaries with a friendly mascot error screen and "copy debug info" button.
+- Every module has a brief header comment; README has architecture diagram (Mermaid), setup, scripts, how ingestion works, troubleshooting.
+
+---
+
+## 10. GitHub deployment
+- `vite.config.ts` with `base: '/<repo-name>/'` driven by an env var; HashRouter.
+- `.github/workflows/deploy.yml`: checkout → setup Python → `pip install -r ingest/requirements.txt` → `python -m ingest --changed` → pytest → commit generated `public/data` + `docs` back (or build them in the job) → setup Node → `npm ci` → test → build → deploy to Pages (`actions/deploy-pages`).
+- Document the one-time "enable Pages → Source: GitHub Actions" step.
+- **Copyright note in README:** the source PDFs belong to their publishers. Add a configurable option `PUBLISH_DATA=false` so the repo can keep `pdfs/` out of version control (via `.gitignore` + private data repo/branch) and users can run ingestion locally. State clearly that anyone hosting a public site should only include material they have the right to share, and remove publisher logos/branding from rendered images where possible (crop headers).
+
+---
+
+## 11. Deliverables
+Complete repository with all files, `README.md`, `docs/` (ARCHITECTURE, ADDING_TESTS, ADDING_A_PROFILE, DATA_SCHEMA, CONTRIBUTING), sample generated data from the attached PDF, and a short `CHANGELOG.md`. Provide exact commands to run locally:
+```
+pip install -r ingest/requirements.txt
+python -m ingest --all
+npm install && npm run dev
+```
+
+---
+
+## 12. How to work (important)
+
+Work in phases. **After each phase, stop, summarise what you built, list known limitations, and tell me exactly how to test it.** Do not move on until I say "next".
+
+1. **Phase 1 – Ingestion core:** profile loader, line stream, question/option/answer parsing, ad-page skipping, validation report, pytest on the sample PDF. Print a table of all 100 questions with `render_mode`, answer and warnings.
+2. **Phase 2 – Figures & image crops, passages, tables, math-garble detection, WebP output, overrides, docs generation, caching.**
+3. **Phase 3 – App shell:** routing, theme, design system, Library, Test Details, data loading from `public/data`.
+4. **Phase 4 – Exam engine:** timers, sections, palette, persistence/resume, scoring, results, review.
+5. **Phase 5 – Practice mode, mascot, messages, gamification, sounds.**
+6. **Phase 6 – History & analytics, notebooks, export/import, PDF/CSV reports.**
+7. **Phase 7 – PWA/offline, accessibility pass, performance pass.**
+8. **Phase 8 – GitHub Actions deploy, README/docs polish, e2e tests.**
+
+If anything in this spec is ambiguous or conflicting, choose the most sensible option, state your assumption in one line, and continue. When you hit a limitation (e.g. a figure the heuristics can't classify), degrade gracefully (show the cropped image, add a warning) rather than failing.
+
+**Begin with Phase 1 now.**

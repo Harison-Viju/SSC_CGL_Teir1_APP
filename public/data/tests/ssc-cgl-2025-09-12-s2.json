@@ -1,0 +1,4704 @@
+{
+  "schema_version": 1,
+  "id": "ssc-cgl-2025-09-12-s2",
+  "title": "SSC CGL T-I Similar Paper (Held on 12 Sep 2025 S2) – English",
+  "exam": "SSC CGL Tier 1",
+  "date": "2025-09-12",
+  "shift": 2,
+  "language": "en",
+  "source_file": "pdfs/ssc/SSC-CGL-T-I-Similar-Paper-Held-on-12-Sep-2025-S2-English_e94e5f59.pdf",
+  "source_sha256": "e94e5f59b26cad4f742c6b0d9d6cf5602cfca8d16e6a9137ff27a18430f8d318",
+  "marking": {
+    "correct": 2.0,
+    "wrong": -0.5,
+    "unanswered": 0.0
+  },
+  "duration_minutes": 60,
+  "sections": [
+    {
+      "id": "reasoning",
+      "name": "General Intelligence & Reasoning",
+      "from": 1,
+      "to": 25,
+      "duration_minutes": 15
+    },
+    {
+      "id": "general_awareness",
+      "name": "General Awareness",
+      "from": 26,
+      "to": 50,
+      "duration_minutes": 15
+    },
+    {
+      "id": "quantitative_aptitude",
+      "name": "Quantitative Aptitude",
+      "from": 51,
+      "to": 75,
+      "duration_minutes": 15
+    },
+    {
+      "id": "english",
+      "name": "English Comprehension",
+      "from": 76,
+      "to": 100,
+      "duration_minutes": 15
+    }
+  ],
+  "passages": [],
+  "questions": [
+    {
+      "n": 1,
+      "section": "reasoning",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "Two numbers are in the ratio 5 : 7 and their sum is 144. Find the numbers.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Two numbers are in the ratio 5 : 7 and their sum is 144. Find the numbers."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "50, 94",
+        "60, 84",
+        "55, 89",
+        "65, 79"
+      ],
+      "raw_options": [
+        "50, 94",
+        "60, 84",
+        "55, 89",
+        "65, 79"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 131.44999999999993,
+        "stem_bottom": 142.4899999999999,
+        "first_opt_top": 145.85000000000002,
+        "opts_bottom": 200.32999999999993,
+        "ans_top": 203.94999999999993,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 2,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "Find the missing term in the series.\n?, 132, 165, 204, 249",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the missing term in the series."
+        },
+        {
+          "type": "paragraph",
+          "text": "?, 132, 165, 204, 249"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "96",
+        "105",
+        "108",
+        "120"
+      ],
+      "raw_options": [
+        "96",
+        "105",
+        "108",
+        "120"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 232.99,
+        "stem_bottom": 258.42999999999995,
+        "first_opt_top": 261.78999999999996,
+        "opts_bottom": 316.29999999999995,
+        "ans_top": 319.9,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 3,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "How many letters are between the 1st from left and 2nd from right in the word COMPETITION, when arranged alphabetically?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "How many letters are between the 1st from left and 2nd from right in the word COMPETITION, when arranged alphabetically?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "9",
+        "8",
+        "10",
+        "6"
+      ],
+      "raw_options": [
+        "9",
+        "8",
+        "10",
+        "6"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 348.94,
+        "stem_bottom": 374.37999999999994,
+        "first_opt_top": 377.76,
+        "opts_bottom": 432.23999999999995,
+        "ans_top": 435.84,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 4,
+      "section": "reasoning",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "If X is the daughter of Y and Y is the brother of Z, how is X related to Z?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If X is the daughter of Y and Y is the brother of Z, how is X related to Z?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Niece",
+        "Daughter",
+        "Sister",
+        "Cousin"
+      ],
+      "raw_options": [
+        "Niece",
+        "Daughter",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 464.9,
+        "stem_bottom": 475.93999999999994,
+        "first_opt_top": 479.3,
+        "opts_bottom": 533.78,
+        "ans_top": 537.17,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 5,
+      "section": "reasoning",
+      "topic": "Analogy & Classification",
+      "render_mode": "text",
+      "stem": "Apply the same pattern used in the following group and find the correct option.\nNUMBER : ERBMUN :: SCHOOL : ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Apply the same pattern used in the following group and find the correct option."
+        },
+        {
+          "type": "paragraph",
+          "text": "NUMBER : ERBMUN :: SCHOOL : ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "LHCOSO",
+        "OLOHCS",
+        "OLHOSC",
+        "LOOCHS"
+      ],
+      "raw_options": [
+        "LHCOSO",
+        "OLOHCS",
+        "OLHOSC",
+        "LOOCHS"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 566.21,
+        "stem_bottom": 591.89,
+        "first_opt_top": 595.25,
+        "opts_bottom": 649.75,
+        "ans_top": 653.1099999999999,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 6,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "Find the missing term in the series.\n2, 6, 18, 54, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the missing term in the series."
+        },
+        {
+          "type": "paragraph",
+          "text": "2, 6, 18, 54, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "96",
+        "108",
+        "162",
+        "216"
+      ],
+      "raw_options": [
+        "96",
+        "108",
+        "162",
+        "216"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 682.15,
+        "stem_bottom": 707.8299999999999,
+        "first_opt_top": 711.22,
+        "opts_bottom": 765.6959999999999,
+        "ans_top": 769.2959999999999,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 7,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "If the sum of 36 and 24 is multiplied by 7, what is the result?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If the sum of 36 and 24 is multiplied by 7, what is the result?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "420",
+        "392",
+        "448",
+        "460"
+      ],
+      "raw_options": [
+        "420",
+        "392",
+        "448",
+        "460"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 3,
+        "min_page": 3,
+        "max_page": 3,
+        "stem_top": 109.81999999999994,
+        "stem_bottom": 120.8599999999999,
+        "first_opt_top": 124.25,
+        "opts_bottom": 178.9699999999999,
+        "ans_top": 182.33000000000004,
+        "ans_page": 3
+      }
+    },
+    {
+      "n": 8,
+      "section": "reasoning",
+      "topic": "Geography & Environment",
+      "render_mode": "text",
+      "stem": "Statement:\nMost students in the class passed the exam.\nConclusions:\nI. Some students failed the exam.\nII. All students appeared for the exam.",
+      "blocks": [
+        {
+          "type": "label",
+          "text": "Statement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Most students in the class passed the exam."
+        },
+        {
+          "type": "label",
+          "text": "Conclusions"
+        },
+        {
+          "type": "list_item",
+          "marker": "I.",
+          "text": "Some students failed the exam."
+        },
+        {
+          "type": "list_item",
+          "marker": "II.",
+          "text": "All students appeared for the exam."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither I nor II follows"
+      ],
+      "raw_options": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither I nor II follows"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 3,
+        "min_page": 3,
+        "max_page": 3,
+        "stem_top": 211.39,
+        "stem_bottom": 280.27,
+        "first_opt_top": 283.9,
+        "opts_bottom": 338.37999999999994,
+        "ans_top": 341.74,
+        "ans_page": 3
+      }
+    },
+    {
+      "n": 9,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which of the following addresses are exactly identical?\nAmit Verma, 12A, Green Park, Delhi, 110016\nAmit Verma, 12A Green Park, Delhi, 110016\nAmit Verma, 12A, Green Park, Delhi, 110018\nAmit Verma, 12A, Green Park, Delhi, 110016",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following addresses are exactly identical?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Amit Verma, 12A, Green Park, Delhi, 110016"
+        },
+        {
+          "type": "paragraph",
+          "text": "Amit Verma, 12A Green Park, Delhi, 110016"
+        },
+        {
+          "type": "paragraph",
+          "text": "Amit Verma, 12A, Green Park, Delhi, 110018"
+        },
+        {
+          "type": "paragraph",
+          "text": "Amit Verma, 12A, Green Park, Delhi, 110016"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1 and 2",
+        "1 and 4",
+        "2 and 3",
+        "3 and 4"
+      ],
+      "raw_options": [
+        "1 and 2",
+        "1 and 4",
+        "2 and 3",
+        "3 and 4"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 3,
+        "min_page": 3,
+        "max_page": 3,
+        "stem_top": 370.8,
+        "stem_bottom": 439.67999999999995,
+        "first_opt_top": 443.28,
+        "opts_bottom": 497.78,
+        "ans_top": 501.14,
+        "ans_page": 3
+      }
+    },
+    {
+      "n": 10,
+      "section": "reasoning",
+      "topic": "Analogy & Classification",
+      "render_mode": "text",
+      "stem": "In the following question, select the related word from the given alternatives.\nFreedom : Independence :: Poverty : ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In the following question, select the related word from the given alternatives."
+        },
+        {
+          "type": "paragraph",
+          "text": "Freedom : Independence :: Poverty : ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Hunger",
+        "Wealth",
+        "Hardship",
+        "Illness"
+      ],
+      "raw_options": [
+        "Hunger",
+        "Wealth",
+        "Hardship",
+        "Illness"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 3,
+        "min_page": 3,
+        "max_page": 3,
+        "stem_top": 530.1800000000001,
+        "stem_bottom": 555.65,
+        "first_opt_top": 559.25,
+        "opts_bottom": 613.73,
+        "ans_top": 617.1099999999999,
+        "ans_page": 3
+      }
+    },
+    {
+      "n": 11,
+      "section": "reasoning",
+      "topic": "Statement & Assumption / Argument",
+      "render_mode": "text",
+      "stem": "Statement:\nOnline education requires reliable internet access.\nAssumptions:\nI. Students have access to the internet.\nII. Traditional education is outdated.",
+      "blocks": [
+        {
+          "type": "label",
+          "text": "Statement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Online education requires reliable internet access."
+        },
+        {
+          "type": "label",
+          "text": "Assumptions"
+        },
+        {
+          "type": "list_item",
+          "marker": "I.",
+          "text": "Students have access to the internet."
+        },
+        {
+          "type": "list_item",
+          "marker": "II.",
+          "text": "Traditional education is outdated."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only I is implicit",
+        "Only II is implicit",
+        "Both I and II are implicit",
+        "Neither I nor II is implicit"
+      ],
+      "raw_options": [
+        "Only I is implicit",
+        "Only II is implicit",
+        "Both I and II are implicit",
+        "Neither I nor II is implicit"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 3,
+        "min_page": 3,
+        "max_page": 3,
+        "stem_top": 646.15,
+        "stem_bottom": 715.3,
+        "first_opt_top": 718.66,
+        "opts_bottom": 773.136,
+        "ans_top": 776.496,
+        "ans_page": 3
+      }
+    },
+    {
+      "n": 12,
+      "section": "reasoning",
+      "topic": "Analogy & Classification",
+      "render_mode": "text",
+      "stem": "Apply the same pattern used in the following group and find the correct option.\nKLM : NOP :: STU : ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Apply the same pattern used in the following group and find the correct option."
+        },
+        {
+          "type": "paragraph",
+          "text": "KLM : NOP :: STU : ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "XYZ",
+        "VYZ",
+        "WXY",
+        "VWX"
+      ],
+      "raw_options": [
+        "XYZ",
+        "VYZ",
+        "WXY",
+        "VWX"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 109.81999999999994,
+        "stem_bottom": 135.28999999999996,
+        "first_opt_top": 138.89,
+        "opts_bottom": 193.37,
+        "ans_top": 196.73000000000002,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 13,
+      "section": "reasoning",
+      "topic": "Analogy & Classification",
+      "render_mode": "text",
+      "stem": "Find the odd one out.\nSodium, Calcium, Iron, Oxygen",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the odd one out."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sodium, Calcium, Iron, Oxygen"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Sodium",
+        "Oxygen",
+        "Iron",
+        "Calcium"
+      ],
+      "raw_options": [
+        "Sodium",
+        "Oxygen",
+        "Iron",
+        "Calcium"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 225.78999999999996,
+        "stem_bottom": 251.2299999999999,
+        "first_opt_top": 254.83000000000004,
+        "opts_bottom": 309.3399999999999,
+        "ans_top": 312.69999999999993,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 14,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.\nEHF, JKM, ONT, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series."
+        },
+        {
+          "type": "paragraph",
+          "text": "EHF, JKM, ONT, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "TUV",
+        "STU",
+        "TQA",
+        "QAT"
+      ],
+      "raw_options": [
+        "TUV",
+        "STU",
+        "TQA",
+        "QAT"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 341.74,
+        "stem_bottom": 381.84,
+        "first_opt_top": 385.2,
+        "opts_bottom": 439.67999999999995,
+        "ans_top": 443.28,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 15,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "If 8 + 4 = 96 and 7 + 3 = 70, then 6 + 5 = ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If 8 + 4 = 96 and 7 + 3 = 70, then 6 + 5 = ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "60",
+        "66",
+        "72",
+        "78"
+      ],
+      "raw_options": [
+        "60",
+        "66",
+        "72",
+        "78"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 472.09999999999997,
+        "stem_bottom": 483.13999999999993,
+        "first_opt_top": 486.74,
+        "opts_bottom": 541.22,
+        "ans_top": 544.61,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 16,
+      "section": "reasoning",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "A man says, “She is the wife of my father’s only son.” How is the woman related to the man?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A man says, “She is the wife of my father’s only son.” How is the woman related to the man?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Sister",
+        "Mother",
+        "Wife",
+        "Sister-in-law"
+      ],
+      "raw_options": [
+        "Sister",
+        "Mother",
+        "Wife",
+        "Sister-in-law"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 573.65,
+        "stem_bottom": 584.6899999999999,
+        "first_opt_top": 588.05,
+        "opts_bottom": 642.79,
+        "ans_top": 646.15,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 17,
+      "section": "reasoning",
+      "topic": "Algebra & Number System",
+      "render_mode": "text",
+      "stem": "If a + b = 20 and a - b = 6, then what is a × b?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If a + b = 20 and a - b = 6, then what is a × b?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "64",
+        "100",
+        "96",
+        "91"
+      ],
+      "raw_options": [
+        "64",
+        "100",
+        "96",
+        "91"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 675.1899999999999,
+        "stem_bottom": 686.23,
+        "first_opt_top": 689.5899999999999,
+        "opts_bottom": 744.0999999999999,
+        "ans_top": 747.6959999999999,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 18,
+      "section": "reasoning",
+      "topic": "Analogy & Classification",
+      "render_mode": "text",
+      "stem": "In the following question, select the related word from the given alternatives.\nCell : Tissue :: Tissue : ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In the following question, select the related word from the given alternatives."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cell : Tissue :: Tissue : ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Nucleus",
+        "Molecule",
+        "Organ",
+        "Gene"
+      ],
+      "raw_options": [
+        "Nucleus",
+        "Molecule",
+        "Organ",
+        "Gene"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 120.8599999999999,
+        "first_opt_top": 124.25,
+        "opts_bottom": 178.9699999999999,
+        "ans_top": 182.33000000000004,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 19,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "In a row of 60 students, P is 18th from the left and Q is 25th from the right. How many students are between P and Q?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In a row of 60 students, P is 18th from the left and Q is 25th from the right. How many students are between P and Q?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "raw_options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 211.39,
+        "stem_bottom": 236.82999999999993,
+        "first_opt_top": 240.18999999999994,
+        "opts_bottom": 294.93999999999994,
+        "ans_top": 298.29999999999995,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 20,
+      "section": "reasoning",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "How many meaningful 4-letter English words can be formed using 2nd, 3rd, 4th and 5th letters of the word TEACHER, without repetition?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "How many meaningful 4-letter English words can be formed using 2nd, 3rd, 4th and 5th letters of the word TEACHER, without repetition?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Two",
+        "Four",
+        "One",
+        "Three"
+      ],
+      "raw_options": [
+        "Two",
+        "Four",
+        "One",
+        "Three"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 327.3399999999999,
+        "stem_bottom": 352.78,
+        "first_opt_top": 356.14,
+        "opts_bottom": 410.87999999999994,
+        "ans_top": 414.24,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 21,
+      "section": "reasoning",
+      "topic": "Analogy & Classification",
+      "render_mode": "text",
+      "stem": "Find the odd one out.\n729, 1331, 2197, 3125",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the odd one out."
+        },
+        {
+          "type": "paragraph",
+          "text": "729, 1331, 2197, 3125"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "729",
+        "1331",
+        "2197",
+        "3125"
+      ],
+      "raw_options": [
+        "729",
+        "1331",
+        "2197",
+        "3125"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 443.28,
+        "stem_bottom": 468.73999999999995,
+        "first_opt_top": 472.09999999999997,
+        "opts_bottom": 526.8199999999999,
+        "ans_top": 530.1800000000001,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 22,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.\nBDH, EJM, IPR, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series."
+        },
+        {
+          "type": "paragraph",
+          "text": "BDH, EJM, IPR, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "NVW",
+        "MUX",
+        "NVX",
+        "MVW"
+      ],
+      "raw_options": [
+        "NVW",
+        "MUX",
+        "NVX",
+        "MVW"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 559.25,
+        "stem_bottom": 599.0899999999999,
+        "first_opt_top": 602.6899999999999,
+        "opts_bottom": 657.1899999999999,
+        "ans_top": 660.55,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 23,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Find the number that breaks the pattern:\n3, 7, 15, 31, 63, 120",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the number that breaks the pattern:"
+        },
+        {
+          "type": "paragraph",
+          "text": "3, 7, 15, 31, 63, 120"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "7",
+        "15",
+        "31",
+        "120"
+      ],
+      "raw_options": [
+        "7",
+        "15",
+        "31",
+        "120"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 689.5899999999999,
+        "stem_bottom": 715.3,
+        "first_opt_top": 718.66,
+        "opts_bottom": 773.136,
+        "ans_top": 776.496,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 24,
+      "section": "reasoning",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "Pointing to a boy, a woman said, “He is the son of my mother’s only son.” How is the boy related to the woman?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pointing to a boy, a woman said, “He is the son of my mother’s only son.” How is the boy related to the woman?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Son",
+        "Cousin",
+        "Brother",
+        "Nephew"
+      ],
+      "raw_options": [
+        "Son",
+        "Cousin",
+        "Brother",
+        "Nephew"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 109.81999999999994,
+        "stem_bottom": 120.8599999999999,
+        "first_opt_top": 124.25,
+        "opts_bottom": 178.9699999999999,
+        "ans_top": 182.33000000000004,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 25,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "If BALL = 211212 and CALL = 311212, then DOLL = ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If BALL = 211212 and CALL = 311212, then DOLL = ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "4141212",
+        "4511212",
+        "4151221",
+        "4151212"
+      ],
+      "raw_options": [
+        "4141212",
+        "4511212",
+        "4151221",
+        "4151212"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 211.39,
+        "stem_bottom": 222.42999999999995,
+        "first_opt_top": 225.78999999999996,
+        "opts_bottom": 280.27,
+        "ans_top": 283.9,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 26,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Examine the statements about long jump technique phases:\n1. The run-up on the runway builds peak momentum prior to takeoff.\n2. Takeoff involves pushing from the weaker leg to ensure stability.\nWhich statements are accurate?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Examine the statements about long jump technique phases:"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "The run-up on the runway builds peak momentum prior to takeoff."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "Takeoff involves pushing from the weaker leg to ensure stability."
+        },
+        {
+          "type": "paragraph",
+          "text": "Which statements are accurate?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "raw_options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 312.69999999999993,
+        "stem_bottom": 367.17999999999995,
+        "first_opt_top": 370.8,
+        "opts_bottom": 425.28,
+        "ans_top": 428.64,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 27,
+      "section": "general_awareness",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "Complete the\nstatement:\nThrough the SLKIC component of Khelo India, ______ Kendriya Vidyalayas have been selected in collaboration with KVS.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Complete the"
+        },
+        {
+          "type": "label",
+          "text": "statement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Through the SLKIC component of Khelo India, ______ Kendriya Vidyalayas have been selected in collaboration with KVS."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "raw_options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 457.7,
+        "stem_bottom": 497.78,
+        "first_opt_top": 501.14,
+        "opts_bottom": 555.65,
+        "ans_top": 559.25,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 28,
+      "section": "general_awareness",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "If Earth’s radius shrinks by 1% with mass constant, surface gravitational acceleration would:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If Earth’s radius shrinks by 1% with mass constant, surface gravitational acceleration would:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Rise by about 1%",
+        "Fall by about 2%",
+        "Rise by about 2%",
+        "Fall by about 1%"
+      ],
+      "raw_options": [
+        "Rise by about 1%",
+        "Fall by about 2%",
+        "Rise by about 2%",
+        "Fall by about 1%"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 588.05,
+        "stem_bottom": 599.0899999999999,
+        "first_opt_top": 602.6899999999999,
+        "opts_bottom": 657.1899999999999,
+        "ans_top": 660.55,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 29,
+      "section": "general_awareness",
+      "topic": "Indian Polity & Constitution",
+      "render_mode": "text",
+      "stem": "Which statements about Article 270 are accurate?\n1. It regulates tax distribution between the Union and States, covering GST proceeds.\n2. Post-101st Amendment, it incorporates Union taxes and GST revenue sharing.\n3. GST Compensation Cess distribution falls under Article 270.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which statements about Article 270 are accurate?"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "It regulates tax distribution between the Union and States, covering GST proceeds."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "Post-101st Amendment, it incorporates Union taxes and GST revenue sharing."
+        },
+        {
+          "type": "list_item",
+          "marker": "3.",
+          "text": "GST Compensation Cess distribution falls under Article 270."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1 and 3 only",
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only"
+      ],
+      "raw_options": [
+        "1 and 3 only",
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 7,
+        "stem_top": 689.5899999999999,
+        "stem_bottom": 744.0999999999999,
+        "first_opt_top": 95.41999999999996,
+        "opts_bottom": 787.536,
+        "ans_top": 109.81999999999994,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 30,
+      "section": "general_awareness",
+      "topic": "General Science",
+      "render_mode": "text",
+      "stem": "Lysosomes primarily function in cells to:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Lysosomes primarily function in cells to:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Synthesize proteins",
+        "Perform intracellular digestion",
+        "Generate energy",
+        "Store genetic data"
+      ],
+      "raw_options": [
+        "Synthesize proteins",
+        "Perform intracellular digestion",
+        "Generate energy",
+        "Store genetic data"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 138.89,
+        "stem_bottom": 149.92999999999995,
+        "first_opt_top": 153.28999999999996,
+        "opts_bottom": 207.76999999999998,
+        "ans_top": 211.39,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 31,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which landslide type features rotational backward movement of the displaced material?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which landslide type features rotational backward movement of the displaced material?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Rockslide",
+        "Rock fall",
+        "Slump",
+        "Debris fall"
+      ],
+      "raw_options": [
+        "Rockslide",
+        "Rock fall",
+        "Slump",
+        "Debris fall"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 240.18999999999994,
+        "stem_bottom": 251.2299999999999,
+        "first_opt_top": 254.83000000000004,
+        "opts_bottom": 309.3399999999999,
+        "ans_top": 312.69999999999993,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 32,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which defines light industries accurately?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which defines light industries accurately?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Processing of heavy ores and minerals",
+        "Manufacturing of large industrial equipment",
+        "Dependence on bulky raw materials",
+        "Utilizing lightweight inputs for consumer products"
+      ],
+      "raw_options": [
+        "Processing of heavy ores and minerals",
+        "Manufacturing of large industrial equipment",
+        "Dependence on bulky raw materials",
+        "Utilizing lightweight inputs for consumer products"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 341.74,
+        "stem_bottom": 352.78,
+        "first_opt_top": 356.14,
+        "opts_bottom": 410.87999999999994,
+        "ans_top": 414.24,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 33,
+      "section": "general_awareness",
+      "topic": "Geography & Environment",
+      "render_mode": "text",
+      "stem": "Evaluate these statements on India’s water-sharing agreements with neighbors:\n1. The 1996 Mahakali Treaty with Nepal covers joint Mahakali River development and the Pancheshwar Project.\n2. The 1996 Ganga Water Treaty with Bangladesh enables year-round Ganga water allocation at Farakka. Which is/are correct?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Evaluate these statements on India’s water-sharing agreements with neighbors:"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "The 1996 Mahakali Treaty with Nepal covers joint Mahakali River development and the Pancheshwar Project."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "The 1996 Ganga Water Treaty with Bangladesh enables year-round Ganga water allocation at Farakka. Which is/are correct?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "raw_options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 443.28,
+        "stem_bottom": 497.78,
+        "first_opt_top": 501.14,
+        "opts_bottom": 555.65,
+        "ans_top": 559.25,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 34,
+      "section": "general_awareness",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "Constructing sea walls and raising structures in a coastal area against sea-level rise mainly exemplifies:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Constructing sea walls and raising structures in a coastal area against sea-level rise mainly exemplifies:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Climate Change Mitigation",
+        "Carbon Sequestration",
+        "Geoengineering",
+        "Climate Change Adaptation"
+      ],
+      "raw_options": [
+        "Climate Change Mitigation",
+        "Carbon Sequestration",
+        "Geoengineering",
+        "Climate Change Adaptation"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 588.05,
+        "stem_bottom": 599.0899999999999,
+        "first_opt_top": 602.6899999999999,
+        "opts_bottom": 657.1899999999999,
+        "ans_top": 660.55,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 35,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which Indian leader spoke at a 2025 special session titled “Environment, COP-30, and Global Health”?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which Indian leader spoke at a 2025 special session titled “Environment, COP-30, and Global Health”?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Piyush Goyal",
+        "Hardeep Puri",
+        "Narendra Modi",
+        "S. Jaishankar"
+      ],
+      "raw_options": [
+        "Piyush Goyal",
+        "Hardeep Puri",
+        "Narendra Modi",
+        "S. Jaishankar"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 689.5899999999999,
+        "stem_bottom": 700.6299999999999,
+        "first_opt_top": 704.26,
+        "opts_bottom": 758.736,
+        "ans_top": 762.096,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 36,
+      "section": "general_awareness",
+      "topic": "Seating Arrangement & Direction",
+      "render_mode": "text",
+      "stem": "The Regulating Act of 1773 mainly reformed the East India Company’s administration in which two key domains?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Regulating Act of 1773 mainly reformed the East India Company’s administration in which two key domains?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Judicial processes and revenue systems",
+        "Military tactics and commercial policies",
+        "Home-country governance and Indian territorial authority",
+        "Ties with princely states and international diplomacy"
+      ],
+      "raw_options": [
+        "Judicial processes and revenue systems",
+        "Military tactics and commercial policies",
+        "Home-country governance and Indian territorial authority",
+        "Ties with princely states and international diplomacy"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 106.45999999999992,
+        "first_opt_top": 109.81999999999994,
+        "opts_bottom": 164.32999999999993,
+        "ans_top": 167.92999999999995,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 37,
+      "section": "general_awareness",
+      "topic": "Economy & Government Schemes",
+      "render_mode": "text",
+      "stem": "Assertion\n(A) and Reason\n(R) provided. Choose correctly:\nAssertion (A): UDAN Scheme boosts regional air links.\nReason (R): It offers viability gap funding to airlines.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Assertion"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) and Reason"
+        },
+        {
+          "type": "paragraph",
+          "text": "(R) provided. Choose correctly:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Assertion (A): UDAN Scheme boosts regional air links."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reason (R): It offers viability gap funding to airlines."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Both true, R explains A",
+        "Both true, R does not explain A",
+        "A true, R false",
+        "A false, R true"
+      ],
+      "raw_options": [
+        "Both true, R explains A",
+        "Both true, R does not explain A",
+        "A true, R false",
+        "A false, R true"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 196.73000000000002,
+        "stem_bottom": 236.82999999999993,
+        "first_opt_top": 240.18999999999994,
+        "opts_bottom": 294.93999999999994,
+        "ans_top": 298.29999999999995,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 38,
+      "section": "general_awareness",
+      "topic": "Indian Polity & Constitution",
+      "render_mode": "text",
+      "stem": "Schedule VII of the Indian Constitution lists:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Schedule VII of the Indian Constitution lists:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Election procedures",
+        "Three legislative lists",
+        "Emergency provisions",
+        "Judicial rules"
+      ],
+      "raw_options": [
+        "Election procedures",
+        "Three legislative lists",
+        "Emergency provisions",
+        "Judicial rules"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 327.3399999999999,
+        "stem_bottom": 338.37999999999994,
+        "first_opt_top": 341.74,
+        "opts_bottom": 396.23999999999995,
+        "ans_top": 399.84,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 39,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Per Oxford Economics’ Global Cities Index 2025, which pair of cities held onto their leading ranks?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Per Oxford Economics’ Global Cities Index 2025, which pair of cities held onto their leading ranks?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Tokyo and Beijing",
+        "London and New York",
+        "Paris and Rome",
+        "Berlin and Moscow"
+      ],
+      "raw_options": [
+        "Tokyo and Beijing",
+        "London and New York",
+        "Paris and Rome",
+        "Berlin and Moscow"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 428.64,
+        "stem_bottom": 439.67999999999995,
+        "first_opt_top": 443.28,
+        "opts_bottom": 497.78,
+        "ans_top": 501.14,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 40,
+      "section": "general_awareness",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "Assertion\n(A) and Reason\n(R) follow. Select the right choice:\nAssertion (A): Population explosion happens when death rates drop sharply while birth rates stay elevated. Reason (R): Changes in societal reproductive patterns occur immediately with healthcare advancements.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Assertion"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) and Reason"
+        },
+        {
+          "type": "paragraph",
+          "text": "(R) follow. Select the right choice:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Assertion (A): Population explosion happens when death rates drop sharply while birth rates stay elevated. Reason (R): Changes in societal reproductive patterns occur immediately with healthcare advancements."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Both A and R true, R explains A",
+        "Both true, R does not explain A",
+        "A true, R false",
+        "A false, R true"
+      ],
+      "raw_options": [
+        "Both A and R true, R explains A",
+        "Both true, R does not explain A",
+        "A true, R false",
+        "A false, R true"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 530.1800000000001,
+        "stem_bottom": 570.29,
+        "first_opt_top": 573.65,
+        "opts_bottom": 628.15,
+        "ans_top": 631.75,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 41,
+      "section": "general_awareness",
+      "topic": "Indian History & Culture",
+      "render_mode": "text",
+      "stem": "Read the statements below labeled as Assertion\n(A) and Reason (R). Select the appropriate option: Assertion (A): Humayun’s Tomb marked the first significant Mughal garden tomb and served as a direct model for the Taj Mahal's architecture.\nReason (R): It pioneered the charbagh garden design and double-domed structure typical of subsequent Mughal tombs.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Read the statements below labeled as Assertion"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) and Reason (R). Select the appropriate option: Assertion (A): Humayun’s Tomb marked the first significant Mughal garden tomb and served as a direct model for the Taj Mahal's architecture."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reason (R): It pioneered the charbagh garden design and double-domed structure typical of subsequent Mughal tombs."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Both A and R are true, and R correctly explains A",
+        "Both A and R are true, but R does not explain A",
+        "A is true, but R is false",
+        "A is false, but R is true"
+      ],
+      "raw_options": [
+        "Both A and R are true, and R correctly explains A",
+        "Both A and R are true, but R does not explain A",
+        "A is true, but R is false",
+        "A is false, but R is true"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 9,
+        "stem_top": 660.55,
+        "stem_bottom": 729.6999999999999,
+        "first_opt_top": 733.06,
+        "opts_bottom": 787.536,
+        "ans_top": 95.41999999999996,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 42,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Population density refers to:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Population density refers to:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Individuals per household",
+        "Persons per square kilometre",
+        "Persons per geographic region",
+        "Persons per district"
+      ],
+      "raw_options": [
+        "Individuals per household",
+        "Persons per square kilometre",
+        "Persons per geographic region",
+        "Persons per district"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 124.25,
+        "stem_bottom": 135.28999999999996,
+        "first_opt_top": 138.89,
+        "opts_bottom": 193.37,
+        "ans_top": 196.73000000000002,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 43,
+      "section": "general_awareness",
+      "topic": "Economy & Government Schemes",
+      "render_mode": "text",
+      "stem": "The key quantity allowing a satellite to sustain orbit without ongoing thrust is:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The key quantity allowing a satellite to sustain orbit without ongoing thrust is:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Mass",
+        "Gravitational force",
+        "Orbital velocity",
+        "Atmospheric drag"
+      ],
+      "raw_options": [
+        "Mass",
+        "Gravitational force",
+        "Orbital velocity",
+        "Atmospheric drag"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 225.78999999999996,
+        "stem_bottom": 236.82999999999993,
+        "first_opt_top": 240.18999999999994,
+        "opts_bottom": 294.93999999999994,
+        "ans_top": 298.29999999999995,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 44,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which ancient Indian ruler's governance was characterized by a strongly centralized administrative framework?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which ancient Indian ruler's governance was characterized by a strongly centralized administrative framework?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Harshavardhana",
+        "Samudragupta",
+        "Chandragupta Maurya",
+        "Pulakeshin II"
+      ],
+      "raw_options": [
+        "Harshavardhana",
+        "Samudragupta",
+        "Chandragupta Maurya",
+        "Pulakeshin II"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 327.3399999999999,
+        "stem_bottom": 338.37999999999994,
+        "first_opt_top": 341.74,
+        "opts_bottom": 396.23999999999995,
+        "ans_top": 399.84,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 45,
+      "section": "general_awareness",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "Per Bharatiya Nagarik Suraksha Sanhita (BNSS), the total permissible police custody duration, including periodic extensions by a magistrate, is:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Per Bharatiya Nagarik Suraksha Sanhita (BNSS), the total permissible police custody duration, including periodic extensions by a magistrate, is:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "15 days (initial, extendable)"
+      ],
+      "raw_options": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "15 days (initial, extendable)"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 428.64,
+        "stem_bottom": 454.31999999999994,
+        "first_opt_top": 457.7,
+        "opts_bottom": 512.18,
+        "ans_top": 515.78,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 46,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which option accurately describes the development of Indian classical music traditions?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which option accurately describes the development of Indian classical music traditions?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Jatis developed from ragas according to early scriptures",
+        "The 72-mela system originated with Bharata in the 13th century",
+        "Folk traditions initially relied on mela and grama scales",
+        "Ragas derived from jatis, with 72-mela system by Venkatamakhi"
+      ],
+      "raw_options": [
+        "Jatis developed from ragas according to early scriptures",
+        "The 72-mela system originated with Bharata in the 13th century",
+        "Folk traditions initially relied on mela and grama scales",
+        "Ragas derived from jatis, with 72-mela system by Venkatamakhi"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 544.61,
+        "stem_bottom": 555.65,
+        "first_opt_top": 559.25,
+        "opts_bottom": 613.73,
+        "ans_top": 617.1099999999999,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 47,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "What primarily drives the use of generative design in aerospace engineering?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What primarily drives the use of generative design in aerospace engineering?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Enabling smooth multi-payload system integration",
+        "Refining structures for lowest weight and highest durability",
+        "Boosting crew safety through redundant life-support features",
+        "Developing flexible propulsion systems"
+      ],
+      "raw_options": [
+        "Enabling smooth multi-payload system integration",
+        "Refining structures for lowest weight and highest durability",
+        "Boosting crew safety through redundant life-support features",
+        "Developing flexible propulsion systems"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 646.15,
+        "stem_bottom": 657.1899999999999,
+        "first_opt_top": 660.55,
+        "opts_bottom": 715.3,
+        "ans_top": 718.66,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 48,
+      "section": "general_awareness",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "Which description fits The Adventures of Kakababu, Volume 1 by Sunil Gangopadhyaya?\n1. A groundbreaking Bengali adventure series starring detective Kakababu, blending mystery and cultural motifs.\n2. A satirical critique of governance in independent India.\n3. An autobiographical account of the author’s involvement in Bengal’s freedom struggle.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which description fits The Adventures of Kakababu, Volume 1 by Sunil Gangopadhyaya?"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "A groundbreaking Bengali adventure series starring detective Kakababu, blending mystery and cultural motifs."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "A satirical critique of governance in independent India."
+        },
+        {
+          "type": "list_item",
+          "marker": "3.",
+          "text": "An autobiographical account of the author’s involvement in Bengal’s freedom struggle."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only 1",
+        "Only 2",
+        "2 and 3",
+        "1, 2, and 3"
+      ],
+      "raw_options": [
+        "Only 1",
+        "Only 2",
+        "2 and 3",
+        "1, 2, and 3"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 109.81999999999994,
+        "stem_bottom": 164.32999999999993,
+        "first_opt_top": 167.92999999999995,
+        "opts_bottom": 222.42999999999995,
+        "ans_top": 225.78999999999996,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 49,
+      "section": "general_awareness",
+      "topic": "Current Affairs & Sports",
+      "render_mode": "text",
+      "stem": "In which event did Mary Kom secure her latest international gold medal?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In which event did Mary Kom secure her latest international gold medal?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Asian Games, Hangzhou",
+        "President’s Cup, Indonesia",
+        "Commonwealth Games, Birmingham",
+        "Olympic Games, Tokyo"
+      ],
+      "raw_options": [
+        "Asian Games, Hangzhou",
+        "President’s Cup, Indonesia",
+        "Commonwealth Games, Birmingham",
+        "Olympic Games, Tokyo"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 254.83000000000004,
+        "stem_bottom": 265.87,
+        "first_opt_top": 269.23,
+        "opts_bottom": 323.7399999999999,
+        "ans_top": 327.3399999999999,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 50,
+      "section": "general_awareness",
+      "topic": "Economy & Government Schemes",
+      "render_mode": "text",
+      "stem": "Pradhan Mantri Kisan Maandhan Yojana (PM-KMY) enrollment is open to farmers aged:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pradhan Mantri Kisan Maandhan Yojana (PM-KMY) enrollment is open to farmers aged:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "18–30 years",
+        "18–40 years",
+        "21–45 years",
+        "25–50 years"
+      ],
+      "raw_options": [
+        "18–30 years",
+        "18–40 years",
+        "21–45 years",
+        "25–50 years"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 356.14,
+        "stem_bottom": 367.17999999999995,
+        "first_opt_top": 370.8,
+        "opts_bottom": 425.28,
+        "ans_top": 428.64,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 51,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Let a = √5 + √7 and b = √12 + √3. Which is greater?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Let a = √5 + √7 and b = √12 + √3. Which is greater?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "a = b",
+        "a > b",
+        "a < b",
+        "Cannot be determined"
+      ],
+      "raw_options": [
+        "a = b",
+        "a > b",
+        "a < b",
+        "Cannot be determined"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 457.7,
+        "stem_bottom": 468.73999999999995,
+        "first_opt_top": 472.09999999999997,
+        "opts_bottom": 526.8199999999999,
+        "ans_top": 530.1800000000001,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 52,
+      "section": "quantitative_aptitude",
+      "topic": "Geometry & Mensuration",
+      "render_mode": "text",
+      "stem": "What is the central angle (in radians) of a sector with arc length 12 cm in a circle of radius 4 cm?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What is the central angle (in radians) of a sector with arc length 12 cm in a circle of radius 4 cm?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "2 radians",
+        "3 radians",
+        "4 radians",
+        "5 radians"
+      ],
+      "raw_options": [
+        "2 radians",
+        "3 radians",
+        "4 radians",
+        "5 radians"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 559.25,
+        "stem_bottom": 570.29,
+        "first_opt_top": 573.65,
+        "opts_bottom": 628.15,
+        "ans_top": 631.75,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 53,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "A firm ordered 15 premium machines and some standard machines. The price of a premium machine was 6 times that of a standard machine. By mistake, the number of premium and standard machines was interchanged in the delivery, which increased the total bill by 62.5%. What was the ratio of the number of premium machines to standard machines in the original order?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A firm ordered 15 premium machines and some standard machines. The price of a premium machine was 6 times that of a standard machine. By mistake, the number of premium and standard machines was interchanged in the delivery, which increased the total bill by 62.5%. What was the ratio of the number of premium machines to standard machines in the original order?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "3:7",
+        "4:9",
+        "1:2",
+        "2:5"
+      ],
+      "raw_options": [
+        "3:7",
+        "4:9",
+        "1:2",
+        "2:5"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 660.55,
+        "stem_bottom": 715.3,
+        "first_opt_top": 718.66,
+        "opts_bottom": 773.136,
+        "ans_top": 776.496,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 54,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "A circular garden has a radius of 18\nm. A 2.5 m wide pathway is constructed around it. What is the approximate area of the pathway?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A circular garden has a radius of 18"
+        },
+        {
+          "type": "paragraph",
+          "text": "m. A 2.5 m wide pathway is constructed around it. What is the approximate area of the pathway?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "282 m²",
+        "302 m²",
+        "314 m²",
+        "328 m² 3𝜋"
+      ],
+      "raw_options": [
+        "282 m²",
+        "302 m²",
+        "314 m²",
+        "328 m² 3𝜋"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 109.81999999999994,
+        "stem_bottom": 135.28999999999996,
+        "first_opt_top": 138.89,
+        "opts_bottom": 193.37,
+        "ans_top": 196.73000000000002,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 55,
+      "section": "quantitative_aptitude",
+      "topic": "Trigonometry",
+      "render_mode": "image_stem",
+      "stem": "3𝜋\nQ55. What is radians in degrees?\n2",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "3𝜋"
+        },
+        {
+          "type": "paragraph",
+          "text": "Q55. What is radians in degrees?"
+        },
+        {
+          "type": "paragraph",
+          "text": "2"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2025-09-12-s2/q055_stem.webp",
+      "full_image": null,
+      "options": [
+        "180°",
+        "210°",
+        "270°",
+        "300°"
+      ],
+      "raw_options": [
+        "180°",
+        "210°",
+        "270°",
+        "300°"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 224.06823999999995,
+        "stem_bottom": 243.9882399999999,
+        "first_opt_top": 245.47000000000003,
+        "opts_bottom": 299.9799999999999,
+        "ans_top": 303.58000000000004,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 56,
+      "section": "quantitative_aptitude",
+      "topic": "Algebra & Number System",
+      "render_mode": "text",
+      "stem": "Evaluate the continued fraction:\n1\n𝑥 =3+\n1\n2+ 1\n5+ 3",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Evaluate the continued fraction:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "𝑥 =3+"
+        },
+        {
+          "type": "paragraph",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "2+ 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "5+ 3"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "121/35",
+        "47/16",
+        "61/20",
+        "59/19"
+      ],
+      "raw_options": [
+        "121/35",
+        "47/16",
+        "61/20",
+        "59/19"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 332.38,
+        "stem_bottom": 375.23855999999995,
+        "first_opt_top": 377.03999999999996,
+        "opts_bottom": 431.75999999999993,
+        "ans_top": 435.12,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 57,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "M and N contribute to a business investment in the ratio 2:7. They earn a profit of ₹81,000. M is a working partner and receives 15% of the profit extra. What is M's total share?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "M and N contribute to a business investment in the ratio 2:7. They earn a profit of ₹81,000. M is a working partner and receives 15% of the profit extra. What is M's total share?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "₹24,000",
+        "₹27,450",
+        "₹30,000",
+        "₹33,000"
+      ],
+      "raw_options": [
+        "₹24,000",
+        "₹27,450",
+        "₹30,000",
+        "₹33,000"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 464.18,
+        "stem_bottom": 489.61999999999995,
+        "first_opt_top": 492.97999999999996,
+        "opts_bottom": 547.73,
+        "ans_top": 551.0899999999999,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 58,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "The number of yellow, red, and blue pens in a box is in the ratio 2:5:7. If 18 yellow pens, 12 red pens, and some blue pens are added to the box, the ratio of yellow, red, and blue pens becomes 3:6:8. Determine the number of blue pens added.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The number of yellow, red, and blue pens in a box is in the ratio 2:5:7. If 18 yellow pens, 12 red pens, and some blue pens are added to the box, the ratio of yellow, red, and blue pens becomes 3:6:8. Determine the number of blue pens added."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "raw_options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 580.13,
+        "stem_bottom": 620.2099999999999,
+        "first_opt_top": 623.5899999999999,
+        "opts_bottom": 678.0699999999999,
+        "ans_top": 681.43,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 59,
+      "section": "quantitative_aptitude",
+      "topic": "Simple & Compound Interest",
+      "render_mode": "text",
+      "stem": "Find the compound interest on ₹12,000 at 8% per annum for 2 years 9 months, interest compounded annually.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the compound interest on ₹12,000 at 8% per annum for 2 years 9 months, interest compounded annually."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "₹2,456",
+        "₹2,598",
+        "₹2,712",
+        "₹2,837"
+      ],
+      "raw_options": [
+        "₹2,456",
+        "₹2,598",
+        "₹2,712",
+        "₹2,837"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 12,
+        "stem_top": 710.5,
+        "stem_bottom": 721.54,
+        "first_opt_top": 725.14,
+        "opts_bottom": 779.616,
+        "ans_top": 95.41999999999996,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 60,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "An 80-litre mixture contains milk and water in the ratio 7:1. Some quantity of this mixture is removed and replaced with pure milk. If the final ratio of milk to water becomes 15:1, how many litres of the mixture were replaced?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An 80-litre mixture contains milk and water in the ratio 7:1. Some quantity of this mixture is removed and replaced with pure milk. If the final ratio of milk to water becomes 15:1, how many litres of the mixture were replaced?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "40 litres",
+        "18 litres",
+        "32 litres",
+        "46 litres"
+      ],
+      "raw_options": [
+        "40 litres",
+        "18 litres",
+        "32 litres",
+        "46 litres"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 124.25,
+        "stem_bottom": 149.92999999999995,
+        "first_opt_top": 153.28999999999996,
+        "opts_bottom": 207.76999999999998,
+        "ans_top": 211.39,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 61,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "P and Q invest ₹50,000 and ₹75,000 respectively in a business. What is P's share in a profit of ₹60,000?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "P and Q invest ₹50,000 and ₹75,000 respectively in a business. What is P's share in a profit of ₹60,000?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "₹18,000",
+        "₹22,000",
+        "₹24,000",
+        "₹26,000"
+      ],
+      "raw_options": [
+        "₹18,000",
+        "₹22,000",
+        "₹24,000",
+        "₹26,000"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 240.18999999999994,
+        "stem_bottom": 251.2299999999999,
+        "first_opt_top": 254.83000000000004,
+        "opts_bottom": 309.3399999999999,
+        "ans_top": 312.69999999999993,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 62,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "In a group of 60 workers, the average monthly income per worker is ₹28,000. If 20 junior workers average ₹18,000 each, what is the average monthly income (in ₹) for the senior workers?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In a group of 60 workers, the average monthly income per worker is ₹28,000. If 20 junior workers average ₹18,000 each, what is the average monthly income (in ₹) for the senior workers?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "₹33,000",
+        "₹34,500",
+        "₹35,000",
+        "₹36,500"
+      ],
+      "raw_options": [
+        "₹33,000",
+        "₹34,500",
+        "₹35,000",
+        "₹36,500"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 341.74,
+        "stem_bottom": 367.17999999999995,
+        "first_opt_top": 370.8,
+        "opts_bottom": 425.28,
+        "ans_top": 428.64,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 63,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "X, Y, and Z can complete a project in 20, 40, and 60 days respectively. X works every day, while Y and Z join X every third day. How long will it take to finish the project?\n7",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "X, Y, and Z can complete a project in 20, 40, and 60 days respectively. X works every day, while Y and Z join X every third day. How long will it take to finish the project?"
+        },
+        {
+          "type": "paragraph",
+          "text": "7"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "12 days 2 5",
+        "15 days 6 5",
+        "16 days 6",
+        "18 days"
+      ],
+      "raw_options": [
+        "12 days 2 5",
+        "15 days 6 5",
+        "16 days 6",
+        "18 days"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 457.7,
+        "stem_bottom": 492.93823999999995,
+        "first_opt_top": 489.38,
+        "opts_bottom": 557.3299999999999,
+        "ans_top": 560.9300000000001,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 64,
+      "section": "quantitative_aptitude",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "The price of diesel increased by 6%. Before the increase, the price was ₹85 per litre. A person travels 2880 km every month and his vehicle gives a mileage of 12 km per litre. What is the increase in the monthly expenditure (to the nearest ₹) on his travel due to the price hike?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The price of diesel increased by 6%. Before the increase, the price was ₹85 per litre. A person travels 2880 km every month and his vehicle gives a mileage of 12 km per litre. What is the increase in the monthly expenditure (to the nearest ₹) on his travel due to the price hike?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "₹1,224",
+        "₹1,428",
+        "₹1,530",
+        "₹1,632"
+      ],
+      "raw_options": [
+        "₹1,224",
+        "₹1,428",
+        "₹1,530",
+        "₹1,632"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 589.73,
+        "stem_bottom": 629.8299999999999,
+        "first_opt_top": 633.1899999999999,
+        "opts_bottom": 687.91,
+        "ans_top": 691.27,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 65,
+      "section": "quantitative_aptitude",
+      "topic": "Trigonometry",
+      "render_mode": "image_stem",
+      "stem": "If sin (90° - B) = 2/3, what is cos B?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If sin (90° - B) = 2/3, what is cos B?"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2025-09-12-s2/q065_stem.webp",
+      "full_image": null,
+      "options": [
+        "1/3",
+        "2/3",
+        "√5/3",
+        "√3/2"
+      ],
+      "raw_options": [
+        "1/3",
+        "2/3",
+        "√5/3",
+        "√3/2"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 13,
+        "stem_top": 720.3399999999999,
+        "stem_bottom": 731.38,
+        "first_opt_top": 95.41999999999996,
+        "opts_bottom": 774.8159999999999,
+        "ans_top": 109.81999999999994,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 66,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "image_stem",
+      "stem": "If x = √11, determine the value of x + 1/x.\n12 √ 11",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If x = √11, determine the value of x + 1/x."
+        },
+        {
+          "type": "paragraph",
+          "text": "12 √ 11"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2025-09-12-s2/q066_stem.webp",
+      "full_image": null,
+      "options": [
+        "11 11 √ 11",
+        "12 13 √ 11",
+        "11 14 √ 11",
+        "11"
+      ],
+      "raw_options": [
+        "11 11 √ 11",
+        "12 13 √ 11",
+        "11 14 √ 11",
+        "11"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 138.89,
+        "stem_bottom": 159.70999999999992,
+        "first_opt_top": 155.92999999999995,
+        "opts_bottom": 226.26999999999998,
+        "ans_top": 232.26999999999998,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 67,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "Two similar circles have their radii in the ratio 5:8. What is the ratio of their areas?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Two similar circles have their radii in the ratio 5:8. What is the ratio of their areas?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "5:8",
+        "25:64",
+        "8:5",
+        "64:25"
+      ],
+      "raw_options": [
+        "5:8",
+        "25:64",
+        "8:5",
+        "64:25"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 261.30999999999995,
+        "stem_bottom": 272.3499999999999,
+        "first_opt_top": 275.94999999999993,
+        "opts_bottom": 330.4599999999999,
+        "ans_top": 333.82,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 68,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "The ratio of efficiencies of workers A and B is 4:3. If A can finish a task in 18 days, in how many days will B finish the same task alone?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The ratio of efficiencies of workers A and B is 4:3. If A can finish a task in 18 days, in how many days will B finish the same task alone?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "20 days",
+        "22 days",
+        "24 days",
+        "26 days"
+      ],
+      "raw_options": [
+        "20 days",
+        "22 days",
+        "24 days",
+        "26 days"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 362.86,
+        "stem_bottom": 388.31999999999994,
+        "first_opt_top": 391.91999999999996,
+        "opts_bottom": 446.4,
+        "ans_top": 449.78,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 69,
+      "section": "quantitative_aptitude",
+      "topic": "Time, Speed & Distance",
+      "render_mode": "text",
+      "stem": "On a circular track, a motorcycle starts from point X and a truck starts from point Y, which is 500 m ahead of X in the direction of motion. The speed of the motorcycle is 20 m/s and that of the truck is 8 m/s. If the length of the track is 2.2 km, how much distance will the motorcycle have travelled when it overtakes the truck for the first time?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "On a circular track, a motorcycle starts from point X and a truck starts from point Y, which is 500 m ahead of X in the direction of motion. The speed of the motorcycle is 20 m/s and that of the truck is 8 m/s. If the length of the track is 2.2 km, how much distance will the motorcycle have travelled when it overtakes the truck for the first time?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "845.5 m",
+        "1,800 m",
+        "800 m",
+        "833.33m"
+      ],
+      "raw_options": [
+        "845.5 m",
+        "1,800 m",
+        "800 m",
+        "833.33m"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 478.82,
+        "stem_bottom": 518.9,
+        "first_opt_top": 522.26,
+        "opts_bottom": 576.77,
+        "ans_top": 580.3699999999999,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 70,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "A baker buys three types of flour: wheat, rye, and oats. Wheat flour costs 5 for ₹40, rye flour at 6 for ₹45, and oats flour at 4 for ₹36. He mixes them in the ratio 2:2:3. He sells all the mixed flour at 3 for ₹32. What is his approximate profit or loss percentage?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A baker buys three types of flour: wheat, rye, and oats. Wheat flour costs 5 for ₹40, rye flour at 6 for ₹45, and oats flour at 4 for ₹36. He mixes them in the ratio 2:2:3. He sells all the mixed flour at 3 for ₹32. What is his approximate profit or loss percentage?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Loss of 28%",
+        "Profit of 27%",
+        "Profit of 29%",
+        "Loss of 19%"
+      ],
+      "raw_options": [
+        "Loss of 28%",
+        "Profit of 27%",
+        "Profit of 29%",
+        "Loss of 19%"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 609.17,
+        "stem_bottom": 649.27,
+        "first_opt_top": 652.63,
+        "opts_bottom": 707.3499999999999,
+        "ans_top": 710.74,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 71,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "The ratio of male to female employees in a company is 8:6. If 15 more female employees join the company, the new ratio of male to female employees becomes 8:7. What is the total number of employees in the company initially?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The ratio of male to female employees in a company is 8:6. If 15 more female employees join the company, the new ratio of male to female employees becomes 8:7. What is the total number of employees in the company initially?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "180",
+        "210",
+        "252",
+        "315"
+      ],
+      "raw_options": [
+        "180",
+        "210",
+        "252",
+        "315"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 14,
+        "stem_top": 739.776,
+        "stem_bottom": 765.216,
+        "first_opt_top": 95.41999999999996,
+        "opts_bottom": 779.616,
+        "ans_top": 138.89,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 72,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "The angles of a cyclic quadrilateral are in the ratio 1:3:4:4. What is the measure of the largest angle?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The angles of a cyclic quadrilateral are in the ratio 1:3:4:4. What is the measure of the largest angle?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "90°",
+        "108°",
+        "120°",
+        "135°"
+      ],
+      "raw_options": [
+        "90°",
+        "108°",
+        "120°",
+        "135°"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 167.92999999999995,
+        "stem_bottom": 178.9699999999999,
+        "first_opt_top": 182.33000000000004,
+        "opts_bottom": 236.82999999999993,
+        "ans_top": 240.18999999999994,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 73,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "If 𝑥 = √ 5+2√6 , then determine the value of x² + 3x - 15?\n5−2√6",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If 𝑥 = √ 5+2√6 , then determine the value of x² + 3x - 15?"
+        },
+        {
+          "type": "paragraph",
+          "text": "5−2√6"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "50 + 12√6",
+        "40 + 23√6",
+        "49 + 26√6",
+        "35 + 15√6"
+      ],
+      "raw_options": [
+        "50 + 12√6",
+        "40 + 23√6",
+        "49 + 26√6",
+        "35 + 15√6"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 273.26824,
+        "stem_bottom": 293.69823999999994,
+        "first_opt_top": 297.34000000000003,
+        "opts_bottom": 351.81999999999994,
+        "ans_top": 355.18,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 74,
+      "section": "quantitative_aptitude",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "If cosA = 5/13 and A is acute, find tanA.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If cosA = 5/13 and A is acute, find tanA."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "5/12",
+        "12/5",
+        "13/12",
+        "12/13"
+      ],
+      "raw_options": [
+        "5/12",
+        "12/5",
+        "13/12",
+        "12/13"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 384.24,
+        "stem_bottom": 395.28,
+        "first_opt_top": 398.64,
+        "opts_bottom": 453.11999999999995,
+        "ans_top": 456.74,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 75,
+      "section": "quantitative_aptitude",
+      "topic": "Geography & Environment",
+      "render_mode": "text",
+      "stem": "The line 3x + 2y = 12 passes through which of the following points?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The line 3x + 2y = 12 passes through which of the following points?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "(2, 3)",
+        "(4, 1)",
+        "(1, 6)",
+        "(1, 4)"
+      ],
+      "raw_options": [
+        "(2, 3)",
+        "(4, 1)",
+        "(1, 6)",
+        "(1, 4)"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 485.53999999999996,
+        "stem_bottom": 496.5799999999999,
+        "first_opt_top": 500.18,
+        "opts_bottom": 554.6899999999999,
+        "ans_top": 558.05,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 76,
+      "section": "english",
+      "topic": "One-Word Substitution",
+      "render_mode": "text",
+      "stem": "Choose the correct one-word substitute for:\n‘A person who avoids pleasures and lives with strict self-discipline’.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the correct one-word substitute for:"
+        },
+        {
+          "type": "paragraph",
+          "text": "‘A person who avoids pleasures and lives with strict self-discipline’."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Skeptic",
+        "Ascetic",
+        "Mystic",
+        "Agnostic"
+      ],
+      "raw_options": [
+        "Skeptic",
+        "Ascetic",
+        "Mystic",
+        "Agnostic"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 587.0899999999999,
+        "stem_bottom": 612.53,
+        "first_opt_top": 616.15,
+        "opts_bottom": 670.6299999999999,
+        "ans_top": 673.99,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 77,
+      "section": "english",
+      "topic": "Vocabulary: Synonyms & Antonyms",
+      "render_mode": "text",
+      "stem": "Select the most appropriate synonym of the given word: ABJURE",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the most appropriate synonym of the given word: ABJURE"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Demand",
+        "Accept",
+        "Renounce",
+        "Retain"
+      ],
+      "raw_options": [
+        "Demand",
+        "Accept",
+        "Renounce",
+        "Retain"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 703.06,
+        "stem_bottom": 714.0999999999999,
+        "first_opt_top": 717.4599999999999,
+        "opts_bottom": 772.1759999999999,
+        "ans_top": 775.536,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 78,
+      "section": "english",
+      "topic": "Time, Speed & Distance",
+      "render_mode": "text",
+      "stem": "Choose the most suitable option to replace the highlighted part of the sentence:\nNo sooner had I arrived at the platform when the train left.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the most suitable option to replace the highlighted part of the sentence:"
+        },
+        {
+          "type": "paragraph",
+          "text": "No sooner had I arrived at the platform when the train left."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "than the train left",
+        "then the train left",
+        "when the train had left",
+        "than did the train leave"
+      ],
+      "raw_options": [
+        "than the train left",
+        "then the train left",
+        "when the train had left",
+        "than did the train leave"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 109.81999999999994,
+        "stem_bottom": 135.28999999999996,
+        "first_opt_top": 138.89,
+        "opts_bottom": 193.37,
+        "ans_top": 196.73000000000002,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 79,
+      "section": "english",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "What key democratic role of social media is highlighted in the passage?\nRead the following passage and answer the questions based on the passage:\nThe rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What key democratic role of social media is highlighted in the passage?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the following passage and answer the questions based on the passage:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Increasing entertainment content",
+        "Eliminating printed newspapers",
+        "Enabling wider circulation of information and ideas",
+        "Creating labour unions"
+      ],
+      "raw_options": [
+        "Increasing entertainment content",
+        "Eliminating printed newspapers",
+        "Enabling wider circulation of information and ideas",
+        "Creating labour unions"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 225.78999999999996,
+        "stem_bottom": 526.8199999999999,
+        "first_opt_top": 530.1800000000001,
+        "opts_bottom": 584.6899999999999,
+        "ans_top": 588.05,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 80,
+      "section": "english",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "Why does the author describe social media as a “double-edged” force in democracy?\nRead the following passage and answer the questions based on the passage:\nThe rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Why does the author describe social media as a “double-edged” force in democracy?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the following passage and answer the questions based on the passage:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "It is inexpensive to use",
+        "It focuses mostly on images and videos",
+        "It spreads both reliable information and false narratives",
+        "It connects people globally"
+      ],
+      "raw_options": [
+        "It is inexpensive to use",
+        "It focuses mostly on images and videos",
+        "It spreads both reliable information and false narratives",
+        "It connects people globally"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 16,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 787.536,
+        "first_opt_top": 225.78999999999996,
+        "opts_bottom": 280.27,
+        "ans_top": 283.9,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 81,
+      "section": "english",
+      "topic": "Reading Comprehension",
+      "render_mode": "text",
+      "stem": "According to the passage, what helps previously unheard groups gain attention on social media? Read the following passage and answer the questions based on the passage:\nThe rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "According to the passage, what helps previously unheard groups gain attention on social media? Read the following passage and answer the questions based on the passage:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Newspaper editors and boards",
+        "Strict journalistic gatekeeping",
+        "Viral momentum along with citizen-led movements",
+        "Government press agencies"
+      ],
+      "raw_options": [
+        "Newspaper editors and boards",
+        "Strict journalistic gatekeeping",
+        "Viral momentum along with citizen-led movements",
+        "Government press agencies"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 16,
+        "stem_top": 312.69999999999993,
+        "stem_bottom": 613.73,
+        "first_opt_top": 617.1099999999999,
+        "opts_bottom": 671.5899999999999,
+        "ans_top": 675.1899999999999,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 82,
+      "section": "english",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "What remedy does the author emphasize to reduce misuse of social media in democratic systems? Read the following passage and answer the questions based on the passage:\nThe rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What remedy does the author emphasize to reduce misuse of social media in democratic systems? Read the following passage and answer the questions based on the passage:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Promoting meme-based communication",
+        "Allowing unrestricted posting of all content",
+        "Media awareness and transparency of algorithms",
+        "Enforcing worldwide censorship"
+      ],
+      "raw_options": [
+        "Promoting meme-based communication",
+        "Allowing unrestricted posting of all content",
+        "Media awareness and transparency of algorithms",
+        "Enforcing worldwide censorship"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 17,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 787.536,
+        "first_opt_top": 312.69999999999993,
+        "opts_bottom": 367.17999999999995,
+        "ans_top": 370.8,
+        "ans_page": 17
+      }
+    },
+    {
+      "n": 83,
+      "section": "english",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": ". What factor decides whether social media strengthens or weakens democracy, as per the passage? Read the following passage and answer the questions based on the passage:\nThe rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": ". What factor decides whether social media strengthens or weakens democracy, as per the passage? Read the following passage and answer the questions based on the passage:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The amount of political advertising",
+        "The revenue model of platforms",
+        "Ethical use driven by societal intent",
+        "The influence of online celebrities"
+      ],
+      "raw_options": [
+        "The amount of political advertising",
+        "The revenue model of platforms",
+        "Ethical use driven by societal intent",
+        "The influence of online celebrities"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 17,
+        "min_page": 17,
+        "max_page": 17,
+        "stem_top": 399.84,
+        "stem_bottom": 700.6299999999999,
+        "first_opt_top": 704.26,
+        "opts_bottom": 758.736,
+        "ans_top": 762.096,
+        "ans_page": 17
+      }
+    },
+    {
+      "n": 84,
+      "section": "english",
+      "topic": "Vocabulary: Synonyms & Antonyms",
+      "render_mode": "text",
+      "stem": "Select the most appropriate antonym of the given word: POTENT",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the most appropriate antonym of the given word: POTENT"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Strong",
+        "Robust",
+        "Powerful",
+        "Feeble"
+      ],
+      "raw_options": [
+        "Strong",
+        "Robust",
+        "Powerful",
+        "Feeble"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 18,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 106.45999999999992,
+        "first_opt_top": 109.81999999999994,
+        "opts_bottom": 164.32999999999993,
+        "ans_top": 167.92999999999995,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 85,
+      "section": "english",
+      "topic": "Direct & Indirect Speech",
+      "render_mode": "text",
+      "stem": "A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech:\nThe librarian of Public library said that silence must be maintained in the reading hall.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The librarian of Public library said that silence must be maintained in the reading hall."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "“Silence should be maintained in the reading hall,” said the librarian of public library.",
+        "“You will maintain silence in the reading hall,” said the librarian of public library.",
+        "“Maintain silence in the reading hall,” said the librarian of public library.",
+        "“Must you maintain silence in the reading hall?” asked the librarian of public library."
+      ],
+      "raw_options": [
+        "“Silence should be maintained in the reading hall,” said the librarian of public library.",
+        "“You will maintain silence in the reading hall,” said the librarian of public library.",
+        "“Maintain silence in the reading hall,” said the librarian of public library.",
+        "“Must you maintain silence in the reading hall?” asked the librarian of public library."
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 18,
+        "stem_top": 196.73000000000002,
+        "stem_bottom": 236.82999999999993,
+        "first_opt_top": 240.18999999999994,
+        "opts_bottom": 294.93999999999994,
+        "ans_top": 298.29999999999995,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 86,
+      "section": "english",
+      "topic": "Statement & Assumption / Argument",
+      "render_mode": "text",
+      "stem": "Select the correct option:\nThe committee meets on Monday, ___ the final decision will be announced.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correct option:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The committee meets on Monday, ___ the final decision will be announced."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "whereupon",
+        "at then",
+        "when",
+        "on which"
+      ],
+      "raw_options": [
+        "whereupon",
+        "at then",
+        "when",
+        "on which"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 18,
+        "stem_top": 327.3399999999999,
+        "stem_bottom": 352.78,
+        "first_opt_top": 356.14,
+        "opts_bottom": 410.87999999999994,
+        "ans_top": 414.24,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 87,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Select the correct option:\nOnly a complete paradigm shift can ___ the deeply entrenched bureaucratic inertia.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correct option:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Only a complete paradigm shift can ___ the deeply entrenched bureaucratic inertia."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "discourage",
+        "dislodge",
+        "disillusion",
+        "persuasion"
+      ],
+      "raw_options": [
+        "discourage",
+        "dislodge",
+        "disillusion",
+        "persuasion"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 18,
+        "stem_top": 443.28,
+        "stem_bottom": 468.73999999999995,
+        "first_opt_top": 472.09999999999997,
+        "opts_bottom": 526.8199999999999,
+        "ans_top": 530.1800000000001,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 88,
+      "section": "english",
+      "topic": "Direct & Indirect Speech",
+      "render_mode": "text",
+      "stem": "A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech:\nShe said, “I met him yesterday morning.”",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech:"
+        },
+        {
+          "type": "paragraph",
+          "text": "She said, “I met him yesterday morning.”"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "She said she had met him the previous morning.",
+        "She said she has met him yesterday morning.",
+        "She said she was meeting him yesterday morning.",
+        "She said she had meet him the previous morning."
+      ],
+      "raw_options": [
+        "She said she had met him the previous morning.",
+        "She said she has met him yesterday morning.",
+        "She said she was meeting him yesterday morning.",
+        "She said she had meet him the previous morning."
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 18,
+        "stem_top": 559.25,
+        "stem_bottom": 599.0899999999999,
+        "first_opt_top": 602.6899999999999,
+        "opts_bottom": 657.1899999999999,
+        "ans_top": 660.55,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 89,
+      "section": "english",
+      "topic": "Spelling Correction",
+      "render_mode": "text",
+      "stem": "Spot the correct spelling of a drug-effect psychology field.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Spot the correct spelling of a drug-effect psychology field."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Psychopharmacolgy",
+        "Psychopharmacology",
+        "Psychopharmocology",
+        "Psychopharmecology"
+      ],
+      "raw_options": [
+        "Psychopharmacolgy",
+        "Psychopharmacology",
+        "Psychopharmocology",
+        "Psychopharmecology"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 18,
+        "stem_top": 689.5899999999999,
+        "stem_bottom": 700.6299999999999,
+        "first_opt_top": 704.26,
+        "opts_bottom": 758.736,
+        "ans_top": 762.096,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 90,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Select the correct option:\nNeither the project lead ___ the team members were prepared for the audit.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correct option:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Neither the project lead ___ the team members were prepared for the audit."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "or",
+        "nor",
+        "either",
+        "nor did"
+      ],
+      "raw_options": [
+        "or",
+        "nor",
+        "either",
+        "nor did"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 120.8599999999999,
+        "first_opt_top": 124.25,
+        "opts_bottom": 178.9699999999999,
+        "ans_top": 182.33000000000004,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 91,
+      "section": "english",
+      "topic": "Geography & Environment",
+      "render_mode": "text",
+      "stem": "Change the following from active to passive:\nCitizens can rarely access archived stamps without clearance.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Change the following from active to passive:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Citizens can rarely access archived stamps without clearance."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Archived stamps can rarely being accessed without clearance.",
+        "Archived stamps could rarely be accessed without clearance.",
+        "Archived stamps can rarely be accessed without clearance.",
+        "Archived stamps are rarely able to be accessed without clearance."
+      ],
+      "raw_options": [
+        "Archived stamps can rarely being accessed without clearance.",
+        "Archived stamps could rarely be accessed without clearance.",
+        "Archived stamps can rarely be accessed without clearance.",
+        "Archived stamps are rarely able to be accessed without clearance."
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 211.39,
+        "stem_bottom": 236.82999999999993,
+        "first_opt_top": 240.18999999999994,
+        "opts_bottom": 294.93999999999994,
+        "ans_top": 298.29999999999995,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 92,
+      "section": "english",
+      "topic": "Active & Passive Voice",
+      "render_mode": "text",
+      "stem": "Convert the sentence provided below from its passive voice structure to an active voice structure: The parcel is delivered to the reception desk every evening.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Convert the sentence provided below from its passive voice structure to an active voice structure: The parcel is delivered to the reception desk every evening."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The reception desk delivers the parcel every evening.",
+        "Someone delivers the parcel to the reception desk every evening.",
+        "The reception desk has delivered the parcel every evening.",
+        "The parcel delivers itself to the reception desk every evening."
+      ],
+      "raw_options": [
+        "The reception desk delivers the parcel every evening.",
+        "Someone delivers the parcel to the reception desk every evening.",
+        "The reception desk has delivered the parcel every evening.",
+        "The parcel delivers itself to the reception desk every evening."
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 327.3399999999999,
+        "stem_bottom": 352.78,
+        "first_opt_top": 356.14,
+        "opts_bottom": 410.87999999999994,
+        "ans_top": 414.24,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 93,
+      "section": "english",
+      "topic": "Para Jumbles & Sentence Rearrangement",
+      "render_mode": "text",
+      "stem": "Rearrange the following sentences to form a coherent paragraph:\n1. Consequently, effective communication depends on more than merely the words we speak.\n2. Non-verbal signals, such as tone, facial expressions, and gestures, may communicate more than the spoken message itself.\n3. Communication is a multifaceted process that involves sharing information, ideas, and emotions between people.\n4. Often, it is these subtle cues that reveal how a message is truly meant or received.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Rearrange the following sentences to form a coherent paragraph:"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "Consequently, effective communication depends on more than merely the words we speak."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "Non-verbal signals, such as tone, facial expressions, and gestures, may communicate more than the spoken message itself."
+        },
+        {
+          "type": "list_item",
+          "marker": "3.",
+          "text": "Communication is a multifaceted process that involves sharing information, ideas, and emotions between people."
+        },
+        {
+          "type": "list_item",
+          "marker": "4.",
+          "text": "Often, it is these subtle cues that reveal how a message is truly meant or received."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "3, 2, 1, 4",
+        "2, 4, 1, 3",
+        "1, 4, 3, 2",
+        "3, 4, 2, 1"
+      ],
+      "raw_options": [
+        "3, 2, 1, 4",
+        "2, 4, 1, 3",
+        "1, 4, 3, 2",
+        "3, 4, 2, 1"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 443.28,
+        "stem_bottom": 526.8199999999999,
+        "first_opt_top": 530.1800000000001,
+        "opts_bottom": 584.6899999999999,
+        "ans_top": 588.05,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 94,
+      "section": "english",
+      "topic": "Spotting Errors & Sentence Correction",
+      "render_mode": "text",
+      "stem": "Find the part of the sentence that contains an error:\nMuch of what seems to be coordination (1) / among the regulatory bodies and private stakeholders (2) / are, in reality, coincidental overlaps (3) / arising from differing mandates (4).",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the part of the sentence that contains an error:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Much of what seems to be coordination (1) / among the regulatory bodies and private stakeholders (2) / are, in reality, coincidental overlaps (3) / arising from differing mandates (4)."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)"
+      ],
+      "raw_options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 617.1099999999999,
+        "stem_bottom": 657.1899999999999,
+        "first_opt_top": 660.55,
+        "opts_bottom": 715.3,
+        "ans_top": 718.66,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 95,
+      "section": "english",
+      "topic": "Spotting Errors & Sentence Correction",
+      "render_mode": "text",
+      "stem": "Find the part of the sentence that contains an error:\nThat the policy omits provisions for backward compatibility (1) / is less troubling than the belief (2) / that all regional bodies will, without any pressure, (3) / complies with the central directive as issued (4).",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the part of the sentence that contains an error:"
+        },
+        {
+          "type": "paragraph",
+          "text": "That the policy omits provisions for backward compatibility (1) / is less troubling than the belief (2) / that all regional bodies will, without any pressure, (3) / complies with the central directive as issued (4)."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)"
+      ],
+      "raw_options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 20,
+        "min_page": 20,
+        "max_page": 20,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 135.28999999999996,
+        "first_opt_top": 138.89,
+        "opts_bottom": 193.37,
+        "ans_top": 196.73000000000002,
+        "ans_page": 20
+      }
+    },
+    {
+      "n": 96,
+      "section": "english",
+      "topic": "Spelling Correction",
+      "render_mode": "text",
+      "stem": "Identify the misspelt word:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Identify the misspelt word:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Perseverance",
+        "Supersede",
+        "Privillage",
+        "Mischievous"
+      ],
+      "raw_options": [
+        "Perseverance",
+        "Supersede",
+        "Privillage",
+        "Mischievous"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 20,
+        "min_page": 20,
+        "max_page": 20,
+        "stem_top": 225.78999999999996,
+        "stem_bottom": 236.82999999999993,
+        "first_opt_top": 240.18999999999994,
+        "opts_bottom": 294.93999999999994,
+        "ans_top": 298.29999999999995,
+        "ans_page": 20
+      }
+    },
+    {
+      "n": 97,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Select the sentence containing the homonym of the highlighted word:\nThe prince’s gules stood out clearly on the family coat of arms.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the sentence containing the homonym of the highlighted word:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The prince’s gules stood out clearly on the family coat of arms."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The shield displayed gules and argent in bold patterns.",
+        "The cook served a dish with a sauce of rich gules and cumin.",
+        "The gules trim on the banner represented a warrior tradition.",
+        "The guide described the meaning of gules to the audience."
+      ],
+      "raw_options": [
+        "The shield displayed gules and argent in bold patterns.",
+        "The cook served a dish with a sauce of rich gules and cumin.",
+        "The gules trim on the banner represented a warrior tradition.",
+        "The guide described the meaning of gules to the audience."
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 20,
+        "min_page": 20,
+        "max_page": 20,
+        "stem_top": 327.3399999999999,
+        "stem_bottom": 352.78,
+        "first_opt_top": 356.14,
+        "opts_bottom": 410.87999999999994,
+        "ans_top": 414.24,
+        "ans_page": 20
+      }
+    },
+    {
+      "n": 98,
+      "section": "english",
+      "topic": "Data Interpretation & Statistics",
+      "render_mode": "text",
+      "stem": "Choose the most suitable option to replace the highlighted part of the sentence:\nThe teacher asked to the student to submit the papers.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the most suitable option to replace the highlighted part of the sentence:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The teacher asked to the student to submit the papers."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "asked the student that submit the papers",
+        "requested the student to submit papers",
+        "asked the student to submit the papers",
+        "told to the student submit papers"
+      ],
+      "raw_options": [
+        "asked the student that submit the papers",
+        "requested the student to submit papers",
+        "asked the student to submit the papers",
+        "told to the student submit papers"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 20,
+        "min_page": 20,
+        "max_page": 20,
+        "stem_top": 443.28,
+        "stem_bottom": 468.73999999999995,
+        "first_opt_top": 472.09999999999997,
+        "opts_bottom": 526.8199999999999,
+        "ans_top": 530.1800000000001,
+        "ans_page": 20
+      }
+    },
+    {
+      "n": 99,
+      "section": "english",
+      "topic": "Idioms & Phrases",
+      "render_mode": "text",
+      "stem": "Choose the correct meaning of idiom: Leave no stone unturned",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the correct meaning of idiom: Leave no stone unturned"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "To keep shifting from one place to another repeatedly",
+        "To make every possible effort to achieve a goal",
+        "To remain quiet as a form of protest",
+        "To obey someone without questioning"
+      ],
+      "raw_options": [
+        "To keep shifting from one place to another repeatedly",
+        "To make every possible effort to achieve a goal",
+        "To remain quiet as a form of protest",
+        "To obey someone without questioning"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 20,
+        "min_page": 20,
+        "max_page": 20,
+        "stem_top": 559.25,
+        "stem_bottom": 570.29,
+        "first_opt_top": 573.65,
+        "opts_bottom": 628.15,
+        "ans_top": 631.75,
+        "ans_page": 20
+      }
+    },
+    {
+      "n": 100,
+      "section": "english",
+      "topic": "Para Jumbles & Sentence Rearrangement",
+      "render_mode": "text",
+      "stem": "Rearrange the following sentences to form a coherent paragraph:\n1. One effective approach is to broaden energy options by moving away from fossil fuels towards renewables such as solar, wind, and geothermal energy.\n2. To reduce the severe impacts of climate change, nations must sharply cut dependence on high-carbon energy generation.\n3. This transition not only lowers greenhouse gas output but also improves air quality and opens up new economic possibilities.\n4. In addition, measures that encourage energy efficiency in buildings and transport can further reduce total energy use.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Rearrange the following sentences to form a coherent paragraph:"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "One effective approach is to broaden energy options by moving away from fossil fuels towards renewables such as solar, wind, and geothermal energy."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "To reduce the severe impacts of climate change, nations must sharply cut dependence on high-carbon energy generation."
+        },
+        {
+          "type": "list_item",
+          "marker": "3.",
+          "text": "This transition not only lowers greenhouse gas output but also improves air quality and opens up new economic possibilities."
+        },
+        {
+          "type": "list_item",
+          "marker": "4.",
+          "text": "In addition, measures that encourage energy efficiency in buildings and transport can further reduce total energy use."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "2, 1, 3, 4",
+        "1, 2, 4, 3",
+        "3, 1, 4, 2",
+        "2, 3, 1, 4"
+      ],
+      "raw_options": [
+        "2, 1, 3, 4",
+        "1, 2, 4, 3",
+        "3, 1, 4, 2",
+        "2, 3, 1, 4"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 20,
+        "min_page": 20,
+        "max_page": 22,
+        "stem_top": 660.55,
+        "stem_bottom": 787.536,
+        "first_opt_top": 95.41999999999996,
+        "opts_bottom": 149.92999999999995,
+        "ans_top": 153.28999999999996,
+        "ans_page": 22
+      }
+    }
+  ]
+}

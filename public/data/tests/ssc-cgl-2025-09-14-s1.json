@@ -1,0 +1,4707 @@
+{
+  "schema_version": 1,
+  "id": "ssc-cgl-2025-09-14-s1",
+  "title": "SSC CGL T-I Similar Paper (Held on 14 Sep 2025 S1) - English",
+  "exam": "SSC CGL Tier 1",
+  "date": "2025-09-14",
+  "shift": 1,
+  "language": "en",
+  "source_file": "pdfs/ssc/SSC-CGL-T-I-Similar-Paper-Held-on-14-Sep-2025-S1-English_eb799677.pdf",
+  "source_sha256": "eb79967729ed6a706dbe0daa3fece8215981779c955f1753f1f6f92168ac6eff",
+  "marking": {
+    "correct": 2.0,
+    "wrong": -0.5,
+    "unanswered": 0.0
+  },
+  "duration_minutes": 60,
+  "sections": [
+    {
+      "id": "reasoning",
+      "name": "General Intelligence & Reasoning",
+      "from": 1,
+      "to": 25,
+      "duration_minutes": 15
+    },
+    {
+      "id": "general_awareness",
+      "name": "General Awareness",
+      "from": 26,
+      "to": 50,
+      "duration_minutes": 15
+    },
+    {
+      "id": "quantitative_aptitude",
+      "name": "Quantitative Aptitude",
+      "from": 51,
+      "to": 75,
+      "duration_minutes": 15
+    },
+    {
+      "id": "english",
+      "name": "English Comprehension",
+      "from": 76,
+      "to": 100,
+      "duration_minutes": 15
+    }
+  ],
+  "passages": [],
+  "questions": [
+    {
+      "n": 1,
+      "section": "reasoning",
+      "topic": "Analogy & Classification",
+      "render_mode": "text",
+      "stem": "Identify the odd one out:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Identify the odd one out:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "A3 : D6 : G9",
+        "B4 : E7 : H10",
+        "C5 : F8 : I11",
+        "D6 : G9 : K13"
+      ],
+      "raw_options": [
+        "A3 : D6 : G9",
+        "B4 : E7 : H10",
+        "C5 : F8 : I11",
+        "D6 : G9 : K13"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 131.44999999999993,
+        "stem_bottom": 142.4899999999999,
+        "first_opt_top": 145.85000000000002,
+        "opts_bottom": 200.32999999999993,
+        "ans_top": 203.94999999999993,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 2,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Identify the group that does NOT follow the same pattern:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Identify the group that does NOT follow the same pattern:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "B2 : E5 : H8",
+        "C3 : F6 : I9",
+        "D4 : G7 : J10",
+        "E5 : H9 : K13"
+      ],
+      "raw_options": [
+        "B2 : E5 : H8",
+        "C3 : F6 : I9",
+        "D4 : G7 : J10",
+        "E5 : H9 : K13"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 232.99,
+        "stem_bottom": 244.02999999999997,
+        "first_opt_top": 247.39,
+        "opts_bottom": 301.9,
+        "ans_top": 305.26,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 3,
+      "section": "reasoning",
+      "topic": "Coding-Decoding",
+      "render_mode": "text",
+      "stem": "If FLOWER is coded as GMPXFS, then GARDEN is coded as:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If FLOWER is coded as GMPXFS, then GARDEN is coded as:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "HBSEFO",
+        "HBSEEN",
+        "HBSFEO",
+        "HBSFEN"
+      ],
+      "raw_options": [
+        "HBSEFO",
+        "HBSEEN",
+        "HBSFEO",
+        "HBSFEN"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 334.3,
+        "stem_bottom": 345.34,
+        "first_opt_top": 348.94,
+        "opts_bottom": 403.43999999999994,
+        "ans_top": 406.8,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 4,
+      "section": "reasoning",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "A man says, “She is the daughter of my father’s only son.” How is the woman related to the man?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A man says, “She is the daughter of my father’s only son.” How is the woman related to the man?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Sister",
+        "Daughter",
+        "Wife",
+        "Niece"
+      ],
+      "raw_options": [
+        "Sister",
+        "Daughter",
+        "Wife",
+        "Niece"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 435.84,
+        "stem_bottom": 446.87999999999994,
+        "first_opt_top": 450.26,
+        "opts_bottom": 504.73999999999995,
+        "ans_top": 508.34,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 5,
+      "section": "reasoning",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "Introducing a woman, Ravi says, “She is the wife of my father’s only son.” How is the woman related to Ravi?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Introducing a woman, Ravi says, “She is the wife of my father’s only son.” How is the woman related to Ravi?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Sister-in-law",
+        "Mother",
+        "Wife",
+        "Aunt"
+      ],
+      "raw_options": [
+        "Sister-in-law",
+        "Mother",
+        "Wife",
+        "Aunt"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 537.17,
+        "stem_bottom": 548.2099999999999,
+        "first_opt_top": 551.81,
+        "opts_bottom": 606.29,
+        "ans_top": 609.65,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 6,
+      "section": "reasoning",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "A says, “My mother’s brother is the father of B.” How is B related to A?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A says, “My mother’s brother is the father of B.” How is B related to A?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Cousin",
+        "Brother",
+        "Uncle",
+        "Nephew"
+      ],
+      "raw_options": [
+        "Cousin",
+        "Brother",
+        "Uncle",
+        "Nephew"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 638.7099999999999,
+        "stem_bottom": 649.75,
+        "first_opt_top": 653.1099999999999,
+        "opts_bottom": 707.8299999999999,
+        "ans_top": 711.22,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 7,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "There are 45 students in a row. Rohan is 18th from the left and Aman is 20th from the right. How many students are between them?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "There are 45 students in a row. Rohan is 18th from the left and Aman is 20th from the right. How many students are between them?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "raw_options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 3,
+        "stem_top": 740.256,
+        "stem_bottom": 765.6959999999999,
+        "first_opt_top": 95.41999999999996,
+        "opts_bottom": 780.336,
+        "ans_top": 138.89,
+        "ans_page": 3
+      }
+    },
+    {
+      "n": 8,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which of the following pairs of addresses are identical?\n1. Mr. Arun, 54/B Lake View, Bhopal, 462016\n2. Mr Arun, 54-B, Lake View, Bhopal - 462016\n3. Mr. Arun, 54/B Lakeview, Bhopal, 462016\n4. Mr. Arjun, 54/B Lake View, Bhopal, 462016",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following pairs of addresses are identical?"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "Mr. Arun, 54/B Lake View, Bhopal, 462016"
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "Mr Arun, 54-B, Lake View, Bhopal - 462016"
+        },
+        {
+          "type": "list_item",
+          "marker": "3.",
+          "text": "Mr. Arun, 54/B Lakeview, Bhopal, 462016"
+        },
+        {
+          "type": "list_item",
+          "marker": "4.",
+          "text": "Mr. Arjun, 54/B Lake View, Bhopal, 462016"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1 and 2",
+        "2 and 3",
+        "1 and 3",
+        "2 and 4"
+      ],
+      "raw_options": [
+        "1 and 2",
+        "2 and 3",
+        "1 and 3",
+        "2 and 4"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 3,
+        "min_page": 3,
+        "max_page": 3,
+        "stem_top": 167.92999999999995,
+        "stem_bottom": 236.82999999999993,
+        "first_opt_top": 240.18999999999994,
+        "opts_bottom": 294.93999999999994,
+        "ans_top": 298.29999999999995,
+        "ans_page": 3
+      }
+    },
+    {
+      "n": 9,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "Find the missing term:\nSHOP : TIPQ :: MEGA : ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the missing term:"
+        },
+        {
+          "type": "paragraph",
+          "text": "SHOP : TIPQ :: MEGA : ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "NEHB",
+        "NFHB",
+        "NFHD",
+        "NFGB"
+      ],
+      "raw_options": [
+        "NEHB",
+        "NFHB",
+        "NFHD",
+        "NFGB"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 3,
+        "min_page": 3,
+        "max_page": 3,
+        "stem_top": 327.3399999999999,
+        "stem_bottom": 352.78,
+        "first_opt_top": 356.14,
+        "opts_bottom": 410.87999999999994,
+        "ans_top": 414.24,
+        "ans_page": 3
+      }
+    },
+    {
+      "n": 10,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which of the following pairs are exactly the same?\n1. Dr. Neha Jain, 21 Park Street, Jaipur-302001\n2. Dr. Neha Jain, 21 Park Street, Jaipur-302001\n3. Dr. Neha Jain, 21 Park St., Jaipur, 302001\n4. Dr. Neha Jaiswal, 21 Park Street, Jaipur, 302001",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following pairs are exactly the same?"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "Dr. Neha Jain, 21 Park Street, Jaipur-302001"
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "Dr. Neha Jain, 21 Park Street, Jaipur-302001"
+        },
+        {
+          "type": "list_item",
+          "marker": "3.",
+          "text": "Dr. Neha Jain, 21 Park St., Jaipur, 302001"
+        },
+        {
+          "type": "list_item",
+          "marker": "4.",
+          "text": "Dr. Neha Jaiswal, 21 Park Street, Jaipur, 302001"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1 and 2",
+        "2 and 3",
+        "1 and 3",
+        "3 and 4"
+      ],
+      "raw_options": [
+        "1 and 2",
+        "2 and 3",
+        "1 and 3",
+        "3 and 4"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 3,
+        "min_page": 3,
+        "max_page": 3,
+        "stem_top": 443.28,
+        "stem_bottom": 512.18,
+        "first_opt_top": 515.78,
+        "opts_bottom": 570.29,
+        "ans_top": 573.65,
+        "ans_page": 3
+      }
+    },
+    {
+      "n": 11,
+      "section": "reasoning",
+      "topic": "Data Interpretation & Statistics",
+      "render_mode": "text",
+      "stem": "If + means ×, - means ÷, × means + and ÷ means -, then:\n12 + 6 × 4 - 2 ÷ 2 = ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If + means ×, - means ÷, × means + and ÷ means -, then:"
+        },
+        {
+          "type": "paragraph",
+          "text": "12 + 6 × 4 - 2 ÷ 2 = ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "68",
+        "70",
+        "74",
+        "72"
+      ],
+      "raw_options": [
+        "68",
+        "70",
+        "74",
+        "72"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 3,
+        "min_page": 3,
+        "max_page": 3,
+        "stem_top": 602.6899999999999,
+        "stem_bottom": 628.15,
+        "first_opt_top": 631.75,
+        "opts_bottom": 686.23,
+        "ans_top": 689.5899999999999,
+        "ans_page": 3
+      }
+    },
+    {
+      "n": 12,
+      "section": "reasoning",
+      "topic": "Analogy & Classification",
+      "render_mode": "text",
+      "stem": "Apply the same rearrangement pattern:\nPLAYING : GNIYALP :: READING : ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Apply the same rearrangement pattern:"
+        },
+        {
+          "type": "paragraph",
+          "text": "PLAYING : GNIYALP :: READING : ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "GNIDARE",
+        "GINDAER",
+        "GNIDAER",
+        "GNIRDAE"
+      ],
+      "raw_options": [
+        "GNIDARE",
+        "GINDAER",
+        "GNIDAER",
+        "GNIRDAE"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 3,
+        "min_page": 3,
+        "max_page": 4,
+        "stem_top": 718.66,
+        "stem_bottom": 744.0999999999999,
+        "first_opt_top": 95.41999999999996,
+        "opts_bottom": 787.536,
+        "ans_top": 109.81999999999994,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 13,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "Find the missing term:\nBDF, EGH, HJJ, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the missing term:"
+        },
+        {
+          "type": "paragraph",
+          "text": "BDF, EGH, HJJ, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "KLM",
+        "KNL",
+        "KML",
+        "JKL"
+      ],
+      "raw_options": [
+        "KLM",
+        "KNL",
+        "KML",
+        "JKL"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 138.89,
+        "stem_bottom": 164.32999999999993,
+        "first_opt_top": 167.92999999999995,
+        "opts_bottom": 222.42999999999995,
+        "ans_top": 225.78999999999996,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 14,
+      "section": "reasoning",
+      "topic": "Analogy & Classification",
+      "render_mode": "text",
+      "stem": "Watch : Time :: Barometer : ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Watch : Time :: Barometer : ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Heat",
+        "Pressure",
+        "Speed",
+        "Distance"
+      ],
+      "raw_options": [
+        "Heat",
+        "Pressure",
+        "Speed",
+        "Distance"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 254.83000000000004,
+        "stem_bottom": 265.87,
+        "first_opt_top": 269.23,
+        "opts_bottom": 323.7399999999999,
+        "ans_top": 327.3399999999999,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 15,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "Find the missing number:\n2, 6, 12, 20, ?, 42",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the missing number:"
+        },
+        {
+          "type": "paragraph",
+          "text": "2, 6, 12, 20, ?, 42"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "28",
+        "30",
+        "32",
+        "36"
+      ],
+      "raw_options": [
+        "28",
+        "30",
+        "32",
+        "36"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 356.14,
+        "stem_bottom": 381.84,
+        "first_opt_top": 385.2,
+        "opts_bottom": 439.67999999999995,
+        "ans_top": 443.28,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 16,
+      "section": "reasoning",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "Find the missing group:\nEFG, HIJ, LMN, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the missing group:"
+        },
+        {
+          "type": "paragraph",
+          "text": "EFG, HIJ, LMN, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "OPQ",
+        "NOP",
+        "KLM",
+        "QRS"
+      ],
+      "raw_options": [
+        "OPQ",
+        "NOP",
+        "KLM",
+        "QRS"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 472.09999999999997,
+        "stem_bottom": 497.78,
+        "first_opt_top": 501.14,
+        "opts_bottom": 555.65,
+        "ans_top": 559.25,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 17,
+      "section": "reasoning",
+      "topic": "Analogy & Classification",
+      "render_mode": "text",
+      "stem": "Accused : Crime :: Student : ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Accused : Crime :: Student : ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "School",
+        "Teacher",
+        "Examination",
+        "Degree"
+      ],
+      "raw_options": [
+        "School",
+        "Teacher",
+        "Examination",
+        "Degree"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 588.05,
+        "stem_bottom": 599.0899999999999,
+        "first_opt_top": 602.6899999999999,
+        "opts_bottom": 657.1899999999999,
+        "ans_top": 660.55,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 18,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "Complete the series:\nB E H, D G J, F I L, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Complete the series:"
+        },
+        {
+          "type": "paragraph",
+          "text": "B E H, D G J, F I L, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "H K N",
+        "G J M",
+        "I L O",
+        "H J M"
+      ],
+      "raw_options": [
+        "H K N",
+        "G J M",
+        "I L O",
+        "H J M"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 689.5899999999999,
+        "stem_bottom": 715.3,
+        "first_opt_top": 718.66,
+        "opts_bottom": 773.136,
+        "ans_top": 776.496,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 19,
+      "section": "reasoning",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "A says to B, “The woman I met is the daughter of your mother.” How is the woman related to B?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A says to B, “The woman I met is the daughter of your mother.” How is the woman related to B?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Sister",
+        "Mother",
+        "Aunt",
+        "Cousin"
+      ],
+      "raw_options": [
+        "Sister",
+        "Mother",
+        "Aunt",
+        "Cousin"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 109.81999999999994,
+        "stem_bottom": 120.8599999999999,
+        "first_opt_top": 124.25,
+        "opts_bottom": 178.9699999999999,
+        "ans_top": 182.33000000000004,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 20,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "What comes next?\n2, 6, 14, 30, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What comes next?"
+        },
+        {
+          "type": "paragraph",
+          "text": "2, 6, 14, 30, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "46",
+        "58",
+        "62",
+        "60"
+      ],
+      "raw_options": [
+        "46",
+        "58",
+        "62",
+        "60"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 211.39,
+        "stem_bottom": 236.82999999999993,
+        "first_opt_top": 240.18999999999994,
+        "opts_bottom": 294.93999999999994,
+        "ans_top": 298.29999999999995,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 21,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "Find the missing term:\nMNO, QRS, UVW, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the missing term:"
+        },
+        {
+          "type": "paragraph",
+          "text": "MNO, QRS, UVW, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "XYZ",
+        "WXY",
+        "YZA",
+        "TUV"
+      ],
+      "raw_options": [
+        "XYZ",
+        "WXY",
+        "YZA",
+        "TUV"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 327.3399999999999,
+        "stem_bottom": 352.78,
+        "first_opt_top": 356.14,
+        "opts_bottom": 410.87999999999994,
+        "ans_top": 414.24,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 22,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "If the letters of the word COMPUTER are arranged alphabetically, how many letters will have the same position as in the original word?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If the letters of the word COMPUTER are arranged alphabetically, how many letters will have the same position as in the original word?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "None"
+      ],
+      "raw_options": [
+        "One",
+        "Two",
+        "Three",
+        "None"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 443.28,
+        "stem_bottom": 468.73999999999995,
+        "first_opt_top": 472.09999999999997,
+        "opts_bottom": 526.8199999999999,
+        "ans_top": 530.1800000000001,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 23,
+      "section": "reasoning",
+      "topic": "Analogy & Classification",
+      "render_mode": "text",
+      "stem": "A set of letters is followed by the product of their alphabetical positions.\nACE : 15 :: BDF : ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A set of letters is followed by the product of their alphabetical positions."
+        },
+        {
+          "type": "paragraph",
+          "text": "ACE : 15 :: BDF : ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "24",
+        "48",
+        "36",
+        "60"
+      ],
+      "raw_options": [
+        "24",
+        "48",
+        "36",
+        "60"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 559.25,
+        "stem_bottom": 584.6899999999999,
+        "first_opt_top": 588.05,
+        "opts_bottom": 642.79,
+        "ans_top": 646.15,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 24,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "Complete the series:\nXZB - UWY - RTV - ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Complete the series:"
+        },
+        {
+          "type": "paragraph",
+          "text": "XZB - UWY - RTV - ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "OQI",
+        "OQH",
+        "PUI",
+        "OQS"
+      ],
+      "raw_options": [
+        "OQI",
+        "OQH",
+        "PUI",
+        "OQS"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 675.1899999999999,
+        "stem_bottom": 700.6299999999999,
+        "first_opt_top": 704.26,
+        "opts_bottom": 758.736,
+        "ans_top": 762.096,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 25,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Identify the number which does NOT satisfy: Sum of digits is a factor of the number.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Identify the number which does NOT satisfy: Sum of digits is a factor of the number."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "24",
+        "36",
+        "42",
+        "39"
+      ],
+      "raw_options": [
+        "24",
+        "36",
+        "42",
+        "39"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 106.45999999999992,
+        "first_opt_top": 109.81999999999994,
+        "opts_bottom": 164.32999999999993,
+        "ans_top": 167.92999999999995,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 26,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "In judo, which action results in scoring an ippon?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In judo, which action results in scoring an ippon?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Stepping outside the mat",
+        "Executing a perfect throw",
+        "Holding opponent’s uniform",
+        "Verbal warning"
+      ],
+      "raw_options": [
+        "Stepping outside the mat",
+        "Executing a perfect throw",
+        "Holding opponent’s uniform",
+        "Verbal warning"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 196.73000000000002,
+        "stem_bottom": 207.76999999999998,
+        "first_opt_top": 211.39,
+        "opts_bottom": 265.87,
+        "ans_top": 269.23,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 27,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which of the following statements about the Baisakhi festival is correct?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following statements about the Baisakhi festival is correct?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "It marks the harvest season in Punjab",
+        "It is celebrated only in winter",
+        "It is a Buddhist festival",
+        "It is observed during monsoon"
+      ],
+      "raw_options": [
+        "It marks the harvest season in Punjab",
+        "It is celebrated only in winter",
+        "It is a Buddhist festival",
+        "It is observed during monsoon"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 298.29999999999995,
+        "stem_bottom": 309.3399999999999,
+        "first_opt_top": 312.69999999999993,
+        "opts_bottom": 367.17999999999995,
+        "ans_top": 370.8,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 28,
+      "section": "general_awareness",
+      "topic": "Geography & Environment",
+      "render_mode": "text",
+      "stem": "The approximate percentage of nitrogen in Earth’s atmosphere is:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The approximate percentage of nitrogen in Earth’s atmosphere is:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "58%",
+        "68%",
+        "78%",
+        "88%"
+      ],
+      "raw_options": [
+        "58%",
+        "68%",
+        "78%",
+        "88%"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 399.84,
+        "stem_bottom": 410.87999999999994,
+        "first_opt_top": 414.24,
+        "opts_bottom": 468.73999999999995,
+        "ans_top": 472.09999999999997,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 29,
+      "section": "general_awareness",
+      "topic": "Geography & Environment",
+      "render_mode": "text",
+      "stem": "Which statements correctly describe rivers in arid regions?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which statements correctly describe rivers in arid regions?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Most rivers are perennial",
+        "Rivers often dry up seasonally",
+        "Rivers originate from glaciers",
+        "Rivers flow in deep valleys"
+      ],
+      "raw_options": [
+        "Most rivers are perennial",
+        "Rivers often dry up seasonally",
+        "Rivers originate from glaciers",
+        "Rivers flow in deep valleys"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 501.14,
+        "stem_bottom": 512.18,
+        "first_opt_top": 515.78,
+        "opts_bottom": 570.29,
+        "ans_top": 573.65,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 30,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which of the following Padma award and field pairs is correctly matched?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following Padma award and field pairs is correctly matched?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Bhuri Bai – Tribal Art",
+        "Rakesh Sharma – Literature",
+        "Milkha Singh – Agriculture",
+        "Satyajit Ray – Sports"
+      ],
+      "raw_options": [
+        "Bhuri Bai – Tribal Art",
+        "Rakesh Sharma – Literature",
+        "Milkha Singh – Agriculture",
+        "Satyajit Ray – Sports"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 602.6899999999999,
+        "stem_bottom": 613.73,
+        "first_opt_top": 617.1099999999999,
+        "opts_bottom": 671.5899999999999,
+        "ans_top": 675.1899999999999,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 31,
+      "section": "general_awareness",
+      "topic": "Indian Polity & Constitution",
+      "render_mode": "text",
+      "stem": "How are Money Bills treated in Parliament under the Constitution?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "How are Money Bills treated in Parliament under the Constitution?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Rajya Sabha has equal powers",
+        "Rajya Sabha can only delay indefinitely",
+        "Rajya Sabha can make recommendations within 14 days",
+        "Rajya Sabha can reject Money Bills"
+      ],
+      "raw_options": [
+        "Rajya Sabha has equal powers",
+        "Rajya Sabha can only delay indefinitely",
+        "Rajya Sabha can make recommendations within 14 days",
+        "Rajya Sabha can reject Money Bills"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 704.26,
+        "stem_bottom": 715.3,
+        "first_opt_top": 718.66,
+        "opts_bottom": 773.136,
+        "ans_top": 776.496,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 32,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Based on the statements given below, choose the correct option:\nStatement I: Gandhara art was influenced by Greco-Roman styles.\nStatement II: Gandhara sculptures avoided depicting human figures.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Based on the statements given below, choose the correct option:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Statement I: Gandhara art was influenced by Greco-Roman styles."
+        },
+        {
+          "type": "paragraph",
+          "text": "Statement II: Gandhara sculptures avoided depicting human figures."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Statement I and II both are correct",
+        "Only statement I is correct",
+        "Only statement II is correct",
+        "Neither I nor II"
+      ],
+      "raw_options": [
+        "Statement I and II both are correct",
+        "Only statement I is correct",
+        "Only statement II is correct",
+        "Neither I nor II"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 109.81999999999994,
+        "stem_bottom": 149.92999999999995,
+        "first_opt_top": 153.28999999999996,
+        "opts_bottom": 207.76999999999998,
+        "ans_top": 211.39,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 33,
+      "section": "general_awareness",
+      "topic": "Seating Arrangement & Direction",
+      "render_mode": "text",
+      "stem": "Which initiative was launched in 2024 to strengthen regional digital payment cooperation in South Asia?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which initiative was launched in 2024 to strengthen regional digital payment cooperation in South Asia?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "SAARC Digital Bridge",
+        "Regional FinTech Framework",
+        "South Asia Payment Connectivity Initiative",
+        "Indo-Pacific Digital Corridor"
+      ],
+      "raw_options": [
+        "SAARC Digital Bridge",
+        "Regional FinTech Framework",
+        "South Asia Payment Connectivity Initiative",
+        "Indo-Pacific Digital Corridor"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 240.18999999999994,
+        "stem_bottom": 251.2299999999999,
+        "first_opt_top": 254.83000000000004,
+        "opts_bottom": 309.3399999999999,
+        "ans_top": 312.69999999999993,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 34,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which wetland is famous for migratory birds in Rajasthan?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which wetland is famous for migratory birds in Rajasthan?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Keoladeo National Park",
+        "Dal Lake",
+        "Chilika Lake",
+        "Loktak Lake"
+      ],
+      "raw_options": [
+        "Keoladeo National Park",
+        "Dal Lake",
+        "Chilika Lake",
+        "Loktak Lake"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 341.74,
+        "stem_bottom": 352.78,
+        "first_opt_top": 356.14,
+        "opts_bottom": 410.87999999999994,
+        "ans_top": 414.24,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 35,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "The Lavani dance is traditionally associated with which community?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Lavani dance is traditionally associated with which community?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Farmers",
+        "Fisherfolk",
+        "Tribal groups",
+        "Urban youth"
+      ],
+      "raw_options": [
+        "Farmers",
+        "Fisherfolk",
+        "Tribal groups",
+        "Urban youth"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 443.28,
+        "stem_bottom": 454.31999999999994,
+        "first_opt_top": 457.7,
+        "opts_bottom": 512.18,
+        "ans_top": 515.78,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 36,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Difficulty in starting or stopping motion of a body is due to:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Difficulty in starting or stopping motion of a body is due to:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Momentum",
+        "Inertia",
+        "Gravity",
+        "Friction"
+      ],
+      "raw_options": [
+        "Momentum",
+        "Inertia",
+        "Gravity",
+        "Friction"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 544.61,
+        "stem_bottom": 555.65,
+        "first_opt_top": 559.25,
+        "opts_bottom": 613.73,
+        "ans_top": 617.1099999999999,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 37,
+      "section": "general_awareness",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "Assertion (A): The National Green Hydrogen Mission promotes clean energy.\nReason (R): It is implemented by the Ministry of New and Renewable Energy.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Assertion (A): The National Green Hydrogen Mission promotes clean energy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reason (R): It is implemented by the Ministry of New and Renewable Energy."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Both A and R are true and R explains A",
+        "Both A and R are true but R does not explain A",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "raw_options": [
+        "Both A and R are true and R explains A",
+        "Both A and R are true but R does not explain A",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 646.15,
+        "stem_bottom": 671.5899999999999,
+        "first_opt_top": 675.1899999999999,
+        "opts_bottom": 729.6999999999999,
+        "ans_top": 733.06,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 38,
+      "section": "general_awareness",
+      "topic": "Indian Polity & Constitution",
+      "render_mode": "text",
+      "stem": "Article 356 of the Constitution deals with:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Article 356 of the Constitution deals with:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Goods and Services Tax",
+        "President’s Rule in states",
+        "Fundamental Rights",
+        "Election of President"
+      ],
+      "raw_options": [
+        "Goods and Services Tax",
+        "President’s Rule in states",
+        "Fundamental Rights",
+        "Election of President"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 8,
+        "stem_top": 762.096,
+        "stem_bottom": 773.136,
+        "first_opt_top": 95.41999999999996,
+        "opts_bottom": 787.536,
+        "ans_top": 138.89,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 39,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Consider the statements about the novel ‘The Palace of Illusions’:\nStatement I :It retells the Mahabharata from Draupadi’s perspective.\nStatement II: It is a biography of an Indian freedom fighter.\nStatement III: It is a futuristic science fiction novel.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Consider the statements about the novel ‘The Palace of Illusions’:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Statement I :It retells the Mahabharata from Draupadi’s perspective."
+        },
+        {
+          "type": "paragraph",
+          "text": "Statement II: It is a biography of an Indian freedom fighter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Statement III: It is a futuristic science fiction novel."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only statement 1 is correct",
+        "Only statement 2 is correct",
+        "Statements 2 and 3 are correct",
+        "All statements are correct"
+      ],
+      "raw_options": [
+        "Only statement 1 is correct",
+        "Only statement 2 is correct",
+        "Statements 2 and 3 are correct",
+        "All statements are correct"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 167.92999999999995,
+        "stem_bottom": 222.42999999999995,
+        "first_opt_top": 225.78999999999996,
+        "opts_bottom": 280.27,
+        "ans_top": 283.9,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 40,
+      "section": "general_awareness",
+      "topic": "Current Affairs & Sports",
+      "render_mode": "text",
+      "stem": "Which technological achievement was demonstrated in ISRO’s reusable launch vehicle landing experiment?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which technological achievement was demonstrated in ISRO’s reusable launch vehicle landing experiment?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Deep-space docking",
+        "Autonomous precision landing",
+        "Nuclear propulsion",
+        "Underwater recovery"
+      ],
+      "raw_options": [
+        "Deep-space docking",
+        "Autonomous precision landing",
+        "Nuclear propulsion",
+        "Underwater recovery"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 312.69999999999993,
+        "stem_bottom": 323.7399999999999,
+        "first_opt_top": 327.3399999999999,
+        "opts_bottom": 381.84,
+        "ans_top": 385.2,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 41,
+      "section": "general_awareness",
+      "topic": "Indian Polity & Constitution",
+      "render_mode": "text",
+      "stem": "Consider the following\nstatements:\n1.The Supreme Court can transfer cases between High Courts.\n2.Article 139A empowers the Supreme Court in this regard.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Consider the following"
+        },
+        {
+          "type": "label",
+          "text": "statements"
+        },
+        {
+          "type": "paragraph",
+          "text": "1.The Supreme Court can transfer cases between High Courts."
+        },
+        {
+          "type": "paragraph",
+          "text": "2.Article 139A empowers the Supreme Court in this regard."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "raw_options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 414.24,
+        "stem_bottom": 454.31999999999994,
+        "first_opt_top": 457.7,
+        "opts_bottom": 512.18,
+        "ans_top": 515.78,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 42,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "The Global Energy Transition Index is published by:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Global Energy Transition Index is published by:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "World Bank",
+        "World Economic Forum",
+        "IMF",
+        "UNESCO"
+      ],
+      "raw_options": [
+        "World Bank",
+        "World Economic Forum",
+        "IMF",
+        "UNESCO"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 544.61,
+        "stem_bottom": 555.65,
+        "first_opt_top": 559.25,
+        "opts_bottom": 613.73,
+        "ans_top": 617.1099999999999,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 43,
+      "section": "general_awareness",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "Assertion (A): Census data is crucial for planning social welfare policies.\nReason (R): Census operations are conducted every five years in India.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Assertion (A): Census data is crucial for planning social welfare policies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reason (R): Census operations are conducted every five years in India."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Both A and R are true and R explains A",
+        "Both A and R are true but R does not explain A",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "raw_options": [
+        "Both A and R are true and R explains A",
+        "Both A and R are true but R does not explain A",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 646.15,
+        "stem_bottom": 671.5899999999999,
+        "first_opt_top": 675.1899999999999,
+        "opts_bottom": 729.6999999999999,
+        "ans_top": 733.06,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 44,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "The Bharatiya Sakshya Adhiniyam primarily relates to:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Bharatiya Sakshya Adhiniyam primarily relates to:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Civil law",
+        "Evidence law",
+        "Contract law",
+        "Administrative law"
+      ],
+      "raw_options": [
+        "Civil law",
+        "Evidence law",
+        "Contract law",
+        "Administrative law"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 9,
+        "stem_top": 762.096,
+        "stem_bottom": 773.136,
+        "first_opt_top": 95.41999999999996,
+        "opts_bottom": 787.536,
+        "ans_top": 138.89,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 45,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "In ancient Indian music, Desi Sangeet refers to:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In ancient Indian music, Desi Sangeet refers to:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Folk traditions",
+        "Vedic chants",
+        "Court music",
+        "Western classical music"
+      ],
+      "raw_options": [
+        "Folk traditions",
+        "Vedic chants",
+        "Court music",
+        "Western classical music"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 167.92999999999995,
+        "stem_bottom": 178.9699999999999,
+        "first_opt_top": 182.33000000000004,
+        "opts_bottom": 236.82999999999993,
+        "ans_top": 240.18999999999994,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 46,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which of the following is a consumer goods industry product?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following is a consumer goods industry product?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Cement",
+        "Steel",
+        "Soap",
+        "Aluminium"
+      ],
+      "raw_options": [
+        "Cement",
+        "Steel",
+        "Soap",
+        "Aluminium"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 269.23,
+        "stem_bottom": 280.27,
+        "first_opt_top": 283.9,
+        "opts_bottom": 338.37999999999994,
+        "ans_top": 341.74,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 47,
+      "section": "general_awareness",
+      "topic": "Current Affairs & Sports",
+      "render_mode": "text",
+      "stem": "In which Olympic Games did Vijender Singh win India's first-ever Olympic medal in boxing?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In which Olympic Games did Vijender Singh win India's first-ever Olympic medal in boxing?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "2008 Beijing",
+        "2004 Athens",
+        "2012 London",
+        "2016 Rio"
+      ],
+      "raw_options": [
+        "2008 Beijing",
+        "2004 Athens",
+        "2012 London",
+        "2016 Rio"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 370.8,
+        "stem_bottom": 381.84,
+        "first_opt_top": 385.2,
+        "opts_bottom": 439.67999999999995,
+        "ans_top": 443.28,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 48,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "The Netaji Subhas National Institute of Sports is located in:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Netaji Subhas National Institute of Sports is located in:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Patiala",
+        "Lucknow",
+        "Pune",
+        "Kolkata"
+      ],
+      "raw_options": [
+        "Patiala",
+        "Lucknow",
+        "Pune",
+        "Kolkata"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 472.09999999999997,
+        "stem_bottom": 483.13999999999993,
+        "first_opt_top": 486.74,
+        "opts_bottom": 541.22,
+        "ans_top": 544.61,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 49,
+      "section": "general_awareness",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "The term ‘polygenic inheritance’ refers to:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The term ‘polygenic inheritance’ refers to:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "One gene controlling multiple traits",
+        "Multiple genes controlling one trait",
+        "Mutation in a single gene",
+        "Duplication of chromosomes"
+      ],
+      "raw_options": [
+        "One gene controlling multiple traits",
+        "Multiple genes controlling one trait",
+        "Mutation in a single gene",
+        "Duplication of chromosomes"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 573.65,
+        "stem_bottom": 584.6899999999999,
+        "first_opt_top": 588.05,
+        "opts_bottom": 642.79,
+        "ans_top": 646.15,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 50,
+      "section": "general_awareness",
+      "topic": "Indian Polity & Constitution",
+      "render_mode": "text",
+      "stem": "Read the statements below:\n1.The Attorney General of India is appointed by the President of India.\n2. The security deposit for contesting the Vice-President election is ₹15,000.\nWhich of the above statements is/are correct?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Read the statements below:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1.The Attorney General of India is appointed by the President of India."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "The security deposit for contesting the Vice-President election is ₹15,000."
+        },
+        {
+          "type": "paragraph",
+          "text": "Which of the above statements is/are correct?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only statement 1",
+        "Only statement 2",
+        "Both statements 1 and 2",
+        "Neither statement 1 nor 2"
+      ],
+      "raw_options": [
+        "Only statement 1",
+        "Only statement 2",
+        "Both statements 1 and 2",
+        "Neither statement 1 nor 2"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 10,
+        "stem_top": 675.1899999999999,
+        "stem_bottom": 729.6999999999999,
+        "first_opt_top": 733.06,
+        "opts_bottom": 787.536,
+        "ans_top": 95.41999999999996,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 51,
+      "section": "quantitative_aptitude",
+      "topic": "Time, Speed & Distance",
+      "render_mode": "text",
+      "stem": "Train A leaves Station X at 5:00 AM at 50 km/h. Train B leaves Station Y at 7:30 AM at 80 km/h. Both trains move towards each other. Distance = 500 km. When do they meet?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Train A leaves Station X at 5:00 AM at 50 km/h. Train B leaves Station Y at 7:30 AM at 80 km/h. Both trains move towards each other. Distance = 500 km. When do they meet?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "10:30 AM",
+        "11:00 AM",
+        "10:23 AM",
+        "12:00 PM"
+      ],
+      "raw_options": [
+        "10:30 AM",
+        "11:00 AM",
+        "10:23 AM",
+        "12:00 PM"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 124.25,
+        "stem_bottom": 149.92999999999995,
+        "first_opt_top": 153.28999999999996,
+        "opts_bottom": 207.76999999999998,
+        "ans_top": 211.39,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 52,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "A wholesaler marks up goods by 50% and gives 12% trade discount. Retailer marks up by 20% and offers 8% discount. Customer pays ₹12,216. What is wholesaler's cost price approximately?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A wholesaler marks up goods by 50% and gives 12% trade discount. Retailer marks up by 20% and offers 8% discount. Customer pays ₹12,216. What is wholesaler's cost price approximately?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "₹8,000",
+        "₹8,383",
+        "₹9,070",
+        "₹9,500"
+      ],
+      "raw_options": [
+        "₹8,000",
+        "₹8,383",
+        "₹9,070",
+        "₹9,500"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 240.18999999999994,
+        "stem_bottom": 265.87,
+        "first_opt_top": 269.23,
+        "opts_bottom": 323.7399999999999,
+        "ans_top": 327.3399999999999,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 53,
+      "section": "quantitative_aptitude",
+      "topic": "Time, Speed & Distance",
+      "render_mode": "text",
+      "stem": "A traveller goes from City P to Q at 24 km/h in 5 hours. To complete it in 3 hours, by how much should speed increase?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A traveller goes from City P to Q at 24 km/h in 5 hours. To complete it in 3 hours, by how much should speed increase?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "16 km/h",
+        "20 km/h",
+        "24 km/h",
+        "28 km/h"
+      ],
+      "raw_options": [
+        "16 km/h",
+        "20 km/h",
+        "24 km/h",
+        "28 km/h"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 356.14,
+        "stem_bottom": 381.84,
+        "first_opt_top": 385.2,
+        "opts_bottom": 439.67999999999995,
+        "ans_top": 443.28,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 54,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "The number of workers in two departments X and Y with different experience levels is shown in the table: Experience Level Dept X Dept Y\n< 5 years 8 6\n5-10 years 12 10\n> 10 years 5 4\nWhat is the ratio of workers with < 10 years experience in Dept X to Dept Y?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The number of workers in two departments X and Y with different experience levels is shown in the table: Experience Level Dept X Dept Y"
+        },
+        {
+          "type": "paragraph",
+          "text": "< 5 years 8 6"
+        },
+        {
+          "type": "paragraph",
+          "text": "5-10 years 12 10"
+        },
+        {
+          "type": "paragraph",
+          "text": "> 10 years 5 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "What is the ratio of workers with < 10 years experience in Dept X to Dept Y?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "2:1",
+        "20:6",
+        "4:3",
+        "5:4"
+      ],
+      "raw_options": [
+        "2:1",
+        "20:6",
+        "4:3",
+        "5:4"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 472.09999999999997,
+        "stem_bottom": 558.29,
+        "first_opt_top": 561.65,
+        "opts_bottom": 616.1299999999999,
+        "ans_top": 619.75,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 55,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "P, Q, and R invest ₹50,000, ₹75,000, and ₹1,00,000 respectively for 1 year. What is Q's share in ₹60,000 profit?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "P, Q, and R invest ₹50,000, ₹75,000, and ₹1,00,000 respectively for 1 year. What is Q's share in ₹60,000 profit?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "₹16,000",
+        "₹18,000",
+        "₹20,000",
+        "₹22,000"
+      ],
+      "raw_options": [
+        "₹16,000",
+        "₹18,000",
+        "₹20,000",
+        "₹22,000"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 648.55,
+        "stem_bottom": 659.5899999999999,
+        "first_opt_top": 663.1899999999999,
+        "opts_bottom": 717.6999999999999,
+        "ans_top": 721.06,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 56,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "One grain is sold for ₹84/kg at 20% profit. Another is sold for ₹72/kg at 20% profit. Mixed in ratio 3:2 and sold at ₹78/kg, what is the profit/loss percentage?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "One grain is sold for ₹84/kg at 20% profit. Another is sold for ₹72/kg at 20% profit. Mixed in ratio 3:2 and sold at ₹78/kg, what is the profit/loss percentage?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "10% profit",
+        "15.15% loss",
+        "18.18% profit",
+        "20% profit"
+      ],
+      "raw_options": [
+        "10% profit",
+        "15.15% loss",
+        "18.18% profit",
+        "20% profit"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 11,
+        "stem_top": 750.096,
+        "stem_bottom": 775.536,
+        "first_opt_top": 95.41999999999996,
+        "opts_bottom": 149.92999999999995,
+        "ans_top": 153.28999999999996,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 57,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "X can do a job in 10 days, Y in 15 days. They work together for 4 days. What part of work remains?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "X can do a job in 10 days, Y in 15 days. They work together for 4 days. What part of work remains?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1/6",
+        "1/5",
+        "1/4",
+        "1/3 (0.2×0.2×0.2+0.04×0.04×0.04)"
+      ],
+      "raw_options": [
+        "1/6",
+        "1/5",
+        "1/4",
+        "1/3 (0.2×0.2×0.2+0.04×0.04×0.04)"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 182.33000000000004,
+        "stem_bottom": 193.37,
+        "first_opt_top": 196.73000000000002,
+        "opts_bottom": 251.2299999999999,
+        "ans_top": 254.83000000000004,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 58,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "image_stem",
+      "stem": "(0.2×0.2×0.2+0.04×0.04×0.04)\nQ58. What is the value of ?\n(0.4×0.4×0.4+0.08×0.08×0.08)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "(0.2×0.2×0.2+0.04×0.04×0.04)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Q58. What is the value of ?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(0.4×0.4×0.4+0.08×0.08×0.08)"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2025-09-14-s1/q058_stem.webp",
+      "full_image": null,
+      "options": [
+        "0.015",
+        "0.125",
+        "0.035",
+        "0.145"
+      ],
+      "raw_options": [
+        "0.015",
+        "0.125",
+        "0.035",
+        "0.145"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 282.62824,
+        "stem_bottom": 303.05823999999996,
+        "first_opt_top": 305.74,
+        "opts_bottom": 360.4599999999999,
+        "ans_top": 363.82,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 59,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "A merchant mixes 50 kg of rice costing ₹60/kg with another variety costing ₹90/kg. He sells at ₹75/kg with 8% profit. How much of the second variety(approximate) did he mix?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A merchant mixes 50 kg of rice costing ₹60/kg with another variety costing ₹90/kg. He sells at ₹75/kg with 8% profit. How much of the second variety(approximate) did he mix?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "10 kg",
+        "15 kg",
+        "23 kg",
+        "25 kg"
+      ],
+      "raw_options": [
+        "10 kg",
+        "15 kg",
+        "23 kg",
+        "25 kg"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 392.88,
+        "stem_bottom": 418.31999999999994,
+        "first_opt_top": 421.68,
+        "opts_bottom": 476.41999999999996,
+        "ans_top": 479.78,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 60,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "M and N invest ₹80,000 and ₹1,20,000 respectively. After one year, profit including 8% simple interest on capital is ₹30,000. What is M's share?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "M and N invest ₹80,000 and ₹1,20,000 respectively. After one year, profit including 8% simple interest on capital is ₹30,000. What is M's share?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "₹10,800",
+        "₹12,000",
+        "₹13,400",
+        "₹14,400"
+      ],
+      "raw_options": [
+        "₹10,800",
+        "₹12,000",
+        "₹13,400",
+        "₹14,400"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 508.82,
+        "stem_bottom": 534.26,
+        "first_opt_top": 537.89,
+        "opts_bottom": 592.3699999999999,
+        "ans_top": 595.73,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 61,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Three numbers are such that when the average of any two is added to the third, the results are 200, 180, and 160. What is the average of the three numbers?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Three numbers are such that when the average of any two is added to the third, the results are 200, 180, and 160. What is the average of the three numbers?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "80",
+        "85",
+        "90",
+        "95"
+      ],
+      "raw_options": [
+        "80",
+        "85",
+        "90",
+        "95"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 624.79,
+        "stem_bottom": 650.23,
+        "first_opt_top": 653.8299999999999,
+        "opts_bottom": 708.31,
+        "ans_top": 711.6999999999999,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 62,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "A store sold 3 items with selling prices in ratio 4:5:6. Profit/loss: 25% profit, 15% loss, 20% profit respectively. What is approximate total profit/loss percentage?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A store sold 3 items with selling prices in ratio 4:5:6. Profit/loss: 25% profit, 15% loss, 20% profit respectively. What is approximate total profit/loss percentage?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "6.5% profit",
+        "8.52% loss",
+        "10% profit",
+        "10% loss"
+      ],
+      "raw_options": [
+        "6.5% profit",
+        "8.52% loss",
+        "10% profit",
+        "10% loss"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 12,
+        "stem_top": 740.736,
+        "stem_bottom": 766.1759999999999,
+        "first_opt_top": 95.41999999999996,
+        "opts_bottom": 780.8159999999999,
+        "ans_top": 138.89,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 63,
+      "section": "quantitative_aptitude",
+      "topic": "Simple & Compound Interest",
+      "render_mode": "text",
+      "stem": "Find the compound interest on ₹12,000 at 8% per annum for 2 years 6 months, compounded annually.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the compound interest on ₹12,000 at 8% per annum for 2 years 6 months, compounded annually."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "₹2,000",
+        "₹2,140.8",
+        "₹2,556.67",
+        "₹2,500"
+      ],
+      "raw_options": [
+        "₹2,000",
+        "₹2,140.8",
+        "₹2,556.67",
+        "₹2,500"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 167.92999999999995,
+        "stem_bottom": 178.9699999999999,
+        "first_opt_top": 182.33000000000004,
+        "opts_bottom": 236.82999999999993,
+        "ans_top": 240.18999999999994,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 64,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "A certain amount invested at 15% compound interest per annum, compounded annually, becomes ₹4,235 in 2 years. What is 120% of the principal?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A certain amount invested at 15% compound interest per annum, compounded annually, becomes ₹4,235 in 2 years. What is 120% of the principal?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "₹3,080",
+        "₹3,200",
+        "₹3,500",
+        "₹3,840 1 2"
+      ],
+      "raw_options": [
+        "₹3,080",
+        "₹3,200",
+        "₹3,500",
+        "₹3,840 1 2"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 269.23,
+        "stem_bottom": 294.93999999999994,
+        "first_opt_top": 298.29999999999995,
+        "opts_bottom": 352.78,
+        "ans_top": 356.14,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 65,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "image_stem",
+      "stem": "1 2\nQ65. Find the product: 1.5×3 ×\n3 5",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Q65. Find the product: 1.5×3 ×"
+        },
+        {
+          "type": "paragraph",
+          "text": "3 5"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2025-09-14-s1/q065_stem.webp",
+      "full_image": null,
+      "options": [
+        "2.0",
+        "2.5",
+        "3.0",
+        "3.5"
+      ],
+      "raw_options": [
+        "2.0",
+        "2.5",
+        "3.0",
+        "3.5"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 383.47823999999997,
+        "stem_bottom": 403.39824,
+        "first_opt_top": 405.12,
+        "opts_bottom": 459.61999999999995,
+        "ans_top": 462.97999999999996,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 66,
+      "section": "quantitative_aptitude",
+      "topic": "Data Interpretation & Statistics",
+      "render_mode": "text",
+      "stem": "Table - Sales of 3 Items over 3 Months\nItem Jan Feb Mar\nX 150 180 170\nY 120 110 130\nZ 200 210 190\nWhich item had the highest average sales?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Table - Sales of 3 Items over 3 Months"
+        },
+        {
+          "type": "paragraph",
+          "text": "Item Jan Feb Mar"
+        },
+        {
+          "type": "paragraph",
+          "text": "X 150 180 170"
+        },
+        {
+          "type": "paragraph",
+          "text": "Y 120 110 130"
+        },
+        {
+          "type": "paragraph",
+          "text": "Z 200 210 190"
+        },
+        {
+          "type": "paragraph",
+          "text": "Which item had the highest average sales?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "X",
+        "Y",
+        "Z",
+        "X and Z equal"
+      ],
+      "raw_options": [
+        "X",
+        "Y",
+        "Z",
+        "X and Z equal"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 492.02,
+        "stem_bottom": 577.97,
+        "first_opt_top": 581.5699999999999,
+        "opts_bottom": 636.0699999999999,
+        "ans_top": 639.43,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 67,
+      "section": "quantitative_aptitude",
+      "topic": "Time, Speed & Distance",
+      "render_mode": "text",
+      "stem": "A company organized training for 120 employees and 15 supervisors. Each employee got a kit with items equal to 12% of total employees. Each supervisor got a kit with items equal to 20% of total employees. How many total kit items were distributed?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A company organized training for 120 employees and 15 supervisors. Each employee got a kit with items equal to 12% of total employees. Each supervisor got a kit with items equal to 20% of total employees. How many total kit items were distributed?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1800",
+        "2088",
+        "2100",
+        "2408"
+      ],
+      "raw_options": [
+        "1800",
+        "2088",
+        "2100",
+        "2408"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 668.47,
+        "stem_bottom": 708.5799999999999,
+        "first_opt_top": 711.9399999999999,
+        "opts_bottom": 766.4159999999999,
+        "ans_top": 770.016,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 68,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "A 50-litre mixture of oil and water has 16% water. How many litres of oil must be added to make water content 10%?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A 50-litre mixture of oil and water has 16% water. How many litres of oil must be added to make water content 10%?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "10 litres",
+        "15 litres",
+        "20 litres",
+        "30 litres"
+      ],
+      "raw_options": [
+        "10 litres",
+        "15 litres",
+        "20 litres",
+        "30 litres"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 109.81999999999994,
+        "stem_bottom": 135.28999999999996,
+        "first_opt_top": 138.89,
+        "opts_bottom": 193.37,
+        "ans_top": 196.73000000000002,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 69,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "X and Y complete a task in 14 days, Y and Z in 18 days. X works 6 days, Y works 8 days, Z works 12 days to complete it. How many days for Z alone(approximate)?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "X and Y complete a task in 14 days, Y and Z in 18 days. X works 6 days, Y works 8 days, Z works 12 days to complete it. How many days for Z alone(approximate)?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "20 days",
+        "22 days",
+        "28 days",
+        "30 days"
+      ],
+      "raw_options": [
+        "20 days",
+        "22 days",
+        "28 days",
+        "30 days"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 225.78999999999996,
+        "stem_bottom": 251.2299999999999,
+        "first_opt_top": 254.83000000000004,
+        "opts_bottom": 309.3399999999999,
+        "ans_top": 312.69999999999993,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 70,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "A circular park with 8 m diameter is surrounded by 0.5 m wide path. What is the percentage increase in area?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A circular park with 8 m diameter is surrounded by 0.5 m wide path. What is the percentage increase in area?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "40%",
+        "26.66%",
+        "26.56%",
+        "65%"
+      ],
+      "raw_options": [
+        "40%",
+        "26.66%",
+        "26.56%",
+        "65%"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 341.74,
+        "stem_bottom": 352.78,
+        "first_opt_top": 356.14,
+        "opts_bottom": 410.87999999999994,
+        "ans_top": 414.24,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 71,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Find y-intercept of 5x + 3y = 15.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find y-intercept of 5x + 3y = 15."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "raw_options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 443.28,
+        "stem_bottom": 454.31999999999994,
+        "first_opt_top": 457.7,
+        "opts_bottom": 512.18,
+        "ans_top": 515.78,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 72,
+      "section": "quantitative_aptitude",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "A sector with radius 12 cm has area 132 cm². Find the central angle.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A sector with radius 12 cm has area 132 cm². Find the central angle."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "105°",
+        "110°",
+        "115°",
+        "120°"
+      ],
+      "raw_options": [
+        "105°",
+        "110°",
+        "115°",
+        "120°"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 544.61,
+        "stem_bottom": 555.65,
+        "first_opt_top": 559.25,
+        "opts_bottom": 613.73,
+        "ans_top": 617.1099999999999,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 73,
+      "section": "quantitative_aptitude",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "A circular board radius 3\nm. Painting costs ₹50/m². If 15% is unpainted, what is total cost?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A circular board radius 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "m. Painting costs ₹50/m². If 15% is unpainted, what is total cost?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "₹1185",
+        "₹1202",
+        "₹1275",
+        "₹1350 1 1"
+      ],
+      "raw_options": [
+        "₹1185",
+        "₹1202",
+        "₹1275",
+        "₹1350 1 1"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 14,
+        "stem_top": 646.15,
+        "stem_bottom": 657.1899999999999,
+        "first_opt_top": 660.55,
+        "opts_bottom": 715.3,
+        "ans_top": 718.66,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 74,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "image_stem",
+      "stem": "1 1\nQ74. Given x + = 5, find x³ +\n𝑥 𝑥 3",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Q74. Given x + = 5, find x³ +"
+        },
+        {
+          "type": "paragraph",
+          "text": "𝑥 𝑥 3"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2025-09-14-s1/q074_stem.webp",
+      "full_image": null,
+      "options": [
+        "100",
+        "110",
+        "120",
+        "125"
+      ],
+      "raw_options": [
+        "100",
+        "110",
+        "120",
+        "125"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 93.69824000000006,
+        "stem_bottom": 113.61824000000001,
+        "first_opt_top": 115.13,
+        "opts_bottom": 169.6099999999999,
+        "ans_top": 172.97000000000003,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 75,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "0.2 + 0.02 + 0.002 = ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "0.2 + 0.02 + 0.002 = ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "0.220",
+        "0.222",
+        "0.224",
+        "0.226"
+      ],
+      "raw_options": [
+        "0.220",
+        "0.222",
+        "0.224",
+        "0.226"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 202.02999999999997,
+        "stem_bottom": 213.06999999999994,
+        "first_opt_top": 216.66999999999996,
+        "opts_bottom": 271.15,
+        "ans_top": 274.51,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 76,
+      "section": "english",
+      "topic": "Para Jumbles & Sentence Rearrangement",
+      "render_mode": "text",
+      "stem": "Rearrange the following sentences to form a coherent paragraph:\n1. This is why it is widely used for tasks such as spam detection, speech recognition, and disease prediction.\n2. Data science involves extracting useful insights from data using statistical methods and computational tools.\n3. By examining large datasets, it uncovers hidden trends and supports better decision-making.\n4. Rather than relying on guesses, analysts work with evidence drawn from real-world data.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Rearrange the following sentences to form a coherent paragraph:"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "This is why it is widely used for tasks such as spam detection, speech recognition, and disease prediction."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "Data science involves extracting useful insights from data using statistical methods and computational tools."
+        },
+        {
+          "type": "list_item",
+          "marker": "3.",
+          "text": "By examining large datasets, it uncovers hidden trends and supports better decision-making."
+        },
+        {
+          "type": "list_item",
+          "marker": "4.",
+          "text": "Rather than relying on guesses, analysts work with evidence drawn from real-world data."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "2, 4, 3, 1",
+        "4, 3, 2, 1",
+        "3, 4, 2, 1",
+        "2, 3, 4, 1"
+      ],
+      "raw_options": [
+        "2, 4, 3, 1",
+        "4, 3, 2, 1",
+        "3, 4, 2, 1",
+        "2, 3, 4, 1"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 303.58000000000004,
+        "stem_bottom": 372.4599999999999,
+        "first_opt_top": 376.08,
+        "opts_bottom": 430.55999999999995,
+        "ans_top": 433.91999999999996,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 77,
+      "section": "english",
+      "topic": "Data Interpretation & Statistics",
+      "render_mode": "text",
+      "stem": "Choose the most suitable option to replace the highlighted part of the sentence:\nIt is high time you must follow a proper routine.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the most suitable option to replace the highlighted part of the sentence:"
+        },
+        {
+          "type": "paragraph",
+          "text": "It is high time you must follow a proper routine."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "followed a proper routine",
+        "must have followed a proper routine",
+        "follow a proper routine",
+        "will follow a proper routine"
+      ],
+      "raw_options": [
+        "followed a proper routine",
+        "must have followed a proper routine",
+        "follow a proper routine",
+        "will follow a proper routine"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 462.97999999999996,
+        "stem_bottom": 488.41999999999996,
+        "first_opt_top": 492.02,
+        "opts_bottom": 546.53,
+        "ans_top": 549.89,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 78,
+      "section": "english",
+      "topic": "Spelling Correction",
+      "render_mode": "text",
+      "stem": "Identify the misspelt word",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Identify the misspelt word"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Accommodation",
+        "Occurence",
+        "Maintenance",
+        "Renaissance"
+      ],
+      "raw_options": [
+        "Accommodation",
+        "Occurence",
+        "Maintenance",
+        "Renaissance"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 578.93,
+        "stem_bottom": 589.9699999999999,
+        "first_opt_top": 593.3299999999999,
+        "opts_bottom": 648.0699999999999,
+        "ans_top": 651.43,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 79,
+      "section": "english",
+      "topic": "Vocabulary: Synonyms & Antonyms",
+      "render_mode": "text",
+      "stem": "Select the most appropriate antonym of the given word: OBLITERATE",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the most appropriate antonym of the given word: OBLITERATE"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Erase",
+        "Foster",
+        "Annihilate",
+        "Extinguish"
+      ],
+      "raw_options": [
+        "Erase",
+        "Foster",
+        "Annihilate",
+        "Extinguish"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 680.47,
+        "stem_bottom": 691.51,
+        "first_opt_top": 694.8699999999999,
+        "opts_bottom": 749.376,
+        "ans_top": 752.976,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 80,
+      "section": "english",
+      "topic": "Data Interpretation & Statistics",
+      "render_mode": "text",
+      "stem": "Choose the most suitable option to replace the highlighted part of the sentence:\nHad I been aware of the delay, I will start earlier.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the most suitable option to replace the highlighted part of the sentence:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Had I been aware of the delay, I will start earlier."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "would have started earlier",
+        "would start earlier",
+        "had started earlier",
+        "would started earlier"
+      ],
+      "raw_options": [
+        "would have started earlier",
+        "would start earlier",
+        "had started earlier",
+        "would started earlier"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 120.8599999999999,
+        "first_opt_top": 124.25,
+        "opts_bottom": 178.9699999999999,
+        "ans_top": 182.33000000000004,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 81,
+      "section": "english",
+      "topic": "Direct & Indirect Speech",
+      "render_mode": "text",
+      "stem": "A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech:\nShe said, “Finish it right now.”",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech:"
+        },
+        {
+          "type": "paragraph",
+          "text": "She said, “Finish it right now.”"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "She said to finish it instantly.",
+        "She told to finish it then.",
+        "She told me to finish it immediately.",
+        "She told me finish it right now."
+      ],
+      "raw_options": [
+        "She said to finish it instantly.",
+        "She told to finish it then.",
+        "She told me to finish it immediately.",
+        "She told me finish it right now."
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 211.39,
+        "stem_bottom": 251.2299999999999,
+        "first_opt_top": 254.83000000000004,
+        "opts_bottom": 309.3399999999999,
+        "ans_top": 312.69999999999993,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 82,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Select the correct option:\nThe committee issued several directives, none of _______ were implemented.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correct option:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The committee issued several directives, none of _______ were implemented."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "that",
+        "them",
+        "which",
+        "whom"
+      ],
+      "raw_options": [
+        "that",
+        "them",
+        "which",
+        "whom"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 341.74,
+        "stem_bottom": 367.17999999999995,
+        "first_opt_top": 370.8,
+        "opts_bottom": 425.28,
+        "ans_top": 428.64,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 83,
+      "section": "english",
+      "topic": "Direct & Indirect Speech",
+      "render_mode": "text",
+      "stem": "A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech:\nThe manager remarked that employees needed to submit their reports by Monday.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The manager remarked that employees needed to submit their reports by Monday."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "“Employees need to submit their reports by Monday,” the manager remarked.",
+        "“Employees needed to submit their reports by Monday,” the manager said.",
+        "“Submit your reports by Monday,” the manager ordered.",
+        "“You were to submit your reports by Monday,” the manager said."
+      ],
+      "raw_options": [
+        "“Employees need to submit their reports by Monday,” the manager remarked.",
+        "“Employees needed to submit their reports by Monday,” the manager said.",
+        "“Submit your reports by Monday,” the manager ordered.",
+        "“You were to submit your reports by Monday,” the manager said."
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 457.7,
+        "stem_bottom": 497.78,
+        "first_opt_top": 501.14,
+        "opts_bottom": 555.65,
+        "ans_top": 559.25,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 84,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Select the correct option:\nHer interpretation was diametrically ________ to the accepted doctrine.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correct option:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Her interpretation was diametrically ________ to the accepted doctrine."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "adverse",
+        "averse",
+        "inverse",
+        "opposed"
+      ],
+      "raw_options": [
+        "adverse",
+        "averse",
+        "inverse",
+        "opposed"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 588.05,
+        "stem_bottom": 613.73,
+        "first_opt_top": 617.1099999999999,
+        "opts_bottom": 671.5899999999999,
+        "ans_top": 675.1899999999999,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 85,
+      "section": "english",
+      "topic": "Para Jumbles & Sentence Rearrangement",
+      "render_mode": "text",
+      "stem": "Rearrange the following sentences to form a coherent paragraph:\n1. The key aim of this process is to make items safer to consume by reducing germs and impurities.\n2. Food preservation refers to techniques used to keep perishable items from spoiling quickly.\n3. These techniques may include drying, freezing, canning, and methods like salting or pickling.\n4. Moreover, it helps retain quality, improves storage duration, and reduces overall food waste.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Rearrange the following sentences to form a coherent paragraph:"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "The key aim of this process is to make items safer to consume by reducing germs and impurities."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "Food preservation refers to techniques used to keep perishable items from spoiling quickly."
+        },
+        {
+          "type": "list_item",
+          "marker": "3.",
+          "text": "These techniques may include drying, freezing, canning, and methods like salting or pickling."
+        },
+        {
+          "type": "list_item",
+          "marker": "4.",
+          "text": "Moreover, it helps retain quality, improves storage duration, and reduces overall food waste."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "2, 3, 1, 4",
+        "1, 2, 3, 4",
+        "1, 4, 3, 2",
+        "4, 2, 1, 3"
+      ],
+      "raw_options": [
+        "2, 3, 1, 4",
+        "1, 2, 3, 4",
+        "1, 4, 3, 2",
+        "4, 2, 1, 3"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 16,
+        "stem_top": 704.26,
+        "stem_bottom": 773.136,
+        "first_opt_top": 95.41999999999996,
+        "opts_bottom": 787.536,
+        "ans_top": 138.89,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 86,
+      "section": "english",
+      "topic": "Spotting Errors & Sentence Correction",
+      "render_mode": "text",
+      "stem": "Find the part of the sentence that contains an error:\nIt was not only the scattering of administrative authority across multiple agencies (1)/ that weakened coordinated policy-making, but the rigidity built into intersecting compliance frameworks (2)/ which, though intended to preserve procedural independence, (3)/ end up stalling inter-departmental coordination completely. (4)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the part of the sentence that contains an error:"
+        },
+        {
+          "type": "paragraph",
+          "text": "It was not only the scattering of administrative authority across multiple agencies (1)/ that weakened coordinated policy-making, but the rigidity built into intersecting compliance frameworks (2)/ which, though intended to preserve procedural independence, (3)/ end up stalling inter-departmental coordination completely. (4)"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)"
+      ],
+      "raw_options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 16,
+        "stem_top": 167.92999999999995,
+        "stem_bottom": 222.42999999999995,
+        "first_opt_top": 225.78999999999996,
+        "opts_bottom": 280.27,
+        "ans_top": 283.9,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 87,
+      "section": "english",
+      "topic": "Geography & Environment",
+      "render_mode": "text",
+      "stem": "Change the following from active to passive:\nThe panel had been reviewing sensitive proposals when the alarm sounded.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Change the following from active to passive:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The panel had been reviewing sensitive proposals when the alarm sounded."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Sensitive proposals had had been reviewed by the panel when the alarm sounded.",
+        "Sensitive proposals had been being reviewed by the panel when the alarm sounded.",
+        "Sensitive proposals had be being reviewed by the panel when the alarm sounded.",
+        "Sensitive proposals had reviewed by the panel when the alarm sounded."
+      ],
+      "raw_options": [
+        "Sensitive proposals had had been reviewed by the panel when the alarm sounded.",
+        "Sensitive proposals had been being reviewed by the panel when the alarm sounded.",
+        "Sensitive proposals had be being reviewed by the panel when the alarm sounded.",
+        "Sensitive proposals had reviewed by the panel when the alarm sounded."
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 16,
+        "stem_top": 312.69999999999993,
+        "stem_bottom": 338.37999999999994,
+        "first_opt_top": 341.74,
+        "opts_bottom": 396.23999999999995,
+        "ans_top": 399.84,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 88,
+      "section": "english",
+      "topic": "Reading Comprehension",
+      "render_mode": "text",
+      "stem": "According to the passage, India’s first Olympic team gold was achieved at which Games?\nRead the passage and answer the following questions.\nIndia’s association with the Olympics dates back to 1900, when Norman Pritchard, a British-Indian sportsperson, secured two silver medals in athletics. Yet, India’s first true team breakthrough arrived much later—at the 1928 Amsterdam Games—when the men’s hockey squad captured its maiden Olympic gold and announced India’s dominance on the world stage. Thereafter came a celebrated phase in which Indian men’s hockey ruled the Olympics, collecting eight gold medals from 1928 to 1980—an extraordinary record.\nHowever, this brilliance did not translate into consistent overall success. After 1980, India experienced a striking medal lull, revealing deeper structural shortcomings such as weak infrastructure, insufficient training systems, and limited grassroots talent identification. Many athletes had to depend heavily on personal grit rather than organized support to reach global standards.\nIn recent decades, though, the story has shifted towards guarded hope. With initiatives like the Target Olympic Podium Scheme (TOPS) and stronger corporate backing, athletes increasingly receive better coaching, nutrition planning, and mental-conditioning support. Medal counts remain moderate but have improved—highlighted by Neeraj Chopra’s landmark javelin gold at Tokyo 2020. Another encouraging development is the widening of India’s sporting footprint: progress is now visible across badminton, shooting, boxing, athletics, and more—not just hockey and wrestling. Notably, Indian women athletes have also emerged as key contributors in recent Olympic performances. Even so, converting promise into podium finishes still demands sustained funding, scientific sports planning, and a culture that values multiple sports beyond cricket. India’s Olympic identity is still taking shape, but the ambition is unmistakable: to evolve from participation to true powerhouse status.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "According to the passage, India’s first Olympic team gold was achieved at which Games?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the passage and answer the following questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "India’s association with the Olympics dates back to 1900, when Norman Pritchard, a British-Indian sportsperson, secured two silver medals in athletics. Yet, India’s first true team breakthrough arrived much later—at the 1928 Amsterdam Games—when the men’s hockey squad captured its maiden Olympic gold and announced India’s dominance on the world stage. Thereafter came a celebrated phase in which Indian men’s hockey ruled the Olympics, collecting eight gold medals from 1928 to 1980—an extraordinary record."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, this brilliance did not translate into consistent overall success. After 1980, India experienced a striking medal lull, revealing deeper structural shortcomings such as weak infrastructure, insufficient training systems, and limited grassroots talent identification. Many athletes had to depend heavily on personal grit rather than organized support to reach global standards."
+        },
+        {
+          "type": "paragraph",
+          "text": "In recent decades, though, the story has shifted towards guarded hope. With initiatives like the Target Olympic Podium Scheme (TOPS) and stronger corporate backing, athletes increasingly receive better coaching, nutrition planning, and mental-conditioning support. Medal counts remain moderate but have improved—highlighted by Neeraj Chopra’s landmark javelin gold at Tokyo 2020. Another encouraging development is the widening of India’s sporting footprint: progress is now visible across badminton, shooting, boxing, athletics, and more—not just hockey and wrestling. Notably, Indian women athletes have also emerged as key contributors in recent Olympic performances. Even so, converting promise into podium finishes still demands sustained funding, scientific sports planning, and a culture that values multiple sports beyond cricket. India’s Olympic identity is still taking shape, but the ambition is unmistakable: to evolve from participation to true powerhouse status."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1900 Games held in France",
+        "1936 Games hosted in Germany",
+        "1928 Games conducted in the Netherlands",
+        "1948 Games hosted in the UK"
+      ],
+      "raw_options": [
+        "1900 Games held in France",
+        "1936 Games hosted in Germany",
+        "1928 Games conducted in the Netherlands",
+        "1948 Games hosted in the UK"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 16,
+        "stem_top": 428.64,
+        "stem_bottom": 715.3,
+        "first_opt_top": 718.66,
+        "opts_bottom": 773.136,
+        "ans_top": 776.496,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 89,
+      "section": "english",
+      "topic": "Reading Comprehension",
+      "render_mode": "text",
+      "stem": "What does the passage identify as the key reason behind India’s poor Olympic outcomes after 1980? Read the passage and answer the following questions.\nIndia’s association with the Olympics dates back to 1900, when Norman Pritchard, a British-Indian sportsperson, secured two silver medals in athletics. Yet, India’s first true team breakthrough arrived much later—at the 1928 Amsterdam Games—when the men’s hockey squad captured its maiden Olympic gold and announced India’s dominance on the world stage. Thereafter came a celebrated phase in which Indian men’s hockey ruled the Olympics, collecting eight gold medals from 1928 to 1980—an extraordinary record.\nHowever, this brilliance did not translate into consistent overall success. After 1980, India experienced a striking medal lull, revealing deeper structural shortcomings such as weak infrastructure, insufficient training systems, and limited grassroots talent identification. Many athletes had to depend heavily on personal grit rather than organized support to reach global standards.\nIn recent decades, though, the story has shifted towards guarded hope. With initiatives like the Target Olympic Podium Scheme (TOPS) and stronger corporate backing, athletes increasingly receive better coaching, nutrition planning, and mental-conditioning support. Medal counts remain moderate but have improved—highlighted by Neeraj Chopra’s landmark javelin gold at Tokyo 2020. Another encouraging development is the widening of India’s sporting footprint: progress is now visible across badminton, shooting, boxing, athletics, and more—not just hockey and wrestling. Notably, Indian women athletes have also emerged as key contributors in recent Olympic performances. Even so, converting promise into podium finishes still demands sustained funding, scientific sports planning, and a culture that values multiple sports beyond cricket. India’s Olympic identity is still taking shape, but the ambition is unmistakable: to evolve from participation to true powerhouse status.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What does the passage identify as the key reason behind India’s poor Olympic outcomes after 1980? Read the passage and answer the following questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "India’s association with the Olympics dates back to 1900, when Norman Pritchard, a British-Indian sportsperson, secured two silver medals in athletics. Yet, India’s first true team breakthrough arrived much later—at the 1928 Amsterdam Games—when the men’s hockey squad captured its maiden Olympic gold and announced India’s dominance on the world stage. Thereafter came a celebrated phase in which Indian men’s hockey ruled the Olympics, collecting eight gold medals from 1928 to 1980—an extraordinary record."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, this brilliance did not translate into consistent overall success. After 1980, India experienced a striking medal lull, revealing deeper structural shortcomings such as weak infrastructure, insufficient training systems, and limited grassroots talent identification. Many athletes had to depend heavily on personal grit rather than organized support to reach global standards."
+        },
+        {
+          "type": "paragraph",
+          "text": "In recent decades, though, the story has shifted towards guarded hope. With initiatives like the Target Olympic Podium Scheme (TOPS) and stronger corporate backing, athletes increasingly receive better coaching, nutrition planning, and mental-conditioning support. Medal counts remain moderate but have improved—highlighted by Neeraj Chopra’s landmark javelin gold at Tokyo 2020. Another encouraging development is the widening of India’s sporting footprint: progress is now visible across badminton, shooting, boxing, athletics, and more—not just hockey and wrestling. Notably, Indian women athletes have also emerged as key contributors in recent Olympic performances. Even so, converting promise into podium finishes still demands sustained funding, scientific sports planning, and a culture that values multiple sports beyond cricket. India’s Olympic identity is still taking shape, but the ambition is unmistakable: to evolve from participation to true powerhouse status."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Weak public enthusiasm for sports",
+        "Excessive dependence on cricket culture",
+        "Deep-rooted flaws in the sports system",
+        "Absence of international exposure events"
+      ],
+      "raw_options": [
+        "Weak public enthusiasm for sports",
+        "Excessive dependence on cricket culture",
+        "Deep-rooted flaws in the sports system",
+        "Absence of international exposure events"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 17,
+        "min_page": 17,
+        "max_page": 17,
+        "stem_top": 109.81999999999994,
+        "stem_bottom": 396.23999999999995,
+        "first_opt_top": 399.84,
+        "opts_bottom": 454.31999999999994,
+        "ans_top": 457.7,
+        "ans_page": 17
+      }
+    },
+    {
+      "n": 90,
+      "section": "english",
+      "topic": "Reading Comprehension",
+      "render_mode": "text",
+      "stem": "Which programme is cited in the passage as a major boost to India’s modern Olympic preparation? Read the passage and answer the following questions.\nIndia’s association with the Olympics dates back to 1900, when Norman Pritchard, a British-Indian sportsperson, secured two silver medals in athletics. Yet, India’s first true team breakthrough arrived much later—at the 1928 Amsterdam Games—when the men’s hockey squad captured its maiden Olympic gold and announced India’s dominance on the world stage. Thereafter came a celebrated phase in which Indian men’s hockey ruled the Olympics, collecting eight gold medals from 1928 to 1980—an extraordinary record.\nHowever, this brilliance did not translate into consistent overall success. After 1980, India experienced a striking medal lull, revealing deeper structural shortcomings such as weak infrastructure, insufficient training systems, and limited grassroots talent identification. Many athletes had to depend heavily on personal grit rather than organized support to reach global standards.\nIn recent decades, though, the story has shifted towards guarded hope. With initiatives like the Target Olympic Podium Scheme (TOPS) and stronger corporate backing, athletes increasingly receive better coaching, nutrition planning, and mental-conditioning support. Medal counts remain moderate but have improved—highlighted by Neeraj Chopra’s landmark javelin gold at Tokyo 2020. Another encouraging development is the widening of India’s sporting footprint: progress is now visible across badminton, shooting, boxing, athletics, and more—not just hockey and wrestling. Notably, Indian women athletes have also emerged as key contributors in recent Olympic performances. Even so, converting promise into podium finishes still demands sustained funding, scientific sports planning, and a culture that values multiple sports beyond cricket. India’s Olympic identity is still taking shape, but the ambition is unmistakable: to evolve from participation to true powerhouse status.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which programme is cited in the passage as a major boost to India’s modern Olympic preparation? Read the passage and answer the following questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "India’s association with the Olympics dates back to 1900, when Norman Pritchard, a British-Indian sportsperson, secured two silver medals in athletics. Yet, India’s first true team breakthrough arrived much later—at the 1928 Amsterdam Games—when the men’s hockey squad captured its maiden Olympic gold and announced India’s dominance on the world stage. Thereafter came a celebrated phase in which Indian men’s hockey ruled the Olympics, collecting eight gold medals from 1928 to 1980—an extraordinary record."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, this brilliance did not translate into consistent overall success. After 1980, India experienced a striking medal lull, revealing deeper structural shortcomings such as weak infrastructure, insufficient training systems, and limited grassroots talent identification. Many athletes had to depend heavily on personal grit rather than organized support to reach global standards."
+        },
+        {
+          "type": "paragraph",
+          "text": "In recent decades, though, the story has shifted towards guarded hope. With initiatives like the Target Olympic Podium Scheme (TOPS) and stronger corporate backing, athletes increasingly receive better coaching, nutrition planning, and mental-conditioning support. Medal counts remain moderate but have improved—highlighted by Neeraj Chopra’s landmark javelin gold at Tokyo 2020. Another encouraging development is the widening of India’s sporting footprint: progress is now visible across badminton, shooting, boxing, athletics, and more—not just hockey and wrestling. Notably, Indian women athletes have also emerged as key contributors in recent Olympic performances. Even so, converting promise into podium finishes still demands sustained funding, scientific sports planning, and a culture that values multiple sports beyond cricket. India’s Olympic identity is still taking shape, but the ambition is unmistakable: to evolve from participation to true powerhouse status."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Khel Pragati Abhiyan",
+        "Olympic Excellence Drive",
+        "Fit Nation Campaign",
+        "Target Olympic Podium Scheme (TOPS)"
+      ],
+      "raw_options": [
+        "Khel Pragati Abhiyan",
+        "Olympic Excellence Drive",
+        "Fit Nation Campaign",
+        "Target Olympic Podium Scheme (TOPS)"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 17,
+        "min_page": 17,
+        "max_page": 18,
+        "stem_top": 486.74,
+        "stem_bottom": 773.136,
+        "first_opt_top": 95.41999999999996,
+        "opts_bottom": 787.536,
+        "ans_top": 138.89,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 91,
+      "section": "english",
+      "topic": "Reading Comprehension",
+      "render_mode": "text",
+      "stem": "Which development is presented as the most positive shift in India’s Olympic journey in recent times? Read the passage and answer the following questions.\nIndia’s association with the Olympics dates back to 1900, when Norman Pritchard, a British-Indian sportsperson, secured two silver medals in athletics. Yet, India’s first true team breakthrough arrived much later—at the 1928 Amsterdam Games—when the men’s hockey squad captured its maiden Olympic gold and announced India’s dominance on the world stage. Thereafter came a celebrated phase in which Indian men’s hockey ruled the Olympics, collecting eight gold medals from 1928 to 1980—an extraordinary record.\nHowever, this brilliance did not translate into consistent overall success. After 1980, India experienced a striking medal lull, revealing deeper structural shortcomings such as weak infrastructure, insufficient training systems, and limited grassroots talent identification. Many athletes had to depend heavily on personal grit rather than organized support to reach global standards.\nIn recent decades, though, the story has shifted towards guarded hope. With initiatives like the Target Olympic Podium Scheme (TOPS) and stronger corporate backing, athletes increasingly receive better coaching, nutrition planning, and mental-conditioning support. Medal counts remain moderate but have improved—highlighted by Neeraj Chopra’s landmark javelin gold at Tokyo 2020. Another encouraging development is the widening of India’s sporting footprint: progress is now visible across badminton, shooting, boxing, athletics, and more—not just hockey and wrestling. Notably, Indian women athletes have also emerged as key contributors in recent Olympic performances. Even so, converting promise into podium finishes still demands sustained funding, scientific sports planning, and a culture that values multiple sports beyond cricket. India’s Olympic identity is still taking shape, but the ambition is unmistakable: to evolve from participation to true powerhouse status.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which development is presented as the most positive shift in India’s Olympic journey in recent times? Read the passage and answer the following questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "India’s association with the Olympics dates back to 1900, when Norman Pritchard, a British-Indian sportsperson, secured two silver medals in athletics. Yet, India’s first true team breakthrough arrived much later—at the 1928 Amsterdam Games—when the men’s hockey squad captured its maiden Olympic gold and announced India’s dominance on the world stage. Thereafter came a celebrated phase in which Indian men’s hockey ruled the Olympics, collecting eight gold medals from 1928 to 1980—an extraordinary record."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, this brilliance did not translate into consistent overall success. After 1980, India experienced a striking medal lull, revealing deeper structural shortcomings such as weak infrastructure, insufficient training systems, and limited grassroots talent identification. Many athletes had to depend heavily on personal grit rather than organized support to reach global standards."
+        },
+        {
+          "type": "paragraph",
+          "text": "In recent decades, though, the story has shifted towards guarded hope. With initiatives like the Target Olympic Podium Scheme (TOPS) and stronger corporate backing, athletes increasingly receive better coaching, nutrition planning, and mental-conditioning support. Medal counts remain moderate but have improved—highlighted by Neeraj Chopra’s landmark javelin gold at Tokyo 2020. Another encouraging development is the widening of India’s sporting footprint: progress is now visible across badminton, shooting, boxing, athletics, and more—not just hockey and wrestling. Notably, Indian women athletes have also emerged as key contributors in recent Olympic performances. Even so, converting promise into podium finishes still demands sustained funding, scientific sports planning, and a culture that values multiple sports beyond cricket. India’s Olympic identity is still taking shape, but the ambition is unmistakable: to evolve from participation to true powerhouse status."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Cutting down cricket-related focus",
+        "Returning to complete hockey supremacy",
+        "Growth across many sports along with stronger women’s performances",
+        "A decline in dominance of Western nations"
+      ],
+      "raw_options": [
+        "Cutting down cricket-related focus",
+        "Returning to complete hockey supremacy",
+        "Growth across many sports along with stronger women’s performances",
+        "A decline in dominance of Western nations"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 18,
+        "stem_top": 167.92999999999995,
+        "stem_bottom": 454.31999999999994,
+        "first_opt_top": 457.7,
+        "opts_bottom": 512.18,
+        "ans_top": 515.78,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 92,
+      "section": "english",
+      "topic": "Reading Comprehension",
+      "render_mode": "text",
+      "stem": ". What does the passage suggest about India’s Olympic goals going forward?\nRead the passage and answer the following questions.\nIndia’s association with the Olympics dates back to 1900, when Norman Pritchard, a British-Indian sportsperson, secured two silver medals in athletics. Yet, India’s first true team breakthrough arrived much later—at the 1928 Amsterdam Games—when the men’s hockey squad captured its maiden Olympic gold and announced India’s dominance on the world stage. Thereafter came a celebrated phase in which Indian men’s hockey ruled the Olympics, collecting eight gold medals from 1928 to 1980—an extraordinary record.\nHowever, this brilliance did not translate into consistent overall success. After 1980, India experienced a striking medal lull, revealing deeper structural shortcomings such as weak infrastructure, insufficient training systems, and limited grassroots talent identification. Many athletes had to depend heavily on personal grit rather than organized support to reach global standards.\nIn recent decades, though, the story has shifted towards guarded hope. With initiatives like the Target Olympic Podium Scheme (TOPS) and stronger corporate backing, athletes increasingly receive better coaching, nutrition planning, and mental-conditioning support. Medal counts remain moderate but have improved—highlighted by Neeraj Chopra’s landmark javelin gold at Tokyo 2020. Another encouraging development is the widening of India’s sporting footprint: progress is now visible across badminton, shooting, boxing, athletics, and more—not just hockey and wrestling. Notably, Indian women athletes have also emerged as key contributors in recent Olympic performances. Even so, converting promise into podium finishes still demands sustained funding, scientific sports planning, and a culture that values multiple sports beyond cricket. India’s Olympic identity is still taking shape, but the ambition is unmistakable: to evolve from participation to true powerhouse status.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": ". What does the passage suggest about India’s Olympic goals going forward?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the passage and answer the following questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "India’s association with the Olympics dates back to 1900, when Norman Pritchard, a British-Indian sportsperson, secured two silver medals in athletics. Yet, India’s first true team breakthrough arrived much later—at the 1928 Amsterdam Games—when the men’s hockey squad captured its maiden Olympic gold and announced India’s dominance on the world stage. Thereafter came a celebrated phase in which Indian men’s hockey ruled the Olympics, collecting eight gold medals from 1928 to 1980—an extraordinary record."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, this brilliance did not translate into consistent overall success. After 1980, India experienced a striking medal lull, revealing deeper structural shortcomings such as weak infrastructure, insufficient training systems, and limited grassroots talent identification. Many athletes had to depend heavily on personal grit rather than organized support to reach global standards."
+        },
+        {
+          "type": "paragraph",
+          "text": "In recent decades, though, the story has shifted towards guarded hope. With initiatives like the Target Olympic Podium Scheme (TOPS) and stronger corporate backing, athletes increasingly receive better coaching, nutrition planning, and mental-conditioning support. Medal counts remain moderate but have improved—highlighted by Neeraj Chopra’s landmark javelin gold at Tokyo 2020. Another encouraging development is the widening of India’s sporting footprint: progress is now visible across badminton, shooting, boxing, athletics, and more—not just hockey and wrestling. Notably, Indian women athletes have also emerged as key contributors in recent Olympic performances. Even so, converting promise into podium finishes still demands sustained funding, scientific sports planning, and a culture that values multiple sports beyond cricket. India’s Olympic identity is still taking shape, but the ambition is unmistakable: to evolve from participation to true powerhouse status."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "They depend completely on overseas training support",
+        "They are restricted to regular participation only",
+        "They are rising, but require continuous long-term reforms",
+        "They remain focused mainly on traditional medal sports"
+      ],
+      "raw_options": [
+        "They depend completely on overseas training support",
+        "They are restricted to regular participation only",
+        "They are rising, but require continuous long-term reforms",
+        "They remain focused mainly on traditional medal sports"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 19,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 787.536,
+        "first_opt_top": 138.89,
+        "opts_bottom": 193.37,
+        "ans_top": 196.73000000000002,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 93,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Select the correct option:\nNo sooner _________ the report released than the media erupted with criticism.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correct option:"
+        },
+        {
+          "type": "paragraph",
+          "text": "No sooner _________ the report released than the media erupted with criticism."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "was",
+        "had",
+        "were",
+        "have"
+      ],
+      "raw_options": [
+        "was",
+        "had",
+        "were",
+        "have"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 225.78999999999996,
+        "stem_bottom": 251.2299999999999,
+        "first_opt_top": 254.83000000000004,
+        "opts_bottom": 309.3399999999999,
+        "ans_top": 312.69999999999993,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 94,
+      "section": "english",
+      "topic": "Spotting Errors & Sentence Correction",
+      "render_mode": "text",
+      "stem": "Find the part of the sentence that contains an error:\nThe guideline seeks to neither prosecute minor violations (1)/ nor to overlook repeated breaches (2)/ arising from procedural confusion (3)/ rather than deliberate misconduct. (4)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the part of the sentence that contains an error:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The guideline seeks to neither prosecute minor violations (1)/ nor to overlook repeated breaches (2)/ arising from procedural confusion (3)/ rather than deliberate misconduct. (4)"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)"
+      ],
+      "raw_options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 341.74,
+        "stem_bottom": 381.84,
+        "first_opt_top": 385.2,
+        "opts_bottom": 439.67999999999995,
+        "ans_top": 443.28,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 95,
+      "section": "english",
+      "topic": "Vocabulary: Synonyms & Antonyms",
+      "render_mode": "text",
+      "stem": "Select the most appropriate synonym of the given word: INFANTILE",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the most appropriate synonym of the given word: INFANTILE"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Sophisticated",
+        "Seasoned",
+        "Puerile",
+        "Mature"
+      ],
+      "raw_options": [
+        "Sophisticated",
+        "Seasoned",
+        "Puerile",
+        "Mature"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 472.09999999999997,
+        "stem_bottom": 483.13999999999993,
+        "first_opt_top": 486.74,
+        "opts_bottom": 541.22,
+        "ans_top": 544.61,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 96,
+      "section": "english",
+      "topic": "Active & Passive Voice",
+      "render_mode": "text",
+      "stem": "Convert the sentence provided below from its passive voice structure to an active voice structure: A report is submitted to the supervisor by the intern every Monday.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Convert the sentence provided below from its passive voice structure to an active voice structure: A report is submitted to the supervisor by the intern every Monday."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The supervisor submits a report to the intern every Monday.",
+        "The intern submits a report to the supervisor every Monday.",
+        "The supervisor submitted a report every Monday.",
+        "The intern has been submitting reports to the supervisor every Monday."
+      ],
+      "raw_options": [
+        "The supervisor submits a report to the intern every Monday.",
+        "The intern submits a report to the supervisor every Monday.",
+        "The supervisor submitted a report every Monday.",
+        "The intern has been submitting reports to the supervisor every Monday."
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 573.65,
+        "stem_bottom": 599.0899999999999,
+        "first_opt_top": 602.6899999999999,
+        "opts_bottom": 657.1899999999999,
+        "ans_top": 660.55,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 97,
+      "section": "english",
+      "topic": "Spelling Correction",
+      "render_mode": "text",
+      "stem": "Spot the correct spelling of an early film material.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Spot the correct spelling of an early film material."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Celluloid",
+        "Celluloidn",
+        "Celluliod",
+        "Celuloid"
+      ],
+      "raw_options": [
+        "Celluloid",
+        "Celluloidn",
+        "Celluliod",
+        "Celuloid"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 689.5899999999999,
+        "stem_bottom": 700.6299999999999,
+        "first_opt_top": 704.26,
+        "opts_bottom": 758.736,
+        "ans_top": 762.096,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 98,
+      "section": "english",
+      "topic": "Idioms & Phrases",
+      "render_mode": "text",
+      "stem": "Choose the correct meaning of idiom: Mend fences",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the correct meaning of idiom: Mend fences"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "To restore friendly relations after a dispute",
+        "To intensify rivalry",
+        "To escape from responsibility",
+        "To forget an important detail"
+      ],
+      "raw_options": [
+        "To restore friendly relations after a dispute",
+        "To intensify rivalry",
+        "To escape from responsibility",
+        "To forget an important detail"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 21,
+        "min_page": 21,
+        "max_page": 21,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 106.45999999999992,
+        "first_opt_top": 109.81999999999994,
+        "opts_bottom": 164.32999999999993,
+        "ans_top": 167.92999999999995,
+        "ans_page": 21
+      }
+    },
+    {
+      "n": 99,
+      "section": "english",
+      "topic": "One-Word Substitution",
+      "render_mode": "text",
+      "stem": "Choose the correct one-word substitute for:\n“A person who is excessively fond of eating and drinking.”",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the correct one-word substitute for:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“A person who is excessively fond of eating and drinking.”"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Ascetic",
+        "Gourmand",
+        "Stoic",
+        "Miser"
+      ],
+      "raw_options": [
+        "Ascetic",
+        "Gourmand",
+        "Stoic",
+        "Miser"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 21,
+        "min_page": 21,
+        "max_page": 21,
+        "stem_top": 196.73000000000002,
+        "stem_bottom": 222.42999999999995,
+        "first_opt_top": 225.78999999999996,
+        "opts_bottom": 280.27,
+        "ans_top": 283.9,
+        "ans_page": 21
+      }
+    },
+    {
+      "n": 100,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Select the sentence containing the homonym of the highlighted word:\nThe knight adjusted his pauldron before the joust.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the sentence containing the homonym of the highlighted word:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The knight adjusted his pauldron before the joust."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The armourer repaired the dented pauldron and refastened its straps.",
+        "In the gallery, the curator tagged the pauldron as part of a full suit of armour.",
+        "Professor Pauldron delivered a lecture on medieval warfare to the history students.",
+        "The antique dealer priced the bronze pauldron higher than the matching gauntlets."
+      ],
+      "raw_options": [
+        "The armourer repaired the dented pauldron and refastened its straps.",
+        "In the gallery, the curator tagged the pauldron as part of a full suit of armour.",
+        "Professor Pauldron delivered a lecture on medieval warfare to the history students.",
+        "The antique dealer priced the bronze pauldron higher than the matching gauntlets."
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 21,
+        "min_page": 21,
+        "max_page": 21,
+        "stem_top": 312.69999999999993,
+        "stem_bottom": 338.37999999999994,
+        "first_opt_top": 341.74,
+        "opts_bottom": 396.23999999999995,
+        "ans_top": 399.84,
+        "ans_page": 21
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "welcome_back": [
+    "Ready to crack SSC CGL today?",
+    "Every practice question brings you closer to your dream post!",
+    "Great to see you back! Consistency is what turns aspirants into toppers.",
+    "Another day, another set of marks to conquer!",
+    "Let's sharpen those quantitative aptitude and reasoning skills!",
+    "Your future officer self will thank you for today's effort.",
+    "Small daily improvements over time lead to stunning results.",
+    "The secret of getting ahead is getting started. Let's go!",
+    "Rank 1 isn't born in a day — it's forged in daily mock drills.",
+    "Target 160+! Let's build up your speed and accuracy today."
+  ],
+  "correct": [
+    "Bullseye! That was spot on!",
+    "Brilliant logic! Keep that rhythm!",
+    "Pure perfection! 2 marks in the bag!",
+    "You nailed that one effortlessly!",
+    "Calculated to perfection!",
+    "Speed + Accuracy = Rank 1 energy!",
+    "Boom! That was textbook precision!",
+    "You're in the zone right now!",
+    "Flawless reasoning, love to see it!",
+    "Aspirant mode: UNSTOPPABLE!",
+    "Cracked it in record time!",
+    "That answer didn't stand a chance!",
+    "Sharp minds solve sharp problems!",
+    "Gold standard response!",
+    "Add another +2.0 to your score!",
+    "Mastery in motion! Keep pushing forward!",
+    "Clean deduction, no hesitation!",
+    "You just dismantled that problem completely!",
+    "Examiner tried, you prevailed!",
+    "Outstanding clarity! Next one coming right up!",
+    "That was swift and lethal!",
+    "Spot on! Your hard work is showing!",
+    "Great catch on the finer details!",
+    "Solid arithmetic, zero missteps!",
+    "That's how an inspector solves it!"
+  ],
+  "wrong": [
+    "Ah, close! Note the trap in that question.",
+    "No worries! Better to learn it here than in the exam hall.",
+    "Tricky one! Check the logic and let's bounce back.",
+    "A small bump, but your comeback will be bigger!",
+    "Mistakes are just bookmarks for future mastery.",
+    "Don't sweat it! Review the pattern and conquer it next time.",
+    "Negative marking hurts, but the lesson helps forever!",
+    "That was a classic examiner trap. Now you know its tricks!",
+    "Shake it off! Champions recalibrate and keep moving.",
+    "Even toppers miss a few; keep your focus steady!",
+    "Take a breath! You've got the next one.",
+    "Read the question wording carefully — look for 'NOT' or exceptions.",
+    "Check your calculation steps. You were very close!",
+    "Add this to your mental checklist of tricky patterns.",
+    "Failure is just data on where to strengthen your grip.",
+    "Keep your cool! One miss won't derail a great session.",
+    "Learn the solution formula and let's move forward!",
+    "You've got this! Shake the dust and focus on the next prompt.",
+    "Reviewing errors is where 80% of score gains happen.",
+    "Good try! Notice the difference in option nuances."
+  ],
+  "streak_3": [
+    "🔥 3 in a row! Momentum is building!",
+    "Three streak! Your concentration is razor sharp!",
+    "That's a hat-trick of correct answers!",
+    "Three consecutive hits! Keep this laser focus!",
+    "Hat-trick hero! You're warming up nicely!"
+  ],
+  "streak_5": [
+    "⚡ 5 in a row! You are on fire!",
+    "Unstoppable combo! Keep this pace up!",
+    "High accuracy alert! Topper mindset active!",
+    "Five consecutive correct answers! Pure flow state!",
+    "Five-star streak! The examiner can't trick you today!"
+  ],
+  "streak_10": [
+    "🏆 10 IN A ROW! Incredible streak!",
+    "Legendary focus! You're dominating this paper!",
+    "Absolute masterclass performance!",
+    "Double-digit combo! You are unstoppable today!",
+    "10 straight bullseyes! Officer material right here!"
+  ],
+  "streak_lost": [
+    "Streak reset, but your knowledge remains!",
+    "Don't worry about the streak — focus on building the next one!",
+    "A fresh streak starts right here, right now!"
+  ],
+  "skipped": [
+    "Smart tactical skip! Negative marking saved.",
+    "Good time management — know which ones to tackle first.",
+    "Passing is a valid strategy when time is of the essence.",
+    "Wise choice. Never guess blindly on negative marking exams!"
+  ],
+  "timer_low": [
+    "5 minutes remaining in this section! Time to wrap up!",
+    "Watch the clock! Prioritize questions you're confident in.",
+    "Final stretch! Double check your marked answers."
+  ],
+  "timer_critical": [
+    "1 minute remaining! Lock in your answers now!",
+    "Quick! Submit or finalize your choices!"
+  ],
+  "test_start": [
+    "Take a deep breath. Read each question carefully. You've got this!",
+    "Target accuracy first, speed will naturally follow.",
+    "Remember: +2 for correct, -0.5 for wrong. Play smartly!"
+  ],
+  "test_finish_good": [
+    "Outstanding performance! That score is exam-ready!",
+    "Spectacular mock! Your accuracy and timing were superb!",
+    "Take a bow! That's a top-tier attempt!",
+    "Incredible discipline! You crushed this session!"
+  ],
+  "test_finish_bad": [
+    "Mock complete! The best candidates learn fastest from review.",
+    "Good effort! Dive into your mistake notebook to level up.",
+    "Every attempt reveals opportunities for big score leaps.",
+    "Every master was once a disaster who refused to give up."
+  ]
+}

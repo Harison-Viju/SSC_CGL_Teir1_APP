@@ -1,0 +1,6 @@
+{
+  "name": "ExamQuest",
+  "description": "Duolingo-style interactive mock test app with automated PDF ingestion, gamified practice, mascot reactions, and detailed exam analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,4730 @@
+{
+  "schema_version": 1,
+  "id": "ssc-cgl-2025-09-13-s1",
+  "title": "SSC CGL T-I Similar Paper (Held on 13 Sep 2025 S1)",
+  "exam": "SSC CGL Tier 1",
+  "date": "2025-09-13",
+  "shift": 1,
+  "language": "en",
+  "source_file": "pdfs/ssc/SSC-CGL-T-I-Similar-Paper-Held-on-13-Sep-2025-S1-English_57ecf61e.pdf",
+  "source_sha256": "57ecf61ee7dfffe86e07a72171387c9fbb8424a5f9d613b13a7ebefd0a3ff093",
+  "marking": {
+    "correct": 2.0,
+    "wrong": -0.5,
+    "unanswered": 0.0
+  },
+  "duration_minutes": 60,
+  "sections": [
+    {
+      "id": "reasoning",
+      "name": "General Intelligence & Reasoning",
+      "from": 1,
+      "to": 25,
+      "duration_minutes": 15
+    },
+    {
+      "id": "general_awareness",
+      "name": "General Awareness",
+      "from": 26,
+      "to": 50,
+      "duration_minutes": 15
+    },
+    {
+      "id": "quantitative_aptitude",
+      "name": "Quantitative Aptitude",
+      "from": 51,
+      "to": 75,
+      "duration_minutes": 15
+    },
+    {
+      "id": "english",
+      "name": "English Comprehension",
+      "from": 76,
+      "to": 100,
+      "duration_minutes": 15
+    }
+  ],
+  "passages": [],
+  "questions": [
+    {
+      "n": 1,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which of the following words does not belong to the given group?\nRose, Lotus, Jasmine, Mango",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following words does not belong to the given group?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rose, Lotus, Jasmine, Mango"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Rose",
+        "Lotus",
+        "Jasmine",
+        "Mango"
+      ],
+      "raw_options": [
+        "Rose",
+        "Lotus",
+        "Jasmine",
+        "Mango"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 130.25,
+        "stem_bottom": 154.7299999999999,
+        "first_opt_top": 157.13,
+        "opts_bottom": 208.51,
+        "ans_top": 210.90999999999997,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 2,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "One number does not fit into the given factorial series.\nIdentify it. 3, 6, 24, 120, 720, 800",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "One number does not fit into the given factorial series."
+        },
+        {
+          "type": "paragraph",
+          "text": "Identify it. 3, 6, 24, 120, 720, 800"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "6",
+        "24",
+        "120",
+        "800"
+      ],
+      "raw_options": [
+        "6",
+        "24",
+        "120",
+        "800"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 237.78999999999996,
+        "stem_bottom": 262.27,
+        "first_opt_top": 264.66999999999996,
+        "opts_bottom": 316.05999999999995,
+        "ans_top": 318.46000000000004,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 3,
+      "section": "reasoning",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "Ramesh said, “That boy is the son of the only daughter of my grandfather.” How is the boy related to Ramesh?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ramesh said, “That boy is the son of the only daughter of my grandfather.” How is the boy related to Ramesh?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Brother",
+        "Son",
+        "Nephew",
+        "Uncle"
+      ],
+      "raw_options": [
+        "Brother",
+        "Son",
+        "Nephew",
+        "Uncle"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 345.34,
+        "stem_bottom": 356.37999999999994,
+        "first_opt_top": 358.78,
+        "opts_bottom": 409.91999999999996,
+        "ans_top": 412.32,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 4,
+      "section": "reasoning",
+      "topic": "Analogy & Classification",
+      "render_mode": "text",
+      "stem": "Find the option that best completes the analogy.\nAC : FH :: BD : ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the option that best completes the analogy."
+        },
+        {
+          "type": "paragraph",
+          "text": "AC : FH :: BD : ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "GJ",
+        "HK",
+        "GI",
+        "IK"
+      ],
+      "raw_options": [
+        "GJ",
+        "HK",
+        "GI",
+        "IK"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 439.2,
+        "stem_bottom": 463.69999999999993,
+        "first_opt_top": 466.09999999999997,
+        "opts_bottom": 517.4599999999999,
+        "ans_top": 519.86,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 5,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which of the following number sets is different from the others?\n(9, 18, 36)\n(12, 24, 48)\n(7, 14, 29)\n(5, 10, 20)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following number sets is different from the others?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(9, 18, 36)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(12, 24, 48)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(7, 14, 29)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(5, 10, 20)"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "(9,18,36)",
+        "(12,24,48)",
+        "(7,14,29)",
+        "(5,10,20)"
+      ],
+      "raw_options": [
+        "(9,18,36)",
+        "(12,24,48)",
+        "(7,14,29)",
+        "(5,10,20)"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 546.77,
+        "stem_bottom": 611.5699999999999,
+        "first_opt_top": 613.97,
+        "opts_bottom": 665.1099999999999,
+        "ans_top": 667.51,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 6,
+      "section": "reasoning",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "Introducing a man, a woman said, “He is the brother of the daughter of my father.” How is the man related to the woman?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Introducing a man, a woman said, “He is the brother of the daughter of my father.” How is the man related to the woman?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Brother",
+        "Son",
+        "Cousin",
+        "Nephew"
+      ],
+      "raw_options": [
+        "Brother",
+        "Son",
+        "Cousin",
+        "Nephew"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 694.39,
+        "stem_bottom": 718.9,
+        "first_opt_top": 721.3,
+        "opts_bottom": 772.656,
+        "ans_top": 775.0559999999999,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 7,
+      "section": "reasoning",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "How many letters in the given word are between the first vowel and the last consonant? “COMMUNICATION”",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "How many letters in the given word are between the first vowel and the last consonant? “COMMUNICATION”"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "4",
+        "5",
+        "6",
+        "10"
+      ],
+      "raw_options": [
+        "4",
+        "5",
+        "6",
+        "10"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 3,
+        "min_page": 3,
+        "max_page": 3,
+        "stem_top": 108.86000000000001,
+        "stem_bottom": 119.89999999999998,
+        "first_opt_top": 122.09000000000003,
+        "opts_bottom": 173.44999999999993,
+        "ans_top": 175.85000000000002,
+        "ans_page": 3
+      }
+    },
+    {
+      "n": 8,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which of the following address(es) is/are exactly the same as the given address?\nGiven Address: Amit Sharma, Flat 21A, Green Residency, Bhopal, 462016\n1. Amit Sharma, Flat 21A, Green Residency, Bhopal, 462016\n2. Amit Sharma, Flat 21, Green Residency, Bhopal, 462016\n3. Amit Sharma, Flat 21A, Green Residencies, Bhopal, 462016\n4. Amit Sharma, Flat 21A, Green Residency, Bhopal, 462018",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following address(es) is/are exactly the same as the given address?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Given Address: Amit Sharma, Flat 21A, Green Residency, Bhopal, 462016"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "Amit Sharma, Flat 21A, Green Residency, Bhopal, 462016"
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "Amit Sharma, Flat 21, Green Residency, Bhopal, 462016"
+        },
+        {
+          "type": "list_item",
+          "marker": "3.",
+          "text": "Amit Sharma, Flat 21A, Green Residencies, Bhopal, 462016"
+        },
+        {
+          "type": "list_item",
+          "marker": "4.",
+          "text": "Amit Sharma, Flat 21A, Green Residency, Bhopal, 462018"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Only 3",
+        "Only 4"
+      ],
+      "raw_options": [
+        "Only 1",
+        "Only 2",
+        "Only 3",
+        "Only 4"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 3,
+        "min_page": 3,
+        "max_page": 3,
+        "stem_top": 202.75,
+        "stem_bottom": 280.9899999999999,
+        "first_opt_top": 283.41999999999996,
+        "opts_bottom": 334.78,
+        "ans_top": 337.18,
+        "ans_page": 3
+      }
+    },
+    {
+      "n": 9,
+      "section": "reasoning",
+      "topic": "Coding-Decoding",
+      "render_mode": "text",
+      "stem": "If CLOUD is coded as ENQWF, how is RAIN coded?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If CLOUD is coded as ENQWF, how is RAIN coded?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "TCKP",
+        "TCKO",
+        "TCJO",
+        "TDKO"
+      ],
+      "raw_options": [
+        "TCKP",
+        "TCKO",
+        "TCJO",
+        "TDKO"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 3,
+        "min_page": 3,
+        "max_page": 3,
+        "stem_top": 364.08,
+        "stem_bottom": 375.11999999999995,
+        "first_opt_top": 377.52,
+        "opts_bottom": 428.63999999999993,
+        "ans_top": 431.03999999999996,
+        "ans_page": 3
+      }
+    },
+    {
+      "n": 10,
+      "section": "reasoning",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "A mixture contains milk and water in the ratio 3 :\n5. If the total quantity is 40 litres, how much milk should be added to make the ratio 1 : 1?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A mixture contains milk and water in the ratio 3 :"
+        },
+        {
+          "type": "list_item",
+          "marker": "5.",
+          "text": "If the total quantity is 40 litres, how much milk should be added to make the ratio 1 : 1?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "8 L",
+        "10 L",
+        "12 L",
+        "15 L"
+      ],
+      "raw_options": [
+        "8 L",
+        "10 L",
+        "12 L",
+        "15 L"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 3,
+        "min_page": 3,
+        "max_page": 3,
+        "stem_top": 457.94,
+        "stem_bottom": 482.41999999999996,
+        "first_opt_top": 484.82,
+        "opts_bottom": 536.18,
+        "ans_top": 538.61,
+        "ans_page": 3
+      }
+    },
+    {
+      "n": 11,
+      "section": "reasoning",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "Read the following statement carefully and identify the conclusion(s) that follow.\nStatement:\nAll registered voters received voter ID cards.\nConclusions:\nI. Some people received voter ID cards.\nII. No unregistered person received a voter ID card.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Read the following statement carefully and identify the conclusion(s) that follow."
+        },
+        {
+          "type": "label",
+          "text": "Statement"
+        },
+        {
+          "type": "paragraph",
+          "text": "All registered voters received voter ID cards."
+        },
+        {
+          "type": "label",
+          "text": "Conclusions"
+        },
+        {
+          "type": "list_item",
+          "marker": "I.",
+          "text": "Some people received voter ID cards."
+        },
+        {
+          "type": "list_item",
+          "marker": "II.",
+          "text": "No unregistered person received a voter ID card."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither I nor II follows"
+      ],
+      "raw_options": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither I nor II follows"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 3,
+        "min_page": 3,
+        "max_page": 3,
+        "stem_top": 565.49,
+        "stem_bottom": 643.75,
+        "first_opt_top": 645.91,
+        "opts_bottom": 697.27,
+        "ans_top": 699.6999999999999,
+        "ans_page": 3
+      }
+    },
+    {
+      "n": 12,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Each letter of the word given below is arranged in alphabetical order. How many letters are there between the 4th letter from the left and the 3rd letter from the right in the new arrangement? HOSPITAL",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Each letter of the word given below is arranged in alphabetical order. How many letters are there between the 4th letter from the left and the 3rd letter from the right in the new arrangement? HOSPITAL"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "raw_options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 3,
+        "min_page": 3,
+        "max_page": 4,
+        "stem_top": 726.5799999999999,
+        "stem_bottom": 751.0559999999999,
+        "first_opt_top": 95.41999999999996,
+        "opts_bottom": 777.9359999999999,
+        "ans_top": 122.09000000000003,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 13,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "What should come at the place of the question mark (?) in the following series?\n2, 3, 8, 9, 26, 27, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What should come at the place of the question mark (?) in the following series?"
+        },
+        {
+          "type": "paragraph",
+          "text": "2, 3, 8, 9, 26, 27, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "54",
+        "56",
+        "80",
+        "82"
+      ],
+      "raw_options": [
+        "54",
+        "56",
+        "80",
+        "82"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 148.97000000000003,
+        "stem_bottom": 173.44999999999993,
+        "first_opt_top": 175.85000000000002,
+        "opts_bottom": 227.2299999999999,
+        "ans_top": 229.63,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 14,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "Select the letter-cluster from the given options that will replace the question mark (?) in the following series. ABZ, BCY, CDX, DEW, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the letter-cluster from the given options that will replace the question mark (?) in the following series. ABZ, BCY, CDX, DEW, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "EEV",
+        "EFV",
+        "EFU",
+        "EFX"
+      ],
+      "raw_options": [
+        "EEV",
+        "EFV",
+        "EFU",
+        "EFX"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 256.51,
+        "stem_bottom": 280.9899999999999,
+        "first_opt_top": 283.41999999999996,
+        "opts_bottom": 334.78,
+        "ans_top": 337.18,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 15,
+      "section": "reasoning",
+      "topic": "Analogy & Classification",
+      "render_mode": "text",
+      "stem": "In the following question, the second word is formed by rearranging the letters of the first word using a specific pattern. Apply the same pattern to the third word.\nPLANET : LPAENT :: ORANGE : ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In the following question, the second word is formed by rearranging the letters of the first word using a specific pattern. Apply the same pattern to the third word."
+        },
+        {
+          "type": "paragraph",
+          "text": "PLANET : LPAENT :: ORANGE : ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "ROAGNE",
+        "OARNGE",
+        "OGRANE",
+        "OARNEG"
+      ],
+      "raw_options": [
+        "ROAGNE",
+        "OARNGE",
+        "OGRANE",
+        "OARNEG"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 364.08,
+        "stem_bottom": 401.75999999999993,
+        "first_opt_top": 404.15999999999997,
+        "opts_bottom": 455.5199999999999,
+        "ans_top": 457.94,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 16,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "Select the letter-cluster that can replace the question mark (?) in the given series.\nLMP, NOR, PQT, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the letter-cluster that can replace the question mark (?) in the given series."
+        },
+        {
+          "type": "paragraph",
+          "text": "LMP, NOR, PQT, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "RVU",
+        "RUV",
+        "STV",
+        "RSV"
+      ],
+      "raw_options": [
+        "RVU",
+        "RUV",
+        "STV",
+        "RSV"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 484.82,
+        "stem_bottom": 509.29999999999995,
+        "first_opt_top": 511.7,
+        "opts_bottom": 563.0899999999999,
+        "ans_top": 565.49,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 17,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "If 9/11 = A and 3/7 = B, then find the value of A - B.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If 9/11 = A and 3/7 = B, then find the value of A - B."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "0.29",
+        "0.39",
+        "0.35",
+        "0.22"
+      ],
+      "raw_options": [
+        "0.29",
+        "0.39",
+        "0.35",
+        "0.22"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 592.3699999999999,
+        "stem_bottom": 603.41,
+        "first_opt_top": 605.81,
+        "opts_bottom": 656.9499999999999,
+        "ans_top": 659.3499999999999,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 18,
+      "section": "reasoning",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "Pointing to a woman, Rahul said, “She is the wife of my father’s only son.”How is the woman related to Rahul?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pointing to a woman, Rahul said, “She is the wife of my father’s only son.”How is the woman related to Rahul?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Sister",
+        "Mother",
+        "Wife",
+        "Sister-in-law"
+      ],
+      "raw_options": [
+        "Sister",
+        "Mother",
+        "Wife",
+        "Sister-in-law"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 686.23,
+        "stem_bottom": 697.27,
+        "first_opt_top": 699.6999999999999,
+        "opts_bottom": 751.0559999999999,
+        "ans_top": 753.4559999999999,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 19,
+      "section": "reasoning",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "How many meaningful four-letter English words can be formed using the 1st, 3rd, 5th and 6th letters of the word “TEACHER”, using each letter only once in each word?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "How many meaningful four-letter English words can be formed using the 1st, 3rd, 5th and 6th letters of the word “TEACHER”, using each letter only once in each word?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "raw_options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 119.89999999999998,
+        "first_opt_top": 122.09000000000003,
+        "opts_bottom": 173.44999999999993,
+        "ans_top": 175.85000000000002,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 20,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "What comes next in the given number series?\n1, 8, 27, 64, 125, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What comes next in the given number series?"
+        },
+        {
+          "type": "paragraph",
+          "text": "1, 8, 27, 64, 125, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "196",
+        "216",
+        "225",
+        "256"
+      ],
+      "raw_options": [
+        "196",
+        "216",
+        "225",
+        "256"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 202.75,
+        "stem_bottom": 227.2299999999999,
+        "first_opt_top": 229.63,
+        "opts_bottom": 280.9899999999999,
+        "ans_top": 283.41999999999996,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 21,
+      "section": "reasoning",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "Which of the following alternatives will replace the question mark?\nIgnition, Acceleration, Motion, Deceleration, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following alternatives will replace the question mark?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ignition, Acceleration, Motion, Deceleration, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Speed",
+        "Stop",
+        "Brake",
+        "Control"
+      ],
+      "raw_options": [
+        "Speed",
+        "Stop",
+        "Brake",
+        "Control"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 310.29999999999995,
+        "stem_bottom": 334.78,
+        "first_opt_top": 337.18,
+        "opts_bottom": 388.55999999999995,
+        "ans_top": 390.71999999999997,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 22,
+      "section": "reasoning",
+      "topic": "Analogy & Classification",
+      "render_mode": "text",
+      "stem": "In the following question, select the related word from the given alternatives.\nOntology : Being :: Aesthetics : ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In the following question, select the related word from the given alternatives."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ontology : Being :: Aesthetics : ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Beauty",
+        "Logic",
+        "Knowledge",
+        "Reality"
+      ],
+      "raw_options": [
+        "Beauty",
+        "Logic",
+        "Knowledge",
+        "Reality"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 417.59999999999997,
+        "stem_bottom": 442.0799999999999,
+        "first_opt_top": 444.47999999999996,
+        "opts_bottom": 495.85999999999996,
+        "ans_top": 498.26,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 23,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "If the sum of 48 and 52 is multiplied by 3, what will be the result?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If the sum of 48 and 52 is multiplied by 3, what will be the result?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "300",
+        "294",
+        "312",
+        "288"
+      ],
+      "raw_options": [
+        "300",
+        "294",
+        "312",
+        "288"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 525.14,
+        "stem_bottom": 536.18,
+        "first_opt_top": 538.61,
+        "opts_bottom": 589.9699999999999,
+        "ans_top": 592.3699999999999,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 24,
+      "section": "reasoning",
+      "topic": "Statement & Assumption / Argument",
+      "render_mode": "text",
+      "stem": "Identify the assumptions that must be implicit for the statement to be valid.\nStatement:\nDespite improved internet speeds, cybersecurity threats continue to increase globally.\nAssumptions:\nI. Faster internet increases digital exposure.\nII. Cyber threats are unaffected by internet speed.\nIII. Cybersecurity measures are inadequate worldwide.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Identify the assumptions that must be implicit for the statement to be valid."
+        },
+        {
+          "type": "label",
+          "text": "Statement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Despite improved internet speeds, cybersecurity threats continue to increase globally."
+        },
+        {
+          "type": "label",
+          "text": "Assumptions"
+        },
+        {
+          "type": "list_item",
+          "marker": "I.",
+          "text": "Faster internet increases digital exposure."
+        },
+        {
+          "type": "list_item",
+          "marker": "II.",
+          "text": "Cyber threats are unaffected by internet speed."
+        },
+        {
+          "type": "list_item",
+          "marker": "III.",
+          "text": "Cybersecurity measures are inadequate worldwide."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only I",
+        "Only I and III",
+        "Only II",
+        "All I, II and III"
+      ],
+      "raw_options": [
+        "Only I",
+        "Only I and III",
+        "Only II",
+        "All I, II and III"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 619.27,
+        "stem_bottom": 710.74,
+        "first_opt_top": 713.14,
+        "opts_bottom": 764.496,
+        "ans_top": 766.896,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 25,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "If 4 @ 2 = 12 and 6 @ 3 = 27, then what is the value of 8 @ 4?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If 4 @ 2 = 12 and 6 @ 3 = 27, then what is the value of 8 @ 4?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "48",
+        "64",
+        "32",
+        "40"
+      ],
+      "raw_options": [
+        "48",
+        "64",
+        "32",
+        "40"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 108.86000000000001,
+        "stem_bottom": 119.89999999999998,
+        "first_opt_top": 122.09000000000003,
+        "opts_bottom": 173.44999999999993,
+        "ans_top": 175.85000000000002,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 26,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which of the following statements correctly reflect India's recent digital governance initiatives?\n1. DigiLocker enables citizens to store official documents digitally.\n2. BharatNet focuses on urban metro connectivity only.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following statements correctly reflect India's recent digital governance initiatives?"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "DigiLocker enables citizens to store official documents digitally."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "BharatNet focuses on urban metro connectivity only."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "raw_options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 202.75,
+        "stem_bottom": 240.66999999999996,
+        "first_opt_top": 243.06999999999994,
+        "opts_bottom": 294.4599999999999,
+        "ans_top": 296.86,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 27,
+      "section": "general_awareness",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "Assertion (A): GST is a destination-based tax.\nReason (R): GST is levied only on manufacturing.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Assertion (A): GST is a destination-based tax."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reason (R): GST is levied only on manufacturing."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Both A and R are true, and R explains A",
+        "Both A and R are true, but R does not explain A",
+        "A is true, but R is false",
+        "A is false, but R is true"
+      ],
+      "raw_options": [
+        "Both A and R are true, and R explains A",
+        "Both A and R are true, but R does not explain A",
+        "A is true, but R is false",
+        "A is false, but R is true"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 323.74,
+        "stem_bottom": 348.21999999999997,
+        "first_opt_top": 350.62,
+        "opts_bottom": 401.75999999999993,
+        "ans_top": 404.15999999999997,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 28,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "What is the main objective of the Right to Information Act, 2005?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What is the main objective of the Right to Information Act, 2005?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "To regulate media",
+        "To ensure transparency in governance",
+        "To control elections",
+        "To promote digital literacy"
+      ],
+      "raw_options": [
+        "To regulate media",
+        "To ensure transparency in governance",
+        "To control elections",
+        "To promote digital literacy"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 431.03999999999996,
+        "stem_bottom": 442.0799999999999,
+        "first_opt_top": 444.47999999999996,
+        "opts_bottom": 495.85999999999996,
+        "ans_top": 498.26,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 29,
+      "section": "general_awareness",
+      "topic": "Seating Arrangement & Direction",
+      "render_mode": "text",
+      "stem": "What change did the Charter Act of 1813 bring to the East India Company?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What change did the Charter Act of 1813 bring to the East India Company?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Ended Company's trade monopoly",
+        "Abolished Company rule",
+        "Introduced universal suffrage",
+        "Created provincial governments"
+      ],
+      "raw_options": [
+        "Ended Company's trade monopoly",
+        "Abolished Company rule",
+        "Introduced universal suffrage",
+        "Created provincial governments"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 525.14,
+        "stem_bottom": 536.18,
+        "first_opt_top": 538.61,
+        "opts_bottom": 589.9699999999999,
+        "ans_top": 592.3699999999999,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 30,
+      "section": "general_awareness",
+      "topic": "Indian History & Culture",
+      "render_mode": "text",
+      "stem": "Which of the following statements about Red Fort are correct?\n1. It was constructed during the reign of Shah Jahan.\n2. It is located on the banks of the Yamuna River.\n3. It served as the main residence of Mughal emperors.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following statements about Red Fort are correct?"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "It was constructed during the reign of Shah Jahan."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "It is located on the banks of the Yamuna River."
+        },
+        {
+          "type": "list_item",
+          "marker": "3.",
+          "text": "It served as the main residence of Mughal emperors."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "raw_options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 619.27,
+        "stem_bottom": 670.39,
+        "first_opt_top": 672.79,
+        "opts_bottom": 724.18,
+        "ans_top": 726.5799999999999,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 31,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "According to recent reports, which factor has significantly impacted global peace trends?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "According to recent reports, which factor has significantly impacted global peace trends?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Technological innovation",
+        "Armed conflicts",
+        "Tourism growth",
+        "Agricultural productivity"
+      ],
+      "raw_options": [
+        "Technological innovation",
+        "Armed conflicts",
+        "Tourism growth",
+        "Agricultural productivity"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 106.45999999999992,
+        "first_opt_top": 108.86000000000001,
+        "opts_bottom": 160.01,
+        "ans_top": 162.40999999999997,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 32,
+      "section": "general_awareness",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "The dependency ratio refers to:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The dependency ratio refers to:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Ratio of imports to exports",
+        "Ratio of dependent population to working population",
+        "Ratio of GDP to population",
+        "Difference between birth and death rates"
+      ],
+      "raw_options": [
+        "Ratio of imports to exports",
+        "Ratio of dependent population to working population",
+        "Ratio of GDP to population",
+        "Difference between birth and death rates"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 189.28999999999996,
+        "stem_bottom": 200.32999999999993,
+        "first_opt_top": 202.75,
+        "opts_bottom": 254.1099999999999,
+        "ans_top": 256.51,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 33,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which statement highlights a key feature of India's IT industry?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which statement highlights a key feature of India's IT industry?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Depends entirely on imports",
+        "Strong global outsourcing presence",
+        "Limited to domestic markets",
+        "Controlled only by government"
+      ],
+      "raw_options": [
+        "Depends entirely on imports",
+        "Strong global outsourcing presence",
+        "Limited to domestic markets",
+        "Controlled only by government"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 283.41999999999996,
+        "stem_bottom": 294.4599999999999,
+        "first_opt_top": 296.86,
+        "opts_bottom": 348.21999999999997,
+        "ans_top": 350.62,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 34,
+      "section": "general_awareness",
+      "topic": "Geography & Environment",
+      "render_mode": "text",
+      "stem": "Under recent climate action plans, which sector receives major focus for adaptation?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Under recent climate action plans, which sector receives major focus for adaptation?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Defence",
+        "Agriculture",
+        "Space research",
+        "Banking"
+      ],
+      "raw_options": [
+        "Defence",
+        "Agriculture",
+        "Space research",
+        "Banking"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 377.52,
+        "stem_bottom": 388.55999999999995,
+        "first_opt_top": 390.71999999999997,
+        "opts_bottom": 442.0799999999999,
+        "ans_top": 444.47999999999996,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 35,
+      "section": "general_awareness",
+      "topic": "Indian Polity & Constitution",
+      "render_mode": "text",
+      "stem": "Which Article of the Constitution deals with the appointment of the Prime Minister?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which Article of the Constitution deals with the appointment of the Prime Minister?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Article 72",
+        "Article 74",
+        "Article 75",
+        "Article 76"
+      ],
+      "raw_options": [
+        "Article 72",
+        "Article 74",
+        "Article 75",
+        "Article 76"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 471.38,
+        "stem_bottom": 482.41999999999996,
+        "first_opt_top": 484.82,
+        "opts_bottom": 536.18,
+        "ans_top": 538.61,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 36,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Why are footballs generally spherical in shape?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Why are footballs generally spherical in shape?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "For aesthetic appeal",
+        "To ensure uniform motion",
+        "To reduce friction",
+        "To increase weight"
+      ],
+      "raw_options": [
+        "For aesthetic appeal",
+        "To ensure uniform motion",
+        "To reduce friction",
+        "To increase weight"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 565.49,
+        "stem_bottom": 576.53,
+        "first_opt_top": 578.93,
+        "opts_bottom": 630.31,
+        "ans_top": 632.7099999999999,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 37,
+      "section": "general_awareness",
+      "topic": "Geography & Environment",
+      "render_mode": "text",
+      "stem": "Which of the following statements about the atmosphere is correct?\n1. Troposphere is the lowest layer of the atmosphere.\n2. Ionosphere lies above the mesosphere.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following statements about the atmosphere is correct?"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "Troposphere is the lowest layer of the atmosphere."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "Ionosphere lies above the mesosphere."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Statement 1 only",
+        "Statement 2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "raw_options": [
+        "Statement 1 only",
+        "Statement 2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 659.3499999999999,
+        "stem_bottom": 697.27,
+        "first_opt_top": 699.6999999999999,
+        "opts_bottom": 751.0559999999999,
+        "ans_top": 753.4559999999999,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 38,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which statement best describes the contribution of Kabir to Indian literature?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which statement best describes the contribution of Kabir to Indian literature?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Promoted ritualistic worship",
+        "Criticized social inequalities through verses",
+        "Wrote only court poetry",
+        "Composed epics in Sanskrit"
+      ],
+      "raw_options": [
+        "Promoted ritualistic worship",
+        "Criticized social inequalities through verses",
+        "Wrote only court poetry",
+        "Composed epics in Sanskrit"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 106.45999999999992,
+        "first_opt_top": 108.86000000000001,
+        "opts_bottom": 160.01,
+        "ans_top": 162.40999999999997,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 39,
+      "section": "general_awareness",
+      "topic": "General Science",
+      "render_mode": "text",
+      "stem": "What is the primary function of mitochondria?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What is the primary function of mitochondria?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Protein synthesis",
+        "Energy production",
+        "Cell division",
+        "Waste removal"
+      ],
+      "raw_options": [
+        "Protein synthesis",
+        "Energy production",
+        "Cell division",
+        "Waste removal"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 189.28999999999996,
+        "stem_bottom": 200.32999999999993,
+        "first_opt_top": 202.75,
+        "opts_bottom": 254.1099999999999,
+        "ans_top": 256.51,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 40,
+      "section": "general_awareness",
+      "topic": "Current Affairs & Sports",
+      "render_mode": "text",
+      "stem": "At the 1980 Moscow Olympics, which timing did India record in men's hockey final?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "At the 1980 Moscow Olympics, which timing did India record in men's hockey final?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "2–1",
+        "3–2",
+        "1–0",
+        "4–3"
+      ],
+      "raw_options": [
+        "2–1",
+        "3–2",
+        "1–0",
+        "4–3"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 283.41999999999996,
+        "stem_bottom": 294.4599999999999,
+        "first_opt_top": 296.86,
+        "opts_bottom": 348.21999999999997,
+        "ans_top": 350.62,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 41,
+      "section": "general_awareness",
+      "topic": "Economy & Government Schemes",
+      "render_mode": "text",
+      "stem": "Examine the statements about Chandrayaan-3 mission:\n1. It successfully landed near the Moon’s south pole.\n2. It carried an orbiter along with the lander and rover.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Examine the statements about Chandrayaan-3 mission:"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "It successfully landed near the Moon’s south pole."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "It carried an orbiter along with the lander and rover."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "raw_options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 377.52,
+        "stem_bottom": 415.19999999999993,
+        "first_opt_top": 417.59999999999997,
+        "opts_bottom": 468.97999999999996,
+        "ans_top": 471.38,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 42,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which Indian state has the highest literacy rate as per Census 2011?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which Indian state has the highest literacy rate as per Census 2011?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Himachal Pradesh",
+        "Punjab"
+      ],
+      "raw_options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Himachal Pradesh",
+        "Punjab"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 498.26,
+        "stem_bottom": 509.29999999999995,
+        "first_opt_top": 511.7,
+        "opts_bottom": 563.0899999999999,
+        "ans_top": 565.49,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 43,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Where is the Jawaharlal Nehru Stadium located?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Where is the Jawaharlal Nehru Stadium located?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Kolkata",
+        "New Delhi",
+        "Chennai",
+        "Hyderabad"
+      ],
+      "raw_options": [
+        "Kolkata",
+        "New Delhi",
+        "Chennai",
+        "Hyderabad"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 592.3699999999999,
+        "stem_bottom": 603.41,
+        "first_opt_top": 605.81,
+        "opts_bottom": 656.9499999999999,
+        "ans_top": 659.3499999999999,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 44,
+      "section": "general_awareness",
+      "topic": "Economy & Government Schemes",
+      "render_mode": "text",
+      "stem": "Which commission recommended reforms in Centre-State financial relations?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which commission recommended reforms in Centre-State financial relations?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Finance Commission",
+        "Sarkaria Commission",
+        "Planning Commission",
+        "Election Commission"
+      ],
+      "raw_options": [
+        "Finance Commission",
+        "Sarkaria Commission",
+        "Planning Commission",
+        "Election Commission"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 686.23,
+        "stem_bottom": 697.27,
+        "first_opt_top": 699.6999999999999,
+        "opts_bottom": 751.0559999999999,
+        "ans_top": 753.4559999999999,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 45,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which statement correctly represents the Nobel Prize in Literature?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which statement correctly represents the Nobel Prize in Literature?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Awarded annually for scientific discoveries",
+        "Recognizes outstanding literary contributions",
+        "Given only to novelists",
+        "Limited to European authors"
+      ],
+      "raw_options": [
+        "Awarded annually for scientific discoveries",
+        "Recognizes outstanding literary contributions",
+        "Given only to novelists",
+        "Limited to European authors"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 106.45999999999992,
+        "first_opt_top": 108.86000000000001,
+        "opts_bottom": 160.01,
+        "ans_top": 162.40999999999997,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 46,
+      "section": "general_awareness",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "The National Food Security Act primarily aims to:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The National Food Security Act primarily aims to:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Promote exports",
+        "Provide subsidized food grains",
+        "Increase agricultural taxes",
+        "Encourage private farming"
+      ],
+      "raw_options": [
+        "Promote exports",
+        "Provide subsidized food grains",
+        "Increase agricultural taxes",
+        "Encourage private farming"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 189.28999999999996,
+        "stem_bottom": 200.32999999999993,
+        "first_opt_top": 202.75,
+        "opts_bottom": 254.1099999999999,
+        "ans_top": 256.51,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 47,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "In which type of terrain are waterfalls most commonly formed?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In which type of terrain are waterfalls most commonly formed?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Desert plains",
+        "Plateau regions",
+        "Coastal plains",
+        "Floodplains"
+      ],
+      "raw_options": [
+        "Desert plains",
+        "Plateau regions",
+        "Coastal plains",
+        "Floodplains"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 283.41999999999996,
+        "stem_bottom": 294.4599999999999,
+        "first_opt_top": 296.86,
+        "opts_bottom": 348.21999999999997,
+        "ans_top": 350.62,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 48,
+      "section": "general_awareness",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "In Indian philosophy, which two major paths to liberation are emphasized?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In Indian philosophy, which two major paths to liberation are emphasized?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Karma and Jnana",
+        "Bhakti and Yoga",
+        "Dharma and Artha",
+        "Moksha and Kama"
+      ],
+      "raw_options": [
+        "Karma and Jnana",
+        "Bhakti and Yoga",
+        "Dharma and Artha",
+        "Moksha and Kama"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 377.52,
+        "stem_bottom": 388.55999999999995,
+        "first_opt_top": 390.71999999999997,
+        "opts_bottom": 442.0799999999999,
+        "ans_top": 444.47999999999996,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 49,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Why is aluminium widely used in aircraft construction?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Why is aluminium widely used in aircraft construction?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "High density",
+        "Corrosion resistance and light weight",
+        "Low melting point",
+        "Magnetic properties"
+      ],
+      "raw_options": [
+        "High density",
+        "Corrosion resistance and light weight",
+        "Low melting point",
+        "Magnetic properties"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 471.38,
+        "stem_bottom": 482.41999999999996,
+        "first_opt_top": 484.82,
+        "opts_bottom": 536.18,
+        "ans_top": 538.61,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 50,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Who inaugurated India's first metro rail service in Kolkata?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Who inaugurated India's first metro rail service in Kolkata?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Rajiv Gandhi",
+        "Indira Gandhi",
+        "Jyoti Basu",
+        "P.V. Narasimha Rao"
+      ],
+      "raw_options": [
+        "Rajiv Gandhi",
+        "Indira Gandhi",
+        "Jyoti Basu",
+        "P.V. Narasimha Rao"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 565.49,
+        "stem_bottom": 576.53,
+        "first_opt_top": 578.93,
+        "opts_bottom": 630.31,
+        "ans_top": 632.7099999999999,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 51,
+      "section": "quantitative_aptitude",
+      "topic": "Data Interpretation & Statistics",
+      "render_mode": "text",
+      "stem": "Table – Daily production (in units) of 5 machines over 4 days.\nDay M1 M2 M3 M4 M5\nDay 1 150 140 180 130 160\nDay 2 160 135 190 135 165\nDay 3 155 145 185 140 170\nDay 4 165 150 195 145 175\nWhat is the average daily production of Machine M3?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Table – Daily production (in units) of 5 machines over 4 days."
+        },
+        {
+          "type": "paragraph",
+          "text": "Day M1 M2 M3 M4 M5"
+        },
+        {
+          "type": "paragraph",
+          "text": "Day 1 150 140 180 130 160"
+        },
+        {
+          "type": "paragraph",
+          "text": "Day 2 160 135 190 135 165"
+        },
+        {
+          "type": "paragraph",
+          "text": "Day 3 155 145 185 140 170"
+        },
+        {
+          "type": "paragraph",
+          "text": "Day 4 165 150 195 145 175"
+        },
+        {
+          "type": "paragraph",
+          "text": "What is the average daily production of Machine M3?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "187.5",
+        "185",
+        "190",
+        "182.5"
+      ],
+      "raw_options": [
+        "187.5",
+        "185",
+        "190",
+        "182.5"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 10,
+        "stem_top": 659.3499999999999,
+        "stem_bottom": 754.1759999999999,
+        "first_opt_top": 95.41999999999996,
+        "opts_bottom": 781.0559999999999,
+        "ans_top": 122.09000000000003,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 52,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "The budget of a factory is distributed among raw materials, wages, and maintenance in the ratio 4:3:3. During a year, the cost of raw materials rises by 12%, wages by 8%, and maintenance falls by 10%. What is the overall percentage change in the total budget?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The budget of a factory is distributed among raw materials, wages, and maintenance in the ratio 4:3:3. During a year, the cost of raw materials rises by 12%, wages by 8%, and maintenance falls by 10%. What is the overall percentage change in the total budget?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "0.4% decrease",
+        "4.2% increase",
+        "3.2% increase",
+        "2.0% decrease"
+      ],
+      "raw_options": [
+        "0.4% decrease",
+        "4.2% increase",
+        "3.2% increase",
+        "2.0% decrease"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 148.97000000000003,
+        "stem_bottom": 186.89,
+        "first_opt_top": 189.28999999999996,
+        "opts_bottom": 240.66999999999996,
+        "ans_top": 243.06999999999994,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 53,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Suppose p = √3 + √7, q = √8 + √2 and r = 2√3 +\n2. Which of the following is true?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Suppose p = √3 + √7, q = √8 + √2 and r = 2√3 +"
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "Which of the following is true?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "p < q < r",
+        "r < q < p",
+        "q < p < r",
+        "p < r < q 3 1 1 1"
+      ],
+      "raw_options": [
+        "p < q < r",
+        "r < q < p",
+        "q < p < r",
+        "p < r < q 3 1 1 1"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 269.94999999999993,
+        "stem_bottom": 280.9899999999999,
+        "first_opt_top": 283.41999999999996,
+        "opts_bottom": 334.78,
+        "ans_top": 337.18,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 54,
+      "section": "quantitative_aptitude",
+      "topic": "Algebra & Number System",
+      "render_mode": "image_stem",
+      "stem": "3 1 1 1\nQ54. Evaluate: 7−[ ÷{ +( ×(1− ))}]\n4 8 2 4",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "3 1 1 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Q54. Evaluate: 7−[ ÷{ +( ×(1− ))}]"
+        },
+        {
+          "type": "paragraph",
+          "text": "4 8 2 4"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2025-09-13-s1/q054_stem.webp",
+      "full_image": null,
+      "options": [
+        "11/2",
+        "21/4",
+        "23/4",
+        "25/4"
+      ],
+      "raw_options": [
+        "11/2",
+        "21/4",
+        "23/4",
+        "25/4"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 364.73823999999996,
+        "stem_bottom": 384.67823999999996,
+        "first_opt_top": 387.36,
+        "opts_bottom": 438.71999999999997,
+        "ans_top": 441.12,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 55,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "X and Y started a business by investing ₹60,000 and ₹90,000 respectively. After 6 months, X doubled his capital, while Y reduced his capital by ₹30,000. If the total annual profit is ₹62,000, what is Y's share(to the nearest integer)?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "X and Y started a business by investing ₹60,000 and ₹90,000 respectively. After 6 months, X doubled his capital, while Y reduced his capital by ₹30,000. If the total annual profit is ₹62,000, what is Y's share(to the nearest integer)?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "₹28,182",
+        "₹30,105",
+        "₹33,000",
+        "₹35,512"
+      ],
+      "raw_options": [
+        "₹28,182",
+        "₹30,105",
+        "₹33,000",
+        "₹35,512"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 468.02,
+        "stem_bottom": 492.25999999999993,
+        "first_opt_top": 494.65999999999997,
+        "opts_bottom": 546.05,
+        "ans_top": 548.45,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 56,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "P, Q, and R invested ₹30,000, ₹40,000, and ₹50,000 respectively in a business. If the profit at the end of the year is ₹36,000, what is Q's share of the profit?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "P, Q, and R invested ₹30,000, ₹40,000, and ₹50,000 respectively in a business. If the profit at the end of the year is ₹36,000, what is Q's share of the profit?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "₹12,000",
+        "₹11,000",
+        "₹10,800",
+        "₹10,000"
+      ],
+      "raw_options": [
+        "₹12,000",
+        "₹11,000",
+        "₹10,800",
+        "₹10,000"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 575.3299999999999,
+        "stem_bottom": 599.81,
+        "first_opt_top": 602.2099999999999,
+        "opts_bottom": 653.5899999999999,
+        "ans_top": 655.99,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 57,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "A vendor sold 18 pens for ₹1,440 and gained a profit of 20%. How many pens must he sell for ₹1,408 to make a profit of 12%(to the nearest integer)?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A vendor sold 18 pens for ₹1,440 and gained a profit of 20%. How many pens must he sell for ₹1,408 to make a profit of 12%(to the nearest integer)?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "raw_options": [
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 682.8699999999999,
+        "stem_bottom": 707.3499999999999,
+        "first_opt_top": 709.78,
+        "opts_bottom": 760.896,
+        "ans_top": 763.2959999999999,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 58,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "From a 54-litre container of pure milk, 9 litres are removed and replaced by water. This process is repeated three times in total. What is the final quantity of milk left in the container?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "From a 54-litre container of pure milk, 9 litres are removed and replaced by water. This process is repeated three times in total. What is the final quantity of milk left in the container?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "30.37 litres",
+        "31.25 litres",
+        "34.29 litres",
+        "36.10 litres"
+      ],
+      "raw_options": [
+        "30.37 litres",
+        "31.25 litres",
+        "34.29 litres",
+        "36.10 litres"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 119.89999999999998,
+        "first_opt_top": 122.09000000000003,
+        "opts_bottom": 173.44999999999993,
+        "ans_top": 175.85000000000002,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 59,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "In a town, the present number of employed people is 40,000. If the number of employed men decreases by 4% and the number of employed women increases by 12%, the total employed population becomes 40,480. What is the present number of employed men?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In a town, the present number of employed people is 40,000. If the number of employed men decreases by 4% and the number of employed women increases by 12%, the total employed population becomes 40,480. What is the present number of employed men?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "20,000",
+        "22,000",
+        "27,000",
+        "26,000"
+      ],
+      "raw_options": [
+        "20,000",
+        "22,000",
+        "27,000",
+        "26,000"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 202.75,
+        "stem_bottom": 240.66999999999996,
+        "first_opt_top": 243.06999999999994,
+        "opts_bottom": 294.4599999999999,
+        "ans_top": 296.86,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 60,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "A shopkeeper ordered 12 kg of premium coffee and some kg of regular coffee. The price of premium coffee per kg was three times that of regular coffee. Due to a billing mistake, the quantities of the two types were interchanged, which reduced the total bill by 30%. What was the ratio of the quantity of premium coffee to regular coffee in the original order?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A shopkeeper ordered 12 kg of premium coffee and some kg of regular coffee. The price of premium coffee per kg was three times that of regular coffee. Due to a billing mistake, the quantities of the two types were interchanged, which reduced the total bill by 30%. What was the ratio of the quantity of premium coffee to regular coffee in the original order?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "21:31",
+        "23:24",
+        "14:13",
+        "23:11"
+      ],
+      "raw_options": [
+        "21:31",
+        "23:24",
+        "14:13",
+        "23:11"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 323.74,
+        "stem_bottom": 375.11999999999995,
+        "first_opt_top": 377.52,
+        "opts_bottom": 428.63999999999993,
+        "ans_top": 431.03999999999996,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 61,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "P and Q together can complete a job in 16 days. Q and R together can complete it in 24 days, and R and P together can do it in 32 days. In how many days can P alone complete the job?\n1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "P and Q together can complete a job in 16 days. Q and R together can complete it in 24 days, and R and P together can do it in 32 days. In how many days can P alone complete the job?"
+        },
+        {
+          "type": "paragraph",
+          "text": "1"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "30 days 2",
+        "32 days 2",
+        "38 days 5",
+        "48 days"
+      ],
+      "raw_options": [
+        "30 days 2",
+        "32 days 2",
+        "38 days 5",
+        "48 days"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 457.94,
+        "stem_bottom": 491.01823999999993,
+        "first_opt_top": 487.46,
+        "opts_bottom": 546.77,
+        "ans_top": 549.17,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 62,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "A trader sells one variety of sugar at ₹36 per kg, incurring a 10% loss, and another variety at ₹48 per kg, incurring a 20% loss. If he mixes the two varieties in equal quantities and sells the mixture at ₹42 per kg, what is his overall profit or loss percentage?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A trader sells one variety of sugar at ₹36 per kg, incurring a 10% loss, and another variety at ₹48 per kg, incurring a 20% loss. If he mixes the two varieties in equal quantities and sells the mixture at ₹42 per kg, what is his overall profit or loss percentage?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Loss of 16%",
+        "Loss of 15%",
+        "Profit of 12.5%",
+        "Profit of 15%"
+      ],
+      "raw_options": [
+        "Loss of 16%",
+        "Loss of 15%",
+        "Profit of 12.5%",
+        "Profit of 15%"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 576.05,
+        "stem_bottom": 613.73,
+        "first_opt_top": 616.15,
+        "opts_bottom": 667.51,
+        "ans_top": 669.91,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 63,
+      "section": "quantitative_aptitude",
+      "topic": "Geometry & Mensuration",
+      "render_mode": "text",
+      "stem": "What is the area of a sector of a circle with radius 9 cm and central angle 80°?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What is the area of a sector of a circle with radius 9 cm and central angle 80°?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "18π cm²",
+        "27π cm²",
+        "36π/5 cm²",
+        "72π/5 cm²"
+      ],
+      "raw_options": [
+        "18π cm²",
+        "27π cm²",
+        "36π/5 cm²",
+        "72π/5 cm²"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 696.79,
+        "stem_bottom": 707.8299999999999,
+        "first_opt_top": 710.26,
+        "opts_bottom": 761.616,
+        "ans_top": 764.016,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 64,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which of the following lines is parallel to 4x − 3y = 7?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following lines is parallel to 4x − 3y = 7?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "4x − 3y = 5",
+        "3x − 4y = 7",
+        "4x + 3y = 7",
+        "2x − 3y = 5"
+      ],
+      "raw_options": [
+        "4x − 3y = 5",
+        "3x − 4y = 7",
+        "4x + 3y = 7",
+        "2x − 3y = 5"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 108.86000000000001,
+        "stem_bottom": 119.89999999999998,
+        "first_opt_top": 122.09000000000003,
+        "opts_bottom": 173.44999999999993,
+        "ans_top": 175.85000000000002,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 65,
+      "section": "quantitative_aptitude",
+      "topic": "Trigonometry",
+      "render_mode": "image_stem",
+      "stem": "If cos(90° − θ) = sin(2θ), what is θ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If cos(90° − θ) = sin(2θ), what is θ?"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2025-09-13-s1/q065_stem.webp",
+      "full_image": null,
+      "options": [
+        "60°",
+        "30°",
+        "45°",
+        "90°"
+      ],
+      "raw_options": [
+        "60°",
+        "30°",
+        "45°",
+        "90°"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 202.75,
+        "stem_bottom": 213.78999999999996,
+        "first_opt_top": 216.18999999999994,
+        "opts_bottom": 267.54999999999995,
+        "ans_top": 269.94999999999993,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 66,
+      "section": "quantitative_aptitude",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "Given that angles A and B are complementary and cosA = 5/13, what is tanB?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Given that angles A and B are complementary and cosA = 5/13, what is tanB?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "12/5",
+        "5/12",
+        "4/3",
+        "3/4"
+      ],
+      "raw_options": [
+        "12/5",
+        "5/12",
+        "4/3",
+        "3/4"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 296.86,
+        "stem_bottom": 307.9,
+        "first_opt_top": 310.29999999999995,
+        "opts_bottom": 361.65999999999997,
+        "ans_top": 364.08,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 67,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "In a cyclic quadrilateral PQRS, if angle P is 110°, what is the measure of angle R?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In a cyclic quadrilateral PQRS, if angle P is 110°, what is the measure of angle R?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "70°",
+        "80°",
+        "90°",
+        "110°"
+      ],
+      "raw_options": [
+        "70°",
+        "80°",
+        "90°",
+        "110°"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 390.71999999999997,
+        "stem_bottom": 401.75999999999993,
+        "first_opt_top": 404.15999999999997,
+        "opts_bottom": 455.5199999999999,
+        "ans_top": 457.94,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 68,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "A milkman mixes water with pure milk. If he sells the mixture at the cost price of pure milk and makes a profit of 25%, what is the ratio of water to milk in the mixture?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A milkman mixes water with pure milk. If he sells the mixture at the cost price of pure milk and makes a profit of 25%, what is the ratio of water to milk in the mixture?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1:3",
+        "1:4",
+        "1:5",
+        "2:5"
+      ],
+      "raw_options": [
+        "1:3",
+        "1:4",
+        "1:5",
+        "2:5"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 484.82,
+        "stem_bottom": 509.29999999999995,
+        "first_opt_top": 511.7,
+        "opts_bottom": 563.0899999999999,
+        "ans_top": 565.49,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 69,
+      "section": "quantitative_aptitude",
+      "topic": "Time, Speed & Distance",
+      "render_mode": "text",
+      "stem": "Two cyclists start from the same point on a circular track of length 900 m at 7:00 a.m. and ride in opposite directions. Their speeds are 6 km/h and 9 km/h respectively. At what time will they meet for the fourth time?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Two cyclists start from the same point on a circular track of length 900 m at 7:00 a.m. and ride in opposite directions. Their speeds are 6 km/h and 9 km/h respectively. At what time will they meet for the fourth time?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "7:15:18 a.m.",
+        "7:14:24 a.m.",
+        "7:30:24 a.m.",
+        "7:36:18 a.m."
+      ],
+      "raw_options": [
+        "7:15:18 a.m.",
+        "7:14:24 a.m.",
+        "7:30:24 a.m.",
+        "7:36:18 a.m."
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 592.3699999999999,
+        "stem_bottom": 616.8499999999999,
+        "first_opt_top": 619.27,
+        "opts_bottom": 670.39,
+        "ans_top": 672.79,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 70,
+      "section": "quantitative_aptitude",
+      "topic": "Geometry & Mensuration",
+      "render_mode": "text",
+      "stem": "In triangles DEF and PQR, if DE = PQ, EF = QR, and FD = RP, which congruence criterion shows that triangle DEF is congruent to triangle PQR?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In triangles DEF and PQR, if DE = PQ, EF = QR, and FD = RP, which congruence criterion shows that triangle DEF is congruent to triangle PQR?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "SSS",
+        "SAS",
+        "ASA",
+        "RHS"
+      ],
+      "raw_options": [
+        "SSS",
+        "SAS",
+        "ASA",
+        "RHS"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 13,
+        "stem_top": 699.6999999999999,
+        "stem_bottom": 724.18,
+        "first_opt_top": 726.5799999999999,
+        "opts_bottom": 777.9359999999999,
+        "ans_top": 95.41999999999996,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 71,
+      "section": "quantitative_aptitude",
+      "topic": "Time, Speed & Distance",
+      "render_mode": "text",
+      "stem": "A bus covers 30% of a journey at a speed of 24 km/h and the remaining distance at a speed of 36 km/h. What is the average speed of the bus for the entire journey?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A bus covers 30% of a journey at a speed of 24 km/h and the remaining distance at a speed of 36 km/h. What is the average speed of the bus for the entire journey?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "28.8 km/h",
+        "29.4 km/h",
+        "30 km/h",
+        "31.3 km/h"
+      ],
+      "raw_options": [
+        "28.8 km/h",
+        "29.4 km/h",
+        "30 km/h",
+        "31.3 km/h"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 122.09000000000003,
+        "stem_bottom": 146.56999999999994,
+        "first_opt_top": 148.97000000000003,
+        "opts_bottom": 200.32999999999993,
+        "ans_top": 202.75,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 72,
+      "section": "quantitative_aptitude",
+      "topic": "Geometry & Mensuration",
+      "render_mode": "text",
+      "stem": "The area of a sector of a circle of radius 6 cm with central angle 120° is:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The area of a sector of a circle of radius 6 cm with central angle 120° is:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "12π cm²",
+        "18π cm²",
+        "24π cm²",
+        "30π cm²"
+      ],
+      "raw_options": [
+        "12π cm²",
+        "18π cm²",
+        "24π cm²",
+        "30π cm²"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 229.63,
+        "stem_bottom": 240.66999999999996,
+        "first_opt_top": 243.06999999999994,
+        "opts_bottom": 294.4599999999999,
+        "ans_top": 296.86,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 73,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "If t = √6 + 3, find t² − 6√6.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If t = √6 + 3, find t² − 6√6."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "3",
+        "5",
+        "9",
+        "15"
+      ],
+      "raw_options": [
+        "3",
+        "5",
+        "9",
+        "15"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 323.74,
+        "stem_bottom": 334.78,
+        "first_opt_top": 337.18,
+        "opts_bottom": 388.55999999999995,
+        "ans_top": 390.71999999999997,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 74,
+      "section": "quantitative_aptitude",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "What is the radian measure of 135°?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What is the radian measure of 135°?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "3π/5",
+        "5π/6",
+        "3π/4",
+        "7π/6"
+      ],
+      "raw_options": [
+        "3π/5",
+        "5π/6",
+        "3π/4",
+        "7π/6"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 417.59999999999997,
+        "stem_bottom": 428.63999999999993,
+        "first_opt_top": 431.03999999999996,
+        "opts_bottom": 482.41999999999996,
+        "ans_top": 484.82,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 75,
+      "section": "quantitative_aptitude",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "If sin²θ − cos²θ = −1/3, find the value of cos²θ.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If sin²θ − cos²θ = −1/3, find the value of cos²θ."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1/3",
+        "1/2",
+        "2/3",
+        "5/6"
+      ],
+      "raw_options": [
+        "1/3",
+        "1/2",
+        "2/3",
+        "5/6"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 511.7,
+        "stem_bottom": 522.74,
+        "first_opt_top": 525.14,
+        "opts_bottom": 576.53,
+        "ans_top": 578.93,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 76,
+      "section": "english",
+      "topic": "Vocabulary: Synonyms & Antonyms",
+      "render_mode": "text",
+      "stem": "Select the most appropriate antonym of the given word: FLEETING",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the most appropriate antonym of the given word: FLEETING"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Short-lived",
+        "Transient",
+        "Enduring",
+        "Momentary"
+      ],
+      "raw_options": [
+        "Short-lived",
+        "Transient",
+        "Enduring",
+        "Momentary"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 605.81,
+        "stem_bottom": 616.8499999999999,
+        "first_opt_top": 619.27,
+        "opts_bottom": 670.39,
+        "ans_top": 672.79,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 77,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Select the sentence containing the homonym of the highlighted word:\nDuring the ceremony, the fanon lay across the bishop’s shoulder.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the sentence containing the homonym of the highlighted word:"
+        },
+        {
+          "type": "paragraph",
+          "text": "During the ceremony, the fanon lay across the bishop’s shoulder."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The researcher documented the fanon’s use in early rituals.",
+        "The seamstress reinforced the fanon’s border with fine stitching.",
+        "The students discussed Fanon’s views on colonial identity.",
+        "The priest adjusted the fanon over his chasuble."
+      ],
+      "raw_options": [
+        "The researcher documented the fanon’s use in early rituals.",
+        "The seamstress reinforced the fanon’s border with fine stitching.",
+        "The students discussed Fanon’s views on colonial identity.",
+        "The priest adjusted the fanon over his chasuble."
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 14,
+        "stem_top": 699.6999999999999,
+        "stem_bottom": 724.18,
+        "first_opt_top": 726.5799999999999,
+        "opts_bottom": 777.9359999999999,
+        "ans_top": 95.41999999999996,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 78,
+      "section": "english",
+      "topic": "Data Interpretation & Statistics",
+      "render_mode": "text",
+      "stem": "Choose the most suitable option to replace the highlighted part of the sentence:\nI am used to get up early every morning.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the most suitable option to replace the highlighted part of the sentence:"
+        },
+        {
+          "type": "paragraph",
+          "text": "I am used to get up early every morning."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "of getting up",
+        "with getting up",
+        "to getting up",
+        "for getting up"
+      ],
+      "raw_options": [
+        "of getting up",
+        "with getting up",
+        "to getting up",
+        "for getting up"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 122.09000000000003,
+        "stem_bottom": 146.56999999999994,
+        "first_opt_top": 148.97000000000003,
+        "opts_bottom": 200.32999999999993,
+        "ans_top": 202.75,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 79,
+      "section": "english",
+      "topic": "Spotting Errors & Sentence Correction",
+      "render_mode": "text",
+      "stem": "Find the part of the sentence that contains an error:\nThe initiatives praised by the committee (1)/ are not only designed to modernise reporting systems (2)/ but also improving transparency in funding distribution (3)/ across all districts. (4)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the part of the sentence that contains an error:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The initiatives praised by the committee (1)/ are not only designed to modernise reporting systems (2)/ but also improving transparency in funding distribution (3)/ across all districts. (4)"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)"
+      ],
+      "raw_options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 229.63,
+        "stem_bottom": 267.54999999999995,
+        "first_opt_top": 269.94999999999993,
+        "opts_bottom": 321.3399999999999,
+        "ans_top": 323.74,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 80,
+      "section": "english",
+      "topic": "Para Jumbles & Sentence Rearrangement",
+      "render_mode": "text",
+      "stem": "Rearrange the following sentences to form a coherent paragraph:\n1. Such stories frequently examine the moral and societal impact of technological progress, from AI to genetic modification.\n2. Science fiction is a form of speculative writing that commonly presents imaginative ideas related to future science and technology.\n3. As a result, it becomes a strong medium for social critique and for forecasting upcoming problems and dilemmas.\n4. Though it entertains readers, the genre offers more than simple escapism.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Rearrange the following sentences to form a coherent paragraph:"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "Such stories frequently examine the moral and societal impact of technological progress, from AI to genetic modification."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "Science fiction is a form of speculative writing that commonly presents imaginative ideas related to future science and technology."
+        },
+        {
+          "type": "list_item",
+          "marker": "3.",
+          "text": "As a result, it becomes a strong medium for social critique and for forecasting upcoming problems and dilemmas."
+        },
+        {
+          "type": "list_item",
+          "marker": "4.",
+          "text": "Though it entertains readers, the genre offers more than simple escapism."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "2, 4, 1, 3",
+        "1, 3, 2, 4",
+        "4, 1, 3, 2",
+        "2, 1, 4, 3"
+      ],
+      "raw_options": [
+        "2, 4, 1, 3",
+        "1, 3, 2, 4",
+        "4, 1, 3, 2",
+        "2, 1, 4, 3"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 350.62,
+        "stem_bottom": 442.0799999999999,
+        "first_opt_top": 444.47999999999996,
+        "opts_bottom": 495.85999999999996,
+        "ans_top": 498.26,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 81,
+      "section": "english",
+      "topic": "Spelling Correction",
+      "render_mode": "text",
+      "stem": "Spot the correct spelling of a metamorphic rock texture with large, conspicuous crystals.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Spot the correct spelling of a metamorphic rock texture with large, conspicuous crystals."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Prephyroblastic",
+        "Porphyroblastic",
+        "Porfyrablastic",
+        "Porophyroblastik"
+      ],
+      "raw_options": [
+        "Prephyroblastic",
+        "Porphyroblastic",
+        "Porfyrablastic",
+        "Porophyroblastik"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 525.14,
+        "stem_bottom": 536.18,
+        "first_opt_top": 538.61,
+        "opts_bottom": 589.9699999999999,
+        "ans_top": 592.3699999999999,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 82,
+      "section": "english",
+      "topic": "Spotting Errors & Sentence Correction",
+      "render_mode": "text",
+      "stem": "Find the part of the sentence that contains an error:\nWhat the organization did not examine thoroughly enough (1)/ were not the scheme’s objectives themselves, (2)/ but the political consequences it (3)/ might have caused if carried out without wider agreement. (4)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the part of the sentence that contains an error:"
+        },
+        {
+          "type": "paragraph",
+          "text": "What the organization did not examine thoroughly enough (1)/ were not the scheme’s objectives themselves, (2)/ but the political consequences it (3)/ might have caused if carried out without wider agreement. (4)"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)"
+      ],
+      "raw_options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 619.27,
+        "stem_bottom": 656.9499999999999,
+        "first_opt_top": 659.3499999999999,
+        "opts_bottom": 710.74,
+        "ans_top": 713.14,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 83,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Select the correct option:\nThe speaker’s explanation was so packed with technical jargon that it veered into __________.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correct option:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The speaker’s explanation was so packed with technical jargon that it veered into __________."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "opacity",
+        "opalescent",
+        "poaceous",
+        "opaque"
+      ],
+      "raw_options": [
+        "opacity",
+        "opalescent",
+        "poaceous",
+        "opaque"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 15,
+        "stem_top": 740.016,
+        "stem_bottom": 764.496,
+        "first_opt_top": 95.41999999999996,
+        "opts_bottom": 777.9359999999999,
+        "ans_top": 135.52999999999997,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 84,
+      "section": "english",
+      "topic": "Vocabulary: Synonyms & Antonyms",
+      "render_mode": "text",
+      "stem": "Select the most appropriate synonym of the given word: CUTTING",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the most appropriate synonym of the given word: CUTTING"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Kind",
+        "Pleasant",
+        "Gentle",
+        "Sarcastic"
+      ],
+      "raw_options": [
+        "Kind",
+        "Pleasant",
+        "Gentle",
+        "Sarcastic"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 162.40999999999997,
+        "stem_bottom": 173.44999999999993,
+        "first_opt_top": 175.85000000000002,
+        "opts_bottom": 227.2299999999999,
+        "ans_top": 229.63,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 85,
+      "section": "english",
+      "topic": "Data Interpretation & Statistics",
+      "render_mode": "text",
+      "stem": "Choose the most suitable option to replace the highlighted part of the sentence:\nI suggested that he goes to the veterinary surgeon immediately as his dog was not well.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the most suitable option to replace the highlighted part of the sentence:"
+        },
+        {
+          "type": "paragraph",
+          "text": "I suggested that he goes to the veterinary surgeon immediately as his dog was not well."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "go to veterinary surgeon at once",
+        "should goes to the veterinary surgeon",
+        "go to the veterinary surgeon immediately",
+        "should have gone to the veterinary surgeon"
+      ],
+      "raw_options": [
+        "go to veterinary surgeon at once",
+        "should goes to the veterinary surgeon",
+        "go to the veterinary surgeon immediately",
+        "should have gone to the veterinary surgeon"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 256.51,
+        "stem_bottom": 280.9899999999999,
+        "first_opt_top": 283.41999999999996,
+        "opts_bottom": 334.78,
+        "ans_top": 337.18,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 86,
+      "section": "english",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "Select the correct option:\nOnly after ten years of fieldwork __ she truly understand the dialect’s nuances.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correct option:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Only after ten years of fieldwork __ she truly understand the dialect’s nuances."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "she had",
+        "did she",
+        "was she",
+        "she did"
+      ],
+      "raw_options": [
+        "she had",
+        "did she",
+        "was she",
+        "she did"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 364.08,
+        "stem_bottom": 388.55999999999995,
+        "first_opt_top": 390.71999999999997,
+        "opts_bottom": 442.0799999999999,
+        "ans_top": 444.47999999999996,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 87,
+      "section": "english",
+      "topic": "Direct & Indirect Speech",
+      "render_mode": "text",
+      "stem": "A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech.\nRitika said, “Rajiv does not listen to me.”",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ritika said, “Rajiv does not listen to me.”"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Ritika said Rajiv don’t listen to her.",
+        "Ritika said that Rajiv doesn’t listened to her.",
+        "Ritika said that Rajiv didn’t listen to her.",
+        "Ritika said that Rajiv didn’t listened to her."
+      ],
+      "raw_options": [
+        "Ritika said Rajiv don’t listen to her.",
+        "Ritika said that Rajiv doesn’t listened to her.",
+        "Ritika said that Rajiv didn’t listen to her.",
+        "Ritika said that Rajiv didn’t listened to her."
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 471.38,
+        "stem_bottom": 509.29999999999995,
+        "first_opt_top": 511.7,
+        "opts_bottom": 563.0899999999999,
+        "ans_top": 565.49,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 88,
+      "section": "english",
+      "topic": "Geography & Environment",
+      "render_mode": "text",
+      "stem": "Change the following from active to passive:\nThe research team will have reverified the samples before sunrise.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Change the following from active to passive:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The research team will have reverified the samples before sunrise."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The samples have been reverified by the research team before sunrise.",
+        "The samples will have been reverified by the research team before sunrise.",
+        "The samples will be reverified by the research team before sunrise.",
+        "The samples would have been reverifying by the research team before sunrise."
+      ],
+      "raw_options": [
+        "The samples have been reverified by the research team before sunrise.",
+        "The samples will have been reverified by the research team before sunrise.",
+        "The samples will be reverified by the research team before sunrise.",
+        "The samples would have been reverifying by the research team before sunrise."
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 592.3699999999999,
+        "stem_bottom": 616.8499999999999,
+        "first_opt_top": 619.27,
+        "opts_bottom": 670.39,
+        "ans_top": 672.79,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 89,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Select the correct option:\nHer rebuttal, although polished, did not __________ the core issue raised by the opposition.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correct option:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Her rebuttal, although polished, did not __________ the core issue raised by the opposition."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "address",
+        "depress",
+        "illude",
+        "circumvent"
+      ],
+      "raw_options": [
+        "address",
+        "depress",
+        "illude",
+        "circumvent"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 16,
+        "stem_top": 699.6999999999999,
+        "stem_bottom": 724.18,
+        "first_opt_top": 726.5799999999999,
+        "opts_bottom": 777.9359999999999,
+        "ans_top": 95.41999999999996,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 90,
+      "section": "english",
+      "topic": "One-Word Substitution",
+      "render_mode": "text",
+      "stem": "Choose the correct one-word substitute for: “A government controlled by the rich and powerful.”",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the correct one-word substitute for: “A government controlled by the rich and powerful.”"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Oligarchy",
+        "Bureaucracy",
+        "Plutocracy",
+        "Technocracy"
+      ],
+      "raw_options": [
+        "Oligarchy",
+        "Bureaucracy",
+        "Plutocracy",
+        "Technocracy"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 16,
+        "stem_top": 122.09000000000003,
+        "stem_bottom": 133.13,
+        "first_opt_top": 135.52999999999997,
+        "opts_bottom": 186.89,
+        "ans_top": 189.28999999999996,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 91,
+      "section": "english",
+      "topic": "Spelling Correction",
+      "render_mode": "text",
+      "stem": "Identify the incorrectly spelt word:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Identify the incorrectly spelt word:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Avaricious",
+        "Temerarious",
+        "Repentant",
+        "Inadvartant"
+      ],
+      "raw_options": [
+        "Avaricious",
+        "Temerarious",
+        "Repentant",
+        "Inadvartant"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 16,
+        "stem_top": 216.18999999999994,
+        "stem_bottom": 227.2299999999999,
+        "first_opt_top": 229.63,
+        "opts_bottom": 280.9899999999999,
+        "ans_top": 283.41999999999996,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 92,
+      "section": "english",
+      "topic": "Active & Passive Voice",
+      "render_mode": "text",
+      "stem": "Convert the sentence provided below from its passive voice structure to an active voice structure: Ancient artifacts are believed to have been quietly removed from the location by trespassers before the audit.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Convert the sentence provided below from its passive voice structure to an active voice structure: Ancient artifacts are believed to have been quietly removed from the location by trespassers before the audit."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Trespassers removed the ancient artifacts before the audit.",
+        "The location was quietly cleared before the audit.",
+        "Trespassers are believed to have quietly removed ancient artifacts before the audit.",
+        "The artifacts had been removed prior to the audit."
+      ],
+      "raw_options": [
+        "Trespassers removed the ancient artifacts before the audit.",
+        "The location was quietly cleared before the audit.",
+        "Trespassers are believed to have quietly removed ancient artifacts before the audit.",
+        "The artifacts had been removed prior to the audit."
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 16,
+        "stem_top": 310.29999999999995,
+        "stem_bottom": 334.78,
+        "first_opt_top": 337.18,
+        "opts_bottom": 388.55999999999995,
+        "ans_top": 390.71999999999997,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 93,
+      "section": "english",
+      "topic": "Para Jumbles & Sentence Rearrangement",
+      "render_mode": "text",
+      "stem": "Rearrange the following sentences to form a coherent paragraph:\n1. This process helps ensure that the food we consume is safe and free from harmful microbes or other impurities.\n2. Food processing refers to a set of techniques used to convert raw ingredients into edible products.\n3. These techniques may include simple steps like chopping and grinding, as well as advanced procedures such as pasteurization and fermentation.\n4. In addition, it supports preservation by increasing shelf life and can also improve nutritional value.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Rearrange the following sentences to form a coherent paragraph:"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "This process helps ensure that the food we consume is safe and free from harmful microbes or other impurities."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "Food processing refers to a set of techniques used to convert raw ingredients into edible products."
+        },
+        {
+          "type": "list_item",
+          "marker": "3.",
+          "text": "These techniques may include simple steps like chopping and grinding, as well as advanced procedures such as pasteurization and fermentation."
+        },
+        {
+          "type": "list_item",
+          "marker": "4.",
+          "text": "In addition, it supports preservation by increasing shelf life and can also improve nutritional value."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "2, 3, 1, 4",
+        "1, 2, 3, 4",
+        "3, 1, 4, 2",
+        "4, 2, 1, 3"
+      ],
+      "raw_options": [
+        "2, 3, 1, 4",
+        "1, 2, 3, 4",
+        "3, 1, 4, 2",
+        "4, 2, 1, 3"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 16,
+        "stem_top": 417.59999999999997,
+        "stem_bottom": 495.85999999999996,
+        "first_opt_top": 498.26,
+        "opts_bottom": 549.65,
+        "ans_top": 552.05,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 94,
+      "section": "english",
+      "topic": "Idioms & Phrases",
+      "render_mode": "text",
+      "stem": "Choose the correct meaning of idiom: Pull no punches",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the correct meaning of idiom: Pull no punches"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "To remain impartial",
+        "To hesitate before talking",
+        "To mislead the listener",
+        "To be direct and honest"
+      ],
+      "raw_options": [
+        "To remain impartial",
+        "To hesitate before talking",
+        "To mislead the listener",
+        "To be direct and honest"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 16,
+        "stem_top": 578.93,
+        "stem_bottom": 589.9699999999999,
+        "first_opt_top": 592.3699999999999,
+        "opts_bottom": 643.75,
+        "ans_top": 645.91,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 95,
+      "section": "english",
+      "topic": "Reading Comprehension",
+      "render_mode": "text",
+      "stem": "In the passage, the expression “gnawing dissonance” most nearly refers to:\nRead the passage and answer the following questions.\nFor seventeen-year-old Meera, adolescence did not remain just a time of changing emotions and academic goals; it turned into a space where how she saw herself clashed painfully with her sense of worth. Living in a world flooded with polished online images and algorithm-led standards of attractiveness, Meera began to feel that even her own reflection was unreliable—almost like it was deceiving her. With every scroll through social media, a constant, nagging gap grew stronger: the difference between who she truly was and the flawless body types celebrated online. This was not ordinary teenage self-doubt; it slowly became a pattern of harsh self-judgment about her appearance. Over time, she started punishing herself in quiet ways—eating felt like something she had to “earn,” mirrors felt like enemies, and even compliments sounded like coded reminders that she still wasn’t enough.\nHer slide into dysmorphia was gradual and silent, not dramatic or obvious. On the surface, she remained bright in studies and pleasant in company, carefully wearing an image of normal life. But behind the practiced smiles, she was breaking down inwardly. She began distancing herself emotionally, brushing off her pain as mere vanity, and treating her own value as something insignificant. The moment things changed did not come with an outburst, but with a disturbing silence: she refused to eat for days, and this finally led to medical help. Therapy introduced her to the idea that her self-perception was distorted, and helped her develop the emotional support system needed to rebuild her damaged identity.\nWith consistent counseling, Meera learned to separate society’s imposed standards from her real, inner worth. Slowly, she started accepting that beauty is not a single fixed model decided by culture; rather, it exists in many forms shaped by diversity, well-being, and self-kindness. Meera’s story is not an isolated case—it reflects a larger crisis in which many teenagers fight invisible battles behind seemingly perfect digital lives. Addressing this problem demands more than simple awareness; it requires sharp media literacy, supportive and empathetic spaces, and a broader redefinition of beauty that goes beyond shallow measurements.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In the passage, the expression “gnawing dissonance” most nearly refers to:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the passage and answer the following questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "For seventeen-year-old Meera, adolescence did not remain just a time of changing emotions and academic goals; it turned into a space where how she saw herself clashed painfully with her sense of worth. Living in a world flooded with polished online images and algorithm-led standards of attractiveness, Meera began to feel that even her own reflection was unreliable—almost like it was deceiving her. With every scroll through social media, a constant, nagging gap grew stronger: the difference between who she truly was and the flawless body types celebrated online. This was not ordinary teenage self-doubt; it slowly became a pattern of harsh self-judgment about her appearance. Over time, she started punishing herself in quiet ways—eating felt like something she had to “earn,” mirrors felt like enemies, and even compliments sounded like coded reminders that she still wasn’t enough."
+        },
+        {
+          "type": "paragraph",
+          "text": "Her slide into dysmorphia was gradual and silent, not dramatic or obvious. On the surface, she remained bright in studies and pleasant in company, carefully wearing an image of normal life. But behind the practiced smiles, she was breaking down inwardly. She began distancing herself emotionally, brushing off her pain as mere vanity, and treating her own value as something insignificant. The moment things changed did not come with an outburst, but with a disturbing silence: she refused to eat for days, and this finally led to medical help. Therapy introduced her to the idea that her self-perception was distorted, and helped her develop the emotional support system needed to rebuild her damaged identity."
+        },
+        {
+          "type": "paragraph",
+          "text": "With consistent counseling, Meera learned to separate society’s imposed standards from her real, inner worth. Slowly, she started accepting that beauty is not a single fixed model decided by culture; rather, it exists in many forms shaped by diversity, well-being, and self-kindness. Meera’s story is not an isolated case—it reflects a larger crisis in which many teenagers fight invisible battles behind seemingly perfect digital lives. Addressing this problem demands more than simple awareness; it requires sharp media literacy, supportive and empathetic spaces, and a broader redefinition of beauty that goes beyond shallow measurements."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The physical ache of hunger from missing meals",
+        "The nagging conflict between her real self and online beauty ideals",
+        "Her constant arguments with teachers at school",
+        "Her growing detachment because of academic stress"
+      ],
+      "raw_options": [
+        "The physical ache of hunger from missing meals",
+        "The nagging conflict between her real self and online beauty ideals",
+        "Her constant arguments with teachers at school",
+        "Her growing detachment because of academic stress"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 17,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 777.9359999999999,
+        "first_opt_top": 296.86,
+        "opts_bottom": 348.21999999999997,
+        "ans_top": 350.62,
+        "ans_page": 17
+      }
+    },
+    {
+      "n": 96,
+      "section": "english",
+      "topic": "Reading Comprehension",
+      "render_mode": "text",
+      "stem": "According to the passage, Meera’s mental and emotional decline was:\nRead the passage and answer the following questions.\nFor seventeen-year-old Meera, adolescence did not remain just a time of changing emotions and academic goals; it turned into a space where how she saw herself clashed painfully with her sense of worth. Living in a world flooded with polished online images and algorithm-led standards of attractiveness, Meera began to feel that even her own reflection was unreliable—almost like it was deceiving her. With every scroll through social media, a constant, nagging gap grew stronger: the difference between who she truly was and the flawless body types celebrated online. This was not ordinary teenage self-doubt; it slowly became a pattern of harsh self-judgment about her appearance. Over time, she started punishing herself in quiet ways—eating felt like something she had to “earn,” mirrors felt like enemies, and even compliments sounded like coded reminders that she still wasn’t enough.\nHer slide into dysmorphia was gradual and silent, not dramatic or obvious. On the surface, she remained bright in studies and pleasant in company, carefully wearing an image of normal life. But behind the practiced smiles, she was breaking down inwardly. She began distancing herself emotionally, brushing off her pain as mere vanity, and treating her own value as something insignificant. The moment things changed did not come with an outburst, but with a disturbing silence: she refused to eat for days, and this finally led to medical help. Therapy introduced her to the idea that her self-perception was distorted, and helped her develop the emotional support system needed to rebuild her damaged identity.\nWith consistent counseling, Meera learned to separate society’s imposed standards from her real, inner worth. Slowly, she started accepting that beauty is not a single fixed model decided by culture; rather, it exists in many forms shaped by diversity, well-being, and self-kindness. Meera’s story is not an isolated case—it reflects a larger crisis in which many teenagers fight invisible battles behind seemingly perfect digital lives. Addressing this problem demands more than simple awareness; it requires sharp media literacy, supportive and empathetic spaces, and a broader redefinition of beauty that goes beyond shallow measurements.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "According to the passage, Meera’s mental and emotional decline was:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the passage and answer the following questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "For seventeen-year-old Meera, adolescence did not remain just a time of changing emotions and academic goals; it turned into a space where how she saw herself clashed painfully with her sense of worth. Living in a world flooded with polished online images and algorithm-led standards of attractiveness, Meera began to feel that even her own reflection was unreliable—almost like it was deceiving her. With every scroll through social media, a constant, nagging gap grew stronger: the difference between who she truly was and the flawless body types celebrated online. This was not ordinary teenage self-doubt; it slowly became a pattern of harsh self-judgment about her appearance. Over time, she started punishing herself in quiet ways—eating felt like something she had to “earn,” mirrors felt like enemies, and even compliments sounded like coded reminders that she still wasn’t enough."
+        },
+        {
+          "type": "paragraph",
+          "text": "Her slide into dysmorphia was gradual and silent, not dramatic or obvious. On the surface, she remained bright in studies and pleasant in company, carefully wearing an image of normal life. But behind the practiced smiles, she was breaking down inwardly. She began distancing herself emotionally, brushing off her pain as mere vanity, and treating her own value as something insignificant. The moment things changed did not come with an outburst, but with a disturbing silence: she refused to eat for days, and this finally led to medical help. Therapy introduced her to the idea that her self-perception was distorted, and helped her develop the emotional support system needed to rebuild her damaged identity."
+        },
+        {
+          "type": "paragraph",
+          "text": "With consistent counseling, Meera learned to separate society’s imposed standards from her real, inner worth. Slowly, she started accepting that beauty is not a single fixed model decided by culture; rather, it exists in many forms shaped by diversity, well-being, and self-kindness. Meera’s story is not an isolated case—it reflects a larger crisis in which many teenagers fight invisible battles behind seemingly perfect digital lives. Addressing this problem demands more than simple awareness; it requires sharp media literacy, supportive and empathetic spaces, and a broader redefinition of beauty that goes beyond shallow measurements."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Sudden and openly confrontational",
+        "Unpredictable and meant to draw attention",
+        "Gradual, hidden, and inwardly damaging",
+        "Loud, defiant, and rebellious"
+      ],
+      "raw_options": [
+        "Sudden and openly confrontational",
+        "Unpredictable and meant to draw attention",
+        "Gradual, hidden, and inwardly damaging",
+        "Loud, defiant, and rebellious"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 17,
+        "min_page": 17,
+        "max_page": 17,
+        "stem_top": 377.52,
+        "stem_bottom": 683.8299999999999,
+        "first_opt_top": 686.23,
+        "opts_bottom": 737.62,
+        "ans_top": 740.016,
+        "ans_page": 17
+      }
+    },
+    {
+      "n": 97,
+      "section": "english",
+      "topic": "Reading Comprehension",
+      "render_mode": "text",
+      "stem": "Which idea, introduced through therapy, became the starting point of Meera’s emotional recovery? Read the passage and answer the following questions.\nFor seventeen-year-old Meera, adolescence did not remain just a time of changing emotions and academic goals; it turned into a space where how she saw herself clashed painfully with her sense of worth. Living in a world flooded with polished online images and algorithm-led standards of attractiveness, Meera began to feel that even her own reflection was unreliable—almost like it was deceiving her. With every scroll through social media, a constant, nagging gap grew stronger: the difference between who she truly was and the flawless body types celebrated online. This was not ordinary teenage self-doubt; it slowly became a pattern of harsh self-judgment about her appearance. Over time, she started punishing herself in quiet ways—eating felt like something she had to “earn,” mirrors felt like enemies, and even compliments sounded like coded reminders that she still wasn’t enough.\nHer slide into dysmorphia was gradual and silent, not dramatic or obvious. On the surface, she remained bright in studies and pleasant in company, carefully wearing an image of normal life. But behind the practiced smiles, she was breaking down inwardly. She began distancing herself emotionally, brushing off her pain as mere vanity, and treating her own value as something insignificant. The moment things changed did not come with an outburst, but with a disturbing silence: she refused to eat for days, and this finally led to medical help. Therapy introduced her to the idea that her self-perception was distorted, and helped her develop the emotional support system needed to rebuild her damaged identity.\nWith consistent counseling, Meera learned to separate society’s imposed standards from her real, inner worth. Slowly, she started accepting that beauty is not a single fixed model decided by culture; rather, it exists in many forms shaped by diversity, well-being, and self-kindness. Meera’s story is not an isolated case—it reflects a larger crisis in which many teenagers fight invisible battles behind seemingly perfect digital lives. Addressing this problem demands more than simple awareness; it requires sharp media literacy, supportive and empathetic spaces, and a broader redefinition of beauty that goes beyond shallow measurements.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which idea, introduced through therapy, became the starting point of Meera’s emotional recovery? Read the passage and answer the following questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "For seventeen-year-old Meera, adolescence did not remain just a time of changing emotions and academic goals; it turned into a space where how she saw herself clashed painfully with her sense of worth. Living in a world flooded with polished online images and algorithm-led standards of attractiveness, Meera began to feel that even her own reflection was unreliable—almost like it was deceiving her. With every scroll through social media, a constant, nagging gap grew stronger: the difference between who she truly was and the flawless body types celebrated online. This was not ordinary teenage self-doubt; it slowly became a pattern of harsh self-judgment about her appearance. Over time, she started punishing herself in quiet ways—eating felt like something she had to “earn,” mirrors felt like enemies, and even compliments sounded like coded reminders that she still wasn’t enough."
+        },
+        {
+          "type": "paragraph",
+          "text": "Her slide into dysmorphia was gradual and silent, not dramatic or obvious. On the surface, she remained bright in studies and pleasant in company, carefully wearing an image of normal life. But behind the practiced smiles, she was breaking down inwardly. She began distancing herself emotionally, brushing off her pain as mere vanity, and treating her own value as something insignificant. The moment things changed did not come with an outburst, but with a disturbing silence: she refused to eat for days, and this finally led to medical help. Therapy introduced her to the idea that her self-perception was distorted, and helped her develop the emotional support system needed to rebuild her damaged identity."
+        },
+        {
+          "type": "paragraph",
+          "text": "With consistent counseling, Meera learned to separate society’s imposed standards from her real, inner worth. Slowly, she started accepting that beauty is not a single fixed model decided by culture; rather, it exists in many forms shaped by diversity, well-being, and self-kindness. Meera’s story is not an isolated case—it reflects a larger crisis in which many teenagers fight invisible battles behind seemingly perfect digital lives. Addressing this problem demands more than simple awareness; it requires sharp media literacy, supportive and empathetic spaces, and a broader redefinition of beauty that goes beyond shallow measurements."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Seeking narcissistic approval from others",
+        "Understanding self-image distortion",
+        "Learning techniques to manage social isolation",
+        "Following a strict behavioural conditioning plan"
+      ],
+      "raw_options": [
+        "Seeking narcissistic approval from others",
+        "Understanding self-image distortion",
+        "Learning techniques to manage social isolation",
+        "Following a strict behavioural conditioning plan"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 18,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 401.75999999999993,
+        "first_opt_top": 404.15999999999997,
+        "opts_bottom": 455.5199999999999,
+        "ans_top": 457.94,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 98,
+      "section": "english",
+      "topic": "Reading Comprehension",
+      "render_mode": "text",
+      "stem": "Which option best expresses the core message of the passage?\nRead the passage and answer the following questions.\nFor seventeen-year-old Meera, adolescence did not remain just a time of changing emotions and academic goals; it turned into a space where how she saw herself clashed painfully with her sense of worth. Living in a world flooded with polished online images and algorithm-led standards of attractiveness, Meera began to feel that even her own reflection was unreliable—almost like it was deceiving her. With every scroll through social media, a constant, nagging gap grew stronger: the difference between who she truly was and the flawless body types celebrated online. This was not ordinary teenage self-doubt; it slowly became a pattern of harsh self-judgment about her appearance. Over time, she started punishing herself in quiet ways—eating felt like something she had to “earn,” mirrors felt like enemies, and even compliments sounded like coded reminders that she still wasn’t enough.\nHer slide into dysmorphia was gradual and silent, not dramatic or obvious. On the surface, she remained bright in studies and pleasant in company, carefully wearing an image of normal life. But behind the practiced smiles, she was breaking down inwardly. She began distancing herself emotionally, brushing off her pain as mere vanity, and treating her own value as something insignificant. The moment things changed did not come with an outburst, but with a disturbing silence: she refused to eat for days, and this finally led to medical help. Therapy introduced her to the idea that her self-perception was distorted, and helped her develop the emotional support system needed to rebuild her damaged identity.\nWith consistent counseling, Meera learned to separate society’s imposed standards from her real, inner worth. Slowly, she started accepting that beauty is not a single fixed model decided by culture; rather, it exists in many forms shaped by diversity, well-being, and self-kindness. Meera’s story is not an isolated case—it reflects a larger crisis in which many teenagers fight invisible battles behind seemingly perfect digital lives. Addressing this problem demands more than simple awareness; it requires sharp media literacy, supportive and empathetic spaces, and a broader redefinition of beauty that goes beyond shallow measurements.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which option best expresses the core message of the passage?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the passage and answer the following questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "For seventeen-year-old Meera, adolescence did not remain just a time of changing emotions and academic goals; it turned into a space where how she saw herself clashed painfully with her sense of worth. Living in a world flooded with polished online images and algorithm-led standards of attractiveness, Meera began to feel that even her own reflection was unreliable—almost like it was deceiving her. With every scroll through social media, a constant, nagging gap grew stronger: the difference between who she truly was and the flawless body types celebrated online. This was not ordinary teenage self-doubt; it slowly became a pattern of harsh self-judgment about her appearance. Over time, she started punishing herself in quiet ways—eating felt like something she had to “earn,” mirrors felt like enemies, and even compliments sounded like coded reminders that she still wasn’t enough."
+        },
+        {
+          "type": "paragraph",
+          "text": "Her slide into dysmorphia was gradual and silent, not dramatic or obvious. On the surface, she remained bright in studies and pleasant in company, carefully wearing an image of normal life. But behind the practiced smiles, she was breaking down inwardly. She began distancing herself emotionally, brushing off her pain as mere vanity, and treating her own value as something insignificant. The moment things changed did not come with an outburst, but with a disturbing silence: she refused to eat for days, and this finally led to medical help. Therapy introduced her to the idea that her self-perception was distorted, and helped her develop the emotional support system needed to rebuild her damaged identity."
+        },
+        {
+          "type": "paragraph",
+          "text": "With consistent counseling, Meera learned to separate society’s imposed standards from her real, inner worth. Slowly, she started accepting that beauty is not a single fixed model decided by culture; rather, it exists in many forms shaped by diversity, well-being, and self-kindness. Meera’s story is not an isolated case—it reflects a larger crisis in which many teenagers fight invisible battles behind seemingly perfect digital lives. Addressing this problem demands more than simple awareness; it requires sharp media literacy, supportive and empathetic spaces, and a broader redefinition of beauty that goes beyond shallow measurements."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Teenagers are mainly affected by peer pressure",
+        "Modern fashion and cosmetic trends dominate teen life",
+        "Curated digital beauty standards trigger silent psychological struggles",
+        "Academic counseling is the most essential need for teens"
+      ],
+      "raw_options": [
+        "Teenagers are mainly affected by peer pressure",
+        "Modern fashion and cosmetic trends dominate teen life",
+        "Curated digital beauty standards trigger silent psychological struggles",
+        "Academic counseling is the most essential need for teens"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 20,
+        "stem_top": 95.41999999999996,
+        "stem_bottom": 764.496,
+        "first_opt_top": 122.09000000000003,
+        "opts_bottom": 173.44999999999993,
+        "ans_top": 175.85000000000002,
+        "ans_page": 20
+      }
+    },
+    {
+      "n": 99,
+      "section": "english",
+      "topic": "Reading Comprehension",
+      "render_mode": "text",
+      "stem": ". The author’s tone in the concluding lines of the passage is:\nRead the passage and answer the following questions.\nFor seventeen-year-old Meera, adolescence did not remain just a time of changing emotions and academic goals; it turned into a space where how she saw herself clashed painfully with her sense of worth. Living in a world flooded with polished online images and algorithm-led standards of attractiveness, Meera began to feel that even her own reflection was unreliable—almost like it was deceiving her. With every scroll through social media, a constant, nagging gap grew stronger: the difference between who she truly was and the flawless body types celebrated online. This was not ordinary teenage self-doubt; it slowly became a pattern of harsh self-judgment about her appearance. Over time, she started punishing herself in quiet ways—eating felt like something she had to “earn,” mirrors felt like enemies, and even compliments sounded like coded reminders that she still wasn’t enough.\nHer slide into dysmorphia was gradual and silent, not dramatic or obvious. On the surface, she remained bright in studies and pleasant in company, carefully wearing an image of normal life. But behind the practiced smiles, she was breaking down inwardly. She began distancing herself emotionally, brushing off her pain as mere vanity, and treating her own value as something insignificant. The moment things changed did not come with an outburst, but with a disturbing silence: she refused to eat for days, and this finally led to medical help. Therapy introduced her to the idea that her self-perception was distorted, and helped her develop the emotional support system needed to rebuild her damaged identity.\nWith consistent counseling, Meera learned to separate society’s imposed standards from her real, inner worth. Slowly, she started accepting that beauty is not a single fixed model decided by culture; rather, it exists in many forms shaped by diversity, well-being, and self-kindness. Meera’s story is not an isolated case—it reflects a larger crisis in which many teenagers fight invisible battles behind seemingly perfect digital lives. Addressing this problem demands more than simple awareness; it requires sharp media literacy, supportive and empathetic spaces, and a broader redefinition of beauty that goes beyond shallow measurements.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": ". The author’s tone in the concluding lines of the passage is:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the passage and answer the following questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "For seventeen-year-old Meera, adolescence did not remain just a time of changing emotions and academic goals; it turned into a space where how she saw herself clashed painfully with her sense of worth. Living in a world flooded with polished online images and algorithm-led standards of attractiveness, Meera began to feel that even her own reflection was unreliable—almost like it was deceiving her. With every scroll through social media, a constant, nagging gap grew stronger: the difference between who she truly was and the flawless body types celebrated online. This was not ordinary teenage self-doubt; it slowly became a pattern of harsh self-judgment about her appearance. Over time, she started punishing herself in quiet ways—eating felt like something she had to “earn,” mirrors felt like enemies, and even compliments sounded like coded reminders that she still wasn’t enough."
+        },
+        {
+          "type": "paragraph",
+          "text": "Her slide into dysmorphia was gradual and silent, not dramatic or obvious. On the surface, she remained bright in studies and pleasant in company, carefully wearing an image of normal life. But behind the practiced smiles, she was breaking down inwardly. She began distancing herself emotionally, brushing off her pain as mere vanity, and treating her own value as something insignificant. The moment things changed did not come with an outburst, but with a disturbing silence: she refused to eat for days, and this finally led to medical help. Therapy introduced her to the idea that her self-perception was distorted, and helped her develop the emotional support system needed to rebuild her damaged identity."
+        },
+        {
+          "type": "paragraph",
+          "text": "With consistent counseling, Meera learned to separate society’s imposed standards from her real, inner worth. Slowly, she started accepting that beauty is not a single fixed model decided by culture; rather, it exists in many forms shaped by diversity, well-being, and self-kindness. Meera’s story is not an isolated case—it reflects a larger crisis in which many teenagers fight invisible battles behind seemingly perfect digital lives. Addressing this problem demands more than simple awareness; it requires sharp media literacy, supportive and empathetic spaces, and a broader redefinition of beauty that goes beyond shallow measurements."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Sarcastic and dismissive",
+        "Thoughtful and socially critical",
+        "Cheerful and celebratory",
+        "Emotionless and completely neutral"
+      ],
+      "raw_options": [
+        "Sarcastic and dismissive",
+        "Thoughtful and socially critical",
+        "Cheerful and celebratory",
+        "Emotionless and completely neutral"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 20,
+        "min_page": 20,
+        "max_page": 20,
+        "stem_top": 202.75,
+        "stem_bottom": 509.29999999999995,
+        "first_opt_top": 511.7,
+        "opts_bottom": 563.0899999999999,
+        "ans_top": 565.49,
+        "ans_page": 20
+      }
+    },
+    {
+      "n": 100,
+      "section": "english",
+      "topic": "Direct & Indirect Speech",
+      "render_mode": "text",
+      "stem": "A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech.\nThe supervisor told the staff that the submission deadline had been pushed back by two days.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech."
+        },
+        {
+          "type": "paragraph",
+          "text": "The supervisor told the staff that the submission deadline had been pushed back by two days."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "“You can turn in the work two days after the scheduled date,” the supervisor informed.",
+        "“The submission deadline has been pushed back by two days,” said the supervisor.",
+        "“We are pushing back the submission deadline by two days,” the supervisor said.",
+        "“You must complete it within two additional days,” the supervisor said."
+      ],
+      "raw_options": [
+        "“You can turn in the work two days after the scheduled date,” the supervisor informed.",
+        "“The submission deadline has been pushed back by two days,” said the supervisor.",
+        "“We are pushing back the submission deadline by two days,” the supervisor said.",
+        "“You must complete it within two additional days,” the supervisor said."
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 20,
+        "min_page": 20,
+        "max_page": 20,
+        "stem_top": 592.3699999999999,
+        "stem_bottom": 630.31,
+        "first_opt_top": 632.7099999999999,
+        "opts_bottom": 683.8299999999999,
+        "ans_top": 686.23,
+        "ans_page": 20
+      }
+    }
+  ]
+}

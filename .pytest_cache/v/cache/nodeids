@@ -1,0 +1,14 @@
+[
+  "ingest/tests/test_sample_ingest.py::test_figure_questions_classification",
+  "ingest/tests/test_sample_ingest.py::test_line_break_preservation_and_blocks",
+  "ingest/tests/test_sample_ingest.py::test_math_garble_questions",
+  "ingest/tests/test_sample_ingest.py::test_overrides_application",
+  "ingest/tests/test_sample_ingest.py::test_page_break_split_answers",
+  "ingest/tests/test_sample_ingest.py::test_parser_idempotency",
+  "ingest/tests/test_sample_ingest.py::test_passage_attached_to_range",
+  "ingest/tests/test_sample_ingest.py::test_question_count_and_numbering",
+  "ingest/tests/test_sample_ingest.py::test_sections_ranges",
+  "ingest/tests/test_sample_ingest.py::test_tables_classification",
+  "ingest/tests/test_sample_ingest.py::test_validation_report_passed",
+  "ingest/tests/test_sample_ingest.py::test_webp_image_crops_generated"
+]

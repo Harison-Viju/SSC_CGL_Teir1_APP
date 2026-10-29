@@ -1,0 +1,116 @@
+rules:
+  # Reasoning
+  - topic: "Mirror & Water Images"
+    section: "reasoning"
+    pattern: '(?i)(mirror image|water image|placed vertically to the right)'
+  - topic: "Number & Letter Series"
+    section: "reasoning"
+    pattern: '(?i)(\bseries\b|\bmissing term\b|\bwhich number will replace\b|\d+,\s*\d+,\s*\d+,\s*\?)'
+  - topic: "Coding-Decoding"
+    section: "reasoning"
+    pattern: '(?i)(coded as|code language|written as|how will .* be coded)'
+  - topic: "Syllogism & Deductive Logic"
+    section: "reasoning"
+    pattern: '(?i)(all .* are|some .* are|no .* is|statements:.*conclusions:)'
+  - topic: "Blood Relations"
+    section: "reasoning"
+    pattern: '(?i)(father|mother|brother|sister|son|daughter|wife|husband|how is .* related)'
+  - topic: "Seating Arrangement & Direction"
+    section: "reasoning"
+    pattern: '(?i)(circular table|facing the centre|north|south|east|west|walking towards)'
+  - topic: "Statement & Assumption / Argument"
+    section: "reasoning"
+    pattern: '(?i)(assumption|arguments?|course of action|inference|decisions?)'
+  - topic: "Master Address Matching"
+    section: "reasoning"
+    pattern: '(?i)(master address|identical to|candidate address)'
+  - topic: "Analogy & Classification"
+    section: "reasoning"
+    pattern: '(?i)(odd one out|related in the same way|::)'
+  - topic: "Mathematical Operations"
+    section: "reasoning"
+    pattern: '(?i)(stands for|interchanging the given|symbols)'
+  - topic: "Cube & Dice / Paper Folding"
+    section: "reasoning"
+    pattern: '(?i)(unfolded cube|dice|opposite to the face|paper is folded)'
+
+  # General Awareness
+  - topic: "Indian Polity & Constitution"
+    section: "general_awareness"
+    pattern: '(?i)(article \d+|constitution|supreme court|high court|president|parliament|rajya sabha|lok sabha|fundamental rights?|amendment)'
+  - topic: "Indian History & Culture"
+    section: "general_awareness"
+    pattern: '(?i)(sultan|mughal|chola|harappan|vedic|purana|dynasty|battle of|buddhism|stupa|akbar|aurangzeb|inscription)'
+  - topic: "Geography & Environment"
+    section: "general_awareness"
+    pattern: '(?i)(river|national park|plateau|sanctuary|earthquake|volcano|atmosphere|climate|biome|monsoon|pass|ramsar)'
+  - topic: "Economy & Government Schemes"
+    section: "general_awareness"
+    pattern: '(?i)(gdp|nnp|five year plan|reforms|privatization|rbi|sebi|inflation|scheme|yojana|budget|export)'
+  - topic: "General Science"
+    section: "general_awareness"
+    pattern: '(?i)(mitochondria|cell|atom|proton|joule|newton|photosynthetic|algae|physics|chemistry|biology|spectrum)'
+  - topic: "Current Affairs & Sports"
+    section: "general_awareness"
+    pattern: '(?i)(olympics?|world cup|trophy|brics|summit|awarded|medal|isro|grand slam|booker prize)'
+
+  # Quantitative Aptitude
+  - topic: "Arithmetic & Percentage / Profit-Loss"
+    section: "quantitative_aptitude"
+    pattern: '(?i)(profit|loss|discount|marked price|cost price|percent|percentage)'
+  - topic: "Ratio, Proportion & Mixture"
+    section: "quantitative_aptitude"
+    pattern: '(?i)(ratio|proportion|mixture|alloy|milk.*water|partnership|invest)'
+  - topic: "Time, Speed & Distance"
+    section: "quantitative_aptitude"
+    pattern: '(?i)(train|km/h|average speed|upstream|downstream|circular track|distance)'
+  - topic: "Time & Work / Pipes & Cisterns"
+    section: "quantitative_aptitude"
+    pattern: '(?i)(alone can do|work in \d+ days|tank|pipe [A-Z]|together completed the work)'
+  - topic: "Simple & Compound Interest"
+    section: "quantitative_aptitude"
+    pattern: '(?i)(simple interest|compound interest|compounded|sum of money|principal)'
+  - topic: "Algebra & Number System"
+    section: "quantitative_aptitude"
+    pattern: '(?i)(prime numbers?|divisible by|least number|remainder|evaluate|a\s*\+\s*b|x\s*\+\s*y|quadratic)'
+  - topic: "Geometry & Mensuration"
+    section: "quantitative_aptitude"
+    pattern: '(?i)(cylinder|cone|sphere|hemisphere|prism|pyramid|trapezium|rhombus|tangent|chord|circle|triangle|polygon)'
+  - topic: "Trigonometry"
+    section: "quantitative_aptitude"
+    pattern: '(?i)(sin|cos|tan|cot|sec|cosec|angle of elevation|angle of depression|radians?)'
+  - topic: "Data Interpretation & Statistics"
+    section: "quantitative_aptitude"
+    pattern: '(?i)(table|pie chart|histogram|bar chart|median|mean|mode|frequency)'
+
+  # English Comprehension
+  - topic: "Reading Comprehension"
+    section: "english"
+    pattern: '(?i)(read the passage|according to the passage|central argument|author.*tone|passage.*implies?)'
+  - topic: "Active & Passive Voice"
+    section: "english"
+    pattern: '(?i)(passive voice|active voice|active form|passive form)'
+  - topic: "Direct & Indirect Speech"
+    section: "english"
+    pattern: '(?i)(direct speech|indirect speech|direct narration|indirect narration)'
+  - topic: "Vocabulary: Synonyms & Antonyms"
+    section: "english"
+    pattern: '(?i)(synonym|antonym|opposite in meaning|similar in meaning|most nearly means)'
+  - topic: "Idioms & Phrases"
+    section: "english"
+    pattern: '(?i)(idiom|phrase|meaning of the idiom|fill in the blank with the most appropriate phrase)'
+  - topic: "One-Word Substitution"
+    section: "english"
+    pattern: '(?i)(one-word substitute|one word substitution|group of words)'
+  - topic: "Spotting Errors & Sentence Correction"
+    section: "english"
+    pattern: '(?i)(grammatical error|part of the sentence that contains an error|improves the bolded|identify the error|segment that contains)'
+  - topic: "Para Jumbles & Sentence Rearrangement"
+    section: "english"
+    pattern: '(?i)(rearrange the following|coherent paragraph|logical sequence|jumbled sentences)'
+  - topic: "Cloze Test & Fill in the Blanks"
+    section: "english"
+    pattern: '(?i)(fill in the blanks?|fill in each blank|words have been deleted)'
+  - topic: "Spelling Correction"
+    section: "english"
+    pattern: '(?i)(correctly spelt|misspelt|incorrectly spelt|correct spelling)'

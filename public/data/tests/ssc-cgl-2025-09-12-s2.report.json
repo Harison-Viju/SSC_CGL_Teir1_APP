@@ -1,0 +1,19 @@
+{
+  "test_id": "ssc-cgl-2025-09-12-s2",
+  "title": "SSC CGL T-I Similar Paper (Held on 12 Sep 2025 S2) \u2013 English",
+  "total_questions": 100,
+  "expected_questions": 100,
+  "passed": true,
+  "render_mode_counts": {
+    "text": 97,
+    "image_stem": 3,
+    "image_full": 0
+  },
+  "missing_answers": [],
+  "invalid_answers": [],
+  "insufficient_options": [],
+  "numbering_gaps": [],
+  "empty_stems": [],
+  "low_confidence_questions": [],
+  "total_warnings": 0
+}

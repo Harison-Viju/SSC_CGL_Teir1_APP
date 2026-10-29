@@ -1,0 +1,19 @@
+{
+  "test_id": "ssc-cgl-2026-10-01",
+  "title": "SSC CGL Exam Day Based Paper (01 Oct 2026)",
+  "total_questions": 100,
+  "expected_questions": 100,
+  "passed": true,
+  "render_mode_counts": {
+    "text": 88,
+    "image_stem": 7,
+    "image_full": 5
+  },
+  "missing_answers": [],
+  "invalid_answers": [],
+  "insufficient_options": [],
+  "numbering_gaps": [],
+  "empty_stems": [],
+  "low_confidence_questions": [],
+  "total_warnings": 0
+}

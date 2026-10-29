@@ -1,0 +1,4732 @@
+{
+  "schema_version": 1,
+  "id": "ssc-cgl-2026-10-05",
+  "title": "SSC CGL Exam Day Based Paper (05 Oct 2026)",
+  "exam": "SSC CGL Tier 1",
+  "date": "2026-10-05",
+  "shift": null,
+  "language": "en",
+  "source_file": "pdfs/ssc/SSC-CGL-Exam-Day-Based-Paper-05-Oct-2026_8ae81164.pdf",
+  "source_sha256": "8ae81164f01ed56c70f04dacf54a8340a7e9df2df8f74f4bc182b454781bb965",
+  "marking": {
+    "correct": 2.0,
+    "wrong": -0.5,
+    "unanswered": 0.0
+  },
+  "duration_minutes": 60,
+  "sections": [
+    {
+      "id": "reasoning",
+      "name": "General Intelligence & Reasoning",
+      "from": 1,
+      "to": 25,
+      "duration_minutes": 15
+    },
+    {
+      "id": "general_awareness",
+      "name": "General Awareness",
+      "from": 26,
+      "to": 50,
+      "duration_minutes": 15
+    },
+    {
+      "id": "quantitative_aptitude",
+      "name": "Quantitative Aptitude",
+      "from": 51,
+      "to": 75,
+      "duration_minutes": 15
+    },
+    {
+      "id": "english",
+      "name": "English Comprehension",
+      "from": 76,
+      "to": 100,
+      "duration_minutes": 15
+    }
+  ],
+  "passages": [
+    {
+      "id": "p86-90",
+      "range": [
+        86,
+        90
+      ],
+      "text": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The digital revolution, for all its emancipatory promise, has spawned a (1)________ of misinformation that threatens the very foundations of informed discourse. Algorithms engineered to maximise engagement tend to privilege sensational content over sober analysis, thereby creating echo chambers in which pre- existing prejudices are relentlessly reinforced. Falsehoods, often cloaked in a veneer of authority, propagate with a speed that verified facts can seldom match. What makes this phenomenon particularly (2)________ is its subtlety. Unlike overt propaganda, which audiences can readily identify and resist, modern disinformation masquerades as ordinary opinion, insinuating itself into conversations with deceptive ease. Even discerning readers occasionally find themselves unwittingly sharing claims that later prove to be entirely (3)________. Regulators face a formidable dilemma. Heavy-handed censorship risks (4)________ the freedom of expression that democratic societies hold sacrosanct, whereas excessive leniency allows pernicious narratives to flourish unchecked. Technology companies, for their part, have been accused of equivocating, professing a commitment to truth while profiting handsomely from the very outrage they claim to deplore. A durable solution, experts contend, must be multifaceted. Media literacy should be embedded in school curricula, enabling young citizens to scrutinise sources and detect manipulation. Simultaneously, platforms must be held accountable for the opaque architecture of their algorithms. Ultimately, however, the (5)________ of truth rests with each individual, for no regulatory framework can wholly substitute for a sceptical and inquisitive mind."
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Eight symbol - number clusters are given below three of which are same. Find the three clusters that are exactly same.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Eight symbol - number clusters are given below three of which are same. Find the three clusters that are exactly same."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "#4%43@8^7*%$34% 4",
+        "#4% 43@7^8*%$34%4",
+        "#4%43@7^7*%$34% 4",
+        "#4% 43 @7^7*%$34% 4",
+        "#4% 43 @7^7*%#34%4 (F) #4%43@7^7*%$35% 4 (G) #4%53@7^7*%$34%4 (H) #4%43@7^7*%$34% 4",
+        "A, C and E",
+        "B, C and E",
+        "C, D and H",
+        "C, F and H"
+      ],
+      "raw_options": [
+        "#4%43@8^7*%$34% 4",
+        "#4% 43@7^8*%$34%4",
+        "#4%43@7^7*%$34% 4",
+        "#4% 43 @7^7*%$34% 4",
+        "#4% 43 @7^7*%#34%4 (F) #4%43@7^7*%$35% 4 (G) #4%53@7^7*%$34%4 (H) #4%43@7^7*%$34% 4",
+        "A, C and E",
+        "B, C and E",
+        "C, D and H",
+        "C, F and H"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 131.11399999999992,
+        "stem_bottom": 159.43399999999997,
+        "first_opt_top": 163.5139999999999,
+        "opts_bottom": 353.40399999999994,
+        "ans_top": 357.72399999999993,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 2,
+      "section": "reasoning",
+      "topic": "Coding-Decoding",
+      "render_mode": "text",
+      "stem": "In a certain code language, 'VISHAL' is written as 'WKVLFR'. What is the code for 'ENTITY' in that code language?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In a certain code language, 'VISHAL' is written as 'WKVLFR'. What is the code for 'ENTITY' in that code language?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "FPWMYB",
+        "FPWMYF",
+        "FPWMYE",
+        "FPWMYD"
+      ],
+      "raw_options": [
+        "FPWMYB",
+        "FPWMYF",
+        "FPWMYE",
+        "FPWMYD"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 390.14399999999995,
+        "stem_bottom": 418.22399999999993,
+        "first_opt_top": 422.5439999999999,
+        "opts_bottom": 483.0439999999999,
+        "ans_top": 487.12399999999997,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 3,
+      "section": "reasoning",
+      "topic": "Statement & Assumption / Argument",
+      "render_mode": "text",
+      "stem": "Instruction: Identify the assumptions that must hold for the statement to be valid and choose the correct option.\nStatement:\nExcessive use of social media among teenagers leads to reduced physical activity, increased stress levels, and negatively affects mental health.\nAssumptions:\nI. Social media usage influences the lifestyle and habits of teenagers.\nII. Reduced physical activity has no impact on mental health.\nIII. Increased screen time can contribute to stress and mental health issues.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Instruction: Identify the assumptions that must hold for the statement to be valid and choose the correct option."
+        },
+        {
+          "type": "label",
+          "text": "Statement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Excessive use of social media among teenagers leads to reduced physical activity, increased stress levels, and negatively affects mental health."
+        },
+        {
+          "type": "label",
+          "text": "Assumptions"
+        },
+        {
+          "type": "list_item",
+          "marker": "I.",
+          "text": "Social media usage influences the lifestyle and habits of teenagers."
+        },
+        {
+          "type": "list_item",
+          "marker": "II.",
+          "text": "Reduced physical activity has no impact on mental health."
+        },
+        {
+          "type": "list_item",
+          "marker": "III.",
+          "text": "Increased screen time can contribute to stress and mental health issues."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only I and III are implicit",
+        "Only II and III are implicit",
+        "Only I is implicit",
+        "All assumptions are implicit"
+      ],
+      "raw_options": [
+        "Only I and III are implicit",
+        "Only II and III are implicit",
+        "Only I is implicit",
+        "All assumptions are implicit"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 1,
+        "min_page": 1,
+        "max_page": 1,
+        "stem_top": 519.5239999999999,
+        "stem_bottom": 660.934,
+        "first_opt_top": 665.2539999999999,
+        "opts_bottom": 725.764,
+        "ans_top": 729.8439999999999,
+        "ans_page": 1
+      }
+    },
+    {
+      "n": 4,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "image_stem",
+      "stem": "How many quadrilaterals are there in the given figure?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "How many quadrilaterals are there in the given figure?"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2026-10-05/q004_stem.webp",
+      "full_image": null,
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "raw_options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 111.404,
+        "stem_bottom": 248.77999999999997,
+        "first_opt_top": 253.05399999999997,
+        "opts_bottom": 313.804,
+        "ans_top": 317.8839999999999,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 5,
+      "section": "reasoning",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "5 persons A, B, C, D and E are sitting around a circular table facing towards the centre (not necessarily in the same order). Only one person is sitting between C and D, considering towards right of\nD. B is sitting second to the left of\nD. A is sitting second to the right of\nC. Who is sitting second to the right of A?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "5 persons A, B, C, D and E are sitting around a circular table facing towards the centre (not necessarily in the same order). Only one person is sitting between C and D, considering towards right of"
+        },
+        {
+          "type": "list_item",
+          "marker": "D.",
+          "text": "B is sitting second to the left of"
+        },
+        {
+          "type": "list_item",
+          "marker": "D.",
+          "text": "A is sitting second to the right of"
+        },
+        {
+          "type": "list_item",
+          "marker": "C.",
+          "text": "Who is sitting second to the right of A?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "D",
+        "C",
+        "E",
+        "B"
+      ],
+      "raw_options": [
+        "D",
+        "C",
+        "E",
+        "B"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 350.28399999999993,
+        "stem_bottom": 410.78399999999993,
+        "first_opt_top": 415.1039999999999,
+        "opts_bottom": 475.6039999999999,
+        "ans_top": 479.68399999999997,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 6,
+      "section": "reasoning",
+      "topic": "Simple & Compound Interest",
+      "render_mode": "text",
+      "stem": "In how many years will Rs.5000 grow to Rs.10000 at 12.5% Simple Interest?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In how many years will Rs.5000 grow to Rs.10000 at 12.5% Simple Interest?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "8years",
+        "12 years",
+        "20 years",
+        "9 years"
+      ],
+      "raw_options": [
+        "8years",
+        "12 years",
+        "20 years",
+        "9 years"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 512.084,
+        "stem_bottom": 524.084,
+        "first_opt_top": 528.164,
+        "opts_bottom": 588.914,
+        "ans_top": 592.9939999999999,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 7,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Seven boxes, K, L, O, P, S, T and W are kept one over the other but not necessarily in the same order. Only three boxes are kept below T. Only one box is kept between O and T. Only two boxes are kept between T and W. Only W is kept above O. S is kept immediately below O. L is kept at one of the places above K and at one of the places below P. How many boxes are kept between T and L?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Seven boxes, K, L, O, P, S, T and W are kept one over the other but not necessarily in the same order. Only three boxes are kept below T. Only one box is kept between O and T. Only two boxes are kept between T and W. Only W is kept above O. S is kept immediately below O. L is kept at one of the places above K and at one of the places below P. How many boxes are kept between T and L?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Three",
+        "Two",
+        "Four",
+        "One"
+      ],
+      "raw_options": [
+        "Three",
+        "Two",
+        "Four",
+        "One"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 4,
+        "min_page": 4,
+        "max_page": 4,
+        "stem_top": 625.414,
+        "stem_bottom": 685.894,
+        "first_opt_top": 690.2139999999999,
+        "opts_bottom": 750.7199999999999,
+        "ans_top": 754.8,
+        "ans_page": 4
+      }
+    },
+    {
+      "n": 8,
+      "section": "reasoning",
+      "topic": "Seating Arrangement & Direction",
+      "render_mode": "text",
+      "stem": "Find the least number which when divided by 8, 12 and 16, leaves three as the remainder in each case but when divided by 7 leaves no remainder.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the least number which when divided by 8, 12 and 16, leaves three as the remainder in each case but when divided by 7 leaves no remainder."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "266",
+        "248",
+        "147",
+        "149"
+      ],
+      "raw_options": [
+        "266",
+        "248",
+        "147",
+        "149"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 111.404,
+        "stem_bottom": 139.5139999999999,
+        "first_opt_top": 143.83399999999995,
+        "opts_bottom": 204.31399999999996,
+        "ans_top": 208.654,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 9,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "image_full",
+      "stem": "In the following figure series, select the figure which can be placed at the sign of question mark (?) from the given alternatives.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In the following figure series, select the figure which can be placed at the sign of question mark (?) from the given alternatives."
+        }
+      ],
+      "stem_image": null,
+      "full_image": "img/ssc-cgl-2026-10-05/q009_full.webp",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "raw_options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 240.81399999999996,
+        "stem_bottom": 388.30999999999995,
+        "first_opt_top": 379.1039999999999,
+        "opts_bottom": 578.3539999999999,
+        "ans_top": 582.674,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 10,
+      "section": "reasoning",
+      "topic": "Mathematical Operations",
+      "render_mode": "text",
+      "stem": "After interchanging the given two numbers (not digits), what will be the value of the given equation?\n7 and 6\n4 × 7 + 6 - 9 ÷ 3 = ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "After interchanging the given two numbers (not digits), what will be the value of the given equation?"
+        },
+        {
+          "type": "paragraph",
+          "text": "7 and 6"
+        },
+        {
+          "type": "paragraph",
+          "text": "4 × 7 + 6 - 9 ÷ 3 = ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "32",
+        "28",
+        "38",
+        "21"
+      ],
+      "raw_options": [
+        "32",
+        "28",
+        "38",
+        "21"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 5,
+        "min_page": 5,
+        "max_page": 5,
+        "stem_top": 614.8539999999999,
+        "stem_bottom": 675.574,
+        "first_opt_top": 679.654,
+        "opts_bottom": 740.164,
+        "ans_top": 744.48,
+        "ans_page": 5
+      }
+    },
+    {
+      "n": 11,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "What should come in place of '?' in the given series?\n81, 93, 165, 160, 249, 227, 333, 294, ?, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What should come in place of '?' in the given series?"
+        },
+        {
+          "type": "paragraph",
+          "text": "81, 93, 165, 160, 249, 227, 333, 294, ?, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "417, 361",
+        "451,391",
+        "403, 352",
+        "383, 341"
+      ],
+      "raw_options": [
+        "417, 361",
+        "451,391",
+        "403, 352",
+        "383, 341"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 111.404,
+        "stem_bottom": 139.5139999999999,
+        "first_opt_top": 143.83399999999995,
+        "opts_bottom": 204.31399999999996,
+        "ans_top": 208.654,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 12,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Select the correct combination of mathematical signs to replace (*) signs sequentially and to balance the given equation.\n18 * 3 * 20 * 5 * 14 = 44",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correct combination of mathematical signs to replace (*) signs sequentially and to balance the given equation."
+        },
+        {
+          "type": "paragraph",
+          "text": "18 * 3 * 20 * 5 * 14 = 44"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "×, +, ÷, -",
+        "÷ ,+ , -, ×",
+        "× , ÷ , - , +",
+        "+ , ÷ , ×, -"
+      ],
+      "raw_options": [
+        "×, +, ÷, -",
+        "÷ ,+ , -, ×",
+        "× , ÷ , - , +",
+        "+ , ÷ , ×, -"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 240.81399999999996,
+        "stem_bottom": 285.21399999999994,
+        "first_opt_top": 289.56399999999996,
+        "opts_bottom": 350.0439999999999,
+        "ans_top": 354.12399999999997,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 13,
+      "section": "reasoning",
+      "topic": "Master Address Matching",
+      "render_mode": "text",
+      "stem": "You are given a Master Address (MA) from official records. Your task is to identify the correct candidate address that matches exactly with the master address in terms of formatting, punctuation, spelling, and structure.\nMaster Address (MA): Office No. 101, 1st Floor, Trade Centre, Bandra-Kurla Complex, Mumbai - 400051\nCandidate Addresses:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "You are given a Master Address (MA) from official records. Your task is to identify the correct candidate address that matches exactly with the master address in terms of formatting, punctuation, spelling, and structure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Master Address (MA): Office No. 101, 1st Floor, Trade Centre, Bandra-Kurla Complex, Mumbai - 400051"
+        },
+        {
+          "type": "label",
+          "text": "Candidate Addresses"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Office No. 101, First Floor, Trade Centre, Bandra-Kurla Complex, Mumbai - 400051",
+        "Office No. 101, 1st Floor, Trade Center, Bandra-Kurla Complex, Mumbai - 400051",
+        "Office No. 101, 1st Floor, Trade Centre, Bandra Kurla Complex, Mumbai – 400051",
+        "Office No. 101, 1st Floor, Trade Centre, Bandra-Kurla Complex, Mumbai - 400051"
+      ],
+      "raw_options": [
+        "Office No. 101, First Floor, Trade Centre, Bandra-Kurla Complex, Mumbai - 400051",
+        "Office No. 101, 1st Floor, Trade Center, Bandra-Kurla Complex, Mumbai - 400051",
+        "Office No. 101, 1st Floor, Trade Centre, Bandra Kurla Complex, Mumbai – 400051",
+        "Office No. 101, 1st Floor, Trade Centre, Bandra-Kurla Complex, Mumbai - 400051"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 386.5439999999999,
+        "stem_bottom": 463.3639999999999,
+        "first_opt_top": 467.44399999999996,
+        "opts_bottom": 527.924,
+        "ans_top": 532.2739999999999,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 14,
+      "section": "reasoning",
+      "topic": "Coding-Decoding",
+      "render_mode": "text",
+      "stem": "In a certain coded language 'UPEND' is coded as 'AJBLR' and 'AUDIT' is coded as 'QEAQX'. How will 'AIMED' be coded in the same code language?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In a certain coded language 'UPEND' is coded as 'AJBLR' and 'AUDIT' is coded as 'QEAQX'. How will 'AIMED' be coded in the same code language?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "BBJGW",
+        "BZLDV",
+        "AAJEX",
+        "AYKEY"
+      ],
+      "raw_options": [
+        "BBJGW",
+        "BZLDV",
+        "AAJEX",
+        "AYKEY"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 6,
+        "stem_top": 564.674,
+        "stem_bottom": 592.7539999999999,
+        "first_opt_top": 596.834,
+        "opts_bottom": 657.574,
+        "ans_top": 661.654,
+        "ans_page": 6
+      }
+    },
+    {
+      "n": 15,
+      "section": "reasoning",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "A person walks 5 km towards the north, then turns to his right and walks 3 km. He then turns to his right again and walks 5 km. In which direction is he now facing?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A person walks 5 km towards the north, then turns to his right and walks 3 km. He then turns to his right again and walks 5 km. In which direction is he now facing?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "raw_options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 6,
+        "min_page": 6,
+        "max_page": 7,
+        "stem_top": 694.054,
+        "stem_bottom": 722.164,
+        "first_opt_top": 726.4839999999999,
+        "opts_bottom": 786.9599999999999,
+        "ans_top": 95.32399999999996,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 16,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Identify the roll number that does NOT use only odd digits.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Identify the roll number that does NOT use only odd digits."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1357A",
+        "3579B",
+        "4682D",
+        "5791C"
+      ],
+      "raw_options": [
+        "1357A",
+        "3579B",
+        "4682D",
+        "5791C"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 127.5139999999999,
+        "stem_bottom": 139.5139999999999,
+        "first_opt_top": 143.83399999999995,
+        "opts_bottom": 204.31399999999996,
+        "ans_top": 208.654,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 17,
+      "section": "reasoning",
+      "topic": "Coding-Decoding",
+      "render_mode": "text",
+      "stem": "In a certain code language, A @ B means ‘A is the mother of B’, A × B means ‘A is the wife of B’, A + B means ‘A is the brother of B’ and A ÷ B means ‘A is the father of B’.\nHow is S related to H if ‘S × D ÷ R + Y @ H’?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In a certain code language, A @ B means ‘A is the mother of B’, A × B means ‘A is the wife of B’, A + B means ‘A is the brother of B’ and A ÷ B means ‘A is the father of B’."
+        },
+        {
+          "type": "paragraph",
+          "text": "How is S related to H if ‘S × D ÷ R + Y @ H’?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Mother's sister",
+        "Sister",
+        "Mother's mother",
+        "Mother"
+      ],
+      "raw_options": [
+        "Mother's sister",
+        "Sister",
+        "Mother's mother",
+        "Mother"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 240.81399999999996,
+        "stem_bottom": 333.72399999999993,
+        "first_opt_top": 338.0439999999999,
+        "opts_bottom": 398.5439999999999,
+        "ans_top": 402.62399999999997,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 18,
+      "section": "reasoning",
+      "topic": "Statement & Assumption / Argument",
+      "render_mode": "text",
+      "stem": "Consider the given statement(s) and decide which of the given assumption(s) is are implicit in the statement; Children below age of 5 years should not be given any writing home-work.\nAssumptions:\nI. Their hands are yet to form co-ordination to hold pencil/ writing material for long.\nII. They are very young to be introduced to writing skills.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Consider the given statement(s) and decide which of the given assumption(s) is are implicit in the statement; Children below age of 5 years should not be given any writing home-work."
+        },
+        {
+          "type": "label",
+          "text": "Assumptions"
+        },
+        {
+          "type": "list_item",
+          "marker": "I.",
+          "text": "Their hands are yet to form co-ordination to hold pencil/ writing material for long."
+        },
+        {
+          "type": "list_item",
+          "marker": "II.",
+          "text": "They are very young to be introduced to writing skills."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Both I and II are implicit.",
+        "Neither I nor II is implicit.",
+        "Only II is implicit",
+        "Only I is implicit.."
+      ],
+      "raw_options": [
+        "Both I and II are implicit.",
+        "Neither I nor II is implicit.",
+        "Only II is implicit",
+        "Only I is implicit.."
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 7,
+        "stem_top": 435.02399999999994,
+        "stem_bottom": 527.924,
+        "first_opt_top": 532.2739999999999,
+        "opts_bottom": 592.7539999999999,
+        "ans_top": 596.834,
+        "ans_page": 7
+      }
+    },
+    {
+      "n": 19,
+      "section": "reasoning",
+      "topic": "Statement & Assumption / Argument",
+      "render_mode": "text",
+      "stem": "Consider the given statement(s) and decide which of the given assumption(s) is/are implicit in the statement.\nStatement:\nStudents should be encouraged to participate in debates.\nAssumptions:\nI. They will learn convincing skills.\nII. Their communication skills will be enhanced.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Consider the given statement(s) and decide which of the given assumption(s) is/are implicit in the statement."
+        },
+        {
+          "type": "label",
+          "text": "Statement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Students should be encouraged to participate in debates."
+        },
+        {
+          "type": "label",
+          "text": "Assumptions"
+        },
+        {
+          "type": "list_item",
+          "marker": "I.",
+          "text": "They will learn convincing skills."
+        },
+        {
+          "type": "list_item",
+          "marker": "II.",
+          "text": "Their communication skills will be enhanced."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only II is implicit",
+        "Only I is implicit",
+        "Both I and II are implicit",
+        "Neither I nor II is implicit"
+      ],
+      "raw_options": [
+        "Only II is implicit",
+        "Only I is implicit",
+        "Both I and II are implicit",
+        "Neither I nor II is implicit"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 7,
+        "min_page": 7,
+        "max_page": 8,
+        "stem_top": 629.2539999999999,
+        "stem_bottom": 738.4839999999999,
+        "first_opt_top": 95.32399999999996,
+        "opts_bottom": 786.9599999999999,
+        "ans_top": 111.404,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 20,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "In this question, a statement is followed by two conclusions. Find out which conclusion is true based on the given statement.\nStatement:\nS = T < U ≤ V > W\nConclusions:\nI. T < W\nII. S < V",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In this question, a statement is followed by two conclusions. Find out which conclusion is true based on the given statement."
+        },
+        {
+          "type": "label",
+          "text": "Statement"
+        },
+        {
+          "type": "paragraph",
+          "text": "S = T < U ≤ V > W"
+        },
+        {
+          "type": "label",
+          "text": "Conclusions"
+        },
+        {
+          "type": "list_item",
+          "marker": "I.",
+          "text": "T < W"
+        },
+        {
+          "type": "list_item",
+          "marker": "II.",
+          "text": "S < V"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Both I and II are true",
+        "Only I is true",
+        "Neither I nor II is true",
+        "Only II is true"
+      ],
+      "raw_options": [
+        "Both I and II are true",
+        "Only I is true",
+        "Neither I nor II is true",
+        "Only II is true"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 143.83399999999995,
+        "stem_bottom": 236.73399999999992,
+        "first_opt_top": 240.81399999999996,
+        "opts_bottom": 301.56399999999996,
+        "ans_top": 305.6439999999999,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 21,
+      "section": "reasoning",
+      "topic": "Master Address Matching",
+      "render_mode": "text",
+      "stem": "You are given a Master Address (MA) from official records. Your task is to identify the correct candidate address that matches exactly with the master address in terms of formatting, punctuation, spelling, and structure.\nMaster Address (MA): FL-10, Block C-3, Royal Enclave, Ashram Road, Ahmedabad - 380009\nCandidate Addresses:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "You are given a Master Address (MA) from official records. Your task is to identify the correct candidate address that matches exactly with the master address in terms of formatting, punctuation, spelling, and structure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Master Address (MA): FL-10, Block C-3, Royal Enclave, Ashram Road, Ahmedabad - 380009"
+        },
+        {
+          "type": "label",
+          "text": "Candidate Addresses"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "FL-10, Block C-3, Royal Enclave, Ashram Rd., Ahmedabad - 380009",
+        "F.L.-10, Block C-3, Royal Enclave, Ashram Road, Ahmedabad - 380009",
+        "FL-10, Block C 3, Royal Enclave, Ashram Road, Ahmedabad - 380009",
+        "FL-10, Block C-3, Royal Enclave, Ashram Road, Ahmedabad - 380009"
+      ],
+      "raw_options": [
+        "FL-10, Block C-3, Royal Enclave, Ashram Rd., Ahmedabad - 380009",
+        "F.L.-10, Block C-3, Royal Enclave, Ashram Road, Ahmedabad - 380009",
+        "FL-10, Block C 3, Royal Enclave, Ashram Road, Ahmedabad - 380009",
+        "FL-10, Block C-3, Royal Enclave, Ashram Road, Ahmedabad - 380009"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 338.0439999999999,
+        "stem_bottom": 414.62399999999997,
+        "first_opt_top": 418.94399999999996,
+        "opts_bottom": 479.44399999999996,
+        "ans_top": 483.76399999999995,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 22,
+      "section": "reasoning",
+      "topic": "Number & Letter Series",
+      "render_mode": "text",
+      "stem": "Find the next term in the following series.\n256, 246, 235, 223, 210, ?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the next term in the following series."
+        },
+        {
+          "type": "paragraph",
+          "text": "256, 246, 235, 223, 210, ?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "170",
+        "185",
+        "196",
+        "160"
+      ],
+      "raw_options": [
+        "170",
+        "185",
+        "196",
+        "160"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 8,
+        "stem_top": 515.924,
+        "stem_bottom": 544.2739999999999,
+        "first_opt_top": 548.3539999999999,
+        "opts_bottom": 608.834,
+        "ans_top": 613.174,
+        "ans_page": 8
+      }
+    },
+    {
+      "n": 23,
+      "section": "reasoning",
+      "topic": "Cube & Dice / Paper Folding",
+      "render_mode": "image_full",
+      "stem": "A piece of paper is folded and punched as shown below in the question figures. From the given option figures, indicate how it will appear when opened.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A piece of paper is folded and punched as shown below in the question figures. From the given option figures, indicate how it will appear when opened."
+        }
+      ],
+      "stem_image": null,
+      "full_image": "img/ssc-cgl-2026-10-05/q023_full.webp",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "raw_options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 8,
+        "min_page": 8,
+        "max_page": 9,
+        "stem_top": 645.574,
+        "stem_bottom": 673.654,
+        "first_opt_top": 141.43399999999997,
+        "opts_bottom": 340.44399999999996,
+        "ans_top": 344.76399999999995,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 24,
+      "section": "reasoning",
+      "topic": "Statement & Assumption / Argument",
+      "render_mode": "text",
+      "stem": "Consider the argument and decide which of the given assumptions is/are implicit Argument: The BEST bus travels company has decided to increase its fare by 10%.\nAssumptions:\n1. Passengers may opt for other buses costing less than the BEST bus travels company.\n2. The demand for the buses by passengers may remain unchanged even after the fare hike.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Consider the argument and decide which of the given assumptions is/are implicit Argument: The BEST bus travels company has decided to increase its fare by 10%."
+        },
+        {
+          "type": "label",
+          "text": "Assumptions"
+        },
+        {
+          "type": "list_item",
+          "marker": "1.",
+          "text": "Passengers may opt for other buses costing less than the BEST bus travels company."
+        },
+        {
+          "type": "list_item",
+          "marker": "2.",
+          "text": "The demand for the buses by passengers may remain unchanged even after the fare hike."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Both 1 and 2 are implicit.",
+        "Only assumption 2 is implicit.",
+        "Only assumption 1is implicit.",
+        "Neither 1 nor 2 is implicit."
+      ],
+      "raw_options": [
+        "Both 1 and 2 are implicit.",
+        "Only assumption 2 is implicit.",
+        "Only assumption 1is implicit.",
+        "Neither 1 nor 2 is implicit."
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 9,
+        "stem_top": 377.18399999999997,
+        "stem_bottom": 453.9839999999999,
+        "first_opt_top": 458.08399999999995,
+        "opts_bottom": 518.564,
+        "ans_top": 522.884,
+        "ans_page": 9
+      }
+    },
+    {
+      "n": 25,
+      "section": "reasoning",
+      "topic": "General",
+      "render_mode": "image_full",
+      "stem": "Which of the following option figure will complete the pattern in the figure given below?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following option figure will complete the pattern in the figure given below?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": "img/ssc-cgl-2026-10-05/q025_full.webp",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "raw_options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 9,
+        "min_page": 9,
+        "max_page": 10,
+        "stem_top": 555.314,
+        "stem_bottom": 567.314,
+        "first_opt_top": 141.43399999999997,
+        "opts_bottom": 762.24,
+        "ans_top": 282.3639999999999,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 26,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "In which Indian state is the Onam festival celebrated, and why is it celebrated?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In which Indian state is the Onam festival celebrated, and why is it celebrated?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Tamil Nadu - To mark the homecoming of King Ram",
+        "Karnataka - To honor the victory of Lord Rama over Ravana",
+        "Kerala - To mark the homecoming of King Mahabali, as per local legends",
+        "Andhra Pradesh - To mark the arrival of the monsoon season"
+      ],
+      "raw_options": [
+        "Tamil Nadu - To mark the homecoming of King Ram",
+        "Karnataka - To honor the victory of Lord Rama over Ravana",
+        "Kerala - To mark the homecoming of King Mahabali, as per local legends",
+        "Andhra Pradesh - To mark the arrival of the monsoon season"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 314.7639999999999,
+        "stem_bottom": 326.7639999999999,
+        "first_opt_top": 331.08399999999995,
+        "opts_bottom": 391.58399999999995,
+        "ans_top": 395.66399999999993,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 27,
+      "section": "general_awareness",
+      "topic": "Indian Polity & Constitution",
+      "render_mode": "text",
+      "stem": "Which Article of the Indian Constitution deals with the control of High Courts over subordinate courts?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which Article of the Indian Constitution deals with the control of High Courts over subordinate courts?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Article 107",
+        "Article 308",
+        "Article 235",
+        "Article 115"
+      ],
+      "raw_options": [
+        "Article 107",
+        "Article 308",
+        "Article 235",
+        "Article 115"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 428.06399999999996,
+        "stem_bottom": 456.14399999999995,
+        "first_opt_top": 460.4839999999999,
+        "opts_bottom": 520.9639999999999,
+        "ans_top": 525.2839999999999,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 28,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "How many total jumps are there in a 3000 m steeplechase race?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "How many total jumps are there in a 3000 m steeplechase race?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "36",
+        "33",
+        "35",
+        "34"
+      ],
+      "raw_options": [
+        "36",
+        "33",
+        "35",
+        "34"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 557.4739999999999,
+        "stem_bottom": 569.4739999999999,
+        "first_opt_top": 573.7939999999999,
+        "opts_bottom": 634.294,
+        "ans_top": 638.3739999999999,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 29,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Pandit Bhimsen Joshi became the most popular artist of which Gharana?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pandit Bhimsen Joshi became the most popular artist of which Gharana?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Gwalior Gharana",
+        "Kirana Gharana",
+        "Mewati Gharana",
+        "Patiala Gharana"
+      ],
+      "raw_options": [
+        "Gwalior Gharana",
+        "Kirana Gharana",
+        "Mewati Gharana",
+        "Patiala Gharana"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 10,
+        "min_page": 10,
+        "max_page": 10,
+        "stem_top": 670.7739999999999,
+        "stem_bottom": 682.7739999999999,
+        "first_opt_top": 687.0939999999999,
+        "opts_bottom": 747.5999999999999,
+        "ans_top": 751.68,
+        "ans_page": 10
+      }
+    },
+    {
+      "n": 30,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "India shares a maritime boundary (sea boundary) with which one of the following countries across the Arabian Sea or the Indian Ocean?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "India shares a maritime boundary (sea boundary) with which one of the following countries across the Arabian Sea or the Indian Ocean?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Maldives",
+        "Mongolia",
+        "Russia",
+        "Afghanistan"
+      ],
+      "raw_options": [
+        "Maldives",
+        "Mongolia",
+        "Russia",
+        "Afghanistan"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 109.96399999999994,
+        "stem_bottom": 136.8739999999999,
+        "first_opt_top": 139.5139999999999,
+        "opts_bottom": 195.914,
+        "ans_top": 198.57399999999996,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 31,
+      "section": "general_awareness",
+      "topic": "Economy & Government Schemes",
+      "render_mode": "text",
+      "stem": "Read the following statements carefully and choose the correct option regarding Assertion\n(A) and Reason (R).\nAssertion (A): The 1991 reforms led to the opening of the Indian economy to foreign investors. Reason (R): The government wanted to increase domestic savings rate rapidly.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Read the following statements carefully and choose the correct option regarding Assertion"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) and Reason (R)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Assertion (A): The 1991 reforms led to the opening of the Indian economy to foreign investors. Reason (R): The government wanted to increase domestic savings rate rapidly."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Both A and R are true and R is the correct explanation of A",
+        "Both A and R are true but R is not the correct explanation of A",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "raw_options": [
+        "Both A and R are true and R is the correct explanation of A",
+        "Both A and R are true but R is not the correct explanation of A",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 228.33399999999995,
+        "stem_bottom": 284.4939999999999,
+        "first_opt_top": 287.404,
+        "opts_bottom": 343.56399999999996,
+        "ans_top": 346.44399999999996,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 32,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Why was the Sixth Five-Year Plan (1980–85) considered successful despite challenges?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Why was the Sixth Five-Year Plan (1980–85) considered successful despite challenges?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The economy faced no challenges and grew as expected.",
+        "Most targets were met, except agricultural output due to famine.",
+        "Industrial growth exceeded expectations.",
+        "The plan’s focus was entirely on urban development."
+      ],
+      "raw_options": [
+        "The economy faced no challenges and grew as expected.",
+        "Most targets were met, except agricultural output due to famine.",
+        "Industrial growth exceeded expectations.",
+        "The plan’s focus was entirely on urban development."
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 375.9839999999999,
+        "stem_bottom": 387.9839999999999,
+        "first_opt_top": 390.8639999999999,
+        "opts_bottom": 447.02399999999994,
+        "ans_top": 449.9239999999999,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 33,
+      "section": "general_awareness",
+      "topic": "Indian Polity & Constitution",
+      "render_mode": "text",
+      "stem": "Who among the following administers the oath to the Pro Tem Speaker during the initial sitting of the newly elected Lok Sabha?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Who among the following administers the oath to the Pro Tem Speaker during the initial sitting of the newly elected Lok Sabha?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "President of India",
+        "Cabinet Secretary",
+        "Vice President of India",
+        "Chief Justice of India"
+      ],
+      "raw_options": [
+        "President of India",
+        "Cabinet Secretary",
+        "Vice President of India",
+        "Chief Justice of India"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 479.44399999999996,
+        "stem_bottom": 506.08399999999995,
+        "first_opt_top": 508.96399999999994,
+        "opts_bottom": 565.394,
+        "ans_top": 568.0339999999999,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 34,
+      "section": "general_awareness",
+      "topic": "Indian History & Culture",
+      "render_mode": "text",
+      "stem": "Who was the last ruler of the Pallava Dynasty?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Who was the last ruler of the Pallava Dynasty?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Mahendravarman I",
+        "Narasimhavarman I",
+        "Nandivarman III",
+        "Aparajitavarman"
+      ],
+      "raw_options": [
+        "Mahendravarman I",
+        "Narasimhavarman I",
+        "Nandivarman III",
+        "Aparajitavarman"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 11,
+        "stem_top": 597.554,
+        "stem_bottom": 609.554,
+        "first_opt_top": 612.434,
+        "opts_bottom": 668.6139999999999,
+        "ans_top": 671.4939999999999,
+        "ans_page": 11
+      }
+    },
+    {
+      "n": 35,
+      "section": "general_awareness",
+      "topic": "Geography & Environment",
+      "render_mode": "text",
+      "stem": "Which of the following is the indirect source to provides information about the interior of the Earth?\nI. Volcano\nII. Earthquake",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following is the indirect source to provides information about the interior of the Earth?"
+        },
+        {
+          "type": "list_item",
+          "marker": "I.",
+          "text": "Volcano"
+        },
+        {
+          "type": "list_item",
+          "marker": "II.",
+          "text": "Earthquake"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only I",
+        "Only II",
+        "Neither I nor II",
+        "Both I and II"
+      ],
+      "raw_options": [
+        "Only I",
+        "Only II",
+        "Neither I nor II",
+        "Both I and II"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 11,
+        "min_page": 11,
+        "max_page": 12,
+        "stem_top": 701.044,
+        "stem_bottom": 727.924,
+        "first_opt_top": 730.564,
+        "opts_bottom": 786.9599999999999,
+        "ans_top": 95.32399999999996,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 36,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Bundu Khan was a _________ player of Delhi gharana.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Bundu Khan was a _________ player of Delhi gharana."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "sarangi",
+        "sarod",
+        "flute",
+        "santoor"
+      ],
+      "raw_options": [
+        "sarangi",
+        "sarod",
+        "flute",
+        "santoor"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 124.87399999999991,
+        "stem_bottom": 136.8739999999999,
+        "first_opt_top": 139.5139999999999,
+        "opts_bottom": 195.914,
+        "ans_top": 198.57399999999996,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 37,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Who is the author of the book 'The Room on the Roof'?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Who is the author of the book 'The Room on the Roof'?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Shashi Tharoor",
+        "R. K. Narayan",
+        "V.S. Naipaul",
+        "Ruskin Bond"
+      ],
+      "raw_options": [
+        "Shashi Tharoor",
+        "R. K. Narayan",
+        "V.S. Naipaul",
+        "Ruskin Bond"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 228.33399999999995,
+        "stem_bottom": 240.33399999999995,
+        "first_opt_top": 242.97399999999993,
+        "opts_bottom": 299.404,
+        "ans_top": 302.044,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 38,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "In what ways do Manganiyar and Langas musical traditions reflect the complex interplay of social hierarchy, patronage, and cultural transmission in Rajasthan's folk music landscape?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In what ways do Manganiyar and Langas musical traditions reflect the complex interplay of social hierarchy, patronage, and cultural transmission in Rajasthan's folk music landscape?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "By being independent of any patronage system and performed solely in public festivals",
+        "By historically relying on the patronage of Rajput and Muslim elites, these communities preserved and transmitted a rich repertoire of songs praising rulers, deities, and local legends, thus blending diverse cultural influences and sustaining their social identity through music",
+        "By exclusively performing classical Hindustani music without any folk elements",
+        "By rejecting all traditional instruments and focusing only on vocal performances"
+      ],
+      "raw_options": [
+        "By being independent of any patronage system and performed solely in public festivals",
+        "By historically relying on the patronage of Rajput and Muslim elites, these communities preserved and transmitted a rich repertoire of songs praising rulers, deities, and local legends, thus blending diverse cultural influences and sustaining their social identity through music",
+        "By exclusively performing classical Hindustani music without any folk elements",
+        "By rejecting all traditional instruments and focusing only on vocal performances"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 331.56399999999996,
+        "stem_bottom": 358.44399999999996,
+        "first_opt_top": 361.32399999999996,
+        "opts_bottom": 447.02399999999994,
+        "ans_top": 449.9239999999999,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 39,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Which traditional dance of Mizoram is performed to celebrate victory in war?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which traditional dance of Mizoram is performed to celebrate victory in war?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Kodava",
+        "Chamba",
+        "So Lakia",
+        "Dumhal"
+      ],
+      "raw_options": [
+        "Kodava",
+        "Chamba",
+        "So Lakia",
+        "Dumhal"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 479.44399999999996,
+        "stem_bottom": 491.44399999999996,
+        "first_opt_top": 494.08399999999995,
+        "opts_bottom": 550.5139999999999,
+        "ans_top": 553.394,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 40,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Purulia Chhau dance is associated with which deity?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Purulia Chhau dance is associated with which deity?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Krishna",
+        "Indra",
+        "Vishnu",
+        "Shiva"
+      ],
+      "raw_options": [
+        "Krishna",
+        "Indra",
+        "Vishnu",
+        "Shiva"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 582.914,
+        "stem_bottom": 594.914,
+        "first_opt_top": 597.554,
+        "opts_bottom": 653.9739999999999,
+        "ans_top": 656.6139999999999,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 41,
+      "section": "general_awareness",
+      "topic": "Indian History & Culture",
+      "render_mode": "text",
+      "stem": "Which of the following is a balcony-like structure in the architecture of Buddhist stupas that represents the abode of Buddha?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following is a balcony-like structure in the architecture of Buddhist stupas that represents the abode of Buddha?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Yasti",
+        "Harmika",
+        "Mast",
+        "Anda"
+      ],
+      "raw_options": [
+        "Yasti",
+        "Harmika",
+        "Mast",
+        "Anda"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 12,
+        "min_page": 12,
+        "max_page": 12,
+        "stem_top": 686.3739999999999,
+        "stem_bottom": 713.044,
+        "first_opt_top": 715.924,
+        "opts_bottom": 772.0799999999999,
+        "ans_top": 774.9599999999999,
+        "ans_page": 12
+      }
+    },
+    {
+      "n": 42,
+      "section": "general_awareness",
+      "topic": "Indian Polity & Constitution",
+      "render_mode": "text",
+      "stem": "Fill in the blanks: Under Article 249, the Rajya Sabha can empower Parliament to legislate on subjects in the ______ List.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fill in the blanks: Under Article 249, the Rajya Sabha can empower Parliament to legislate on subjects in the ______ List."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "State",
+        "Union",
+        "Concurrent",
+        "Residuary"
+      ],
+      "raw_options": [
+        "State",
+        "Union",
+        "Concurrent",
+        "Residuary"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 110.68399999999997,
+        "stem_bottom": 138.31399999999996,
+        "first_opt_top": 141.67399999999998,
+        "opts_bottom": 200.23399999999992,
+        "ans_top": 203.61399999999992,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 43,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Select the correct combination of folk music and its corresponding State/Union Territory.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correct combination of folk music and its corresponding State/Union Territory."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Thumri – Meghalaya",
+        "Chakri – Jammu and Kashmir",
+        "Sorathi – Kerala",
+        "Sohar – Puducherry"
+      ],
+      "raw_options": [
+        "Thumri – Meghalaya",
+        "Chakri – Jammu and Kashmir",
+        "Sorathi – Kerala",
+        "Sohar – Puducherry"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 234.57399999999996,
+        "stem_bottom": 246.57399999999996,
+        "first_opt_top": 249.93399999999997,
+        "opts_bottom": 308.524,
+        "ans_top": 311.8839999999999,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 44,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Boro is a variety of which of the following crops?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Boro is a variety of which of the following crops?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Wheat",
+        "Rice",
+        "Cotton",
+        "Barley"
+      ],
+      "raw_options": [
+        "Wheat",
+        "Rice",
+        "Cotton",
+        "Barley"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 342.84399999999994,
+        "stem_bottom": 354.84399999999994,
+        "first_opt_top": 358.44399999999996,
+        "opts_bottom": 416.78399999999993,
+        "ans_top": 420.38399999999996,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 45,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "In any tennis game, any game starts at 0-0 and the zero point in tennis is called ______________.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In any tennis game, any game starts at 0-0 and the zero point in tennis is called ______________."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "origin",
+        "start",
+        "love",
+        "base"
+      ],
+      "raw_options": [
+        "origin",
+        "start",
+        "love",
+        "base"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 451.3639999999999,
+        "stem_bottom": 463.3639999999999,
+        "first_opt_top": 466.72399999999993,
+        "opts_bottom": 525.2839999999999,
+        "ans_top": 528.644,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 46,
+      "section": "general_awareness",
+      "topic": "Economy & Government Schemes",
+      "render_mode": "text",
+      "stem": "What was the reason for the disruption in the Third five year Plan?\nI. Indo-Pakistan Conflict\nII. Two successive years of drought",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What was the reason for the disruption in the Third five year Plan?"
+        },
+        {
+          "type": "list_item",
+          "marker": "I.",
+          "text": "Indo-Pakistan Conflict"
+        },
+        {
+          "type": "list_item",
+          "marker": "II.",
+          "text": "Two successive years of drought"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Only I",
+        "Only II",
+        "Both I and II",
+        "Neither I nor II"
+      ],
+      "raw_options": [
+        "Only I",
+        "Only II",
+        "Both I and II",
+        "Neither I nor II"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 13,
+        "stem_top": 559.634,
+        "stem_bottom": 602.5939999999999,
+        "first_opt_top": 605.954,
+        "opts_bottom": 664.5339999999999,
+        "ans_top": 667.894,
+        "ans_page": 13
+      }
+    },
+    {
+      "n": 47,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "In a fluid, the buoyant force acting on a submerged or floating object always acts",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In a fluid, the buoyant force acting on a submerged or floating object always acts"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "vertically downward",
+        "along the direction of motion of the object",
+        "in a direction depending on the shape of the object",
+        "vertically upward"
+      ],
+      "raw_options": [
+        "vertically downward",
+        "along the direction of motion of the object",
+        "in a direction depending on the shape of the object",
+        "vertically upward"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 13,
+        "min_page": 13,
+        "max_page": 14,
+        "stem_top": 698.884,
+        "stem_bottom": 710.884,
+        "first_opt_top": 714.4839999999999,
+        "opts_bottom": 772.8,
+        "ans_top": 95.32399999999996,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 48,
+      "section": "general_awareness",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "India approached which of the following international financial institutions for balance of payments assistance during the 1991 economic crisis?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "India approached which of the following international financial institutions for balance of payments assistance during the 1991 economic crisis?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "International Monetary Fund and World Bank",
+        "Asian Development Bank and UNESCO",
+        "World Trade Organization and UNDP",
+        "IMF and World Health Organization"
+      ],
+      "raw_options": [
+        "International Monetary Fund and World Bank",
+        "Asian Development Bank and UNESCO",
+        "World Trade Organization and UNDP",
+        "IMF and World Health Organization"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 127.03399999999999,
+        "stem_bottom": 155.11399999999992,
+        "first_opt_top": 159.19399999999996,
+        "opts_bottom": 219.93399999999997,
+        "ans_top": 224.0139999999999,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 49,
+      "section": "general_awareness",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "In which state is the “Myoko” festival, based on rotating village responsibility for rituals, celebrated?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In which state is the “Myoko” festival, based on rotating village responsibility for rituals, celebrated?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Nagaland",
+        "Arunachal Pradesh",
+        "Mizoram",
+        "Meghalaya"
+      ],
+      "raw_options": [
+        "Nagaland",
+        "Arunachal Pradesh",
+        "Mizoram",
+        "Meghalaya"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 256.414,
+        "stem_bottom": 284.4939999999999,
+        "first_opt_top": 288.84399999999994,
+        "opts_bottom": 349.32399999999996,
+        "ans_top": 353.40399999999994,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 50,
+      "section": "general_awareness",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "Which of the following correctly matches the sector with the method used to calculate its contribution to national income in India?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following correctly matches the sector with the method used to calculate its contribution to national income in India?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Construction - Expenditure Method",
+        "Government - Product Method",
+        "Manufacturing - Expenditure Method",
+        "Agriculture - Income Method"
+      ],
+      "raw_options": [
+        "Construction - Expenditure Method",
+        "Government - Product Method",
+        "Manufacturing - Expenditure Method",
+        "Agriculture - Income Method"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 385.82399999999996,
+        "stem_bottom": 414.14399999999995,
+        "first_opt_top": 418.22399999999993,
+        "opts_bottom": 478.72399999999993,
+        "ans_top": 483.0439999999999,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 51,
+      "section": "quantitative_aptitude",
+      "topic": "Algebra & Number System",
+      "render_mode": "text",
+      "stem": "Four prime numbers are listed in order. If the product of the first three is 105 and the product of the last three is 385, what is the largest prime number?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Four prime numbers are listed in order. If the product of the first three is 105 and the product of the last three is 385, what is the largest prime number?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "7",
+        "13",
+        "17",
+        "11"
+      ],
+      "raw_options": [
+        "7",
+        "13",
+        "17",
+        "11"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 515.204,
+        "stem_bottom": 543.554,
+        "first_opt_top": 547.634,
+        "opts_bottom": 608.1139999999999,
+        "ans_top": 612.434,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 52,
+      "section": "quantitative_aptitude",
+      "topic": "Time, Speed & Distance",
+      "render_mode": "text",
+      "stem": "A train, (x + 40) m long, passes a pole in 10 seconds and crosses a bridge, (x - 10) m long, in 15 seconds. Find the value of x.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A train, (x + 40) m long, passes a pole in 10 seconds and crosses a bridge, (x - 10) m long, in 15 seconds. Find the value of x."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "60",
+        "55",
+        "65",
+        "50"
+      ],
+      "raw_options": [
+        "60",
+        "55",
+        "65",
+        "50"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 14,
+        "min_page": 14,
+        "max_page": 14,
+        "stem_top": 644.8539999999999,
+        "stem_bottom": 672.934,
+        "first_opt_top": 677.2539999999999,
+        "opts_bottom": 737.764,
+        "ans_top": 741.8399999999999,
+        "ans_page": 14
+      }
+    },
+    {
+      "n": 53,
+      "section": "quantitative_aptitude",
+      "topic": "Geometry & Mensuration",
+      "render_mode": "text",
+      "stem": "In a triangle, if one angle measures twice the smallest angle and the third one measures three times the smallest angle, then the measure of the greatest angle is ______.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In a triangle, if one angle measures twice the smallest angle and the third one measures three times the smallest angle, then the measure of the greatest angle is ______."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "90°",
+        "30°",
+        "45°",
+        "120°"
+      ],
+      "raw_options": [
+        "90°",
+        "30°",
+        "45°",
+        "120°"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 111.404,
+        "stem_bottom": 140.23399999999992,
+        "first_opt_top": 145.274,
+        "opts_bottom": 207.914,
+        "ans_top": 212.73399999999992,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 54,
+      "section": "quantitative_aptitude",
+      "topic": "Data Interpretation & Statistics",
+      "render_mode": "text",
+      "stem": "Given is the data on the ages of the students of a class. What is the mean age of all the students taken together?\nNo of Students Age of the Students\n8 8\n6 8\n10 7\n9 7\n7 5\nA. 7",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Given is the data on the ages of the students of a class. What is the mean age of all the students taken together?"
+        },
+        {
+          "type": "paragraph",
+          "text": "No of Students Age of the Students"
+        },
+        {
+          "type": "paragraph",
+          "text": "8 8"
+        },
+        {
+          "type": "paragraph",
+          "text": "6 8"
+        },
+        {
+          "type": "paragraph",
+          "text": "10 7"
+        },
+        {
+          "type": "paragraph",
+          "text": "9 7"
+        },
+        {
+          "type": "paragraph",
+          "text": "7 5"
+        },
+        {
+          "type": "list_item",
+          "marker": "A.",
+          "text": "7"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "6",
+        "5",
+        "8"
+      ],
+      "raw_options": [
+        "6",
+        "5",
+        "8"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 0.9,
+      "warnings": [
+        "Fewer than 4 options (3) for Q54"
+      ],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 246.57399999999996,
+        "stem_bottom": 397.1039999999999,
+        "first_opt_top": 401.90399999999994,
+        "opts_bottom": 447.74399999999997,
+        "ans_top": 452.56399999999996,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 55,
+      "section": "quantitative_aptitude",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "An amount of ₹120 is paid using ₹10, ₹5 and ₹2 coins. If the number of coins of ₹10 and ₹2 are interchanged, then the amount becomes ₹304. If the number of ₹5 and ₹2 coins are interchanged, then the amount is ₹165. How many ₹2 coins are used in the payment of ₹120?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "An amount of ₹120 is paid using ₹10, ₹5 and ₹2 coins. If the number of coins of ₹10 and ₹2 are interchanged, then the amount becomes ₹304. If the number of ₹5 and ₹2 coins are interchanged, then the amount is ₹165. How many ₹2 coins are used in the payment of ₹120?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "20",
+        "15",
+        "25",
+        "10"
+      ],
+      "raw_options": [
+        "20",
+        "15",
+        "25",
+        "10"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 486.40399999999994,
+        "stem_bottom": 532.2439999999999,
+        "first_opt_top": 537.074,
+        "opts_bottom": 599.7139999999999,
+        "ans_top": 604.7539999999999,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 56,
+      "section": "quantitative_aptitude",
+      "topic": "Geometry & Mensuration",
+      "render_mode": "text",
+      "stem": "There are two circles touching each other externally. The radius of the first circle with centre O is 12\ncm. The radius of the second circle with centre A is 5\ncm. Find the length of their common tangent touching the two circles at points P and Q.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "There are two circles touching each other externally. The radius of the first circle with centre O is 12"
+        },
+        {
+          "type": "paragraph",
+          "text": "cm. The radius of the second circle with centre A is 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "cm. Find the length of their common tangent touching the two circles at points P and Q."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "4√15 cm",
+        "14√5 cm",
+        "5√14 cm",
+        "5 √14 cm"
+      ],
+      "raw_options": [
+        "4√15 cm",
+        "14√5 cm",
+        "5√14 cm",
+        "5 √14 cm"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 15,
+        "min_page": 15,
+        "max_page": 15,
+        "stem_top": 638.3739999999999,
+        "stem_bottom": 684.2139999999999,
+        "first_opt_top": 689.0139999999999,
+        "opts_bottom": 751.68,
+        "ans_top": 756.7199999999999,
+        "ans_page": 15
+      }
+    },
+    {
+      "n": 57,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "During a sale, 50% of the goods are sold at 37% profit, 30% of the remaining goods are sold at 26% profit and the still remaining goods are sold at a loss of 24%. If there is an overall profit of x%, then what is the value of x?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "During a sale, 50% of the goods are sold at 37% profit, 30% of the remaining goods are sold at 26% profit and the still remaining goods are sold at a loss of 24%. If there is an overall profit of x%, then what is the value of x?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "15",
+        "13.5",
+        "14",
+        "14.5"
+      ],
+      "raw_options": [
+        "15",
+        "13.5",
+        "14",
+        "14.5"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 16,
+        "stem_top": 95.32399999999996,
+        "stem_bottom": 139.5139999999999,
+        "first_opt_top": 143.83399999999995,
+        "opts_bottom": 204.31399999999996,
+        "ans_top": 208.654,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 58,
+      "section": "quantitative_aptitude",
+      "topic": "Data Interpretation & Statistics",
+      "render_mode": "text",
+      "stem": "Study the pie charts and answer the question that follows. The charts below show the distribution of students in a school.\nWhat is the number of girls in Class 8?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Study the pie charts and answer the question that follows. The charts below show the distribution of students in a school."
+        },
+        {
+          "type": "paragraph",
+          "text": "What is the number of girls in Class 8?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "90",
+        "108",
+        "72",
+        "60"
+      ],
+      "raw_options": [
+        "90",
+        "108",
+        "72",
+        "60"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 16,
+        "stem_top": 240.81399999999996,
+        "stem_bottom": 563.954,
+        "first_opt_top": 568.0339999999999,
+        "opts_bottom": 628.5339999999999,
+        "ans_top": 632.8539999999999,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 59,
+      "section": "quantitative_aptitude",
+      "topic": "Geometry & Mensuration",
+      "render_mode": "text",
+      "stem": "In an isosceles triangle ABC, AB=AC. D is a point inside the triangle such that ∠BAD = 20°, ∠DCB= 20°, ∠CAD = 80°. The value of ∠ABC is:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In an isosceles triangle ABC, AB=AC. D is a point inside the triangle such that ∠BAD = 20°, ∠DCB= 20°, ∠CAD = 80°. The value of ∠ABC is:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "25°",
+        "15°",
+        "20°",
+        "40°"
+      ],
+      "raw_options": [
+        "25°",
+        "15°",
+        "20°",
+        "40°"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 16,
+        "min_page": 16,
+        "max_page": 16,
+        "stem_top": 665.0139999999999,
+        "stem_bottom": 693.334,
+        "first_opt_top": 697.444,
+        "opts_bottom": 758.16,
+        "ans_top": 762.24,
+        "ans_page": 16
+      }
+    },
+    {
+      "n": 60,
+      "section": "quantitative_aptitude",
+      "topic": "Data Interpretation & Statistics",
+      "render_mode": "image_stem",
+      "stem": "The given graph represents the data on the ages of various children.\nStudy the given graph and answer the question that follows.\nWhat is the difference between the mean and mode of the ages?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The given graph represents the data on the ages of various children."
+        },
+        {
+          "type": "paragraph",
+          "text": "Study the given graph and answer the question that follows."
+        },
+        {
+          "type": "paragraph",
+          "text": "What is the difference between the mean and mode of the ages?"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2026-10-05/q060_stem.webp",
+      "full_image": null,
+      "options": [
+        "2",
+        "0.5",
+        "1",
+        "0"
+      ],
+      "raw_options": [
+        "2",
+        "0.5",
+        "1",
+        "0"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 17,
+        "min_page": 17,
+        "max_page": 17,
+        "stem_top": 109.24399999999991,
+        "stem_bottom": 354.84399999999994,
+        "first_opt_top": 357.00399999999996,
+        "opts_bottom": 411.26399999999995,
+        "ans_top": 413.18399999999997,
+        "ans_page": 17
+      }
+    },
+    {
+      "n": 61,
+      "section": "quantitative_aptitude",
+      "topic": "Algebra & Number System",
+      "render_mode": "text",
+      "stem": "Solve the given equations for (x, y, z):\nx + y + z = 2\n6x - 4y + 5z = 31\n5x + 2y + 2z = 13",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Solve the given equations for (x, y, z):"
+        },
+        {
+          "type": "paragraph",
+          "text": "x + y + z = 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "6x - 4y + 5z = 31"
+        },
+        {
+          "type": "paragraph",
+          "text": "5x + 2y + 2z = 13"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "(3, -2, -1)",
+        "(-3, -2, 1)",
+        "(3, -2, 1)",
+        "(3, 2, 1)"
+      ],
+      "raw_options": [
+        "(3, -2, -1)",
+        "(-3, -2, 1)",
+        "(3, -2, 1)",
+        "(3, 2, 1)"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 17,
+        "min_page": 17,
+        "max_page": 17,
+        "stem_top": 441.50399999999996,
+        "stem_bottom": 495.76399999999995,
+        "first_opt_top": 497.68399999999997,
+        "opts_bottom": 551.954,
+        "ans_top": 554.1139999999999,
+        "ans_page": 17
+      }
+    },
+    {
+      "n": 62,
+      "section": "quantitative_aptitude",
+      "topic": "Data Interpretation & Statistics",
+      "render_mode": "image_full",
+      "stem": "In the given histogram, what is the mean marks of the students, correct to one decimal place?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "In the given histogram, what is the mean marks of the students, correct to one decimal place?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": "img/ssc-cgl-2026-10-05/q062_full.webp",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "raw_options": [
+        "51.2",
+        "53.5",
+        "52.7",
+        "50.6"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 17,
+        "min_page": 17,
+        "max_page": 18,
+        "stem_top": 582.194,
+        "stem_bottom": 594.194,
+        "first_opt_top": 95.32399999999996,
+        "opts_bottom": 340.68999999999994,
+        "ans_top": 154.3939999999999,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 63,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "image_stem",
+      "stem": "Study the information given in the graph below and answer the following question based on it.\nIf the net availability of food grains is only 80% of the total food production of the country, then what was the population of the country in the year 2011? [Correct your answer to the nearest 10 million]",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Study the information given in the graph below and answer the following question based on it."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the net availability of food grains is only 80% of the total food production of the country, then what was the population of the country in the year 2011? [Correct your answer to the nearest 10 million]"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2026-10-05/q063_stem.webp",
+      "full_image": null,
+      "options": [
+        "460 million",
+        "840 million",
+        "1180 million",
+        "560 million"
+      ],
+      "raw_options": [
+        "460 million",
+        "840 million",
+        "1180 million",
+        "560 million"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 18,
+        "stem_top": 183.914,
+        "stem_bottom": 452.78399999999993,
+        "first_opt_top": 455.44399999999996,
+        "opts_bottom": 511.84399999999994,
+        "ans_top": 514.4839999999999,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 64,
+      "section": "quantitative_aptitude",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "A vertical communication tower stands on a building 30 meters high. From a point 70 meters from the building, the angles of elevation to the top and bottom of the tower are 60° and 30°, respectively. What is the height of the tower (in m)?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A vertical communication tower stands on a building 30 meters high. From a point 70 meters from the building, the angles of elevation to the top and bottom of the tower are 60° and 30°, respectively. What is the height of the tower (in m)?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "70√3 - 30",
+        "30√3",
+        "70√3 + 30",
+        "(70√3)/2 + 30"
+      ],
+      "raw_options": [
+        "70√3 - 30",
+        "30√3",
+        "70√3 + 30",
+        "(70√3)/2 + 30"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 18,
+        "stem_top": 544.2739999999999,
+        "stem_bottom": 585.7939999999999,
+        "first_opt_top": 588.434,
+        "opts_bottom": 644.8539999999999,
+        "ans_top": 647.4939999999999,
+        "ans_page": 18
+      }
+    },
+    {
+      "n": 65,
+      "section": "quantitative_aptitude",
+      "topic": "Ratio, Proportion & Mixture",
+      "render_mode": "text",
+      "stem": "The diagonals of a rhombus are in the ratio 3 : 4, and the length of each side of the rhombus is 25\ncm. The tiler covering the rhombus-shaped floor needs its area before ordering the tiles. Find the area of the rhombus.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The diagonals of a rhombus are in the ratio 3 : 4, and the length of each side of the rhombus is 25"
+        },
+        {
+          "type": "paragraph",
+          "text": "cm. The tiler covering the rhombus-shaped floor needs its area before ordering the tiles. Find the area of the rhombus."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "300 cm²",
+        "500 cm²",
+        "600 cm²",
+        "400 cm²"
+      ],
+      "raw_options": [
+        "300 cm²",
+        "500 cm²",
+        "600 cm²",
+        "400 cm²"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 18,
+        "min_page": 18,
+        "max_page": 19,
+        "stem_top": 677.0139999999999,
+        "stem_bottom": 718.804,
+        "first_opt_top": 721.444,
+        "opts_bottom": 777.8399999999999,
+        "ans_top": 95.32399999999996,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 66,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "A regular octagonal fountain has a circumradius of 10\nm. Find the approximate length of each side.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A regular octagonal fountain has a circumradius of 10"
+        },
+        {
+          "type": "paragraph",
+          "text": "m. Find the approximate length of each side."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "6.13 m",
+        "8.71 m",
+        "7.65 m",
+        "9.27 m 5 12"
+      ],
+      "raw_options": [
+        "6.13 m",
+        "8.71 m",
+        "7.65 m",
+        "9.27 m 5 12"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 124.87399999999991,
+        "stem_bottom": 136.8739999999999,
+        "first_opt_top": 139.5139999999999,
+        "opts_bottom": 195.914,
+        "ans_top": 198.57399999999996,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 67,
+      "section": "quantitative_aptitude",
+      "topic": "Trigonometry",
+      "render_mode": "image_stem",
+      "stem": "5 12\nQ67. If sin P = and cos Q = , find sin P cos Q + cos P sin Q :\n13 13",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "5 12"
+        },
+        {
+          "type": "paragraph",
+          "text": "Q67. If sin P = and cos Q = , find sin P cos Q + cos P sin Q :"
+        },
+        {
+          "type": "paragraph",
+          "text": "13 13"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2026-10-05/q067_stem.webp",
+      "full_image": null,
+      "options": [
+        "60/169",
+        "13/13",
+        "120/169",
+        "12/13 12 15 9 8𝑚+8 23 8 23 8"
+      ],
+      "raw_options": [
+        "60/169",
+        "13/13",
+        "120/169",
+        "12/13 12 15 9 8𝑚+8 23 8 23 8"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 227.0547999999999,
+        "stem_bottom": 248.4147999999999,
+        "first_opt_top": 249.45399999999995,
+        "opts_bottom": 305.6439999999999,
+        "ans_top": 308.524,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 68,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "image_stem",
+      "stem": "12 15 9 8𝑚+8\n23 8 23 8\nQ68. Find the value of m which satisfies ( ) ×( ) ×( ) = ( )\n8 23 8 23",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "12 15 9 8𝑚+8"
+        },
+        {
+          "type": "paragraph",
+          "text": "23 8 23 8"
+        },
+        {
+          "type": "paragraph",
+          "text": "Q68. Find the value of m which satisfies ( ) ×( ) ×( ) = ( )"
+        },
+        {
+          "type": "paragraph",
+          "text": "8 23 8 23"
+        }
+      ],
+      "stem_image": "img/ssc-cgl-2026-10-05/q068_stem.webp",
+      "full_image": null,
+      "options": [
+        "-24/8",
+        "-10/8",
+        "-7/4",
+        "-9/8"
+      ],
+      "raw_options": [
+        "-24/8",
+        "-10/8",
+        "-7/4",
+        "-9/8"
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 0.95,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 336.52479999999997,
+        "stem_bottom": 361.72479999999996,
+        "first_opt_top": 363.26399999999995,
+        "opts_bottom": 419.4239999999999,
+        "ans_top": 422.304,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 69,
+      "section": "quantitative_aptitude",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "If tan A = 3, find the values of sin A and cos A.\n3 1",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If tan A = 3, find the values of sin A and cos A."
+        },
+        {
+          "type": "paragraph",
+          "text": "3 1"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "sin𝐴 = ,cos𝐴 = √10 √10 1 3",
+        "sin𝐴 = ,cos𝐴 = √10 √10 3 4",
+        "sin𝐴 = ,cos𝐴 = 5 5 4 3",
+        "sin𝐴 = ,cos𝐴 = 5 5"
+      ],
+      "raw_options": [
+        "sin𝐴 = ,cos𝐴 = √10 √10 1 3",
+        "sin𝐴 = ,cos𝐴 = √10 √10 3 4",
+        "sin𝐴 = ,cos𝐴 = 5 5 4 3",
+        "sin𝐴 = ,cos𝐴 = 5 5"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 451.84399999999994,
+        "stem_bottom": 473.60479999999995,
+        "first_opt_top": 469.3639999999999,
+        "opts_bottom": 545.954,
+        "ans_top": 552.194,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 70,
+      "section": "quantitative_aptitude",
+      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "render_mode": "text",
+      "stem": "A shopkeeper offers a fixed discount of 15% on rice and 100 gm rice free with every purchase of 1.9 kg rice. Find the overall discount percent offered by him on rice.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A shopkeeper offers a fixed discount of 15% on rice and 100 gm rice free with every purchase of 1.9 kg rice. Find the overall discount percent offered by him on rice."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "19.25%",
+        "19.50%",
+        "20.00%",
+        "19.10%"
+      ],
+      "raw_options": [
+        "19.25%",
+        "19.50%",
+        "20.00%",
+        "19.10%"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 19,
+        "stem_top": 581.7139999999999,
+        "stem_bottom": 608.5939999999999,
+        "first_opt_top": 611.2339999999999,
+        "opts_bottom": 667.654,
+        "ans_top": 670.5339999999999,
+        "ans_page": 19
+      }
+    },
+    {
+      "n": 71,
+      "section": "quantitative_aptitude",
+      "topic": "Geometry & Mensuration",
+      "render_mode": "text",
+      "stem": "A solid hemispherical block is melted and recast into a cone of the same radius. The height of the cone is what fraction of the radius of the hemisphere?",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A solid hemispherical block is melted and recast into a cone of the same radius. The height of the cone is what fraction of the radius of the hemisphere?"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "1/3",
+        "2/1",
+        "3/2",
+        "4/3"
+      ],
+      "raw_options": [
+        "1/3",
+        "2/1",
+        "3/2",
+        "4/3"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 19,
+        "min_page": 19,
+        "max_page": 20,
+        "stem_top": 700.084,
+        "stem_bottom": 726.7239999999999,
+        "first_opt_top": 729.6039999999999,
+        "opts_bottom": 785.76,
+        "ans_top": 95.32399999999996,
+        "ans_page": 20
+      }
+    },
+    {
+      "n": 72,
+      "section": "quantitative_aptitude",
+      "topic": "Trigonometry",
+      "render_mode": "text",
+      "stem": "Amit is standing on the ground and flying a kite using a 100 m long string at an angle of elevation of 30 ∘ . Nitin is standing on the roof of a building that is 10 m high and flying his kite at an angle of elevation of 45 ∘ . The two boys are standing on opposite sides of the point where the kites meet. Find the length (in m ) of the string that Nitin must use so that both kites meet at the same point.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Amit is standing on the ground and flying a kite using a 100 m long string at an angle of elevation of 30 ∘ . Nitin is standing on the roof of a building that is 10 m high and flying his kite at an angle of elevation of 45 ∘ . The two boys are standing on opposite sides of the point where the kites meet. Find the length (in m ) of the string that Nitin must use so that both kites meet at the same point."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "50√2",
+        "40√2",
+        "40√3",
+        "50√3"
+      ],
+      "raw_options": [
+        "50√2",
+        "40√2",
+        "40√3",
+        "50√3"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 20,
+        "min_page": 20,
+        "max_page": 20,
+        "stem_top": 126.31399999999996,
+        "stem_bottom": 186.79399999999998,
+        "first_opt_top": 190.8739999999999,
+        "opts_bottom": 251.3739999999999,
+        "ans_top": 255.69399999999996,
+        "ans_page": 20
+      }
+    },
+    {
+      "n": 73,
+      "section": "quantitative_aptitude",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "If 𝑎+ 1 = 3 , then find the value of 𝑎 6 + 1\n𝑎 𝑎 6",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If 𝑎+ 1 = 3 , then find the value of 𝑎 6 + 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "𝑎 𝑎 6"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "324",
+        "321",
+        "323",
+        "322"
+      ],
+      "raw_options": [
+        "324",
+        "321",
+        "323",
+        "322"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 20,
+        "min_page": 20,
+        "max_page": 20,
+        "stem_top": 286.60479999999995,
+        "stem_bottom": 307.96479999999985,
+        "first_opt_top": 310.44399999999996,
+        "opts_bottom": 370.9239999999999,
+        "ans_top": 375.02399999999994,
+        "ans_page": 20
+      }
+    },
+    {
+      "n": 74,
+      "section": "quantitative_aptitude",
+      "topic": "Geometry & Mensuration",
+      "render_mode": "text",
+      "stem": "Find the area of a minor sector of a circle whose circumference is 88 cm and the length of its minor arc is 22 cm (use π = 22/7).",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the area of a minor sector of a circle whose circumference is 88 cm and the length of its minor arc is 22 cm (use π = 22/7)."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "415 cm 2",
+        "154 cm 2",
+        "451 cm 2",
+        "145 cm 2"
+      ],
+      "raw_options": [
+        "415 cm 2",
+        "154 cm 2",
+        "451 cm 2",
+        "145 cm 2"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 20,
+        "min_page": 20,
+        "max_page": 20,
+        "stem_top": 407.4239999999999,
+        "stem_bottom": 435.74399999999997,
+        "first_opt_top": 439.82399999999996,
+        "opts_bottom": 500.32399999999996,
+        "ans_top": 504.64399999999995,
+        "ans_page": 20
+      }
+    },
+    {
+      "n": 75,
+      "section": "quantitative_aptitude",
+      "topic": "Geometry & Mensuration",
+      "render_mode": "text",
+      "stem": "If the number of sides of a regular polygon is 12, then the measure of each exterior angle is:",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If the number of sides of a regular polygon is 12, then the measure of each exterior angle is:"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "30°",
+        "36°",
+        "48°",
+        "40°"
+      ],
+      "raw_options": [
+        "30°",
+        "36°",
+        "48°",
+        "40°"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 20,
+        "min_page": 20,
+        "max_page": 20,
+        "stem_top": 537.074,
+        "stem_bottom": 549.074,
+        "first_opt_top": 553.154,
+        "opts_bottom": 613.634,
+        "ans_top": 617.9739999999999,
+        "ans_page": 20
+      }
+    },
+    {
+      "n": 76,
+      "section": "english",
+      "topic": "Cloze Test & Fill in the Blanks",
+      "render_mode": "text",
+      "stem": "Which of the following pairs of words can be used to fill in the blanks most suitably? The ____ sorcerer upturned the ____ of poison into the goblet, his lips curling\ninto a smirk.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which of the following pairs of words can be used to fill in the blanks most suitably? The ____ sorcerer upturned the ____ of poison into the goblet, his lips curling"
+        },
+        {
+          "type": "paragraph",
+          "text": "into a smirk."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "veil, vail",
+        "vail, veil",
+        "vial, vile",
+        "vile, vial"
+      ],
+      "raw_options": [
+        "veil, vail",
+        "vail, veil",
+        "vial, vile",
+        "vile, vial"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 20,
+        "min_page": 20,
+        "max_page": 20,
+        "stem_top": 650.134,
+        "stem_bottom": 694.5339999999999,
+        "first_opt_top": 698.884,
+        "opts_bottom": 759.3599999999999,
+        "ans_top": 763.4399999999999,
+        "ans_page": 20
+      }
+    },
+    {
+      "n": 77,
+      "section": "english",
+      "topic": "Vocabulary: Synonyms & Antonyms",
+      "render_mode": "text",
+      "stem": "Out of the four alternatives, select the word opposite in meaning to the word given. Ensconce",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Out of the four alternatives, select the word opposite in meaning to the word given. Ensconce"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Establish",
+        "Impudence",
+        "Request",
+        "Unveil"
+      ],
+      "raw_options": [
+        "Establish",
+        "Impudence",
+        "Request",
+        "Unveil"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 21,
+        "min_page": 21,
+        "max_page": 21,
+        "stem_top": 110.20399999999995,
+        "stem_bottom": 137.11399999999992,
+        "first_opt_top": 139.99399999999991,
+        "opts_bottom": 196.6339999999999,
+        "ans_top": 199.534,
+        "ans_page": 21
+      }
+    },
+    {
+      "n": 78,
+      "section": "english",
+      "topic": "General",
+      "render_mode": "text",
+      "stem": "Examine the given sentence and pick out the error.\nIn order to overcome the mental depression and stress (1) adapting meditation, yoga or (2) similar other methods (3) can be helped",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Examine the given sentence and pick out the error."
+        },
+        {
+          "type": "paragraph",
+          "text": "In order to overcome the mental depression and stress (1) adapting meditation, yoga or (2) similar other methods (3) can be helped"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "adapting meditation, yoga or",
+        "can be helped",
+        "in order to overcome the mental depression and stress",
+        "similar other methods"
+      ],
+      "raw_options": [
+        "adapting meditation, yoga or",
+        "can be helped",
+        "in order to overcome the mental depression and stress",
+        "similar other methods"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 21,
+        "min_page": 21,
+        "max_page": 21,
+        "stem_top": 229.29399999999998,
+        "stem_bottom": 271.054,
+        "first_opt_top": 273.93399999999997,
+        "opts_bottom": 330.6039999999999,
+        "ans_top": 333.4839999999999,
+        "ans_page": 21
+      }
+    },
+    {
+      "n": 79,
+      "section": "english",
+      "topic": "Spelling Correction",
+      "render_mode": "text",
+      "stem": "Select the correctly spelt word.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correctly spelt word."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "subcompartmentalization",
+        "subcompartmenetalization",
+        "subcomaprtmentalization",
+        "subcompartmentaliztion"
+      ],
+      "raw_options": [
+        "subcompartmentalization",
+        "subcompartmenetalization",
+        "subcomaprtmentalization",
+        "subcompartmentaliztion"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 21,
+        "min_page": 21,
+        "max_page": 21,
+        "stem_top": 363.26399999999995,
+        "stem_bottom": 375.26399999999995,
+        "first_opt_top": 378.14399999999995,
+        "opts_bottom": 434.78399999999993,
+        "ans_top": 437.66399999999993,
+        "ans_page": 21
+      }
+    },
+    {
+      "n": 80,
+      "section": "english",
+      "topic": "Direct & Indirect Speech",
+      "render_mode": "text",
+      "stem": "Choose the option that is the most appropriate conversion of the following sentence into Direct Speech.\nThe professor admitted that he had never delivered a lecture on that particular topic in any of his classes.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the option that is the most appropriate conversion of the following sentence into Direct Speech."
+        },
+        {
+          "type": "paragraph",
+          "text": "The professor admitted that he had never delivered a lecture on that particular topic in any of his classes."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The professor said, \"I've never delivered a lecture on this particular topic in any of my classes.\"",
+        "The professor admitted, \"I'd never delivered a lecture on that particular topic in any class.\"",
+        "The professor admitted, \"I have not deliver a lecture on that particular topic in any of my classes.\"",
+        "The professor said, \"I have never delivered a lecture on this particular topic in none of my classes.\""
+      ],
+      "raw_options": [
+        "The professor said, \"I've never delivered a lecture on this particular topic in any of my classes.\"",
+        "The professor admitted, \"I'd never delivered a lecture on that particular topic in any class.\"",
+        "The professor admitted, \"I have not deliver a lecture on that particular topic in any of my classes.\"",
+        "The professor said, \"I have never delivered a lecture on this particular topic in none of my classes.\""
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 21,
+        "min_page": 21,
+        "max_page": 21,
+        "stem_top": 467.68399999999997,
+        "stem_bottom": 509.44399999999996,
+        "first_opt_top": 512.324,
+        "opts_bottom": 568.9939999999999,
+        "ans_top": 571.874,
+        "ans_page": 21
+      }
+    },
+    {
+      "n": 81,
+      "section": "english",
+      "topic": "Direct & Indirect Speech",
+      "render_mode": "text",
+      "stem": "From the given alternatives, select the correct direct narration of the given indirect narration. Sanvi told Prakash that the coach had announced that practice would be cancelled for the rest of the week due to the flooded condition of the playing fields.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "From the given alternatives, select the correct direct narration of the given indirect narration. Sanvi told Prakash that the coach had announced that practice would be cancelled for the rest of the week due to the flooded condition of the playing fields."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Sanvi said to Prakash, \"The coach is announcing that practice would be cancelled for the rest of the week due to the flooded condition of the playing fields.\"",
+        "Sanvi said to Prakash, \"The coach announced that practice would have been cancelled for the rest of the week due to the flooded condition of the playing fields.\"",
+        "Sanvi said to Prakash, \"The coach announced that practice would be cancelled for the rest of the week due to the flooded condition of the playing fields.\"",
+        "Sanvi said to Prakash, \"The coach announced that practice would be cancelling for the rest of the week due to the flooded condition of the playing fields.\""
+      ],
+      "raw_options": [
+        "Sanvi said to Prakash, \"The coach is announcing that practice would be cancelled for the rest of the week due to the flooded condition of the playing fields.\"",
+        "Sanvi said to Prakash, \"The coach announced that practice would have been cancelled for the rest of the week due to the flooded condition of the playing fields.\"",
+        "Sanvi said to Prakash, \"The coach announced that practice would be cancelled for the rest of the week due to the flooded condition of the playing fields.\"",
+        "Sanvi said to Prakash, \"The coach announced that practice would be cancelling for the rest of the week due to the flooded condition of the playing fields.\""
+      ],
+      "answer": 2,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 21,
+        "min_page": 21,
+        "max_page": 21,
+        "stem_top": 601.634,
+        "stem_bottom": 643.414,
+        "first_opt_top": 646.294,
+        "opts_bottom": 747.5999999999999,
+        "ans_top": 765.3599999999999,
+        "ans_page": 21
+      }
+    },
+    {
+      "n": 82,
+      "section": "english",
+      "topic": "Vocabulary: Synonyms & Antonyms",
+      "render_mode": "text",
+      "stem": "Find the word most nearly SIMILAR in meaning to the given word:\nProlific",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the word most nearly SIMILAR in meaning to the given word:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prolific"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Fruitful",
+        "Barren",
+        "Furtive",
+        "Amiable"
+      ],
+      "raw_options": [
+        "Fruitful",
+        "Barren",
+        "Furtive",
+        "Amiable"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 22,
+        "min_page": 22,
+        "max_page": 22,
+        "stem_top": 110.20399999999995,
+        "stem_bottom": 137.59399999999994,
+        "first_opt_top": 141.19399999999996,
+        "opts_bottom": 199.5139999999999,
+        "ans_top": 203.1339999999999,
+        "ans_page": 22
+      }
+    },
+    {
+      "n": 83,
+      "section": "english",
+      "topic": "One-Word Substitution",
+      "render_mode": "text",
+      "stem": "Choose the correct one-word substitute for:\n'A speech or piece of writing that praises someone highly'.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the correct one-word substitute for:"
+        },
+        {
+          "type": "paragraph",
+          "text": "'A speech or piece of writing that praises someone highly'."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Elegy",
+        "Encomium",
+        "Sermon",
+        "Soliloquy"
+      ],
+      "raw_options": [
+        "Elegy",
+        "Encomium",
+        "Sermon",
+        "Soliloquy"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 22,
+        "min_page": 22,
+        "max_page": 22,
+        "stem_top": 234.09399999999994,
+        "stem_bottom": 261.45399999999995,
+        "first_opt_top": 264.81399999999996,
+        "opts_bottom": 323.404,
+        "ans_top": 326.764,
+        "ans_page": 22
+      }
+    },
+    {
+      "n": 84,
+      "section": "english",
+      "topic": "Vocabulary: Synonyms & Antonyms",
+      "render_mode": "text",
+      "stem": "Find the word most nearly SIMILAR in meaning to the given word:\nObstreperous",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Find the word most nearly SIMILAR in meaning to the given word:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Obstreperous"
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Unruly",
+        "Docile",
+        "Prudent",
+        "Ambivalent"
+      ],
+      "raw_options": [
+        "Unruly",
+        "Docile",
+        "Prudent",
+        "Ambivalent"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 22,
+        "min_page": 22,
+        "max_page": 22,
+        "stem_top": 357.72399999999993,
+        "stem_bottom": 385.34399999999994,
+        "first_opt_top": 388.70399999999995,
+        "opts_bottom": 447.26399999999995,
+        "ans_top": 450.64399999999995,
+        "ans_page": 22
+      }
+    },
+    {
+      "n": 85,
+      "section": "english",
+      "topic": "Para Jumbles & Sentence Rearrangement",
+      "render_mode": "text",
+      "stem": "Given below are four jumbled sentences. Select the option that gives their correct order to form a meaningful and coherent paragraph.\nA. This shift is driven by the fact that electric vehicles produce lower emissions compared to conventional cars.\nB. Moreover, advances in battery technology have improved driving range and reduced costs.\nC. Therefore, governments are incentivizing EV adoption through subsidies and tax benefits.\nD. Electric vehicles (EVs) are becoming a major component of sustainable transportation worldwide.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Given below are four jumbled sentences. Select the option that gives their correct order to form a meaningful and coherent paragraph."
+        },
+        {
+          "type": "list_item",
+          "marker": "A.",
+          "text": "This shift is driven by the fact that electric vehicles produce lower emissions compared to conventional cars."
+        },
+        {
+          "type": "list_item",
+          "marker": "B.",
+          "text": "Moreover, advances in battery technology have improved driving range and reduced costs."
+        },
+        {
+          "type": "list_item",
+          "marker": "C.",
+          "text": "Therefore, governments are incentivizing EV adoption through subsidies and tax benefits."
+        },
+        {
+          "type": "list_item",
+          "marker": "D.",
+          "text": "Electric vehicles (EVs) are becoming a major component of sustainable transportation worldwide."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "B – A – C – D",
+        "C – A – B – D",
+        "C – B – A – D",
+        "D – A – B – C"
+      ],
+      "raw_options": [
+        "B – A – C – D",
+        "C – A – B – D",
+        "C – B – A – D",
+        "D – A – B – C"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 22,
+        "min_page": 22,
+        "max_page": 22,
+        "stem_top": 481.6039999999999,
+        "stem_bottom": 586.5139999999999,
+        "first_opt_top": 590.1139999999999,
+        "opts_bottom": 648.454,
+        "ans_top": 651.814,
+        "ans_page": 22
+      }
+    },
+    {
+      "n": 86,
+      "section": "english",
+      "topic": "Cloze Test & Fill in the Blanks",
+      "render_mode": "text",
+      "stem": "Select the correct option to fill in the blank 1.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correct option to fill in the blank 1."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "dearth",
+        "paucity",
+        "deluge",
+        "modicum"
+      ],
+      "raw_options": [
+        "dearth",
+        "paucity",
+        "deluge",
+        "modicum"
+      ],
+      "answer": 2,
+      "passage_id": "p86-90",
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 23,
+        "min_page": 23,
+        "max_page": 23,
+        "stem_top": 338.0439999999999,
+        "stem_bottom": 350.0439999999999,
+        "first_opt_top": 354.12399999999997,
+        "opts_bottom": 414.62399999999997,
+        "ans_top": 418.94399999999996,
+        "ans_page": 23
+      }
+    },
+    {
+      "n": 87,
+      "section": "english",
+      "topic": "Cloze Test & Fill in the Blanks",
+      "render_mode": "text",
+      "stem": "Select the correct option to fill in the blank 2.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correct option to fill in the blank 2."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "insidious",
+        "benign",
+        "innocuous",
+        "salubrious"
+      ],
+      "raw_options": [
+        "insidious",
+        "benign",
+        "innocuous",
+        "salubrious"
+      ],
+      "answer": 0,
+      "passage_id": "p86-90",
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 23,
+        "min_page": 23,
+        "max_page": 23,
+        "stem_top": 451.3639999999999,
+        "stem_bottom": 463.3639999999999,
+        "first_opt_top": 467.44399999999996,
+        "opts_bottom": 527.924,
+        "ans_top": 532.2739999999999,
+        "ans_page": 23
+      }
+    },
+    {
+      "n": 88,
+      "section": "english",
+      "topic": "Cloze Test & Fill in the Blanks",
+      "render_mode": "text",
+      "stem": "Select the correct option to fill in the blank 3.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correct option to fill in the blank 3."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "authentic",
+        "veracious",
+        "cogent",
+        "spurious"
+      ],
+      "raw_options": [
+        "authentic",
+        "veracious",
+        "cogent",
+        "spurious"
+      ],
+      "answer": 3,
+      "passage_id": "p86-90",
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 23,
+        "min_page": 23,
+        "max_page": 23,
+        "stem_top": 564.674,
+        "stem_bottom": 576.674,
+        "first_opt_top": 580.7539999999999,
+        "opts_bottom": 641.2539999999999,
+        "ans_top": 645.574,
+        "ans_page": 23
+      }
+    },
+    {
+      "n": 89,
+      "section": "english",
+      "topic": "Cloze Test & Fill in the Blanks",
+      "render_mode": "text",
+      "stem": "Select the correct option to fill in the blank 4.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correct option to fill in the blank 4."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "bolstering",
+        "curtailing",
+        "fortifying",
+        "espousing"
+      ],
+      "raw_options": [
+        "bolstering",
+        "curtailing",
+        "fortifying",
+        "espousing"
+      ],
+      "answer": 1,
+      "passage_id": "p86-90",
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 23,
+        "min_page": 23,
+        "max_page": 23,
+        "stem_top": 677.7339999999999,
+        "stem_bottom": 689.7339999999999,
+        "first_opt_top": 694.054,
+        "opts_bottom": 754.56,
+        "ans_top": 758.64,
+        "ans_page": 23
+      }
+    },
+    {
+      "n": 90,
+      "section": "english",
+      "topic": "Cloze Test & Fill in the Blanks",
+      "render_mode": "text",
+      "stem": "Select the correct option to fill in the blank 5.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Select the correct option to fill in the blank 5."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "custodianship",
+        "abdication",
+        "repudiation",
+        "renunciation"
+      ],
+      "raw_options": [
+        "custodianship",
+        "abdication",
+        "repudiation",
+        "renunciation"
+      ],
+      "answer": 0,
+      "passage_id": "p86-90",
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 24,
+        "min_page": 24,
+        "max_page": 24,
+        "stem_top": 95.32399999999996,
+        "stem_bottom": 107.32399999999996,
+        "first_opt_top": 111.404,
+        "opts_bottom": 171.914,
+        "ans_top": 176.23399999999992,
+        "ans_page": 24
+      }
+    },
+    {
+      "n": 91,
+      "section": "english",
+      "topic": "Cloze Test & Fill in the Blanks",
+      "render_mode": "text",
+      "stem": "The following sentence has two blanks. Choose the most suitable set of prepositions from the given options to fill in the blanks and complete the sentence meaningfully.\nThe children are playing ______ the garden ______ their friends.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The following sentence has two blanks. Choose the most suitable set of prepositions from the given options to fill in the blanks and complete the sentence meaningfully."
+        },
+        {
+          "type": "paragraph",
+          "text": "The children are playing ______ the garden ______ their friends."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "in, with",
+        "on, among",
+        "at, with",
+        "into, for"
+      ],
+      "raw_options": [
+        "in, with",
+        "on, among",
+        "at, with",
+        "into, for"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 24,
+        "min_page": 24,
+        "max_page": 24,
+        "stem_top": 208.654,
+        "stem_bottom": 252.81399999999996,
+        "first_opt_top": 257.1339999999999,
+        "opts_bottom": 317.6439999999999,
+        "ans_top": 321.72399999999993,
+        "ans_page": 24
+      }
+    },
+    {
+      "n": 92,
+      "section": "english",
+      "topic": "Active & Passive Voice",
+      "render_mode": "text",
+      "stem": "From the alternatives given below, select the correct passive voice of the following sentence. Take a pair of binoculars with you lest you all should miss the chance of looking at the distant scenes.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "From the alternatives given below, select the correct passive voice of the following sentence. Take a pair of binoculars with you lest you all should miss the chance of looking at the distant scenes."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Let a pair of binoculars be taken with you lest the chance of looking at the distant scenes would missed by you all.",
+        "Let a pair of binoculars taken with you lest the chance of looking at the distant scenes should be missed by you all.",
+        "Let a pair of binoculars be taken with you otherwise the chance of looking at the distant scenes would be missed by you all.",
+        "Let a pair of binoculars be taken with you lest the chance of looking at the distant scenes should be missed by you all."
+      ],
+      "raw_options": [
+        "Let a pair of binoculars be taken with you lest the chance of looking at the distant scenes would missed by you all.",
+        "Let a pair of binoculars taken with you lest the chance of looking at the distant scenes should be missed by you all.",
+        "Let a pair of binoculars be taken with you otherwise the chance of looking at the distant scenes would be missed by you all.",
+        "Let a pair of binoculars be taken with you lest the chance of looking at the distant scenes should be missed by you all."
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 24,
+        "min_page": 24,
+        "max_page": 24,
+        "stem_top": 354.12399999999997,
+        "stem_bottom": 382.46399999999994,
+        "first_opt_top": 386.5439999999999,
+        "opts_bottom": 495.76399999999995,
+        "ans_top": 515.924,
+        "ans_page": 24
+      }
+    },
+    {
+      "n": 93,
+      "section": "english",
+      "topic": "Cloze Test & Fill in the Blanks",
+      "render_mode": "text",
+      "stem": "Choose the best option to fill in the blank below.\nThis is ____ biryani I have had in a year. It is almost ____ the one from Nizam's House in Hyderabad.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the best option to fill in the blank below."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is ____ biryani I have had in a year. It is almost ____ the one from Nizam's House in Hyderabad."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "a, gooder than",
+        "the better, as good as",
+        "a, better",
+        "the best, as good as"
+      ],
+      "raw_options": [
+        "a, gooder than",
+        "the better, as good as",
+        "a, better",
+        "the best, as good as"
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 24,
+        "min_page": 24,
+        "max_page": 24,
+        "stem_top": 548.3539999999999,
+        "stem_bottom": 576.674,
+        "first_opt_top": 580.7539999999999,
+        "opts_bottom": 641.2539999999999,
+        "ans_top": 645.574,
+        "ans_page": 24
+      }
+    },
+    {
+      "n": 94,
+      "section": "english",
+      "topic": "Idioms & Phrases",
+      "render_mode": "text",
+      "stem": "Choose the correct meaning of the idiom \"Open the floodgates.\"",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the correct meaning of the idiom \"Open the floodgates.\""
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "To close all opportunities",
+        "To release something that was previously under control",
+        "To stop people from entering",
+        "To control emotions"
+      ],
+      "raw_options": [
+        "To close all opportunities",
+        "To release something that was previously under control",
+        "To stop people from entering",
+        "To control emotions"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 24,
+        "min_page": 24,
+        "max_page": 24,
+        "stem_top": 677.7339999999999,
+        "stem_bottom": 689.7339999999999,
+        "first_opt_top": 694.054,
+        "opts_bottom": 754.56,
+        "ans_top": 758.64,
+        "ans_page": 24
+      }
+    },
+    {
+      "n": 95,
+      "section": "english",
+      "topic": "Idioms & Phrases",
+      "render_mode": "text",
+      "stem": "Choose the correct meaning of the idiom \"To square the circle.\"",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Choose the correct meaning of the idiom \"To square the circle.\""
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "To solve an easy problem",
+        "To attempt something impossible",
+        "To complete work quickly",
+        "To draw a perfect figure"
+      ],
+      "raw_options": [
+        "To solve an easy problem",
+        "To attempt something impossible",
+        "To complete work quickly",
+        "To draw a perfect figure"
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 25,
+        "min_page": 25,
+        "max_page": 25,
+        "stem_top": 95.32399999999996,
+        "stem_bottom": 107.32399999999996,
+        "first_opt_top": 110.44399999999996,
+        "opts_bottom": 168.07399999999996,
+        "ans_top": 171.19399999999996,
+        "ans_page": 25
+      }
+    },
+    {
+      "n": 96,
+      "section": "english",
+      "topic": "Active & Passive Voice",
+      "render_mode": "text",
+      "stem": "Change the following sentence into the Active form.\nThe construction of the skyscraper is scheduled to have been completed by the end of the year.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Change the following sentence into the Active form."
+        },
+        {
+          "type": "paragraph",
+          "text": "The construction of the skyscraper is scheduled to have been completed by the end of the year."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The skyscraper will have completed the construction by the end of the year.",
+        "They are scheduling to have completed the construction of the skyscraper by the end of the year.",
+        "The construction of the skyscraper will be completed by the end of the year.",
+        "They are scheduled to complete the construction of the skyscraper by the end of the year."
+      ],
+      "raw_options": [
+        "The skyscraper will have completed the construction by the end of the year.",
+        "They are scheduling to have completed the construction of the skyscraper by the end of the year.",
+        "The construction of the skyscraper will be completed by the end of the year.",
+        "They are scheduled to complete the construction of the skyscraper by the end of the year."
+      ],
+      "answer": 3,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 25,
+        "min_page": 25,
+        "max_page": 25,
+        "stem_top": 201.45399999999995,
+        "stem_bottom": 228.81399999999996,
+        "first_opt_top": 231.93399999999997,
+        "opts_bottom": 289.534,
+        "ans_top": 292.68399999999997,
+        "ans_page": 25
+      }
+    },
+    {
+      "n": 97,
+      "section": "english",
+      "topic": "Spelling Correction",
+      "render_mode": "text",
+      "stem": "Identify the incorrectly spelt word in the sentence and rectify it.\nDuring the preliminary reconnnaissance of the floodplain, the geologists catalogued subterranean fissures and recommended immediate remediation.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Identify the incorrectly spelt word in the sentence and rectify it."
+        },
+        {
+          "type": "paragraph",
+          "text": "During the preliminary reconnnaissance of the floodplain, the geologists catalogued subterranean fissures and recommended immediate remediation."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "reconnaissance",
+        "recomended",
+        "remidiation",
+        "prelimenary"
+      ],
+      "raw_options": [
+        "reconnaissance",
+        "recomended",
+        "remidiation",
+        "prelimenary"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 25,
+        "min_page": 25,
+        "max_page": 25,
+        "stem_top": 323.164,
+        "stem_bottom": 365.40399999999994,
+        "first_opt_top": 368.5439999999999,
+        "opts_bottom": 426.14399999999995,
+        "ans_top": 429.26399999999995,
+        "ans_page": 25
+      }
+    },
+    {
+      "n": 98,
+      "section": "english",
+      "topic": "Blood Relations",
+      "render_mode": "text",
+      "stem": "The following sentence has been divided into four parts, namely A, B, C and D, which are given in the alternatives. Select the alternative that contains the part of the sentence with an error. The child requested his mother to gave him a big chocolate because he had been very good all day long and deserved a treat.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The following sentence has been divided into four parts, namely A, B, C and D, which are given in the alternatives. Select the alternative that contains the part of the sentence with an error. The child requested his mother to gave him a big chocolate because he had been very good all day long and deserved a treat."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "The child requested his mother to",
+        "gave him a big chocolate because he",
+        "had been very good all day",
+        "long and deserved a treat."
+      ],
+      "raw_options": [
+        "The child requested his mother to",
+        "gave him a big chocolate because he",
+        "had been very good all day",
+        "long and deserved a treat."
+      ],
+      "answer": 1,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 25,
+        "min_page": 25,
+        "max_page": 25,
+        "stem_top": 459.76399999999995,
+        "stem_bottom": 517.3639999999999,
+        "first_opt_top": 520.4839999999999,
+        "opts_bottom": 578.1139999999999,
+        "ans_top": 581.2339999999999,
+        "ans_page": 25
+      }
+    },
+    {
+      "n": 99,
+      "section": "english",
+      "topic": "Direct & Indirect Speech",
+      "render_mode": "text",
+      "stem": "From the given alternatives, select the correct indirect narration of the given direct narration. Pari said to Nirvaan, \"He admitted that he had made a huge mistake in judgment when he decided to invest all his money in that risky startup company.\"",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "From the given alternatives, select the correct indirect narration of the given direct narration. Pari said to Nirvaan, \"He admitted that he had made a huge mistake in judgment when he decided to invest all his money in that risky startup company.\""
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "Pari told Nirvaan that he had admitted that he had made a huge mistake in judgment when he decided to invest all his money in that risky startup company.",
+        "Pari told Nirvaan that he had made a huge mistake in judgment when he decided to invest all his money in that risky startup company.",
+        "Pari told Nirvaan that he had admitted that he made a huge mistake in judgment when he decided to invest all his money in that risky startup company.",
+        "Pari told Nirvaan that he had admitted that he had made a huge mistake in judgment when he decided to invested all his money in that risky startup company."
+      ],
+      "raw_options": [
+        "Pari told Nirvaan that he had admitted that he had made a huge mistake in judgment when he decided to invest all his money in that risky startup company.",
+        "Pari told Nirvaan that he had made a huge mistake in judgment when he decided to invest all his money in that risky startup company.",
+        "Pari told Nirvaan that he had admitted that he made a huge mistake in judgment when he decided to invest all his money in that risky startup company.",
+        "Pari told Nirvaan that he had admitted that he had made a huge mistake in judgment when he decided to invested all his money in that risky startup company."
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 25,
+        "min_page": 25,
+        "max_page": 28,
+        "stem_top": 611.4739999999999,
+        "stem_bottom": 653.9739999999999,
+        "first_opt_top": 657.0939999999999,
+        "opts_bottom": 760.3199999999999,
+        "ans_top": 95.32399999999996,
+        "ans_page": 28
+      }
+    },
+    {
+      "n": 100,
+      "section": "english",
+      "topic": "Para Jumbles & Sentence Rearrangement",
+      "render_mode": "text",
+      "stem": "Given below are four jumbled sentences. Select the option that gives their correct order to form a meaningful and coherent paragraph.\nA. As part of this transformation, AI-powered tools can now detect diseases like cancer at much earlier stages than traditional methods.\nB. Artificial Intelligence is rapidly transforming the healthcare industry.\nC. Because of this ability, the technology also helps doctors personalize treatment plans based on patient data.\nD. However, despite these advantages, concerns about data privacy and ethical use remain significant challenges.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Given below are four jumbled sentences. Select the option that gives their correct order to form a meaningful and coherent paragraph."
+        },
+        {
+          "type": "list_item",
+          "marker": "A.",
+          "text": "As part of this transformation, AI-powered tools can now detect diseases like cancer at much earlier stages than traditional methods."
+        },
+        {
+          "type": "list_item",
+          "marker": "B.",
+          "text": "Artificial Intelligence is rapidly transforming the healthcare industry."
+        },
+        {
+          "type": "list_item",
+          "marker": "C.",
+          "text": "Because of this ability, the technology also helps doctors personalize treatment plans based on patient data."
+        },
+        {
+          "type": "list_item",
+          "marker": "D.",
+          "text": "However, despite these advantages, concerns about data privacy and ethical use remain significant challenges."
+        }
+      ],
+      "stem_image": null,
+      "full_image": null,
+      "options": [
+        "BACD",
+        "ABDC",
+        "DCBA",
+        "CDAB"
+      ],
+      "raw_options": [
+        "BACD",
+        "ABDC",
+        "DCBA",
+        "CDAB"
+      ],
+      "answer": 0,
+      "passage_id": null,
+      "confidence": 1.0,
+      "warnings": [],
+      "duplicate_of": null,
+      "_bbox": {
+        "page": 28,
+        "min_page": 28,
+        "max_page": 28,
+        "stem_top": 126.55399999999997,
+        "stem_bottom": 268.174,
+        "first_opt_top": 272.2539999999999,
+        "opts_bottom": 332.76399999999995,
+        "ans_top": 337.08399999999995,
+        "ans_page": 28
+      }
+    }
+  ]
+}
