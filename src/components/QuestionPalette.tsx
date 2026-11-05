@@ -321,11 +321,11 @@ export const QuestionPalette: React.FC<QuestionPaletteProps> = ({
         </button>
       </div>
 
-      {/* Grid: 5 columns, 44px cells, 10px gap, 10px padding, centered in panel */}
+      {/* Grid: 5 columns, 44px cells, fixed 10px row/col gap, top-aligned without stretching */}
       <div className="flex-1 min-h-0 overflow-y-auto p-[10px] select-none flex justify-center [scrollbar-gutter:stable]">
         <div
-          className="grid grid-cols-5 gap-[10px] justify-items-center"
-          style={{ gridTemplateColumns: "repeat(5, 44px)" }}
+          className="grid grid-cols-5 gap-[10px] justify-items-center content-start"
+          style={{ gridTemplateColumns: "repeat(5, 44px)", gridAutoRows: "44px" }}
         >
           {filteredQuestions.map(({ q, idx }) => {
             const isCurrent = idx === currentQuestionIndex;

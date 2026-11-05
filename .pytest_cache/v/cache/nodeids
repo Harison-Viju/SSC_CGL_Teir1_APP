@@ -1,4 +1,6 @@
 [
+  "ingest/tests/test_q54_regression.py::test_q54_saved_json_artifact",
+  "ingest/tests/test_q54_regression.py::test_q54_table_detection_and_options",
   "ingest/tests/test_sample_ingest.py::test_figure_questions_classification",
   "ingest/tests/test_sample_ingest.py::test_line_break_preservation_and_blocks",
   "ingest/tests/test_sample_ingest.py::test_math_garble_questions",
@@ -10,5 +12,8 @@
   "ingest/tests/test_sample_ingest.py::test_sections_ranges",
   "ingest/tests/test_sample_ingest.py::test_tables_classification",
   "ingest/tests/test_sample_ingest.py::test_validation_report_passed",
-  "ingest/tests/test_sample_ingest.py::test_webp_image_crops_generated"
+  "ingest/tests/test_sample_ingest.py::test_webp_image_crops_generated",
+  "ingest/tests/test_topics_taxonomy.py::test_all_questions_have_topic_from_own_section",
+  "ingest/tests/test_topics_taxonomy.py::test_q3_and_q9_figure_series",
+  "ingest/tests/test_topics_taxonomy.py::test_topic_override_support"
 ]

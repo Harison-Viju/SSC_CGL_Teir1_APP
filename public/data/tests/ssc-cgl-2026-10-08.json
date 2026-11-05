@@ -58,7 +58,7 @@
     {
       "n": 1,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Number Series",
       "render_mode": "text",
       "stem": "What is the next number in the series?\n2, 10, 50, 250, ?",
       "blocks": [
@@ -71,8 +71,10 @@
           "text": "2, 10, 50, 250, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1000",
         "1100",
@@ -100,12 +102,13 @@
         "opts_bottom": 223.774,
         "ans_top": 227.61399999999992,
         "ans_page": 1
-      }
+      },
+      "qkey": "1a58d2420b66a9bb"
     },
     {
       "n": 2,
       "section": "reasoning",
-      "topic": "Data Interpretation & Statistics",
+      "topic": "Statement & Course of Action",
       "render_mode": "text",
       "stem": "Vegetable prices have suddenly gone up in the market. What is the likely cause?",
       "blocks": [
@@ -114,8 +117,10 @@
           "text": "Vegetable prices have suddenly gone up in the market. What is the likely cause?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Sellers want to earn high profit margins only now",
         "People have stopped eating other food items now",
@@ -143,12 +148,13 @@
         "opts_bottom": 334.20399999999995,
         "ans_top": 338.0439999999999,
         "ans_page": 1
-      }
+      },
+      "qkey": "261e03a341abdf07"
     },
     {
       "n": 3,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Figure Series",
       "render_mode": "image_full",
       "stem": "In the following figure series, select the figure which can be placed at the sign of question mark (?) from the given alternatives.",
       "blocks": [
@@ -157,8 +163,10 @@
           "text": "In the following figure series, select the figure which can be placed at the sign of question mark (?) from the given alternatives."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": "img/ssc-cgl-2026-10-08/q003_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-08/q003_orig.webp",
       "options": [
         "A",
         "B",
@@ -173,9 +181,11 @@
       ],
       "answer": 0,
       "passage_id": null,
-      "confidence": 0.95,
-      "warnings": [],
-      "duplicate_of": null,
+      "confidence": 0.85,
+      "warnings": [
+        "Empty option text found for Q3"
+      ],
+      "duplicate_of": "ssc-cgl-2026-09-30:17",
       "_bbox": {
         "page": 1,
         "min_page": 1,
@@ -186,12 +196,13 @@
         "opts_bottom": 630.434,
         "ans_top": 634.2739999999999,
         "ans_page": 1
-      }
+      },
+      "qkey": "79669e70baf90f25"
     },
     {
       "n": 4,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Number Series",
       "render_mode": "text",
       "stem": "Directions:\nPick the correct options from below.\n37, 53, ?, 97, 125",
       "blocks": [
@@ -208,8 +219,10 @@
           "text": "37, 53, ?, 97, 125"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "60",
         "64",
@@ -237,7 +250,8 @@
         "opts_bottom": 756.6959999999999,
         "ans_top": 760.56,
         "ans_page": 1
-      }
+      },
+      "qkey": "d218b69b34ed1e2f"
     },
     {
       "n": 5,
@@ -255,8 +269,10 @@
           "text": "Q5. In a certain coded language 'ROOT' is coded as 'MIJN' and 'FANS' is coded as 'AUIM'. How will 'JAMS' be coded in the same code language?"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-08/q005_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-08/q005_orig.webp",
       "options": [
         "GSIK",
         "CSGM",
@@ -284,14 +300,15 @@
         "opts_bottom": 200.71399999999994,
         "ans_top": 204.31399999999996,
         "ans_page": 4
-      }
+      },
+      "qkey": "e850fe186dff6a44"
     },
     {
       "n": 6,
       "section": "reasoning",
-      "topic": "Statement & Assumption / Argument",
-      "render_mode": "text",
-      "stem": "The criteria for selecting a candidate for the post of 'Mechanical Engineer' are as follow. The candidate:\n1. must have passed M.Tech in Mechanical Engineering with more than 75% marks.\n2. must have secured more than 65% marks in the written test and more than 70% in the interview.\n3. must not be less than 30 years and not more than 35 years of age as on 1 January 2019. However, if a candidate fulfils all the above criteria EXCEPT:\na. no. 2, but has obtained more than 80% marks in M.Tech, his/her case is to be referred to the Chief Engineer.\nb. no. 3, but has got more than five years experience of working as a Mechanical Engineer, his/her case is to be referred to the Deputy Director.\nBased on the criteria given and without assuming any additional information, you have to a take a decision for the following candidate.\nVijendra completed M.Tech with 76% marks in Mechanical Engineering. He was born on 14th November 1983. He has got 73% marks in both written test and interview. He has worked as Mechanical Engineer for three years.",
+      "topic": "Ranking & Order",
+      "render_mode": "image_full",
+      "stem": "The criteria for selecting a candidate for the post of 'Mechanical Engineer' are as follow. The candidate:\n1. must have passed M.Tech in Mechanical Engineering with more than 75% marks.\n2. must have secured more than 65% marks in the written test and more than 70% in the interview.\n3. must not be less than 30 years and not more than 35 years of age as on 1 January 2019. However, if a candidate fulfils all the above criteria EXCEPT:",
       "blocks": [
         {
           "type": "paragraph",
@@ -311,33 +328,21 @@
           "type": "list_item",
           "marker": "3.",
           "text": "must not be less than 30 years and not more than 35 years of age as on 1 January 2019. However, if a candidate fulfils all the above criteria EXCEPT:"
-        },
-        {
-          "type": "paragraph",
-          "text": "a. no. 2, but has obtained more than 80% marks in M.Tech, his/her case is to be referred to the Chief Engineer."
-        },
-        {
-          "type": "paragraph",
-          "text": "b. no. 3, but has got more than five years experience of working as a Mechanical Engineer, his/her case is to be referred to the Deputy Director."
-        },
-        {
-          "type": "paragraph",
-          "text": "Based on the criteria given and without assuming any additional information, you have to a take a decision for the following candidate."
-        },
-        {
-          "type": "paragraph",
-          "text": "Vijendra completed M.Tech with 76% marks in Mechanical Engineering. He was born on 14th November 1983. He has got 73% marks in both written test and interview. He has worked as Mechanical Engineer for three years."
         }
       ],
+      "table": null,
       "stem_image": null,
-      "full_image": null,
+      "full_image": "img/ssc-cgl-2026-10-08/q006_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-08/q006_orig.webp",
       "options": [
-        "The candidate is to be selected.",
-        "The candidate is not to be selected.",
-        "The candidate's case is to be referred to the Chief Engineer.",
-        "The candidate's case is to be referred to Deputy Director."
+        "A",
+        "B",
+        "C",
+        "D"
       ],
       "raw_options": [
+        "no. 2, but has obtained more than 80% marks in M.Tech, his/her case is to be referred to the Chief Engineer.",
+        "no. 3, but has got more than five years experience of working as a Mechanical Engineer, his/her case is to be referred to the Deputy Director. Based on the criteria given and without assuming any additional information, you have to a take a decision for the following candidate. Vijendra completed M.Tech with 76% marks in Mechanical Engineering. He was born on 14th November 1983. He has got 73% marks in both written test and interview. He has worked as Mechanical Engineer for three years.",
         "The candidate is to be selected.",
         "The candidate is not to be selected.",
         "The candidate's case is to be referred to the Chief Engineer.",
@@ -345,20 +350,23 @@
       ],
       "answer": 1,
       "passage_id": null,
-      "confidence": 1.0,
-      "warnings": [],
-      "duplicate_of": null,
+      "confidence": 0.85,
+      "warnings": [
+        "Expected 4 options, found 6 for Q6"
+      ],
+      "duplicate_of": "ssc-cgl-2026-09-30:23",
       "_bbox": {
         "page": 4,
         "min_page": 4,
         "max_page": 4,
         "stem_top": 235.29399999999998,
-        "stem_bottom": 464.06399999999996,
-        "first_opt_top": 467.4239999999999,
+        "stem_bottom": 324.6039999999999,
+        "first_opt_top": 328.20399999999995,
         "opts_bottom": 526.0039999999999,
         "ans_top": 529.3639999999999,
         "ans_page": 4
-      }
+      },
+      "qkey": "640000ea21403177"
     },
     {
       "n": 7,
@@ -372,8 +380,10 @@
           "text": "In a certain coded language 'COMPS' is coded as 'NKHKY' and 'ABATE' is coded as 'ZOVXW'. How will 'SMOKY' be coded in the same code language?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "RHKJN",
         "TGKIQ",
@@ -401,12 +411,13 @@
         "opts_bottom": 649.634,
         "ans_top": 653.2339999999999,
         "ans_page": 4
-      }
+      },
+      "qkey": "744273c8fa48e6c1"
     },
     {
       "n": 8,
       "section": "reasoning",
-      "topic": "Statement & Assumption / Argument",
+      "topic": "Statement & Conclusion",
       "render_mode": "text",
       "stem": "Statement:\nOnline education platforms are increasingly being adopted by students.\nAssumptions:\nI. Students have access to the internet.\nII. Traditional education has become irrelevant.\nIII. Online platforms offer flexible learning.\n2",
       "blocks": [
@@ -442,8 +453,10 @@
           "text": "2"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only I and III are implicit",
         "Only I is implicit",
@@ -471,12 +484,13 @@
         "opts_bottom": 155.83399999999995,
         "ans_top": 159.914,
         "ans_page": 5
-      }
+      },
+      "qkey": "0f120b76037efcca"
     },
     {
       "n": 9,
       "section": "reasoning",
-      "topic": "Statement & Assumption / Argument",
+      "topic": "Statement & Conclusion",
       "render_mode": "text",
       "stem": "In the question one statement is given, followed by arguments, I and II. You have to decide which of the argument is strong.\nStatement:\nShould male labourers be paid more than female labourers?\nArguments:\nΙ. Yes. Even physiologists confirm that men are physically stronger than women.\nΙΙ. No. Equal work should be paid equally irrespective of gender.",
       "blocks": [
@@ -505,8 +519,10 @@
           "text": "ΙΙ. No. Equal work should be paid equally irrespective of gender."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only argument I is strong",
         "Only argument II is strong",
@@ -534,12 +550,13 @@
         "opts_bottom": 350.0439999999999,
         "ans_top": 354.12399999999997,
         "ans_page": 5
-      }
+      },
+      "qkey": "ef2d54d622b2107c"
     },
     {
       "n": 10,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Address Matching",
       "render_mode": "text",
       "stem": "Select the option exactly similar to:\n16th Floor, Alpha Tower, Near City Center Mall, Bangalore, KA 560001",
       "blocks": [
@@ -552,8 +569,10 @@
           "text": "16th Floor, Alpha Tower, Near City Center Mall, Bangalore, KA 560001"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "16th Floor, Alpha Tower, Near City Center Mall, Bengalooru, KA- 560001",
         "16 Floor, Alpha Tower, Near City Center Mall, Bangalore, KA 560001",
@@ -581,12 +600,13 @@
         "opts_bottom": 479.4239999999999,
         "ans_top": 483.76399999999995,
         "ans_page": 5
-      }
+      },
+      "qkey": "9b4b81eb2a284e34"
     },
     {
       "n": 11,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Figure Series",
       "render_mode": "image_full",
       "stem": "Two figures given on the left side of (::) are related with some logic/rule/relation. Select the missing figure on the right side of (::) from the given alternatives based on the same logic/rule/relation.",
       "blocks": [
@@ -595,8 +615,10 @@
           "text": "Two figures given on the left side of (::) are related with some logic/rule/relation. Select the missing figure on the right side of (::) from the given alternatives based on the same logic/rule/relation."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": "img/ssc-cgl-2026-10-08/q011_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-08/q011_orig.webp",
       "options": [
         "A",
         "B",
@@ -611,9 +633,11 @@
       ],
       "answer": 2,
       "passage_id": null,
-      "confidence": 0.95,
-      "warnings": [],
-      "duplicate_of": null,
+      "confidence": 0.85,
+      "warnings": [
+        "Empty option text found for Q11"
+      ],
+      "duplicate_of": "ssc-cgl-2026-10-01:13",
       "_bbox": {
         "page": 5,
         "min_page": 5,
@@ -624,12 +648,13 @@
         "opts_bottom": 756.9359999999999,
         "ans_top": 233.61399999999992,
         "ans_page": 6
-      }
+      },
+      "qkey": "98a678e9152eb277"
     },
     {
       "n": 12,
       "section": "reasoning",
-      "topic": "Statement & Assumption / Argument",
+      "topic": "Statement & Conclusion",
       "render_mode": "text",
       "stem": "In the question a statement is given, followed by two arguments, I and II. You have to consider the statements to be true even if it seems to be at variance from commonly known facts. You have to decide which of the given conclusions, if any, follows from the given statement.\nStatement:\nShould India support all the decisions and policies made by Pakistan.\nArguments:\nI. Yes, as this is the only way to maintain peace among both the nations.\nII. No, as India should have its own opinion on the decisions and policies made by Pakistan as some may be correct and some may be incorrect.",
       "blocks": [
@@ -660,8 +685,10 @@
           "text": "No, as India should have its own opinion on the decisions and policies made by Pakistan as some may be correct and some may be incorrect."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only argument I is strong",
         "Only argument II is strong",
@@ -689,7 +716,8 @@
         "opts_bottom": 451.34399999999994,
         "ans_top": 455.18399999999997,
         "ans_page": 6
-      }
+      },
+      "qkey": "6f757710527cca0b"
     },
     {
       "n": 13,
@@ -703,8 +731,10 @@
           "text": "Pointing to Sakshi, I said, 'She is the daughter of the brother of the son of my wife.' How am I related to Sakshi?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Granddaughter",
         "Grandson",
@@ -732,12 +762,13 @@
         "opts_bottom": 577.6039999999999,
         "ans_top": 581.4739999999999,
         "ans_page": 6
-      }
+      },
+      "qkey": "35b2daddef41acac"
     },
     {
       "n": 14,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Number Series",
       "render_mode": "text",
       "stem": "Find the next element that replace the ? Logically\n1, 15, 85, 435, ?",
       "blocks": [
@@ -750,8 +781,10 @@
           "text": "1, 15, 85, 435, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2186",
         "2185",
@@ -779,12 +812,13 @@
         "opts_bottom": 703.894,
         "ans_top": 707.4939999999999,
         "ans_page": 6
-      }
+      },
+      "qkey": "a38249e8ae6190b8"
     },
     {
       "n": 15,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Classification (odd one out)",
       "render_mode": "image_full",
       "stem": "Eight symbol-number clusters are given below three of which are same. Find the three clusters that are exactly same.\n4",
       "blocks": [
@@ -797,8 +831,10 @@
           "text": "4"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": "img/ssc-cgl-2026-10-08/q015_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-08/q015_orig.webp",
       "options": [
         "A",
         "B",
@@ -818,8 +854,11 @@
       ],
       "answer": 2,
       "passage_id": null,
-      "confidence": 0.95,
-      "warnings": [],
+      "confidence": 0.8,
+      "warnings": [
+        "Expected 4 options, found 9 for Q15",
+        "Duplicate options detected for Q15"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 6,
@@ -831,13 +870,14 @@
         "opts_bottom": 285.21399999999994,
         "ans_top": 289.534,
         "ans_page": 7
-      }
+      },
+      "qkey": "726f003ff2fafc82"
     },
     {
       "n": 16,
       "section": "reasoning",
-      "topic": "Syllogism & Deductive Logic",
-      "render_mode": "text",
+      "topic": "Syllogism",
+      "render_mode": "image_stem",
       "stem": "Read the given statements and conclusions carefully and decide which of the conclusions logically follows(s) from the statements.\nStatements:\n(I) All ships are boats.\n(II) All anchors are ships\nConclusions:\nI. All anchors are boats.\nII. Some ships are anchors.\nIII. No anchor is a boat.\nIV. Some boats are anchors.",
       "blocks": [
         {
@@ -881,8 +921,10 @@
           "text": "Some boats are anchors."
         }
       ],
-      "stem_image": null,
+      "table": null,
+      "stem_image": "img/ssc-cgl-2026-10-08/q016_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-08/q016_orig.webp",
       "options": [
         "All four conclusions follow",
         "Only conclusions I and III follow",
@@ -897,7 +939,7 @@
       ],
       "answer": 3,
       "passage_id": null,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "warnings": [],
       "duplicate_of": null,
       "_bbox": {
@@ -910,7 +952,8 @@
         "opts_bottom": 544.2439999999999,
         "ans_top": 548.324,
         "ans_page": 7
-      }
+      },
+      "qkey": "929643673795c285"
     },
     {
       "n": 17,
@@ -924,8 +967,10 @@
           "text": "In a certain code language, 'GOAT' is coded as '68', 'POLE' is coded as '63'. How will 'FAIL' be coded in that code language?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "85",
         "83",
@@ -953,7 +998,8 @@
         "opts_bottom": 673.654,
         "ans_top": 677.7339999999999,
         "ans_page": 7
-      }
+      },
+      "qkey": "aa010219c3f4bac6"
     },
     {
       "n": 18,
@@ -967,8 +1013,10 @@
           "text": "Amrita is the sister of Bablu. Bablu is the brother of Deepak. Deepak is the son of Malti and Malti is the wife of Lakhan. Nehal is the brother of Lakhan. How is Nehal related to Amrita?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Father's brother",
         "Son 5",
@@ -996,12 +1044,13 @@
         "opts_bottom": 770.64,
         "ans_top": 127.5139999999999,
         "ans_page": 8
-      }
+      },
+      "qkey": "659b7f67032789bc"
     },
     {
       "n": 19,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Directions:\nSelect the correct options from the given alternatives\n10, 110, 220, 340, ....",
       "blocks": [
@@ -1018,8 +1067,10 @@
           "text": "10, 110, 220, 340, ...."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "470",
         "450",
@@ -1047,12 +1098,13 @@
         "opts_bottom": 252.81399999999996,
         "ans_top": 257.1339999999999,
         "ans_page": 8
-      }
+      },
+      "qkey": "fd0927255745992e"
     },
     {
       "n": 20,
       "section": "reasoning",
-      "topic": "Statement & Assumption / Argument",
+      "topic": "Statement & Conclusion",
       "render_mode": "text",
       "stem": "In a hospital, non-local patients wait longer for appointments compared to local patients with similar conditions. Which inference is valid?",
       "blocks": [
@@ -1061,8 +1113,10 @@
           "text": "In a hospital, non-local patients wait longer for appointments compared to local patients with similar conditions. Which inference is valid?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Locals need faster treatment",
         "Locals pay more",
@@ -1090,12 +1144,13 @@
         "opts_bottom": 382.44399999999996,
         "ans_top": 386.52399999999994,
         "ans_page": 8
-      }
+      },
+      "qkey": "bae1646872930a2b"
     },
     {
       "n": 21,
       "section": "reasoning",
-      "topic": "Trigonometry",
+      "topic": "Address Matching",
       "render_mode": "text",
       "stem": "A Candidate ID is a 13-digit number. The structure is non-standard: The first 3 digits are the Year, the next 2 digits are the Batch. The Center Code is formed by taking the 6th, 9th, and 12th digits of the entire\nID. For the Candidate ID 2021543217654, what is the Center Code?",
       "blocks": [
@@ -1109,8 +1164,10 @@
           "text": "For the Candidate ID 2021543217654, what is the Center Code?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "146",
         "175",
@@ -1138,12 +1195,13 @@
         "opts_bottom": 527.924,
         "ans_top": 532.2439999999999,
         "ans_page": 8
-      }
+      },
+      "qkey": "39889a4e87e18f6d"
     },
     {
       "n": 22,
       "section": "reasoning",
-      "topic": "Syllogism & Deductive Logic",
+      "topic": "Syllogism",
       "render_mode": "text",
       "stem": "Some conditional data is provided to you in form of statement you have to check which of the following statement are logically inference from given statement.\nStatement:\nNo student who fails the midterm exam passes the final course. Sarah passed the final course.\nWhat can we infer about Sarah's midterm performance?",
       "blocks": [
@@ -1164,8 +1222,10 @@
           "text": "What can we infer about Sarah's midterm performance?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Sarah got an A on the midterm",
         "Sarah did not fail the midterm exam",
@@ -1193,12 +1253,13 @@
         "opts_bottom": 706.054,
         "ans_top": 710.134,
         "ans_page": 8
-      }
+      },
+      "qkey": "10815f0c686b8258"
     },
     {
       "n": 23,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Address Matching",
       "render_mode": "text",
       "stem": "Choose the address that is the same as the one given below.\nSample Address: Flat C-3, Phase 2, Golden Homes, Navi Mumbai, Maharashtra – 410210\n6",
       "blocks": [
@@ -1215,8 +1276,10 @@
           "text": "6"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Flat C3, Phase 2, Golden Homes, Navi Mumbai, Maharashtra - 410210",
         "Flat C-3, Phase 2, Golden Homes, Navi Mumbai, Maharashtra - 410210",
@@ -1244,7 +1307,8 @@
         "opts_bottom": 155.83399999999995,
         "ans_top": 159.914,
         "ans_page": 9
-      }
+      },
+      "qkey": "d7ea92ac289b8e34"
     },
     {
       "n": 24,
@@ -1258,8 +1322,10 @@
           "text": "If in a certain code language, 'LIFE' is written as '11731', then in that code language, how 'ZONE' may be written?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2514112",
         "2513111",
@@ -1287,12 +1353,13 @@
         "opts_bottom": 285.21399999999994,
         "ans_top": 289.534,
         "ans_page": 9
-      }
+      },
+      "qkey": "f0fa28afa240cc22"
     },
     {
       "n": 25,
       "section": "reasoning",
-      "topic": "Statement & Assumption / Argument",
+      "topic": "Statement & Conclusion",
       "render_mode": "text",
       "stem": "Identify the\nassumption:\n“The company reduced prices to increase sales.”",
       "blocks": [
@@ -1309,8 +1376,10 @@
           "text": "“The company reduced prices to increase sales.”"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Customers prefer cheap products",
         "Lower prices attract more buyers",
@@ -1338,12 +1407,13 @@
         "opts_bottom": 398.52399999999994,
         "ans_top": 402.62399999999997,
         "ans_page": 9
-      }
+      },
+      "qkey": "219ff2464044a61f"
     },
     {
       "n": 26,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which of the following sports includes a ball?",
       "blocks": [
@@ -1352,8 +1422,10 @@
           "text": "Which of the following sports includes a ball?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Boxing",
         "Badminton",
@@ -1381,12 +1453,13 @@
         "opts_bottom": 511.84399999999994,
         "ans_top": 515.924,
         "ans_page": 9
-      }
+      },
+      "qkey": "249de6dda3ea92bb"
     },
     {
       "n": 27,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Sports",
       "render_mode": "text",
       "stem": "Which of the following countries never hosted the Asian Games till 2022?",
       "blocks": [
@@ -1395,8 +1468,10 @@
           "text": "Which of the following countries never hosted the Asian Games till 2022?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Pakistan",
         "South Korea",
@@ -1424,12 +1499,13 @@
         "opts_bottom": 625.154,
         "ans_top": 629.2339999999999,
         "ans_page": 9
-      }
+      },
+      "qkey": "be19a33c6034eedd"
     },
     {
       "n": 28,
       "section": "general_awareness",
-      "topic": "Geometry & Mensuration",
+      "topic": "Geography",
       "render_mode": "text",
       "stem": "Which of the following is not a function of biosphere reserves?",
       "blocks": [
@@ -1438,8 +1514,10 @@
           "text": "Which of the following is not a function of biosphere reserves?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Cultural heritage preservation",
         "Conservation of biodiversity",
@@ -1467,12 +1545,13 @@
         "opts_bottom": 738.454,
         "ans_top": 742.536,
         "ans_page": 9
-      }
+      },
+      "qkey": "d146f8087d9f4136"
     },
     {
       "n": 29,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "image_stem",
       "stem": "7\nQ29. The Land Boundary Agreement with Bangladesh was constitutionalized through which Constitutional Amendment?",
       "blocks": [
@@ -1485,8 +1564,10 @@
           "text": "Q29. The Land Boundary Agreement with Bangladesh was constitutionalized through which Constitutional Amendment?"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-08/q029_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-08/q029_orig.webp",
       "options": [
         "One Hundred and First Amendment",
         "Ninety-Eighth Amendment",
@@ -1514,12 +1595,13 @@
         "opts_bottom": 186.07399999999996,
         "ans_top": 189.914,
         "ans_page": 10
-      }
+      },
+      "qkey": "435660d801118a72"
     },
     {
       "n": 30,
       "section": "general_awareness",
-      "topic": "Geography & Environment",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "On which date did the Gujarat State Assembly make history by passing the Uniform Civil Code (UCC) Bill 2026?",
       "blocks": [
@@ -1528,8 +1610,10 @@
           "text": "On which date did the Gujarat State Assembly make history by passing the Uniform Civil Code (UCC) Bill 2026?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "January 26, 2026",
         "March 24, 2026",
@@ -1557,13 +1641,14 @@
         "opts_bottom": 312.3639999999999,
         "ans_top": 315.96399999999994,
         "ans_page": 10
-      }
+      },
+      "qkey": "515c5af293fcdccb"
     },
     {
       "n": 31,
       "section": "general_awareness",
-      "topic": "Trigonometry",
-      "render_mode": "text",
+      "topic": "Sports",
+      "render_mode": "image_stem",
       "stem": "Match the following regarding the host cities of the Asian Games:\nList-I (Asian Games) List-II (Host City)\nI. 2022 Asian Games\n1. Riyadh\nII. 2026 Asian Games\n2. Hangzhou\nIII. 2030 Asian Games\n3. Doha\nIV. 2034 Asian Games\n4. Aichi-Nagoya\nSelect the correct answer using the code given below:",
       "blocks": [
         {
@@ -1619,8 +1704,33 @@
           "text": "Select the correct answer using the code given below:"
         }
       ],
-      "stem_image": null,
+      "table": {
+        "headers": [
+          "List-I (Asian Games)",
+          "List-II (Host City)"
+        ],
+        "rows": [
+          [
+            "I. 2022 Asian Games",
+            "1. Riyadh"
+          ],
+          [
+            "II. 2026 Asian Games",
+            "2. Hangzhou"
+          ],
+          [
+            "III. 2030 Asian Games",
+            "3. Doha"
+          ],
+          [
+            "IV. 2034 Asian Games",
+            "4. Aichi-Nagoya"
+          ]
+        ]
+      },
+      "stem_image": "img/ssc-cgl-2026-10-08/q031_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-08/q031_orig.webp",
       "options": [
         "I-2, II-4, III-3, IV-1",
         "I-4, II-2, III-1, IV-3",
@@ -1635,7 +1745,7 @@
       ],
       "answer": 0,
       "passage_id": null,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "warnings": [],
       "duplicate_of": null,
       "_bbox": {
@@ -1648,7 +1758,8 @@
         "opts_bottom": 520.2439999999999,
         "ans_top": 524.084,
         "ans_page": 10
-      }
+      },
+      "qkey": "541d2af8295260c9"
     },
     {
       "n": 32,
@@ -1662,8 +1773,10 @@
           "text": "Which statement accurately describes the characteristics of protons in an atom?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "They revolve around the nucleus in fixed orbits.",
         "They have negligible mass compared to electrons.",
@@ -1691,12 +1804,13 @@
         "opts_bottom": 630.674,
         "ans_top": 634.5139999999999,
         "ans_page": 10
-      }
+      },
+      "qkey": "0e3622b1ec18aa1b"
     },
     {
       "n": 33,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "In 2022, the President pardoned a woman jailed for a minor crime. Which Article of the Indian Constitution allows the President to grant pardons?",
       "blocks": [
@@ -1705,8 +1819,10 @@
           "text": "In 2022, the President pardoned a woman jailed for a minor crime. Which Article of the Indian Constitution allows the President to grant pardons?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Article 75",
         "Article 74",
@@ -1734,12 +1850,13 @@
         "opts_bottom": 756.9359999999999,
         "ans_top": 760.8,
         "ans_page": 10
-      }
+      },
+      "qkey": "9a0b53fdbb914c5f"
     },
     {
       "n": 34,
       "section": "general_awareness",
-      "topic": "Trigonometry",
+      "topic": "Current Affairs",
       "render_mode": "image_stem",
       "stem": "8\nQ34. In May 2026, Union Minister of State (Independent Charge) Prataprao Jadhav launched which portal under the Ayush Grid initiative to strengthen digital governance and enhance transparency in the AYUSH sector?",
       "blocks": [
@@ -1752,8 +1869,33 @@
           "text": "Q34. In May 2026, Union Minister of State (Independent Charge) Prataprao Jadhav launched which portal under the Ayush Grid initiative to strengthen digital governance and enhance transparency in the AYUSH sector?"
         }
       ],
+      "table": {
+        "headers": [
+          "List-I (Asian Games)",
+          "List-II (Host City)"
+        ],
+        "rows": [
+          [
+            "I. 2022 Asian Games",
+            "1. Riyadh"
+          ],
+          [
+            "II. 2026 Asian Games",
+            "2. Hangzhou"
+          ],
+          [
+            "III. 2030 Asian Games",
+            "3. Doha"
+          ],
+          [
+            "IV. 2034 Asian Games",
+            "4. Aichi-Nagoya"
+          ]
+        ]
+      },
       "stem_image": "img/ssc-cgl-2026-10-08/q034_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-08/q034_orig.webp",
       "options": [
         "Ayush Setu Portal",
         "Ayush Anudan Portal",
@@ -1781,12 +1923,13 @@
         "opts_bottom": 217.99399999999991,
         "ans_top": 221.85399999999993,
         "ans_page": 11
-      }
+      },
+      "qkey": "f4133b4eefe8a29e"
     },
     {
       "n": 35,
       "section": "general_awareness",
-      "topic": "Geography & Environment",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "In 2026, India will surpass which country to become Sri Lanka's second-largest export destination?",
       "blocks": [
@@ -1795,8 +1938,10 @@
           "text": "In 2026, India will surpass which country to become Sri Lanka's second-largest export destination?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "USA",
         "China",
@@ -1824,12 +1969,13 @@
         "opts_bottom": 344.28399999999993,
         "ans_top": 348.12399999999997,
         "ans_page": 11
-      }
+      },
+      "qkey": "3da1a6a29f23fae9"
     },
     {
       "n": 36,
       "section": "general_awareness",
-      "topic": "Trigonometry",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "The stringent industrial licensing regime in India (pre-1991) often led to which unintended consequence for established firms, despite aiming to prevent monopolies?",
       "blocks": [
@@ -1838,8 +1984,10 @@
           "text": "The stringent industrial licensing regime in India (pre-1991) often led to which unintended consequence for established firms, despite aiming to prevent monopolies?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Excessive foreign competition.",
         "Rapid expansion of small-scale industries.",
@@ -1867,12 +2015,13 @@
         "opts_bottom": 470.304,
         "ans_top": 474.14399999999995,
         "ans_page": 11
-      }
+      },
+      "qkey": "6068dc8d90d82fd5"
     },
     {
       "n": 37,
       "section": "general_awareness",
-      "topic": "Economy & Government Schemes",
+      "topic": "Economy",
       "render_mode": "text",
       "stem": "Consider the following statements regarding privatization:\n(i) Privatization means not transferring ownership of public sector enterprises to private enterprises. (ii) Privatization involves the transfer of management of public sector enterprises to private enterprises.\nChoose the correct answer:",
       "blocks": [
@@ -1890,8 +2039,10 @@
           "text": "Choose the correct answer:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only (i) is true",
         "Both (i) and (ii) are false",
@@ -1919,12 +2070,13 @@
         "opts_bottom": 643.8739999999999,
         "ans_top": 647.7139999999999,
         "ans_page": 11
-      }
+      },
+      "qkey": "e376a5f809b221cd"
     },
     {
       "n": 38,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "Which of the following veto powers is NOT available to the President of India?",
       "blocks": [
@@ -1933,8 +2085,10 @@
           "text": "Which of the following veto powers is NOT available to the President of India?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Absolute Veto",
         "Pocket Veto",
@@ -1962,12 +2116,13 @@
         "opts_bottom": 754.2959999999999,
         "ans_top": 758.16,
         "ans_page": 11
-      }
+      },
+      "qkey": "dc518b2b8d888cee"
     },
     {
       "n": 39,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "image_stem",
       "stem": "9\nQ39. Which of the following subjects is NOT included in the Union List, as per allocation between three lists in seventh schedule, given under Article 246 of the Indian Constitution?",
       "blocks": [
@@ -1980,8 +2135,10 @@
           "text": "Q39. Which of the following subjects is NOT included in the Union List, as per allocation between three lists in seventh schedule, given under Article 246 of the Indian Constitution?"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-08/q039_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-08/q039_orig.webp",
       "options": [
         "Atomic Energy",
         "Railways",
@@ -2009,12 +2166,13 @@
         "opts_bottom": 202.3939999999999,
         "ans_top": 205.99399999999991,
         "ans_page": 12
-      }
+      },
+      "qkey": "0d893568ea78eb62"
     },
     {
       "n": 40,
       "section": "general_awareness",
-      "topic": "Economy & Government Schemes",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "The 1991 economic reforms in India led to rapid industrialisation and expansion of energy-intensive sectors. Which market-based mechanism has India adopted to balance industrial growth, energy efficiency and emissions?",
       "blocks": [
@@ -2023,8 +2181,10 @@
           "text": "The 1991 economic reforms in India led to rapid industrialisation and expansion of energy-intensive sectors. Which market-based mechanism has India adopted to balance industrial growth, energy efficiency and emissions?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Green GDP Accounting",
         "Food Security Act",
@@ -2052,12 +2212,13 @@
         "opts_bottom": 344.28399999999993,
         "ans_top": 348.12399999999997,
         "ans_page": 12
-      }
+      },
+      "qkey": "8ad8d990e7a597e3"
     },
     {
       "n": 41,
       "section": "general_awareness",
-      "topic": "Economy & Government Schemes",
+      "topic": "Current Affairs",
       "render_mode": "text",
       "stem": "Under which mission was the Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY) launched?",
       "blocks": [
@@ -2066,8 +2227,10 @@
           "text": "Under which mission was the Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY) launched?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "National Health Mission",
         "National Rural Livelihoods Mission",
@@ -2095,12 +2258,13 @@
         "opts_bottom": 470.304,
         "ans_top": 474.14399999999995,
         "ans_page": 12
-      }
+      },
+      "qkey": "b27e90792faf0efb"
     },
     {
       "n": 42,
       "section": "general_awareness",
-      "topic": "Economy & Government Schemes",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which of the following industry was emphasized in the second five year plan of India?",
       "blocks": [
@@ -2109,8 +2273,10 @@
           "text": "Which of the following industry was emphasized in the second five year plan of India?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "IT industry",
         "Food processing industry",
@@ -2138,12 +2304,13 @@
         "opts_bottom": 580.7539999999999,
         "ans_top": 584.5939999999999,
         "ans_page": 12
-      }
+      },
+      "qkey": "5dbf6fd930928947"
     },
     {
       "n": 43,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "The Bharatiya Nyaya Sanhita (BNS), 2023 introduced provisions to replace the Indian Penal Code. What is the primary objective of this reform?",
       "blocks": [
@@ -2152,8 +2319,10 @@
           "text": "The Bharatiya Nyaya Sanhita (BNS), 2023 introduced provisions to replace the Indian Penal Code. What is the primary objective of this reform?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "To increase the number of criminal courts in India",
         "To modernize criminal laws and align them with contemporary legal needs",
@@ -2181,12 +2350,13 @@
         "opts_bottom": 707.0139999999999,
         "ans_top": 710.8539999999999,
         "ans_page": 12
-      }
+      },
+      "qkey": "bc22f7df6e39f2d8"
     },
     {
       "n": 44,
       "section": "general_awareness",
-      "topic": "Economy & Government Schemes",
+      "topic": "Economy",
       "render_mode": "text",
       "stem": "What is the public capital expenditure proposed by Union Finance Minister Nirmala Sitharaman for FY 2026-27 in Union Budget 2026-27?\n10",
       "blocks": [
@@ -2199,8 +2369,10 @@
           "text": "10"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹ 10.2 lakh crore",
         "₹ 11.2 lakh crore",
@@ -2228,12 +2400,13 @@
         "opts_bottom": 154.6339999999999,
         "ans_top": 158.23399999999992,
         "ans_page": 13
-      }
+      },
+      "qkey": "1e0e10c302ccd13b"
     },
     {
       "n": 45,
       "section": "general_awareness",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "What was the intended flight profile and duration of the Artemis II mission?",
       "blocks": [
@@ -2242,8 +2415,10 @@
           "text": "What was the intended flight profile and duration of the Artemis II mission?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "3-day mission; Lunar landing at the South Pole",
         "10-day mission; Lunar flyby and return to Earth",
@@ -2271,12 +2446,13 @@
         "opts_bottom": 265.054,
         "ans_top": 268.654,
         "ans_page": 13
-      }
+      },
+      "qkey": "bcdfc8706e53fe7b"
     },
     {
       "n": 46,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "In June 2026, which of the following products from Assam was granted a Geographical Indication (GI) tag?",
       "blocks": [
@@ -2285,8 +2461,10 @@
           "text": "In June 2026, which of the following products from Assam was granted a Geographical Indication (GI) tag?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Pochampally Ikat",
         "Bihu Pepa",
@@ -2314,12 +2492,13 @@
         "opts_bottom": 391.08399999999995,
         "ans_top": 394.94399999999996,
         "ans_page": 13
-      }
+      },
+      "qkey": "339bf963b99f4a44"
     },
     {
       "n": 47,
       "section": "general_awareness",
-      "topic": "Mathematical Operations",
+      "topic": "Geography",
       "render_mode": "text",
       "stem": "Which of the following symbols is a correct representation for air mass above a hot and dry desert region?",
       "blocks": [
@@ -2328,8 +2507,10 @@
           "text": "Which of the following symbols is a correct representation for air mass above a hot and dry desert region?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "cP",
         "cA",
@@ -2357,12 +2538,13 @@
         "opts_bottom": 517.3639999999999,
         "ans_top": 521.204,
         "ans_page": 13
-      }
+      },
+      "qkey": "02994dbfb98e2ca3"
     },
     {
       "n": 48,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Geography",
       "render_mode": "text",
       "stem": "Which of the following is a shallow desert depression formed by wind erosion?",
       "blocks": [
@@ -2371,8 +2553,10 @@
           "text": "Which of the following is a shallow desert depression formed by wind erosion?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Pediment",
         "Deflation hollow",
@@ -2400,12 +2584,13 @@
         "opts_bottom": 627.794,
         "ans_top": 631.394,
         "ans_page": 13
-      }
+      },
+      "qkey": "c65b13614ed7ae21"
     },
     {
       "n": 49,
       "section": "general_awareness",
-      "topic": "Trigonometry",
+      "topic": "Awards & Books",
       "render_mode": "text",
       "stem": "In early 2026, which individual from Chhattisgarh was recognized for outstanding contributions in Social Work with the Padma Shri award?",
       "blocks": [
@@ -2414,8 +2599,10 @@
           "text": "In early 2026, which individual from Chhattisgarh was recognized for outstanding contributions in Social Work with the Padma Shri award?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Dr. Budhri Tati",
         "Dr. Sunil Kumar",
@@ -2443,12 +2630,13 @@
         "opts_bottom": 753.8159999999999,
         "ans_top": 757.68,
         "ans_page": 13
-      }
+      },
+      "qkey": "79abc4a4914161ed"
     },
     {
       "n": 50,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "image_stem",
       "stem": "11\nQ50. ‘Tamu Lochar’ is one of the traditional festivals of the ____________ of Sikkim. It is celebrated to mark the beginning of their new year, which falls on the 15th day of Pusa, according to the Hindu calendar Vikram Samvat and 30th December in the English calendar.",
       "blocks": [
@@ -2461,8 +2649,10 @@
           "text": "Q50. ‘Tamu Lochar’ is one of the traditional festivals of the ____________ of Sikkim. It is celebrated to mark the beginning of their new year, which falls on the 15th day of Pusa, according to the Hindu calendar Vikram Samvat and 30th December in the English calendar."
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-08/q050_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-08/q050_orig.webp",
       "options": [
         "Mangar community",
         "Bhutia community",
@@ -2490,12 +2680,13 @@
         "opts_bottom": 217.99399999999991,
         "ans_top": 221.85399999999993,
         "ans_page": 14
-      }
+      },
+      "qkey": "a358bb7d9250848d"
     },
     {
       "n": 51,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "A man sold two articles for ₹ 850 each. On one article, he earns a profit of 25% and on the other article, he suffers a loss of 15%. What is his overall profit ?",
       "blocks": [
@@ -2504,8 +2695,10 @@
           "text": "A man sold two articles for ₹ 850 each. On one article, he earns a profit of 25% and on the other article, he suffers a loss of 15%. What is his overall profit ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹ 30",
         "₹ 25",
@@ -2533,12 +2726,13 @@
         "opts_bottom": 344.28399999999993,
         "ans_top": 348.12399999999997,
         "ans_page": 14
-      }
+      },
+      "qkey": "5ceca882c842dcdc"
     },
     {
       "n": 52,
       "section": "quantitative_aptitude",
-      "topic": "Trigonometry",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "The perimeter of a rectangular field is 52 meters, and the difference between its length and its breadth is 10 meters. What is the side length of a square whose area is exactly equal to the area of this rectangular field?",
       "blocks": [
@@ -2547,8 +2741,10 @@
           "text": "The perimeter of a rectangular field is 52 meters, and the difference between its length and its breadth is 10 meters. What is the side length of a square whose area is exactly equal to the area of this rectangular field?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "10 meters",
         "12 meters",
@@ -2576,7 +2772,8 @@
         "opts_bottom": 486.14399999999995,
         "ans_top": 490.00399999999996,
         "ans_page": 14
-      }
+      },
+      "qkey": "7f43e64df0be5fd8"
     },
     {
       "n": 53,
@@ -2598,8 +2795,10 @@
           "text": "is compounded yearly? (nearest to Rs. 1)"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-08/q053_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-08/q053_orig.webp",
       "options": [
         "Rs. 4,259",
         "Rs. 4,296",
@@ -2627,12 +2826,13 @@
         "opts_bottom": 618.674,
         "ans_top": 622.5139999999999,
         "ans_page": 14
-      }
+      },
+      "qkey": "45b6eb5b76b73b9b"
     },
     {
       "n": 54,
       "section": "quantitative_aptitude",
-      "topic": "Geometry & Mensuration",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "The base of a right prism is an equilateral triangle with each side measuring 8 cm . Given that the height of the prism is 10 cm , what is its volume?",
       "blocks": [
@@ -2641,8 +2841,10 @@
           "text": "The base of a right prism is an equilateral triangle with each side measuring 8 cm . Given that the height of the prism is 10 cm , what is its volume?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "3203 cubic cm",
         "676.6 cubic cm",
@@ -2670,12 +2872,13 @@
         "opts_bottom": 747.096,
         "ans_top": 750.48,
         "ans_page": 14
-      }
+      },
+      "qkey": "cf0a909767bd6f9f"
     },
     {
       "n": 55,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "image_stem",
       "stem": "12\nQ55. If 𝑎+ 1 = 3 , then find the value of 𝑎 6 + 1\n𝑎 𝑎 6",
       "blocks": [
@@ -2692,8 +2895,10 @@
           "text": "𝑎 𝑎 6"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-08/q055_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-08/q055_orig.webp",
       "options": [
         "324",
         "321",
@@ -2721,12 +2926,13 @@
         "opts_bottom": 194.23399999999992,
         "ans_top": 198.55399999999997,
         "ans_page": 15
-      }
+      },
+      "qkey": "fc294fe06143364b"
     },
     {
       "n": 56,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "Two right prisms have the same height, but their bases are triangles with areas in the ratio 3:5. What is the ratio of their volumes?",
       "blocks": [
@@ -2735,8 +2941,10 @@
           "text": "Two right prisms have the same height, but their bases are triangles with areas in the ratio 3:5. What is the ratio of their volumes?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "3:5",
         "5:3",
@@ -2764,12 +2972,13 @@
         "opts_bottom": 323.8839999999999,
         "ans_top": 327.96399999999994,
         "ans_page": 15
-      }
+      },
+      "qkey": "b42ade896ad561bd"
     },
     {
       "n": 57,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Trigonometry",
       "render_mode": "text",
       "stem": "A right-angled triangle has its angles in the ratio 1 : 2 : 3, and the length of the side opposite to the 60° angle is 6√3\ncm. A geometry student needs to find the length of the hypotenuse of this triangle without using any trigonometric table, purely by the property of a 30°-60°-90° triangle. What is the length of the hypotenuse?",
       "blocks": [
@@ -2782,8 +2991,10 @@
           "text": "cm. A geometry student needs to find the length of the hypotenuse of this triangle without using any trigonometric table, purely by the property of a 30°-60°-90° triangle. What is the length of the hypotenuse?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "6 cm",
         "12√3 cm",
@@ -2811,12 +3022,13 @@
         "opts_bottom": 485.66399999999993,
         "ans_top": 489.76399999999995,
         "ans_page": 15
-      }
+      },
+      "qkey": "d7f6a3d1ebe95fd3"
     },
     {
       "n": 58,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "The ratio of men to women in a hall is 5 :\n3. If 24 more women join and 12 men leave, the ratio becomes 3 :\n2. Find the number of men originally present.",
       "blocks": [
@@ -2835,8 +3047,10 @@
           "text": "Find the number of men originally present."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "440",
         "360",
@@ -2864,12 +3078,13 @@
         "opts_bottom": 615.074,
         "ans_top": 619.394,
         "ans_page": 15
-      }
+      },
+      "qkey": "a2b539c0e0129512"
     },
     {
       "n": 59,
       "section": "quantitative_aptitude",
-      "topic": "Algebra & Number System",
+      "topic": "Number System",
       "render_mode": "image_stem",
       "stem": "Evaluate:\n5.75×5.75×5.75+3.25×3.25×3.25\n= ?\n575×575+325×325−575×325",
       "blocks": [
@@ -2890,8 +3105,10 @@
           "text": "575×575+325×325−575×325"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-08/q059_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-08/q059_orig.webp",
       "options": [
         "0.9",
         "0.09",
@@ -2919,7 +3136,8 @@
         "opts_bottom": 750.9359999999999,
         "ans_top": 755.28,
         "ans_page": 15
-      }
+      },
+      "qkey": "38ee69de341b2178"
     },
     {
       "n": 60,
@@ -2937,8 +3155,10 @@
           "text": "Q60. If 1/(cosec θ + cot θ) = p, then 1/(cosec θ − cot θ) is equal to:"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-08/q060_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-08/q060_orig.webp",
       "options": [
         "p",
         "1/p",
@@ -2966,12 +3186,13 @@
         "opts_bottom": 188.23399999999992,
         "ans_top": 192.31399999999996,
         "ans_page": 16
-      }
+      },
+      "qkey": "2fa9167c1fe8fe91"
     },
     {
       "n": 61,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "Find the ratio of volumes of a sphere to its hemisphere of same radius.",
       "blocks": [
@@ -2980,8 +3201,10 @@
           "text": "Find the ratio of volumes of a sphere to its hemisphere of same radius."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2 : 1",
         "3 : 2",
@@ -3009,12 +3232,13 @@
         "opts_bottom": 301.534,
         "ans_top": 305.6439999999999,
         "ans_page": 16
-      }
+      },
+      "qkey": "c6b1d3a75868a97b"
     },
     {
       "n": 62,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "The diameter of a circular garden is 140\nm. Its area is equal to a rectangular field whose sides are in the ratio 11 :\n7. The perimeter (in m) of the rectangular field is (take π = 22/7):",
       "blocks": [
@@ -3032,8 +3256,10 @@
           "text": "The perimeter (in m) of the rectangular field is (take π = 22/7):"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "360 √2",
         "180 √2",
@@ -3061,12 +3287,13 @@
         "opts_bottom": 430.94399999999996,
         "ans_top": 435.02399999999994,
         "ans_page": 16
-      }
+      },
+      "qkey": "66ab97f367a31faf"
     },
     {
       "n": 63,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Percentage",
       "render_mode": "text",
       "stem": "Alloy A contains metals x and y only in the ratio 3:2, while alloy B contains them in the ratio 5:6. Alloy C is prepared by mixing alloys A and B in the ratio 4:3. The percentage of x in alloy C is:",
       "blocks": [
@@ -3075,8 +3302,10 @@
           "text": "Alloy A contains metals x and y only in the ratio 3:2, while alloy B contains them in the ratio 5:6. Alloy C is prepared by mixing alloys A and B in the ratio 4:3. The percentage of x in alloy C is:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "51%",
         "55%",
@@ -3104,12 +3333,13 @@
         "opts_bottom": 560.324,
         "ans_top": 564.644,
         "ans_page": 16
-      }
+      },
+      "qkey": "ad4f8f2f99809c56"
     },
     {
       "n": 64,
       "section": "quantitative_aptitude",
-      "topic": "Geometry & Mensuration",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "The chord of a circle is 30 cm long, and the height of the minor segment cut off by this chord is 5\ncm. What is the diameter of the circle?",
       "blocks": [
@@ -3122,8 +3352,10 @@
           "text": "cm. What is the diameter of the circle?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "50 cm",
         "55 cm",
@@ -3151,12 +3383,13 @@
         "opts_bottom": 689.7339999999999,
         "ans_top": 694.054,
         "ans_page": 16
-      }
+      },
+      "qkey": "76e6f350a91cf18c"
     },
     {
       "n": 65,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "3 liters of lime syrup are mixed with m liters of water. If the lime syrup is 5% of the mixture, find the value of m.",
       "blocks": [
@@ -3165,8 +3398,10 @@
           "text": "3 liters of lime syrup are mixed with m liters of water. If the lime syrup is 5% of the mixture, find the value of m."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "54 litres 14",
         "60 litres",
@@ -3194,12 +3429,13 @@
         "opts_bottom": 770.64,
         "ans_top": 141.67399999999998,
         "ans_page": 17
-      }
+      },
+      "qkey": "7286529a6cca3de5"
     },
     {
       "n": 66,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "88+47-59+(36+29)×2-94= ?",
       "blocks": [
@@ -3208,8 +3444,10 @@
           "text": "88+47-59+(36+29)×2-94= ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "124",
         "126",
@@ -3237,12 +3475,13 @@
         "opts_bottom": 246.57399999999996,
         "ans_top": 249.93399999999997,
         "ans_page": 17
-      }
+      },
+      "qkey": "9287bce502603d80"
     },
     {
       "n": 67,
       "section": "quantitative_aptitude",
-      "topic": "Trigonometry",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Three candidates contested an election. The first candidate got 40% votes and the second got 30% votes. If the total number of votes polled were 36,000, find the number of votes obtained by the third candidate.",
       "blocks": [
@@ -3251,8 +3490,10 @@
           "text": "Three candidates contested an election. The first candidate got 40% votes and the second got 30% votes. If the total number of votes polled were 36,000, find the number of votes obtained by the third candidate."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "10,800",
         "10,200",
@@ -3280,7 +3521,8 @@
         "opts_bottom": 385.804,
         "ans_top": 389.4239999999999,
         "ans_page": 17
-      }
+      },
+      "qkey": "41554eaeeccf84c3"
     },
     {
       "n": 68,
@@ -3294,8 +3536,10 @@
           "text": "If sin A = 3/5, and A is acute, find the value of sec² A - tan² A."
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-08/q068_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-08/q068_orig.webp",
       "options": [
         "-2",
         "-3",
@@ -3323,7 +3567,8 @@
         "opts_bottom": 494.32399999999996,
         "ans_top": 497.68399999999997,
         "ans_page": 17
-      }
+      },
+      "qkey": "cbce1b4f215c0b53"
     },
     {
       "n": 69,
@@ -3337,8 +3582,10 @@
           "text": "Two trains leave the same station and travel in the same direction. If the faster train moves at 54 km/h and the distance between them becomes 42 km after 6 hours, what is the speed of the slower train?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "47 km/h",
         "48 km/h",
@@ -3366,12 +3613,13 @@
         "opts_bottom": 633.554,
         "ans_top": 636.914,
         "ans_page": 17
-      }
+      },
+      "qkey": "a70ff344579ba7a5"
     },
     {
       "n": 70,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Percentage",
       "render_mode": "text",
       "stem": "If the length of a rectangular field is increased by 25%, then by what percentage should its breadth be reduced so that the area of the field remains constant?",
       "blocks": [
@@ -3380,8 +3628,10 @@
           "text": "If the length of a rectangular field is increased by 25%, then by what percentage should its breadth be reduced so that the area of the field remains constant?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "18%",
         "20%",
@@ -3409,12 +3659,13 @@
         "opts_bottom": 757.4399999999999,
         "ans_top": 761.52,
         "ans_page": 17
-      }
+      },
+      "qkey": "3bcb32022b857981"
     },
     {
       "n": 71,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Algebra",
       "render_mode": "image_stem",
       "stem": "15\nQ71. During a sale, 52% of the goods are sold at 32% profit, 25% of the remaining goods are sold at 42% profit and the still remaining goods are sold at a loss of 11%. If there is an overall profit of x%, then what is the value of x?",
       "blocks": [
@@ -3427,8 +3678,10 @@
           "text": "Q71. During a sale, 52% of the goods are sold at 32% profit, 25% of the remaining goods are sold at 42% profit and the still remaining goods are sold at a loss of 11%. If there is an overall profit of x%, then what is the value of x?"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-08/q071_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-08/q071_orig.webp",
       "options": [
         "17.72",
         "16",
@@ -3456,12 +3709,13 @@
         "opts_bottom": 220.6339999999999,
         "ans_top": 224.73399999999992,
         "ans_page": 18
-      }
+      },
+      "qkey": "2489528a19d974b6"
     },
     {
       "n": 72,
       "section": "quantitative_aptitude",
-      "topic": "General Science",
+      "topic": "Average",
       "render_mode": "text",
       "stem": "A group of 12 students appeared for a physics test. The average of the top 6 scores was 84.5, and the average of the bottom 6 scores was 72.75. Later, it was found that a decimal error had occurred, and one of the scores from the bottom half was mistakenly recorded as 58.2 instead of 85.2. What is the corrected overall average of the group?",
       "blocks": [
@@ -3470,8 +3724,10 @@
           "text": "A group of 12 students appeared for a physics test. The average of the top 6 scores was 84.5, and the average of the bottom 6 scores was 72.75. Later, it was found that a decimal error had occurred, and one of the scores from the bottom half was mistakenly recorded as 58.2 instead of 85.2. What is the corrected overall average of the group?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "80.25",
         "79.95",
@@ -3499,12 +3755,13 @@
         "opts_bottom": 382.44399999999996,
         "ans_top": 386.52399999999994,
         "ans_page": 18
-      }
+      },
+      "qkey": "113fa1833a6948da"
     },
     {
       "n": 73,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Which one of the following statements is FALSE?",
       "blocks": [
@@ -3513,8 +3770,10 @@
           "text": "Which one of the following statements is FALSE?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Every irrational number is real",
         "Rational and irrational numbers are real",
@@ -3542,7 +3801,8 @@
         "opts_bottom": 495.76399999999995,
         "ans_top": 499.84399999999994,
         "ans_page": 18
-      }
+      },
+      "qkey": "b6cbafbda0b8ae15"
     },
     {
       "n": 74,
@@ -3560,8 +3820,10 @@
           "text": "She received a simple interest of ₹280 on the same amount for the same time period. What is the rate of interest per annum?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "18%",
         "12%",
@@ -3589,12 +3851,13 @@
         "opts_bottom": 657.554,
         "ans_top": 661.654,
         "ans_page": 18
-      }
+      },
+      "qkey": "daa7d2c9ccecdd85"
     },
     {
       "n": 75,
       "section": "quantitative_aptitude",
-      "topic": "Time, Speed & Distance",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "Two completely distinct geometric circles possess radii measuring precisely 15 cm and 10 cm respectively. The straight linear distance spanning perfectly between their two central anchor points is officially measured as 35\ncm. What is the mathematical length of the direct common tangent connecting these two circular boundaries?",
       "blocks": [
@@ -3607,8 +3870,10 @@
           "text": "cm. What is the mathematical length of the direct common tangent connecting these two circular boundaries?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "20√3 cm 16",
         "15√2 cm",
@@ -3636,12 +3901,13 @@
         "opts_bottom": 772.8,
         "ans_top": 148.154,
         "ans_page": 19
-      }
+      },
+      "qkey": "921086701115c74b"
     },
     {
       "n": 76,
       "section": "english",
-      "topic": "Cloze Test & Fill in the Blanks",
+      "topic": "Fill in the Blanks",
       "render_mode": "text",
       "stem": "Fill in the Blank 1.",
       "blocks": [
@@ -3650,8 +3916,10 @@
           "text": "Fill in the Blank 1."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "exculpation",
         "cavil",
@@ -3679,12 +3947,13 @@
         "opts_bottom": 720.2139999999999,
         "ans_top": 724.774,
         "ans_page": 19
-      }
+      },
+      "qkey": "29cf0c862aede668"
     },
     {
       "n": 77,
       "section": "english",
-      "topic": "Cloze Test & Fill in the Blanks",
+      "topic": "Fill in the Blanks",
       "render_mode": "text",
       "stem": "Fill in the Blank 2.\n17",
       "blocks": [
@@ -3697,8 +3966,10 @@
           "text": "17"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "congruous",
         "refractory",
@@ -3726,12 +3997,13 @@
         "opts_bottom": 155.83399999999995,
         "ans_top": 159.914,
         "ans_page": 20
-      }
+      },
+      "qkey": "7a62eb2bdb9edbc4"
     },
     {
       "n": 78,
       "section": "english",
-      "topic": "Cloze Test & Fill in the Blanks",
+      "topic": "Fill in the Blanks",
       "render_mode": "text",
       "stem": "Fill in the Blank 3.",
       "blocks": [
@@ -3740,8 +4012,10 @@
           "text": "Fill in the Blank 3."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "inimical",
         "receptive",
@@ -3769,12 +4043,13 @@
         "opts_bottom": 269.1339999999999,
         "ans_top": 273.21399999999994,
         "ans_page": 20
-      }
+      },
+      "qkey": "633ba9726c6ba883"
     },
     {
       "n": 79,
       "section": "english",
-      "topic": "Cloze Test & Fill in the Blanks",
+      "topic": "Fill in the Blanks",
       "render_mode": "text",
       "stem": "Fill in the Blank 4.",
       "blocks": [
@@ -3783,8 +4058,10 @@
           "text": "Fill in the Blank 4."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "innocuous",
         "recondite",
@@ -3812,12 +4089,13 @@
         "opts_bottom": 382.44399999999996,
         "ans_top": 386.52399999999994,
         "ans_page": 20
-      }
+      },
+      "qkey": "f93583d0854beb66"
     },
     {
       "n": 80,
       "section": "english",
-      "topic": "Cloze Test & Fill in the Blanks",
+      "topic": "Fill in the Blanks",
       "render_mode": "text",
       "stem": "Fill in the Blank 5.",
       "blocks": [
@@ -3826,8 +4104,10 @@
           "text": "Fill in the Blank 5."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "verisimilar",
         "veracious",
@@ -3855,12 +4135,13 @@
         "opts_bottom": 495.76399999999995,
         "ans_top": 499.84399999999994,
         "ans_page": 20
-      }
+      },
+      "qkey": "85f019e37113f02b"
     },
     {
       "n": 81,
       "section": "english",
-      "topic": "Vocabulary: Synonyms & Antonyms",
+      "topic": "Synonyms & Antonyms",
       "render_mode": "text",
       "stem": "Select the most appropriate synonym of the given word.\nSuave",
       "blocks": [
@@ -3873,8 +4154,10 @@
           "text": "Suave"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Urbane",
         "Prodigal",
@@ -3902,7 +4185,8 @@
         "opts_bottom": 625.154,
         "ans_top": 629.2339999999999,
         "ans_page": 20
-      }
+      },
+      "qkey": "339e8ea7d5bf053b"
     },
     {
       "n": 82,
@@ -3920,8 +4204,10 @@
           "text": "Be up to the minute."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "At the last possible instant or opportunity",
         "To wait or pause",
@@ -3949,12 +4235,13 @@
         "opts_bottom": 754.536,
         "ans_top": 758.64,
         "ans_page": 20
-      }
+      },
+      "qkey": "ede60ce9a2525d3b"
     },
     {
       "n": 83,
       "section": "english",
-      "topic": "Idioms & Phrases",
+      "topic": "Reading Comprehension",
       "render_mode": "image_stem",
       "stem": "18\nQ83. Which of the following idioms given in the alternatives has the meaning?\nEagerly, with great enthusiasm, or ready to enjoy oneself.",
       "blocks": [
@@ -3971,8 +4258,10 @@
           "text": "Eagerly, with great enthusiasm, or ready to enjoy oneself."
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-08/q083_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-08/q083_orig.webp",
       "options": [
         "Bear the bell",
         "Passing bells",
@@ -4000,12 +4289,13 @@
         "opts_bottom": 205.5139999999999,
         "ans_top": 209.83399999999995,
         "ans_page": 21
-      }
+      },
+      "qkey": "2ef11f597151efe7"
     },
     {
       "n": 84,
       "section": "english",
-      "topic": "Vocabulary: Synonyms & Antonyms",
+      "topic": "Synonyms & Antonyms",
       "render_mode": "text",
       "stem": "What is the antonym of \"Irascible\"?",
       "blocks": [
@@ -4014,8 +4304,10 @@
           "text": "What is the antonym of \"Irascible\"?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Petulant",
         "Tranquil",
@@ -4043,7 +4335,8 @@
         "opts_bottom": 320.524,
         "ans_top": 324.84399999999994,
         "ans_page": 21
-      }
+      },
+      "qkey": "ef798b393fe7eea8"
     },
     {
       "n": 85,
@@ -4057,8 +4350,10 @@
           "text": "Choose the most appropriate conversion of the following sentence into Direct Speech. The librarian requested us to maintain silence in the reading room."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "The librarian said to us, \"Maintain silence in the reading room.\"",
         "The librarian said, \"Please maintain silence in the reading room.\"",
@@ -4086,12 +4381,13 @@
         "opts_bottom": 451.82399999999996,
         "ans_top": 456.14399999999995,
         "ans_page": 21
-      }
+      },
+      "qkey": "88012c37c5c2ce17"
     },
     {
       "n": 86,
       "section": "english",
-      "topic": "Direct & Indirect Speech",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "From the given alternatives, select the correct direct narration of the given indirect narration. Shivi told Rahul that he had realized that the mysterious footprints in the snow were actually made by a very large neighborhood dog.",
       "blocks": [
@@ -4100,8 +4396,10 @@
           "text": "From the given alternatives, select the correct direct narration of the given indirect narration. Shivi told Rahul that he had realized that the mysterious footprints in the snow were actually made by a very large neighborhood dog."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Shivi said to Rahul, \"He realized that the mysterious footprints in the snow were actually made by a very large neighborhood dog.\"",
         "Shivi said to Rahul, \"He realizes that the mysterious footprints in the snow were actually made by a very large neighborhood dog.\"",
@@ -4129,12 +4427,13 @@
         "opts_bottom": 648.674,
         "ans_top": 669.574,
         "ans_page": 21
-      }
+      },
+      "qkey": "cdf759129cc1f9aa"
     },
     {
       "n": 87,
       "section": "english",
-      "topic": "Spelling Correction",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the option with the correct spelling that can replace the highlighted word in the given sentence. If the spelling in the given sentence is already correct, choose Option \"No replacement required\".\nHis actions were considered an anathima to the entire community, leading to his exile.\n19",
       "blocks": [
@@ -4151,8 +4450,10 @@
           "text": "19"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "anethema",
         "anathama",
@@ -4180,7 +4481,8 @@
         "opts_bottom": 156.07399999999996,
         "ans_top": 160.3939999999999,
         "ans_page": 22
-      }
+      },
+      "qkey": "fb147d0fcd233b93"
     },
     {
       "n": 88,
@@ -4198,8 +4500,10 @@
           "text": "The victims were provided food and shelter by the volunteers."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "The volunteers were providing food and shelter to the victims.",
         "The volunteers have provided food and shelter to the victims.",
@@ -4227,12 +4531,13 @@
         "opts_bottom": 302.7339999999999,
         "ans_top": 307.08399999999995,
         "ans_page": 22
-      }
+      },
+      "qkey": "1c44d063692f7656"
     },
     {
       "n": 89,
       "section": "english",
-      "topic": "Para Jumbles & Sentence Rearrangement",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\n1. In today's fast-paced world, it can be easy to feel disconnected from others.\n2. That's why it's important to make time for face-to-face interactions with friends and loved ones.\n3. Social media and technology have made it easier than ever to stay in touch, but they can also contribute to feelings of isolation.\n4. By prioritizing these connections, we can improve our mental health and overall well-being.",
       "blocks": [
@@ -4261,8 +4566,10 @@
           "text": "By prioritizing these connections, we can improve our mental health and overall well-being."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1324",
         "1234",
@@ -4290,49 +4597,36 @@
         "opts_bottom": 514.7239999999999,
         "ans_top": 519.0439999999999,
         "ans_page": 22
-      }
+      },
+      "qkey": "d8008049099a179f"
     },
     {
       "n": 90,
       "section": "english",
-      "topic": "Para Jumbles & Sentence Rearrangement",
-      "render_mode": "text",
-      "stem": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. One of the earliest known vacuum cleaners was so large that it had to be hauled from house to house.\nB. Its giant hoses were popped through the windows of customers.\nC. Vacuum cleaners were originally horse-drawn.\nD. A gas-powered motor generated the suction that pulled the dirt and debris into a glass container where onlookers could gawk at the volume of filth coming from their neighbours' homes.",
+      "topic": "Reading Comprehension",
+      "render_mode": "image_full",
+      "stem": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.",
       "blocks": [
         {
           "type": "paragraph",
           "text": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph."
-        },
-        {
-          "type": "list_item",
-          "marker": "A.",
-          "text": "One of the earliest known vacuum cleaners was so large that it had to be hauled from house to house."
-        },
-        {
-          "type": "list_item",
-          "marker": "B.",
-          "text": "Its giant hoses were popped through the windows of customers."
-        },
-        {
-          "type": "list_item",
-          "marker": "C.",
-          "text": "Vacuum cleaners were originally horse-drawn."
-        },
-        {
-          "type": "list_item",
-          "marker": "D.",
-          "text": "A gas-powered motor generated the suction that pulled the dirt and debris into a glass container where onlookers could gawk at the volume of filth coming from their neighbours' homes."
         }
       ],
+      "table": null,
       "stem_image": null,
-      "full_image": null,
+      "full_image": "img/ssc-cgl-2026-10-08/q090_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-08/q090_orig.webp",
       "options": [
-        "CBDA",
-        "CDAB",
-        "CABD",
-        "CADB 20"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
       "raw_options": [
+        "One of the earliest known vacuum cleaners was so large that it had to be hauled from house to house.",
+        "Its giant hoses were popped through the windows of customers.",
+        "Vacuum cleaners were originally horse-drawn.",
+        "A gas-powered motor generated the suction that pulled the dirt and debris into a glass container where onlookers could gawk at the volume of filth coming from their neighbours' homes.",
         "CBDA",
         "CDAB",
         "CABD",
@@ -4340,20 +4634,23 @@
       ],
       "answer": 2,
       "passage_id": null,
-      "confidence": 1.0,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Expected 4 options, found 8 for Q90"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 22,
         "min_page": 22,
         "max_page": 22,
         "stem_top": 551.684,
-        "stem_bottom": 677.7339999999999,
-        "first_opt_top": 682.054,
+        "stem_bottom": 580.0339999999999,
+        "first_opt_top": 584.354,
         "opts_bottom": 743.014,
         "ans_top": 747.3599999999999,
         "ans_page": 22
-      }
+      },
+      "qkey": "5fdd28e2c6aa4e24"
     },
     {
       "n": 91,
@@ -4371,8 +4668,10 @@
           "text": "Q91. From the alternatives given below, select the correct passive voice of the following sentence. The usher must have made the guests sit by the time the dinner was ready."
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-08/q091_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-08/q091_orig.webp",
       "options": [
         "The guests must have been made sit by the usher by the time the dinner was ready.",
         "The guests must have been made to sit by the usher by the time the dinner was ready.",
@@ -4400,12 +4699,13 @@
         "opts_bottom": 186.07399999999996,
         "ans_top": 189.914,
         "ans_page": 23
-      }
+      },
+      "qkey": "157739a1df4861b6"
     },
     {
       "n": 92,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "What is the term for a government controlled by monopolists?",
       "blocks": [
@@ -4414,8 +4714,10 @@
           "text": "What is the term for a government controlled by monopolists?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Oligarchy",
         "Plutocracy",
@@ -4443,12 +4745,13 @@
         "opts_bottom": 296.4939999999999,
         "ans_top": 300.3639999999999,
         "ans_page": 23
-      }
+      },
+      "qkey": "f8e28083f4a2dc2d"
     },
     {
       "n": 93,
       "section": "english",
-      "topic": "Spotting Errors & Sentence Correction",
+      "topic": "Error Spotting",
       "render_mode": "text",
       "stem": "Directions:\nIdentify the part containing a GRAMMATICAL ERROR.\nThe investigative committee / decided to look into / the irregularities and eventually / looked them over carefully.",
       "blocks": [
@@ -4465,8 +4768,10 @@
           "text": "The investigative committee / decided to look into / the irregularities and eventually / looked them over carefully."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "The investigative committee",
         "decided to look into",
@@ -4494,53 +4799,36 @@
         "opts_bottom": 438.38399999999996,
         "ans_top": 442.22399999999993,
         "ans_page": 23
-      }
+      },
+      "qkey": "0ebee7b80f818ebc"
     },
     {
       "n": 94,
       "section": "english",
-      "topic": "Para Jumbles & Sentence Rearrangement",
-      "render_mode": "text",
-      "stem": "Given below are six sentences taken from a paragraph. The first and the last sentences are numbered S1 and S2 and are placed in their fixed positions respectively and are fixed in their positions. The other four sentences between the first and last sentences are jumbled up and are numbered A, B, C and D. Rearrange the jumbled sentences in a logical sequence keeping the unity and coherence of the paragraph intact. Choose the correct alternative that best describes the sequence. S1 Two days and two nights did Peter sleep without once awakening.\nA. He looked; there were two bags of gold.\nB. When he came to himself, on the third day, he looked long at all the corners of his hut but in vain did he endeavour to recollect what had taken place; his memory was like a miser's pocket from which you cannot entice a quarter of a kopek.\nC. Stretching himself, he heard something clash at his feet.\nD. Then only, as if in a dream, he recollected that he had been seeking for treasure and that something had frightened him in the woods.\nS2 But at what price he had obtained it, and how, he could by no means tell.",
+      "topic": "Para Jumbles",
+      "render_mode": "image_full",
+      "stem": "Given below are six sentences taken from a paragraph. The first and the last sentences are numbered S1 and S2 and are placed in their fixed positions respectively and are fixed in their positions. The other four sentences between the first and last sentences are jumbled up and are numbered A, B, C and D. Rearrange the jumbled sentences in a logical sequence keeping the unity and coherence of the paragraph intact. Choose the correct alternative that best describes the sequence. S1 Two days and two nights did Peter sleep without once awakening.",
       "blocks": [
         {
           "type": "paragraph",
           "text": "Given below are six sentences taken from a paragraph. The first and the last sentences are numbered S1 and S2 and are placed in their fixed positions respectively and are fixed in their positions. The other four sentences between the first and last sentences are jumbled up and are numbered A, B, C and D. Rearrange the jumbled sentences in a logical sequence keeping the unity and coherence of the paragraph intact. Choose the correct alternative that best describes the sequence. S1 Two days and two nights did Peter sleep without once awakening."
-        },
-        {
-          "type": "list_item",
-          "marker": "A.",
-          "text": "He looked; there were two bags of gold."
-        },
-        {
-          "type": "list_item",
-          "marker": "B.",
-          "text": "When he came to himself, on the third day, he looked long at all the corners of his hut but in vain did he endeavour to recollect what had taken place; his memory was like a miser's pocket from which you cannot entice a quarter of a kopek."
-        },
-        {
-          "type": "list_item",
-          "marker": "C.",
-          "text": "Stretching himself, he heard something clash at his feet."
-        },
-        {
-          "type": "list_item",
-          "marker": "D.",
-          "text": "Then only, as if in a dream, he recollected that he had been seeking for treasure and that something had frightened him in the woods."
-        },
-        {
-          "type": "paragraph",
-          "text": "S2 But at what price he had obtained it, and how, he could by no means tell."
         }
       ],
+      "table": null,
       "stem_image": null,
-      "full_image": null,
+      "full_image": "img/ssc-cgl-2026-10-08/q094_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-08/q094_orig.webp",
       "options": [
-        "CADB",
-        "BCAD",
-        "ACDB",
-        "CDBA 21"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
       "raw_options": [
+        "He looked; there were two bags of gold.",
+        "When he came to himself, on the third day, he looked long at all the corners of his hut but in vain did he endeavour to recollect what had taken place; his memory was like a miser's pocket from which you cannot entice a quarter of a kopek.",
+        "Stretching himself, he heard something clash at his feet.",
+        "Then only, as if in a dream, he recollected that he had been seeking for treasure and that something had frightened him in the woods. S2 But at what price he had obtained it, and how, he could by no means tell.",
         "CADB",
         "BCAD",
         "ACDB",
@@ -4548,27 +4836,30 @@
       ],
       "answer": 1,
       "passage_id": null,
-      "confidence": 1.0,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Expected 4 options, found 8 for Q94"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 23,
         "min_page": 23,
         "max_page": 23,
         "stem_top": 473.66399999999993,
-        "stem_bottom": 690.934,
-        "first_opt_top": 694.5339999999999,
+        "stem_bottom": 564.644,
+        "first_opt_top": 568.5139999999999,
         "opts_bottom": 753.8159999999999,
         "ans_top": 757.68,
         "ans_page": 23
-      }
+      },
+      "qkey": "b8bd5163e7af4801"
     },
     {
       "n": 95,
       "section": "english",
-      "topic": "Para Jumbles & Sentence Rearrangement",
+      "topic": "Reading Comprehension",
       "render_mode": "image_stem",
-      "stem": "21\nQ95. Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. The Voynich Manuscript is a 240-page medieval tome written in an unknown language that has baffled scholars and code-breakers for years.\nB. All attempts to translate the book’s text or identify the plants depicted in it have failed.\nC. The manuscript is believed to have originated sometime between 1404 and 1438.\nD. It is filled with enigmatic illustrations and diagrams that seem to depict everything from unusual plants to women with swollen bellies bathing in green pools.",
+      "stem": "21\nQ95. Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.",
       "blocks": [
         {
           "type": "paragraph",
@@ -4577,37 +4868,27 @@
         {
           "type": "paragraph",
           "text": "Q95. Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph."
-        },
-        {
-          "type": "list_item",
-          "marker": "A.",
-          "text": "The Voynich Manuscript is a 240-page medieval tome written in an unknown language that has baffled scholars and code-breakers for years."
-        },
-        {
-          "type": "list_item",
-          "marker": "B.",
-          "text": "All attempts to translate the book’s text or identify the plants depicted in it have failed."
-        },
-        {
-          "type": "list_item",
-          "marker": "C.",
-          "text": "The manuscript is believed to have originated sometime between 1404 and 1438."
-        },
-        {
-          "type": "list_item",
-          "marker": "D.",
-          "text": "It is filled with enigmatic illustrations and diagrams that seem to depict everything from unusual plants to women with swollen bellies bathing in green pools."
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-08/q095_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-08/q095_orig.webp",
       "options": [
+        "The Voynich Manuscript is a 240-page medieval tome written in an unknown language that has baffled scholars and code-breakers for years.",
+        "All attempts to translate the book’s text or identify the plants depicted in it have failed.",
+        "The manuscript is believed to have originated sometime between 1404 and 1438.",
+        "It is filled with enigmatic illustrations and diagrams that seem to depict everything from unusual plants to women with swollen bellies bathing in green pools.",
         "ACDB",
         "ADBC",
         "ABDC",
         "ACBD"
       ],
       "raw_options": [
+        "The Voynich Manuscript is a 240-page medieval tome written in an unknown language that has baffled scholars and code-breakers for years.",
+        "All attempts to translate the book’s text or identify the plants depicted in it have failed.",
+        "The manuscript is believed to have originated sometime between 1404 and 1438.",
+        "It is filled with enigmatic illustrations and diagrams that seem to depict everything from unusual plants to women with swollen bellies bathing in green pools.",
         "ACDB",
         "ADBC",
         "ABDC",
@@ -4615,8 +4896,10 @@
       ],
       "answer": 0,
       "passage_id": null,
-      "confidence": 0.95,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Expected 4 options, found 8 for Q95"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 23,
@@ -4624,16 +4907,17 @@
         "max_page": 24,
         "stem_top": 111.404,
         "stem_bottom": 803.136,
-        "first_opt_top": 240.81399999999996,
+        "first_opt_top": 143.83399999999995,
         "opts_bottom": 301.534,
         "ans_top": 305.6439999999999,
         "ans_page": 24
-      }
+      },
+      "qkey": "e2dc806f6ffe1c80"
     },
     {
       "n": 96,
       "section": "english",
-      "topic": "Spelling Correction",
+      "topic": "Spelling",
       "render_mode": "text",
       "stem": "Choose the correctly spelt word from the given options.",
       "blocks": [
@@ -4642,8 +4926,10 @@
           "text": "Choose the correctly spelt word from the given options."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Playright",
         "Playrite",
@@ -4671,7 +4957,8 @@
         "opts_bottom": 414.62399999999997,
         "ans_top": 418.94399999999996,
         "ans_page": 24
-      }
+      },
+      "qkey": "878e19aa16c5065b"
     },
     {
       "n": 97,
@@ -4689,8 +4976,10 @@
           "text": "He warned that if we did not act immediately, the consequences would be irreversible."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "He said, \"If you didn't act immediately, the consequences will be irreversible.\"",
         "He said, \"If you don't act immediately, the consequences will be irreversible.\"",
@@ -4718,12 +5007,13 @@
         "opts_bottom": 560.324,
         "ans_top": 564.644,
         "ans_page": 24
-      }
+      },
+      "qkey": "8eed3d1aa5bec0fe"
     },
     {
       "n": 98,
       "section": "english",
-      "topic": "Direct & Indirect Speech",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Choose the correct indirect narration of the following statement from the given alternatives: The trainer said to the trainees, \"Go on writing this paragraph till you understand it very clearly.\"",
       "blocks": [
@@ -4732,8 +5022,10 @@
           "text": "Choose the correct indirect narration of the following statement from the given alternatives: The trainer said to the trainees, \"Go on writing this paragraph till you understand it very clearly.\""
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "The trainer asked the trainees going on writing that paragraph till they understood it very clearly.",
         "The trainer asked the trainees to go on writing that paragraph till they understood it very clearly.",
@@ -4761,7 +5053,8 @@
         "opts_bottom": 689.7339999999999,
         "ans_top": 710.134,
         "ans_page": 24
-      }
+      },
+      "qkey": "9fc6cb958ba9885c"
     },
     {
       "n": 99,
@@ -4779,8 +5072,10 @@
           "text": "22"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "She said, \"I started attending yoga classes because I wants to lose weight.\"",
         "She said, \"I have started attending yoga classes because I want to lose weight.\"",
@@ -4808,7 +5103,8 @@
         "opts_bottom": 155.83399999999995,
         "ans_top": 159.914,
         "ans_page": 27
-      }
+      },
+      "qkey": "d63878d2c2799095"
     },
     {
       "n": 100,
@@ -4822,8 +5118,10 @@
           "text": "Choose the most appropriate conversion of the following sentence into Direct Speech. He asked her whether she wanted tea or coffee with her breakfast."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "He asked her, \"You want tea or coffee with your breakfast?\"",
         "He said, \"Whether you want tea or coffee with your breakfast?\"",
@@ -4851,7 +5149,8 @@
         "opts_bottom": 285.21399999999994,
         "ans_top": 289.534,
         "ans_page": 27
-      }
+      },
+      "qkey": "d3ef8597ad4157e6"
     }
   ]
 }

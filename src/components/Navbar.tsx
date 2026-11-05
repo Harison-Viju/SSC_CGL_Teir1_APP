@@ -17,6 +17,8 @@ import {
   Moon,
   Sparkles,
   Trophy,
+  Eye,
+  Target,
 } from "lucide-react";
 import { useAppStore } from "../store/useAppStore";
 
@@ -31,8 +33,10 @@ export const Navbar: React.FC = () => {
 
   const navLinks = [
     { to: "/", label: "Home", icon: Home },
+    { to: "/train", label: "Train", icon: Target },
     { to: "/library", label: "Library", icon: BookOpen },
     { to: "/leaderboard", label: "Leaderboard", icon: Trophy },
+    { to: "/review", label: "Review", icon: Eye },
     { to: "/mistakes", label: "Mistakes", icon: BookmarkCheck },
     { to: "/analytics", label: "Analytics", icon: BarChart3 },
     { to: "/settings", label: "Settings", icon: Settings },
@@ -63,7 +67,7 @@ export const Navbar: React.FC = () => {
         </Link>
 
         {/* Desktop Nav Items */}
-        <nav className="hidden md:flex items-center gap-1">
+        <nav className="hidden lg:flex items-center gap-1">
           {navLinks.map((link) => {
             const Icon = link.icon;
             const active = isCurrent(link.to);

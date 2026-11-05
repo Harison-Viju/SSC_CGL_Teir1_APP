@@ -155,7 +155,10 @@ export const HomeView: React.FC = () => {
           {/* Mini week calendar tracker */}
           <div className="flex justify-between items-center pt-2">
             {daysOfWeek.map((day, idx) => {
-              const isActive = idx <= currentDayIndex;
+              const isActive =
+                userStats.streak > 0 &&
+                idx <= currentDayIndex &&
+                currentDayIndex - idx < userStats.streak;
               return (
                 <div key={idx} className="flex flex-col items-center gap-1.5">
                   <span className="text-[11px] font-bold text-slate-400 dark:text-slate-500">
@@ -189,9 +192,8 @@ export const HomeView: React.FC = () => {
               Accuracy:{" "}
               <span className="font-bold text-emerald-600 dark:text-emerald-400">
                 {userStats.totalAnswered > 0
-                  ? Math.round((userStats.totalCorrect / userStats.totalAnswered) * 100)
-                  : 100}
-                %
+                  ? `${Math.round((userStats.totalCorrect / userStats.totalAnswered) * 100)}%`
+                  : "0%"}
               </span>
             </p>
           </div>
@@ -273,23 +275,23 @@ export const HomeView: React.FC = () => {
         </div>
       </div>
 
-      {/* Live Peer Rankings & Leaderboard Section */}
+      {/* Solo Tier & Progress Card */}
       <div className="space-y-4">
         <div className="flex items-center justify-between">
           <div>
             <h2 className="text-lg font-bold text-slate-900 dark:text-white flex items-center gap-2">
               <Trophy className="w-5 h-5 text-amber-500 fill-amber-500" />
-              Live Leaderboard & Peer Rankings
+              Practice Tier & Progress
             </h2>
             <p className="text-xs text-slate-500 dark:text-slate-400">
-              See where you stand among top SSC CGL aspirants nationwide.
+              Track your personal preparation milestones and local XP level.
             </p>
           </div>
           <Link
             to="/leaderboard"
             className="text-xs sm:text-sm font-bold text-blue-600 dark:text-sky-400 hover:underline flex items-center gap-1"
           >
-            View Full Leaderboard <ArrowRight className="w-4 h-4" />
+            Tier Details <ArrowRight className="w-4 h-4" />
           </Link>
         </div>
 

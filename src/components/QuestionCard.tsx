@@ -21,6 +21,7 @@ import {
   ChevronUp,
   X,
   CheckCircle2,
+  Eye,
 } from "lucide-react";
 import type { Question, Passage } from "../types";
 import { db } from "../db";
@@ -52,6 +53,7 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
   const [flagReason, setFlagReason] = useState("");
   const [flagSubmitted, setFlagSubmitted] = useState(false);
   const [isZoomed, setIsZoomed] = useState(false);
+  const [showOrigModal, setShowOrigModal] = useState(false);
   const [passageExpanded, setPassageExpanded] = useState(true);
 
   // Layout detection: container width and image aspect ratio
@@ -180,8 +182,19 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
           </span>
         </div>
 
-        {/* Icon-only Bookmark and Flag buttons with tooltips. "Save" renamed to "Bookmark" */}
+        {/* View Original, Bookmark, and Flag buttons */}
         <div className="flex items-center gap-1.5 shrink-0">
+          <button
+            onClick={() => setShowOrigModal(true)}
+            aria-label="View original question crop"
+            title="View original scan/crop from source exam paper"
+            className="flex items-center gap-1 px-2.5 py-1.5 rounded-lg text-xs font-semibold bg-sky-50 hover:bg-sky-100 dark:bg-sky-950/70 dark:hover:bg-sky-900 text-sky-700 dark:text-sky-300 border border-sky-300 dark:border-sky-800 transition-colors cursor-pointer"
+          >
+            <Eye className="w-3.5 h-3.5" />
+            <span className="hidden sm:inline">View Original</span>
+            <span className="sm:hidden">Original</span>
+          </button>
+
           <button
             onClick={toggleBookmark}
             aria-label="Bookmark"
@@ -212,12 +225,11 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
         </div>
       </div>
 
-      {/* Main Question Body: Centered max-width 1000px */}
-      <div className="flex-1 min-h-0 overflow-y-auto py-3 px-1">
-        <div className="max-w-[1000px] w-full mx-auto flex flex-col gap-4">
-          {/* Passage Handling:
-              - Collapsible card above stem on < 1100px
-              - Sticky left column on desktop >= 1100px (when desktop dual-pane applies) */}
+      {/* Main Question Body: Options pinned at the bottom, stem scrollable above */}
+      <div className="flex-1 min-h-0 flex flex-col max-w-[1000px] w-full mx-auto overflow-hidden">
+        {/* Upper Scrollable Stem Area */}
+        <div className="flex-1 min-h-0 overflow-y-auto py-2.5 px-1 space-y-3 [scrollbar-gutter:stable]">
+          {/* Passage Handling */}
           {passage && (
             <div className="bg-sky-50/70 dark:bg-slate-950/70 border border-sky-200 dark:border-sky-900/40 rounded-xl p-3 sm:p-4 space-y-2 shrink-0">
               <div className="flex items-center justify-between">
@@ -241,266 +253,229 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
               </div>
 
               {passageExpanded && (
-                <div className="text-xs sm:text-sm text-slate-700 dark:text-slate-300 leading-relaxed max-h-48 overflow-y-auto pr-2 space-y-1.5 border-t border-sky-200/60 dark:border-slate-800/60 pt-2 font-normal">
+                <div className="text-xs sm:text-sm text-slate-700 dark:text-slate-300 leading-relaxed max-h-44 overflow-y-auto pr-2 space-y-1.5 border-t border-sky-200/60 dark:border-slate-800/60 pt-2 font-normal">
                   {passage.text}
                 </div>
               )}
             </div>
           )}
 
-          {/* Full Image Question: Either Side-by-Side (tall on >=1000px) OR Default Stacked */}
-          {isImageFull && activeImage ? (
-            canSideBySide ? (
-              /* Side-by-side Layout: Image on left at 62%, Options on right as four stacked buttons (64px each) */
-              <div className="flex flex-row items-start gap-5 w-full">
-                {/* Left 62% Column for Image */}
-                <div className="w-[62%] shrink-0 flex flex-col items-center">
-                  <span className="sr-only">{question.stem || `Question ${question.n} diagram`}</span>
-                  <div className="relative group w-full bg-white dark:bg-slate-950 rounded-xl border border-slate-200 dark:border-slate-700 p-2 flex items-center justify-center">
-                    <img
-                      src={activeImage}
-                      alt={`Question ${question.n} diagram`}
-                      className="max-h-[calc(100dvh-280px)] w-full object-contain cursor-pointer"
-                      onClick={() => setIsZoomed(true)}
-                      onLoad={(e) => {
-                        const img = e.currentTarget;
-                        if (img.naturalWidth > 0) {
-                          setImageAspectRatio(img.naturalHeight / img.naturalWidth);
-                        }
-                      }}
-                      loading="eager"
-                    />
-                    <button
-                      onClick={() => setIsZoomed(true)}
-                      className="absolute bottom-3 right-3 p-2 rounded-xl bg-slate-950/80 hover:bg-black text-white transition-opacity shadow-lg cursor-pointer"
-                      title="Zoom diagram"
-                      aria-label="Zoom diagram"
-                    >
-                      <Maximize2 className="w-4 h-4" />
-                    </button>
-                  </div>
-                </div>
-
-                {/* Right Stacked Options: 4 buttons, 64px each */}
-                <div className="flex-1 min-w-[200px] flex flex-col gap-3">
-                  <div className="text-xs font-bold text-slate-500 dark:text-slate-400">
-                    Select Option:
-                  </div>
-                  {question.options.map((_, optIdx) => {
-                    const isSelected = selectedOption === optIdx;
-                    const isCorrect = isReviewMode && optIdx === question.answer;
-                    const isWrongSelected =
-                      isReviewMode && isSelected && optIdx !== question.answer;
-
-                    let btnClasses =
-                      "h-16 rounded-xl border font-black text-lg flex items-center justify-center transition-all cursor-pointer shadow-xs ";
-
-                    if (isReviewMode) {
-                      if (isCorrect) {
-                        btnClasses +=
-                          "bg-emerald-500 border-emerald-600 text-white ring-2 ring-emerald-400 ";
-                      } else if (isWrongSelected) {
-                        btnClasses +=
-                          "bg-rose-500 border-rose-600 text-white ring-2 ring-rose-400 ";
-                      } else {
-                        btnClasses +=
-                          "bg-slate-100 dark:bg-slate-800/40 border-slate-200 dark:border-slate-800 text-slate-400 opacity-60 ";
-                      }
-                    } else {
-                      if (isSelected) {
-                        btnClasses +=
-                          "bg-sky-600 text-white border-sky-500 ring-2 ring-sky-400 shadow-md scale-102 ";
-                      } else {
-                        btnClasses +=
-                          "bg-white dark:bg-slate-800/80 hover:bg-sky-50 dark:hover:bg-slate-700/80 border-slate-300 dark:border-slate-700 text-slate-800 dark:text-slate-200 ";
-                      }
-                    }
-
-                    return (
-                      <button
-                        key={optIdx}
-                        onClick={() => !isReviewMode && onSelectOption?.(optIdx)}
-                        disabled={isReviewMode}
-                        className={btnClasses}
-                        title={`Option ${optionLetters[optIdx]}`}
-                      >
-                        <span>{optionLetters[optIdx]}</span>
-                      </button>
-                    );
-                  })}
-                </div>
-              </div>
-            ) : (
-              /* Default (Stacked) Layout: Image full width of column, max-h calc(100dvh-300px),
-                 Directly under it: ONE row of four equal A/B/C/D buttons (min-h 56px) */
-              <div className="flex flex-col gap-3.5 w-full">
-                <span className="sr-only">{question.stem || `Question ${question.n} diagram`}</span>
-                <div className="relative group w-full bg-white dark:bg-slate-950 rounded-xl border border-slate-200 dark:border-slate-700 p-2.5 flex items-center justify-center shadow-xs">
-                  <img
-                    src={activeImage}
-                    alt={`Question ${question.n} diagram`}
-                    className="max-h-[calc(100dvh-300px)] w-full object-contain cursor-pointer"
-                    onClick={() => setIsZoomed(true)}
-                    onLoad={(e) => {
-                      const img = e.currentTarget;
-                      if (img.naturalWidth > 0) {
-                        setImageAspectRatio(img.naturalHeight / img.naturalWidth);
-                      }
-                    }}
-                    loading="eager"
-                  />
-                  {/* Zoom button at bottom-right inside image card */}
-                  <button
-                    onClick={() => setIsZoomed(true)}
-                    className="absolute bottom-3 right-3 p-2 rounded-xl bg-slate-950/80 hover:bg-black text-white transition-opacity shadow-lg cursor-pointer"
-                    title="Zoom diagram"
-                    aria-label="Zoom diagram"
-                  >
-                    <Maximize2 className="w-4 h-4" />
-                  </button>
-                </div>
-
-                {/* ONE row of four equal A/B/C/D buttons (min height 56px) */}
-                <div className="grid grid-cols-4 gap-2.5 sm:gap-4 w-full">
-                  {question.options.map((_, optIdx) => {
-                    const isSelected = selectedOption === optIdx;
-                    const isCorrect = isReviewMode && optIdx === question.answer;
-                    const isWrongSelected =
-                      isReviewMode && isSelected && optIdx !== question.answer;
-
-                    let btnClasses =
-                      "min-h-[56px] h-14 sm:h-16 rounded-xl border font-black text-lg sm:text-xl flex items-center justify-center transition-all cursor-pointer shadow-xs ";
-
-                    if (isReviewMode) {
-                      if (isCorrect) {
-                        btnClasses +=
-                          "bg-emerald-500 border-emerald-600 text-white ring-2 ring-emerald-400 ";
-                      } else if (isWrongSelected) {
-                        btnClasses +=
-                          "bg-rose-500 border-rose-600 text-white ring-2 ring-rose-400 ";
-                      } else {
-                        btnClasses +=
-                          "bg-slate-100 dark:bg-slate-800/40 border-slate-200 dark:border-slate-800 text-slate-400 opacity-60 ";
-                      }
-                    } else {
-                      if (isSelected) {
-                        btnClasses +=
-                          "bg-sky-600 text-white border-sky-500 ring-2 ring-sky-400 shadow-md scale-102 ";
-                      } else {
-                        btnClasses +=
-                          "bg-white dark:bg-slate-800/80 hover:bg-sky-50 dark:hover:bg-slate-700/80 border-slate-300 dark:border-slate-700 text-slate-800 dark:text-slate-200 ";
-                      }
-                    }
-
-                    return (
-                      <button
-                        key={optIdx}
-                        onClick={() => !isReviewMode && onSelectOption?.(optIdx)}
-                        disabled={isReviewMode}
-                        className={btnClasses}
-                        title={`Option ${optionLetters[optIdx]}`}
-                      >
-                        <span>{optionLetters[optIdx]}</span>
-                      </button>
-                    );
-                  })}
-                </div>
-              </div>
-            )
-          ) : (
-            /* Standard Text or image_stem Question */
-            <div className="space-y-4 w-full">
-              {/* If image_stem: show figure */}
-              {isImageStem && activeImage && (
-                <div className="relative group w-full bg-white dark:bg-slate-950 rounded-xl border border-slate-200 dark:border-slate-700 p-2.5 flex items-center justify-center shadow-xs">
-                  <img
-                    src={activeImage}
-                    alt={`Question ${question.n} figure`}
-                    className="max-h-[calc(100dvh-320px)] w-full object-contain cursor-pointer"
-                    onClick={() => setIsZoomed(true)}
-                    loading="eager"
-                  />
-                  <button
-                    onClick={() => setIsZoomed(true)}
-                    className="absolute bottom-3 right-3 p-2 rounded-xl bg-slate-950/80 hover:bg-black text-white transition-opacity shadow-lg cursor-pointer"
-                    title="Zoom figure"
-                    aria-label="Zoom figure"
-                  >
-                    <Maximize2 className="w-4 h-4" />
-                  </button>
-                </div>
-              )}
-
-              {/* Text Stem blocks at the top */}
-              {question.render_mode === "text" && (
-                <QuestionBlocksRenderer
-                  blocks={question.blocks}
-                  fallbackStem={question.stem}
-                />
-              )}
-
-              {/* Four full-width option rows */}
-              <div className="space-y-2.5 pt-1 w-full">
-                {question.options.map((optionText, optIdx) => {
-                  const isSelected = selectedOption === optIdx;
-                  const isCorrect = isReviewMode && optIdx === question.answer;
-                  const isWrongSelected =
-                    isReviewMode && isSelected && optIdx !== question.answer;
-
-                  let btnClasses =
-                    "w-full text-left p-3.5 sm:p-4 rounded-xl border transition-all flex items-center justify-between group cursor-pointer ";
-
-                  if (isReviewMode) {
-                    if (isCorrect) {
-                      btnClasses +=
-                        "bg-emerald-50 dark:bg-emerald-950/50 border-emerald-500 text-emerald-800 dark:text-emerald-200 font-semibold shadow-xs ";
-                    } else if (isWrongSelected) {
-                      btnClasses +=
-                        "bg-rose-50 dark:bg-rose-950/50 border-rose-500 text-rose-800 dark:text-rose-200 font-semibold shadow-xs ";
-                    } else {
-                      btnClasses +=
-                        "bg-slate-50 dark:bg-slate-900/40 border-slate-200 dark:border-slate-800 text-slate-400 opacity-60 ";
-                    }
-                  } else {
-                    if (isSelected) {
-                      btnClasses +=
-                        "bg-sky-50 dark:bg-sky-950/60 border-sky-500 text-sky-900 dark:text-sky-100 font-semibold shadow-xs ring-1 ring-sky-500 ";
-                    } else {
-                      btnClasses +=
-                        "bg-white dark:bg-slate-800/80 hover:bg-slate-50 dark:hover:bg-slate-700/80 border-slate-200 dark:border-slate-700/80 text-slate-800 dark:text-slate-100 ";
-                    }
+          {/* Diagram for image_full */}
+          {isImageFull && activeImage && (
+            <div className="relative group w-full bg-white dark:bg-slate-950 rounded-xl border border-slate-200 dark:border-slate-700 p-2.5 flex items-center justify-center shadow-xs">
+              <img
+                src={activeImage}
+                alt={`Question ${question.n} diagram`}
+                className="max-h-[calc(100dvh-340px)] w-full object-contain cursor-pointer"
+                onClick={() => setIsZoomed(true)}
+                onLoad={(e) => {
+                  const img = e.currentTarget;
+                  if (img.naturalWidth > 0) {
+                    setImageAspectRatio(img.naturalHeight / img.naturalWidth);
                   }
+                }}
+                loading="eager"
+              />
+              <button
+                onClick={() => setIsZoomed(true)}
+                className="absolute bottom-3 right-3 p-2 rounded-xl bg-slate-950/80 hover:bg-black text-white transition-opacity shadow-lg cursor-pointer"
+                title="Zoom diagram"
+                aria-label="Zoom diagram"
+              >
+                <Maximize2 className="w-4 h-4" />
+              </button>
+            </div>
+          )}
 
-                  return (
-                    <button
-                      key={optIdx}
-                      onClick={() => !isReviewMode && onSelectOption?.(optIdx)}
-                      disabled={isReviewMode}
-                      className={btnClasses}
-                    >
-                      <div className="flex items-center gap-3 min-w-0">
-                        <span
-                          className={`w-7 h-7 rounded-lg text-xs font-bold flex items-center justify-center shrink-0 border ${
-                            isSelected
-                              ? "bg-sky-600 text-white border-sky-600"
-                              : "bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 border-slate-300 dark:border-slate-600"
-                          }`}
-                        >
-                          {optionLetters[optIdx]}
-                        </span>
-                        <span className="text-sm sm:text-base leading-relaxed break-words">
-                          {optionText}
-                        </span>
-                      </div>
+          {/* Diagram for image_stem */}
+          {isImageStem && activeImage && (
+            <div className="relative group w-full bg-white dark:bg-slate-950 rounded-xl border border-slate-200 dark:border-slate-700 p-2.5 flex items-center justify-center shadow-xs">
+              <img
+                src={activeImage}
+                alt={`Question ${question.n} figure`}
+                className="max-h-[calc(100dvh-340px)] w-full object-contain cursor-pointer"
+                onClick={() => setIsZoomed(true)}
+                loading="eager"
+              />
+              <button
+                onClick={() => setIsZoomed(true)}
+                className="absolute bottom-3 right-3 p-2 rounded-xl bg-slate-950/80 hover:bg-black text-white transition-opacity shadow-lg cursor-pointer"
+                title="Zoom figure"
+                aria-label="Zoom figure"
+              >
+                <Maximize2 className="w-4 h-4" />
+              </button>
+            </div>
+          )}
 
-                      {/* Desktop keycap hint ([1]..[4]) hidden on touch devices */}
-                      <span className="hidden sm:inline-block ml-2 px-1.5 py-0.5 rounded text-[10px] font-mono bg-slate-100 dark:bg-slate-700 text-slate-400 border border-slate-200 dark:border-slate-600 shrink-0">
-                        [{optIdx + 1}]
+          {/* Reconstructed Clean HTML Table */}
+          {question.table && (
+            <div className="my-2 overflow-x-auto rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 shadow-xs">
+              <table className="min-w-full text-xs sm:text-sm text-left border-collapse">
+                {question.table.headers && question.table.headers.length > 0 && (
+                  <thead className="bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-200 font-bold border-b border-slate-200 dark:border-slate-700">
+                    <tr>
+                      {question.table.headers.map((h, i) => (
+                        <th key={i} className="px-3 py-2 border-r last:border-r-0 border-slate-200 dark:border-slate-700">
+                          {h}
+                        </th>
+                      ))}
+                    </tr>
+                  </thead>
+                )}
+                <tbody>
+                  {question.table.rows &&
+                    question.table.rows.map((row, rIdx) => (
+                      <tr
+                        key={rIdx}
+                        className="border-b last:border-b-0 border-slate-100 dark:border-slate-800 hover:bg-slate-50 dark:hover:bg-slate-800/50"
+                      >
+                        {row.map((cell, cIdx) => (
+                          <td
+                            key={cIdx}
+                            className="px-3 py-1.5 border-r last:border-r-0 border-slate-200 dark:border-slate-800 font-mono"
+                          >
+                            {cell}
+                          </td>
+                        ))}
+                      </tr>
+                    ))}
+                </tbody>
+              </table>
+            </div>
+          )}
+
+          {/* Text Stem blocks */}
+          {question.render_mode === "text" && (
+            <QuestionBlocksRenderer
+              blocks={question.blocks}
+              fallbackStem={question.stem}
+            />
+          )}
+
+          {/* Fallback stem text for image questions if available */}
+          {question.render_mode !== "text" && question.stem && !isImageStem && !isImageFull && (
+            <div className="text-xs sm:text-sm text-slate-700 dark:text-slate-300 leading-relaxed font-medium">
+              {question.stem}
+            </div>
+          )}
+        </div>
+
+        {/* Pinned Bottom Options Area: Always visible without scrolling the page */}
+        <div className="shrink-0 pt-2.5 pb-1 border-t border-slate-200 dark:border-slate-800/80 bg-inherit mt-auto">
+          {isImageFull ? (
+            /* Full Image: 4 equal A/B/C/D buttons */
+            <div className="grid grid-cols-4 gap-2.5 sm:gap-4 w-full">
+              {question.options.map((_, optIdx) => {
+                const isSelected = selectedOption === optIdx;
+                const isCorrect = isReviewMode && optIdx === question.answer;
+                const isWrongSelected =
+                  isReviewMode && isSelected && optIdx !== question.answer;
+
+                let btnClasses =
+                  "min-h-[48px] h-12 sm:h-14 rounded-xl border font-black text-base sm:text-lg flex items-center justify-center transition-all cursor-pointer shadow-xs ";
+
+                if (isReviewMode) {
+                  if (isCorrect) {
+                    btnClasses +=
+                      "bg-emerald-500 border-emerald-600 text-white ring-2 ring-emerald-400 ";
+                  } else if (isWrongSelected) {
+                    btnClasses +=
+                      "bg-rose-500 border-rose-600 text-white ring-2 ring-rose-400 ";
+                  } else {
+                    btnClasses +=
+                      "bg-slate-100 dark:bg-slate-800/40 border-slate-200 dark:border-slate-800 text-slate-400 opacity-60 ";
+                  }
+                } else {
+                  if (isSelected) {
+                    btnClasses +=
+                      "bg-sky-600 text-white border-sky-500 ring-2 ring-sky-400 shadow-md scale-102 ";
+                  } else {
+                    btnClasses +=
+                      "bg-white dark:bg-slate-800/80 hover:bg-sky-50 dark:hover:bg-slate-700/80 border-slate-300 dark:border-slate-700 text-slate-800 dark:text-slate-200 ";
+                  }
+                }
+
+                return (
+                  <button
+                    key={optIdx}
+                    onClick={() => !isReviewMode && onSelectOption?.(optIdx)}
+                    disabled={isReviewMode}
+                    className={btnClasses}
+                    title={`Option ${optionLetters[optIdx]}`}
+                  >
+                    <span>{optionLetters[optIdx]}</span>
+                  </button>
+                );
+              })}
+            </div>
+          ) : (
+            /* Text or image_stem: 4 option buttons in responsive 2x2 grid on desktop or compact stack */
+            <div
+              className={`w-full ${
+                question.options.every((opt) => opt.length <= 40)
+                  ? "grid grid-cols-1 sm:grid-cols-2 gap-2"
+                  : "space-y-2"
+              }`}
+            >
+              {question.options.map((optionText, optIdx) => {
+                const isSelected = selectedOption === optIdx;
+                const isCorrect = isReviewMode && optIdx === question.answer;
+                const isWrongSelected =
+                  isReviewMode && isSelected && optIdx !== question.answer;
+
+                let btnClasses =
+                  "w-full text-left p-2.5 sm:p-3 rounded-xl border transition-all flex items-center justify-between group cursor-pointer ";
+
+                if (isReviewMode) {
+                  if (isCorrect) {
+                    btnClasses +=
+                      "bg-emerald-50 dark:bg-emerald-950/50 border-emerald-500 text-emerald-800 dark:text-emerald-200 font-semibold shadow-xs ";
+                  } else if (isWrongSelected) {
+                    btnClasses +=
+                      "bg-rose-50 dark:bg-rose-950/50 border-rose-500 text-rose-800 dark:text-rose-200 font-semibold shadow-xs ";
+                  } else {
+                    btnClasses +=
+                      "bg-slate-50 dark:bg-slate-900/40 border-slate-200 dark:border-slate-800 text-slate-400 opacity-60 ";
+                  }
+                } else {
+                  if (isSelected) {
+                    btnClasses +=
+                      "bg-sky-50 dark:bg-sky-950/60 border-sky-500 text-sky-900 dark:text-sky-100 font-semibold shadow-xs ring-1 ring-sky-500 ";
+                  } else {
+                    btnClasses +=
+                      "bg-white dark:bg-slate-800/80 hover:bg-slate-50 dark:hover:bg-slate-700/80 border-slate-200 dark:border-slate-700/80 text-slate-800 dark:text-slate-100 ";
+                  }
+                }
+
+                return (
+                  <button
+                    key={optIdx}
+                    onClick={() => !isReviewMode && onSelectOption?.(optIdx)}
+                    disabled={isReviewMode}
+                    className={btnClasses}
+                  >
+                    <div className="flex items-center gap-2.5 min-w-0">
+                      <span
+                        className={`w-6 h-6 rounded-lg text-xs font-bold flex items-center justify-center shrink-0 border ${
+                          isSelected
+                            ? "bg-sky-600 text-white border-sky-600"
+                            : "bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 border-slate-300 dark:border-slate-600"
+                        }`}
+                      >
+                        {optionLetters[optIdx]}
                       </span>
-                    </button>
-                  );
-                })}
-              </div>
+                      <span className="text-xs sm:text-sm leading-snug break-words">
+                        {optionText}
+                      </span>
+                    </div>
+
+                    <span className="hidden sm:inline-block ml-2 px-1.5 py-0.5 rounded text-[10px] font-mono bg-slate-100 dark:bg-slate-700 text-slate-400 border border-slate-200 dark:border-slate-600 shrink-0">
+                      [{optIdx + 1}]
+                    </span>
+                  </button>
+                );
+              })}
             </div>
           )}
         </div>
@@ -588,6 +563,46 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
                 </div>
               </div>
             )}
+          </div>
+        </div>
+      )}
+
+      {/* View Original Modal */}
+      {showOrigModal && (
+        <div
+          className="fixed inset-0 z-50 bg-black/90 backdrop-blur-md flex items-center justify-center p-4 animate-in fade-in duration-150"
+          onClick={() => setShowOrigModal(false)}
+        >
+          <div
+            className="relative max-w-4xl max-h-[92vh] w-full flex flex-col bg-white dark:bg-slate-900 rounded-2xl shadow-2xl overflow-hidden border border-slate-300 dark:border-slate-800"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <div className="flex items-center justify-between px-4 py-3 border-b border-slate-200 dark:border-slate-800 bg-slate-100 dark:bg-slate-950">
+              <div className="flex items-center gap-2">
+                <Eye className="w-4 h-4 text-sky-500" />
+                <h3 className="font-bold text-sm text-slate-800 dark:text-slate-100">
+                  Original Question Paper Crop (Q{question.n})
+                </h3>
+                <span className="text-[10px] uppercase font-bold px-1.5 py-0.5 rounded bg-sky-100 dark:bg-sky-950 text-sky-700 dark:text-sky-300 border border-sky-300 dark:border-sky-800">
+                  {question.render_mode}
+                </span>
+              </div>
+              <button
+                onClick={() => setShowOrigModal(false)}
+                className="p-1 rounded-lg text-slate-400 hover:text-slate-800 dark:hover:text-white cursor-pointer"
+                aria-label="Close original crop view"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
+
+            <div className="p-4 flex-1 min-h-0 overflow-auto flex items-center justify-center bg-slate-50 dark:bg-slate-950/60">
+              <img
+                src={getImageSrc(question.orig_image || question.stem_image || question.full_image)}
+                alt={`Original question ${question.n} scan`}
+                className="max-h-[75vh] w-auto max-w-full object-contain rounded-lg shadow-sm"
+              />
+            </div>
           </div>
         </div>
       )}

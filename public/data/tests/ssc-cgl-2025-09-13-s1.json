@@ -49,7 +49,7 @@
     {
       "n": 1,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Which of the following words does not belong to the given group?\nRose, Lotus, Jasmine, Mango",
       "blocks": [
@@ -62,8 +62,10 @@
           "text": "Rose, Lotus, Jasmine, Mango"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Rose",
         "Lotus",
@@ -91,12 +93,13 @@
         "opts_bottom": 208.51,
         "ans_top": 210.90999999999997,
         "ans_page": 1
-      }
+      },
+      "qkey": "c5feaaa7d39f5b07"
     },
     {
       "n": 2,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Classification (odd one out)",
       "render_mode": "text",
       "stem": "One number does not fit into the given factorial series.\nIdentify it. 3, 6, 24, 120, 720, 800",
       "blocks": [
@@ -109,8 +112,10 @@
           "text": "Identify it. 3, 6, 24, 120, 720, 800"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "6",
         "24",
@@ -138,7 +143,8 @@
         "opts_bottom": 316.05999999999995,
         "ans_top": 318.46000000000004,
         "ans_page": 1
-      }
+      },
+      "qkey": "c17d31e5a844cb96"
     },
     {
       "n": 3,
@@ -152,8 +158,10 @@
           "text": "Ramesh said, “That boy is the son of the only daughter of my grandfather.” How is the boy related to Ramesh?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Brother",
         "Son",
@@ -181,12 +189,13 @@
         "opts_bottom": 409.91999999999996,
         "ans_top": 412.32,
         "ans_page": 1
-      }
+      },
+      "qkey": "d2b9128c872b4e9e"
     },
     {
       "n": 4,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "Find the option that best completes the analogy.\nAC : FH :: BD : ?",
       "blocks": [
@@ -199,8 +208,10 @@
           "text": "AC : FH :: BD : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "GJ",
         "HK",
@@ -228,13 +239,14 @@
         "opts_bottom": 517.4599999999999,
         "ans_top": 519.86,
         "ans_page": 1
-      }
+      },
+      "qkey": "2b66375768fd8942"
     },
     {
       "n": 5,
       "section": "reasoning",
-      "topic": "General",
-      "render_mode": "text",
+      "topic": "Classification (odd one out)",
+      "render_mode": "image_stem",
       "stem": "Which of the following number sets is different from the others?\n(9, 18, 36)\n(12, 24, 48)\n(7, 14, 29)\n(5, 10, 20)",
       "blocks": [
         {
@@ -258,8 +270,10 @@
           "text": "(5, 10, 20)"
         }
       ],
-      "stem_image": null,
+      "table": null,
+      "stem_image": "img/ssc-cgl-2025-09-13-s1/q005_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2025-09-13-s1/q005_orig.webp",
       "options": [
         "(9,18,36)",
         "(12,24,48)",
@@ -274,7 +288,7 @@
       ],
       "answer": 2,
       "passage_id": null,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "warnings": [],
       "duplicate_of": null,
       "_bbox": {
@@ -287,7 +301,8 @@
         "opts_bottom": 665.1099999999999,
         "ans_top": 667.51,
         "ans_page": 1
-      }
+      },
+      "qkey": "012f99a8a894be57"
     },
     {
       "n": 6,
@@ -301,8 +316,10 @@
           "text": "Introducing a man, a woman said, “He is the brother of the daughter of my father.” How is the man related to the woman?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Brother",
         "Son",
@@ -330,12 +347,13 @@
         "opts_bottom": 772.656,
         "ans_top": 775.0559999999999,
         "ans_page": 1
-      }
+      },
+      "qkey": "bef35cd106b10448"
     },
     {
       "n": 7,
       "section": "reasoning",
-      "topic": "Blood Relations",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "How many letters in the given word are between the first vowel and the last consonant? “COMMUNICATION”",
       "blocks": [
@@ -344,8 +362,10 @@
           "text": "How many letters in the given word are between the first vowel and the last consonant? “COMMUNICATION”"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "4",
         "5",
@@ -373,12 +393,13 @@
         "opts_bottom": 173.44999999999993,
         "ans_top": 175.85000000000002,
         "ans_page": 3
-      }
+      },
+      "qkey": "b0eba49d153dd16f"
     },
     {
       "n": 8,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Which of the following address(es) is/are exactly the same as the given address?\nGiven Address: Amit Sharma, Flat 21A, Green Residency, Bhopal, 462016\n1. Amit Sharma, Flat 21A, Green Residency, Bhopal, 462016\n2. Amit Sharma, Flat 21, Green Residency, Bhopal, 462016\n3. Amit Sharma, Flat 21A, Green Residencies, Bhopal, 462016\n4. Amit Sharma, Flat 21A, Green Residency, Bhopal, 462018",
       "blocks": [
@@ -411,8 +432,10 @@
           "text": "Amit Sharma, Flat 21A, Green Residency, Bhopal, 462018"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only 1",
         "Only 2",
@@ -440,7 +463,8 @@
         "opts_bottom": 334.78,
         "ans_top": 337.18,
         "ans_page": 3
-      }
+      },
+      "qkey": "0ee12e33e8b81bf6"
     },
     {
       "n": 9,
@@ -454,8 +478,10 @@
           "text": "If CLOUD is coded as ENQWF, how is RAIN coded?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "TCKP",
         "TCKO",
@@ -483,12 +509,13 @@
         "opts_bottom": 428.63999999999993,
         "ans_top": 431.03999999999996,
         "ans_page": 3
-      }
+      },
+      "qkey": "616d00fdb0e6c067"
     },
     {
       "n": 10,
       "section": "reasoning",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "A mixture contains milk and water in the ratio 3 :\n5. If the total quantity is 40 litres, how much milk should be added to make the ratio 1 : 1?",
       "blocks": [
@@ -502,8 +529,10 @@
           "text": "If the total quantity is 40 litres, how much milk should be added to make the ratio 1 : 1?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "8 L",
         "10 L",
@@ -531,12 +560,13 @@
         "opts_bottom": 536.18,
         "ans_top": 538.61,
         "ans_page": 3
-      }
+      },
+      "qkey": "fb6267952a5ef1f3"
     },
     {
       "n": 11,
       "section": "reasoning",
-      "topic": "Blood Relations",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Read the following statement carefully and identify the conclusion(s) that follow.\nStatement:\nAll registered voters received voter ID cards.\nConclusions:\nI. Some people received voter ID cards.\nII. No unregistered person received a voter ID card.",
       "blocks": [
@@ -567,8 +597,10 @@
           "text": "No unregistered person received a voter ID card."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only I follows",
         "Only II follows",
@@ -596,12 +628,13 @@
         "opts_bottom": 697.27,
         "ans_top": 699.6999999999999,
         "ans_page": 3
-      }
+      },
+      "qkey": "96c99e6348fc7eda"
     },
     {
       "n": 12,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Each letter of the word given below is arranged in alphabetical order. How many letters are there between the 4th letter from the left and the 3rd letter from the right in the new arrangement? HOSPITAL",
       "blocks": [
@@ -610,8 +643,10 @@
           "text": "Each letter of the word given below is arranged in alphabetical order. How many letters are there between the 4th letter from the left and the 3rd letter from the right in the new arrangement? HOSPITAL"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "One",
         "Two",
@@ -639,12 +674,13 @@
         "opts_bottom": 777.9359999999999,
         "ans_top": 122.09000000000003,
         "ans_page": 4
-      }
+      },
+      "qkey": "e9746baca9d34230"
     },
     {
       "n": 13,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Number Series",
       "render_mode": "text",
       "stem": "What should come at the place of the question mark (?) in the following series?\n2, 3, 8, 9, 26, 27, ?",
       "blocks": [
@@ -657,8 +693,10 @@
           "text": "2, 3, 8, 9, 26, 27, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "54",
         "56",
@@ -686,12 +724,13 @@
         "opts_bottom": 227.2299999999999,
         "ans_top": 229.63,
         "ans_page": 4
-      }
+      },
+      "qkey": "6e43b6103803e02e"
     },
     {
       "n": 14,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Select the letter-cluster from the given options that will replace the question mark (?) in the following series. ABZ, BCY, CDX, DEW, ?",
       "blocks": [
@@ -700,8 +739,10 @@
           "text": "Select the letter-cluster from the given options that will replace the question mark (?) in the following series. ABZ, BCY, CDX, DEW, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "EEV",
         "EFV",
@@ -729,12 +770,13 @@
         "opts_bottom": 334.78,
         "ans_top": 337.18,
         "ans_page": 4
-      }
+      },
+      "qkey": "de972f2ace2d906c"
     },
     {
       "n": 15,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "In the following question, the second word is formed by rearranging the letters of the first word using a specific pattern. Apply the same pattern to the third word.\nPLANET : LPAENT :: ORANGE : ?",
       "blocks": [
@@ -747,8 +789,10 @@
           "text": "PLANET : LPAENT :: ORANGE : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "ROAGNE",
         "OARNGE",
@@ -776,12 +820,13 @@
         "opts_bottom": 455.5199999999999,
         "ans_top": 457.94,
         "ans_page": 4
-      }
+      },
+      "qkey": "698e006a52b24c2b"
     },
     {
       "n": 16,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Select the letter-cluster that can replace the question mark (?) in the given series.\nLMP, NOR, PQT, ?",
       "blocks": [
@@ -794,8 +839,10 @@
           "text": "LMP, NOR, PQT, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "RVU",
         "RUV",
@@ -823,12 +870,13 @@
         "opts_bottom": 563.0899999999999,
         "ans_top": 565.49,
         "ans_page": 4
-      }
+      },
+      "qkey": "b007724f5ce0ac6a"
     },
     {
       "n": 17,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Blood Relations",
       "render_mode": "text",
       "stem": "If 9/11 = A and 3/7 = B, then find the value of A - B.",
       "blocks": [
@@ -837,8 +885,10 @@
           "text": "If 9/11 = A and 3/7 = B, then find the value of A - B."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "0.29",
         "0.39",
@@ -866,7 +916,8 @@
         "opts_bottom": 656.9499999999999,
         "ans_top": 659.3499999999999,
         "ans_page": 4
-      }
+      },
+      "qkey": "8bdd7b9ea5a87299"
     },
     {
       "n": 18,
@@ -880,8 +931,10 @@
           "text": "Pointing to a woman, Rahul said, “She is the wife of my father’s only son.”How is the woman related to Rahul?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Sister",
         "Mother",
@@ -909,12 +962,13 @@
         "opts_bottom": 751.0559999999999,
         "ans_top": 753.4559999999999,
         "ans_page": 4
-      }
+      },
+      "qkey": "2468dab06ee4316f"
     },
     {
       "n": 19,
       "section": "reasoning",
-      "topic": "Trigonometry",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "How many meaningful four-letter English words can be formed using the 1st, 3rd, 5th and 6th letters of the word “TEACHER”, using each letter only once in each word?",
       "blocks": [
@@ -923,8 +977,10 @@
           "text": "How many meaningful four-letter English words can be formed using the 1st, 3rd, 5th and 6th letters of the word “TEACHER”, using each letter only once in each word?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1",
         "2",
@@ -952,12 +1008,13 @@
         "opts_bottom": 173.44999999999993,
         "ans_top": 175.85000000000002,
         "ans_page": 5
-      }
+      },
+      "qkey": "5afeb3880f064048"
     },
     {
       "n": 20,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Number Series",
       "render_mode": "text",
       "stem": "What comes next in the given number series?\n1, 8, 27, 64, 125, ?",
       "blocks": [
@@ -970,8 +1027,10 @@
           "text": "1, 8, 27, 64, 125, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "196",
         "216",
@@ -999,12 +1058,13 @@
         "opts_bottom": 280.9899999999999,
         "ans_top": 283.41999999999996,
         "ans_page": 5
-      }
+      },
+      "qkey": "71a5bd7e4f60aa9f"
     },
     {
       "n": 21,
       "section": "reasoning",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "Which of the following alternatives will replace the question mark?\nIgnition, Acceleration, Motion, Deceleration, ?",
       "blocks": [
@@ -1017,8 +1077,10 @@
           "text": "Ignition, Acceleration, Motion, Deceleration, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Speed",
         "Stop",
@@ -1046,12 +1108,13 @@
         "opts_bottom": 388.55999999999995,
         "ans_top": 390.71999999999997,
         "ans_page": 5
-      }
+      },
+      "qkey": "a0e51a75f02be01b"
     },
     {
       "n": 22,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "In the following question, select the related word from the given alternatives.\nOntology : Being :: Aesthetics : ?",
       "blocks": [
@@ -1064,8 +1127,10 @@
           "text": "Ontology : Being :: Aesthetics : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Beauty",
         "Logic",
@@ -1093,12 +1158,13 @@
         "opts_bottom": 495.85999999999996,
         "ans_top": 498.26,
         "ans_page": 5
-      }
+      },
+      "qkey": "4a81ff2e9bf598a8"
     },
     {
       "n": 23,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Mathematical Operations",
       "render_mode": "text",
       "stem": "If the sum of 48 and 52 is multiplied by 3, what will be the result?",
       "blocks": [
@@ -1107,8 +1173,10 @@
           "text": "If the sum of 48 and 52 is multiplied by 3, what will be the result?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "300",
         "294",
@@ -1136,12 +1204,13 @@
         "opts_bottom": 589.9699999999999,
         "ans_top": 592.3699999999999,
         "ans_page": 5
-      }
+      },
+      "qkey": "2d78c9189882a7f5"
     },
     {
       "n": 24,
       "section": "reasoning",
-      "topic": "Statement & Assumption / Argument",
+      "topic": "Statement & Conclusion",
       "render_mode": "text",
       "stem": "Identify the assumptions that must be implicit for the statement to be valid.\nStatement:\nDespite improved internet speeds, cybersecurity threats continue to increase globally.\nAssumptions:\nI. Faster internet increases digital exposure.\nII. Cyber threats are unaffected by internet speed.\nIII. Cybersecurity measures are inadequate worldwide.",
       "blocks": [
@@ -1177,8 +1246,10 @@
           "text": "Cybersecurity measures are inadequate worldwide."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only I",
         "Only I and III",
@@ -1206,12 +1277,13 @@
         "opts_bottom": 764.496,
         "ans_top": 766.896,
         "ans_page": 5
-      }
+      },
+      "qkey": "16f01180f3073547"
     },
     {
       "n": 25,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Mathematical Operations",
       "render_mode": "text",
       "stem": "If 4 @ 2 = 12 and 6 @ 3 = 27, then what is the value of 8 @ 4?",
       "blocks": [
@@ -1220,8 +1292,10 @@
           "text": "If 4 @ 2 = 12 and 6 @ 3 = 27, then what is the value of 8 @ 4?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "48",
         "64",
@@ -1249,12 +1323,13 @@
         "opts_bottom": 173.44999999999993,
         "ans_top": 175.85000000000002,
         "ans_page": 6
-      }
+      },
+      "qkey": "fe7f79d312f3d4ae"
     },
     {
       "n": 26,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which of the following statements correctly reflect India's recent digital governance initiatives?\n1. DigiLocker enables citizens to store official documents digitally.\n2. BharatNet focuses on urban metro connectivity only.",
       "blocks": [
@@ -1273,8 +1348,10 @@
           "text": "BharatNet focuses on urban metro connectivity only."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only 1",
         "Only 2",
@@ -1302,12 +1379,13 @@
         "opts_bottom": 294.4599999999999,
         "ans_top": 296.86,
         "ans_page": 6
-      }
+      },
+      "qkey": "97c3ce62d7a5e618"
     },
     {
       "n": 27,
       "section": "general_awareness",
-      "topic": "Blood Relations",
+      "topic": "Economy",
       "render_mode": "text",
       "stem": "Assertion (A): GST is a destination-based tax.\nReason (R): GST is levied only on manufacturing.",
       "blocks": [
@@ -1320,8 +1398,10 @@
           "text": "Reason (R): GST is levied only on manufacturing."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Both A and R are true, and R explains A",
         "Both A and R are true, but R does not explain A",
@@ -1349,12 +1429,13 @@
         "opts_bottom": 401.75999999999993,
         "ans_top": 404.15999999999997,
         "ans_page": 6
-      }
+      },
+      "qkey": "7e8f1249db9760fb"
     },
     {
       "n": 28,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "What is the main objective of the Right to Information Act, 2005?",
       "blocks": [
@@ -1363,8 +1444,10 @@
           "text": "What is the main objective of the Right to Information Act, 2005?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "To regulate media",
         "To ensure transparency in governance",
@@ -1392,12 +1475,13 @@
         "opts_bottom": 495.85999999999996,
         "ans_top": 498.26,
         "ans_page": 6
-      }
+      },
+      "qkey": "953737b1faa35c52"
     },
     {
       "n": 29,
       "section": "general_awareness",
-      "topic": "Seating Arrangement & Direction",
+      "topic": "Indian History",
       "render_mode": "text",
       "stem": "What change did the Charter Act of 1813 bring to the East India Company?",
       "blocks": [
@@ -1406,8 +1490,10 @@
           "text": "What change did the Charter Act of 1813 bring to the East India Company?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Ended Company's trade monopoly",
         "Abolished Company rule",
@@ -1435,12 +1521,13 @@
         "opts_bottom": 589.9699999999999,
         "ans_top": 592.3699999999999,
         "ans_page": 6
-      }
+      },
+      "qkey": "fb55f101217ab28a"
     },
     {
       "n": 30,
       "section": "general_awareness",
-      "topic": "Indian History & Culture",
+      "topic": "Indian History",
       "render_mode": "text",
       "stem": "Which of the following statements about Red Fort are correct?\n1. It was constructed during the reign of Shah Jahan.\n2. It is located on the banks of the Yamuna River.\n3. It served as the main residence of Mughal emperors.",
       "blocks": [
@@ -1464,8 +1551,10 @@
           "text": "It served as the main residence of Mughal emperors."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1 and 2 only",
         "2 and 3 only",
@@ -1493,12 +1582,13 @@
         "opts_bottom": 724.18,
         "ans_top": 726.5799999999999,
         "ans_page": 6
-      }
+      },
+      "qkey": "d67a1fc2c7158535"
     },
     {
       "n": 31,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "According to recent reports, which factor has significantly impacted global peace trends?",
       "blocks": [
@@ -1507,8 +1597,10 @@
           "text": "According to recent reports, which factor has significantly impacted global peace trends?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Technological innovation",
         "Armed conflicts",
@@ -1536,12 +1628,13 @@
         "opts_bottom": 160.01,
         "ans_top": 162.40999999999997,
         "ans_page": 7
-      }
+      },
+      "qkey": "a344c46c51c127fe"
     },
     {
       "n": 32,
       "section": "general_awareness",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "The dependency ratio refers to:",
       "blocks": [
@@ -1550,8 +1643,10 @@
           "text": "The dependency ratio refers to:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Ratio of imports to exports",
         "Ratio of dependent population to working population",
@@ -1579,12 +1674,13 @@
         "opts_bottom": 254.1099999999999,
         "ans_top": 256.51,
         "ans_page": 7
-      }
+      },
+      "qkey": "8e246a60ae435e28"
     },
     {
       "n": 33,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which statement highlights a key feature of India's IT industry?",
       "blocks": [
@@ -1593,8 +1689,10 @@
           "text": "Which statement highlights a key feature of India's IT industry?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Depends entirely on imports",
         "Strong global outsourcing presence",
@@ -1622,12 +1720,13 @@
         "opts_bottom": 348.21999999999997,
         "ans_top": 350.62,
         "ans_page": 7
-      }
+      },
+      "qkey": "2baee4882b94a583"
     },
     {
       "n": 34,
       "section": "general_awareness",
-      "topic": "Geography & Environment",
+      "topic": "Geography",
       "render_mode": "text",
       "stem": "Under recent climate action plans, which sector receives major focus for adaptation?",
       "blocks": [
@@ -1636,8 +1735,10 @@
           "text": "Under recent climate action plans, which sector receives major focus for adaptation?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Defence",
         "Agriculture",
@@ -1665,12 +1766,13 @@
         "opts_bottom": 442.0799999999999,
         "ans_top": 444.47999999999996,
         "ans_page": 7
-      }
+      },
+      "qkey": "3f4228a9f5450f24"
     },
     {
       "n": 35,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "Which Article of the Constitution deals with the appointment of the Prime Minister?",
       "blocks": [
@@ -1679,8 +1781,10 @@
           "text": "Which Article of the Constitution deals with the appointment of the Prime Minister?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Article 72",
         "Article 74",
@@ -1708,12 +1812,13 @@
         "opts_bottom": 536.18,
         "ans_top": 538.61,
         "ans_page": 7
-      }
+      },
+      "qkey": "7d45ccc68d5e7d67"
     },
     {
       "n": 36,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Sports",
       "render_mode": "text",
       "stem": "Why are footballs generally spherical in shape?",
       "blocks": [
@@ -1722,8 +1827,10 @@
           "text": "Why are footballs generally spherical in shape?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "For aesthetic appeal",
         "To ensure uniform motion",
@@ -1751,12 +1858,13 @@
         "opts_bottom": 630.31,
         "ans_top": 632.7099999999999,
         "ans_page": 7
-      }
+      },
+      "qkey": "7560dcf9a4151d59"
     },
     {
       "n": 37,
       "section": "general_awareness",
-      "topic": "Geography & Environment",
+      "topic": "Geography",
       "render_mode": "text",
       "stem": "Which of the following statements about the atmosphere is correct?\n1. Troposphere is the lowest layer of the atmosphere.\n2. Ionosphere lies above the mesosphere.",
       "blocks": [
@@ -1775,8 +1883,10 @@
           "text": "Ionosphere lies above the mesosphere."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Statement 1 only",
         "Statement 2 only",
@@ -1804,12 +1914,13 @@
         "opts_bottom": 751.0559999999999,
         "ans_top": 753.4559999999999,
         "ans_page": 7
-      }
+      },
+      "qkey": "8c6058a2d2358fad"
     },
     {
       "n": 38,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which statement best describes the contribution of Kabir to Indian literature?",
       "blocks": [
@@ -1818,8 +1929,10 @@
           "text": "Which statement best describes the contribution of Kabir to Indian literature?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Promoted ritualistic worship",
         "Criticized social inequalities through verses",
@@ -1847,7 +1960,8 @@
         "opts_bottom": 160.01,
         "ans_top": 162.40999999999997,
         "ans_page": 8
-      }
+      },
+      "qkey": "ea2cf47c65f40987"
     },
     {
       "n": 39,
@@ -1861,8 +1975,10 @@
           "text": "What is the primary function of mitochondria?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Protein synthesis",
         "Energy production",
@@ -1890,12 +2006,13 @@
         "opts_bottom": 254.1099999999999,
         "ans_top": 256.51,
         "ans_page": 8
-      }
+      },
+      "qkey": "4abbb6f49759b95a"
     },
     {
       "n": 40,
       "section": "general_awareness",
-      "topic": "Current Affairs & Sports",
+      "topic": "Sports",
       "render_mode": "text",
       "stem": "At the 1980 Moscow Olympics, which timing did India record in men's hockey final?",
       "blocks": [
@@ -1904,8 +2021,10 @@
           "text": "At the 1980 Moscow Olympics, which timing did India record in men's hockey final?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2–1",
         "3–2",
@@ -1933,12 +2052,13 @@
         "opts_bottom": 348.21999999999997,
         "ans_top": 350.62,
         "ans_page": 8
-      }
+      },
+      "qkey": "7cea75ea410d014c"
     },
     {
       "n": 41,
       "section": "general_awareness",
-      "topic": "Economy & Government Schemes",
+      "topic": "Current Affairs",
       "render_mode": "text",
       "stem": "Examine the statements about Chandrayaan-3 mission:\n1. It successfully landed near the Moon’s south pole.\n2. It carried an orbiter along with the lander and rover.",
       "blocks": [
@@ -1957,8 +2077,10 @@
           "text": "It carried an orbiter along with the lander and rover."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only 1",
         "Only 2",
@@ -1986,12 +2108,13 @@
         "opts_bottom": 468.97999999999996,
         "ans_top": 471.38,
         "ans_page": 8
-      }
+      },
+      "qkey": "8eff61053d296170"
     },
     {
       "n": 42,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which Indian state has the highest literacy rate as per Census 2011?",
       "blocks": [
@@ -2000,8 +2123,10 @@
           "text": "Which Indian state has the highest literacy rate as per Census 2011?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Kerala",
         "Tamil Nadu",
@@ -2029,12 +2154,13 @@
         "opts_bottom": 563.0899999999999,
         "ans_top": 565.49,
         "ans_page": 8
-      }
+      },
+      "qkey": "9b03855699206fa2"
     },
     {
       "n": 43,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Sports",
       "render_mode": "text",
       "stem": "Where is the Jawaharlal Nehru Stadium located?",
       "blocks": [
@@ -2043,8 +2169,10 @@
           "text": "Where is the Jawaharlal Nehru Stadium located?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Kolkata",
         "New Delhi",
@@ -2072,12 +2200,13 @@
         "opts_bottom": 656.9499999999999,
         "ans_top": 659.3499999999999,
         "ans_page": 8
-      }
+      },
+      "qkey": "9294d8fafa893156"
     },
     {
       "n": 44,
       "section": "general_awareness",
-      "topic": "Economy & Government Schemes",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which commission recommended reforms in Centre-State financial relations?",
       "blocks": [
@@ -2086,8 +2215,10 @@
           "text": "Which commission recommended reforms in Centre-State financial relations?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Finance Commission",
         "Sarkaria Commission",
@@ -2115,12 +2246,13 @@
         "opts_bottom": 751.0559999999999,
         "ans_top": 753.4559999999999,
         "ans_page": 8
-      }
+      },
+      "qkey": "2f797ce7a11efbfa"
     },
     {
       "n": 45,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Awards & Books",
       "render_mode": "text",
       "stem": "Which statement correctly represents the Nobel Prize in Literature?",
       "blocks": [
@@ -2129,8 +2261,10 @@
           "text": "Which statement correctly represents the Nobel Prize in Literature?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Awarded annually for scientific discoveries",
         "Recognizes outstanding literary contributions",
@@ -2158,12 +2292,13 @@
         "opts_bottom": 160.01,
         "ans_top": 162.40999999999997,
         "ans_page": 9
-      }
+      },
+      "qkey": "3db470d3e53ab7ea"
     },
     {
       "n": 46,
       "section": "general_awareness",
-      "topic": "Trigonometry",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "The National Food Security Act primarily aims to:",
       "blocks": [
@@ -2172,8 +2307,10 @@
           "text": "The National Food Security Act primarily aims to:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Promote exports",
         "Provide subsidized food grains",
@@ -2201,12 +2338,13 @@
         "opts_bottom": 254.1099999999999,
         "ans_top": 256.51,
         "ans_page": 9
-      }
+      },
+      "qkey": "abf8f1fcdeec715e"
     },
     {
       "n": 47,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Geography",
       "render_mode": "text",
       "stem": "In which type of terrain are waterfalls most commonly formed?",
       "blocks": [
@@ -2215,8 +2353,10 @@
           "text": "In which type of terrain are waterfalls most commonly formed?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Desert plains",
         "Plateau regions",
@@ -2244,12 +2384,13 @@
         "opts_bottom": 348.21999999999997,
         "ans_top": 350.62,
         "ans_page": 9
-      }
+      },
+      "qkey": "5f90b243b6469463"
     },
     {
       "n": 48,
       "section": "general_awareness",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "In Indian philosophy, which two major paths to liberation are emphasized?",
       "blocks": [
@@ -2258,8 +2399,10 @@
           "text": "In Indian philosophy, which two major paths to liberation are emphasized?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Karma and Jnana",
         "Bhakti and Yoga",
@@ -2287,12 +2430,13 @@
         "opts_bottom": 442.0799999999999,
         "ans_top": 444.47999999999996,
         "ans_page": 9
-      }
+      },
+      "qkey": "ad828e8c18cc29e9"
     },
     {
       "n": 49,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Why is aluminium widely used in aircraft construction?",
       "blocks": [
@@ -2301,8 +2445,10 @@
           "text": "Why is aluminium widely used in aircraft construction?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "High density",
         "Corrosion resistance and light weight",
@@ -2330,12 +2476,13 @@
         "opts_bottom": 536.18,
         "ans_top": 538.61,
         "ans_page": 9
-      }
+      },
+      "qkey": "121cf1984e25499c"
     },
     {
       "n": 50,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Current Affairs",
       "render_mode": "text",
       "stem": "Who inaugurated India's first metro rail service in Kolkata?",
       "blocks": [
@@ -2344,8 +2491,10 @@
           "text": "Who inaugurated India's first metro rail service in Kolkata?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Rajiv Gandhi",
         "Indira Gandhi",
@@ -2373,13 +2522,14 @@
         "opts_bottom": 630.31,
         "ans_top": 632.7099999999999,
         "ans_page": 9
-      }
+      },
+      "qkey": "fbeebc35eda8662c"
     },
     {
       "n": 51,
       "section": "quantitative_aptitude",
-      "topic": "Data Interpretation & Statistics",
-      "render_mode": "text",
+      "topic": "Number System",
+      "render_mode": "image_stem",
       "stem": "Table – Daily production (in units) of 5 machines over 4 days.\nDay M1 M2 M3 M4 M5\nDay 1 150 140 180 130 160\nDay 2 160 135 190 135 165\nDay 3 155 145 185 140 170\nDay 4 165 150 195 145 175\nWhat is the average daily production of Machine M3?",
       "blocks": [
         {
@@ -2411,8 +2561,53 @@
           "text": "What is the average daily production of Machine M3?"
         }
       ],
-      "stem_image": null,
+      "table": {
+        "headers": [
+          "Day",
+          "M1",
+          "M2",
+          "M3",
+          "M4",
+          "M5"
+        ],
+        "rows": [
+          [
+            "Day 1",
+            "150",
+            "140",
+            "180",
+            "130",
+            "160"
+          ],
+          [
+            "Day 2",
+            "160",
+            "135",
+            "190",
+            "135",
+            "165"
+          ],
+          [
+            "Day 3",
+            "155",
+            "145",
+            "185",
+            "140",
+            "170"
+          ],
+          [
+            "Day 4",
+            "165",
+            "150",
+            "195",
+            "145",
+            "175"
+          ]
+        ]
+      },
+      "stem_image": "img/ssc-cgl-2025-09-13-s1/q051_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2025-09-13-s1/q051_orig.webp",
       "options": [
         "187.5",
         "185",
@@ -2427,7 +2622,7 @@
       ],
       "answer": 0,
       "passage_id": null,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "warnings": [],
       "duplicate_of": null,
       "_bbox": {
@@ -2440,12 +2635,13 @@
         "opts_bottom": 781.0559999999999,
         "ans_top": 122.09000000000003,
         "ans_page": 10
-      }
+      },
+      "qkey": "b4120742055c301c"
     },
     {
       "n": 52,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Percentage",
       "render_mode": "text",
       "stem": "The budget of a factory is distributed among raw materials, wages, and maintenance in the ratio 4:3:3. During a year, the cost of raw materials rises by 12%, wages by 8%, and maintenance falls by 10%. What is the overall percentage change in the total budget?",
       "blocks": [
@@ -2454,8 +2650,10 @@
           "text": "The budget of a factory is distributed among raw materials, wages, and maintenance in the ratio 4:3:3. During a year, the cost of raw materials rises by 12%, wages by 8%, and maintenance falls by 10%. What is the overall percentage change in the total budget?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "0.4% decrease",
         "4.2% increase",
@@ -2483,12 +2681,13 @@
         "opts_bottom": 240.66999999999996,
         "ans_top": 243.06999999999994,
         "ans_page": 10
-      }
+      },
+      "qkey": "ad5d836e8c16a1ba"
     },
     {
       "n": 53,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Suppose p = √3 + √7, q = √8 + √2 and r = 2√3 +\n2. Which of the following is true?",
       "blocks": [
@@ -2502,8 +2701,10 @@
           "text": "Which of the following is true?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "p < q < r",
         "r < q < p",
@@ -2531,12 +2732,13 @@
         "opts_bottom": 334.78,
         "ans_top": 337.18,
         "ans_page": 10
-      }
+      },
+      "qkey": "c364266ddb680414"
     },
     {
       "n": 54,
       "section": "quantitative_aptitude",
-      "topic": "Algebra & Number System",
+      "topic": "Number System",
       "render_mode": "image_stem",
       "stem": "3 1 1 1\nQ54. Evaluate: 7−[ ÷{ +( ×(1− ))}]\n4 8 2 4",
       "blocks": [
@@ -2553,8 +2755,10 @@
           "text": "4 8 2 4"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2025-09-13-s1/q054_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2025-09-13-s1/q054_orig.webp",
       "options": [
         "11/2",
         "21/4",
@@ -2582,12 +2786,13 @@
         "opts_bottom": 438.71999999999997,
         "ans_top": 441.12,
         "ans_page": 10
-      }
+      },
+      "qkey": "69faefb8930ee513"
     },
     {
       "n": 55,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "X and Y started a business by investing ₹60,000 and ₹90,000 respectively. After 6 months, X doubled his capital, while Y reduced his capital by ₹30,000. If the total annual profit is ₹62,000, what is Y's share(to the nearest integer)?",
       "blocks": [
@@ -2596,8 +2801,10 @@
           "text": "X and Y started a business by investing ₹60,000 and ₹90,000 respectively. After 6 months, X doubled his capital, while Y reduced his capital by ₹30,000. If the total annual profit is ₹62,000, what is Y's share(to the nearest integer)?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹28,182",
         "₹30,105",
@@ -2625,12 +2832,13 @@
         "opts_bottom": 546.05,
         "ans_top": 548.45,
         "ans_page": 10
-      }
+      },
+      "qkey": "7a4bffe67b2e6e8d"
     },
     {
       "n": 56,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "P, Q, and R invested ₹30,000, ₹40,000, and ₹50,000 respectively in a business. If the profit at the end of the year is ₹36,000, what is Q's share of the profit?",
       "blocks": [
@@ -2639,8 +2847,10 @@
           "text": "P, Q, and R invested ₹30,000, ₹40,000, and ₹50,000 respectively in a business. If the profit at the end of the year is ₹36,000, what is Q's share of the profit?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹12,000",
         "₹11,000",
@@ -2668,12 +2878,13 @@
         "opts_bottom": 653.5899999999999,
         "ans_top": 655.99,
         "ans_page": 10
-      }
+      },
+      "qkey": "1eb4b39401c08e24"
     },
     {
       "n": 57,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "A vendor sold 18 pens for ₹1,440 and gained a profit of 20%. How many pens must he sell for ₹1,408 to make a profit of 12%(to the nearest integer)?",
       "blocks": [
@@ -2682,8 +2893,10 @@
           "text": "A vendor sold 18 pens for ₹1,440 and gained a profit of 20%. How many pens must he sell for ₹1,408 to make a profit of 12%(to the nearest integer)?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "17",
         "18",
@@ -2711,12 +2924,13 @@
         "opts_bottom": 760.896,
         "ans_top": 763.2959999999999,
         "ans_page": 10
-      }
+      },
+      "qkey": "7c696cd3df2ab915"
     },
     {
       "n": 58,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "From a 54-litre container of pure milk, 9 litres are removed and replaced by water. This process is repeated three times in total. What is the final quantity of milk left in the container?",
       "blocks": [
@@ -2725,8 +2939,10 @@
           "text": "From a 54-litre container of pure milk, 9 litres are removed and replaced by water. This process is repeated three times in total. What is the final quantity of milk left in the container?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "30.37 litres",
         "31.25 litres",
@@ -2754,12 +2970,13 @@
         "opts_bottom": 173.44999999999993,
         "ans_top": 175.85000000000002,
         "ans_page": 11
-      }
+      },
+      "qkey": "788d7eac58e0dfd3"
     },
     {
       "n": 59,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "In a town, the present number of employed people is 40,000. If the number of employed men decreases by 4% and the number of employed women increases by 12%, the total employed population becomes 40,480. What is the present number of employed men?",
       "blocks": [
@@ -2768,8 +2985,10 @@
           "text": "In a town, the present number of employed people is 40,000. If the number of employed men decreases by 4% and the number of employed women increases by 12%, the total employed population becomes 40,480. What is the present number of employed men?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "20,000",
         "22,000",
@@ -2797,12 +3016,13 @@
         "opts_bottom": 294.4599999999999,
         "ans_top": 296.86,
         "ans_page": 11
-      }
+      },
+      "qkey": "ed94185fd176d5b4"
     },
     {
       "n": 60,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Profit & Loss",
       "render_mode": "text",
       "stem": "A shopkeeper ordered 12 kg of premium coffee and some kg of regular coffee. The price of premium coffee per kg was three times that of regular coffee. Due to a billing mistake, the quantities of the two types were interchanged, which reduced the total bill by 30%. What was the ratio of the quantity of premium coffee to regular coffee in the original order?",
       "blocks": [
@@ -2811,8 +3031,10 @@
           "text": "A shopkeeper ordered 12 kg of premium coffee and some kg of regular coffee. The price of premium coffee per kg was three times that of regular coffee. Due to a billing mistake, the quantities of the two types were interchanged, which reduced the total bill by 30%. What was the ratio of the quantity of premium coffee to regular coffee in the original order?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "21:31",
         "23:24",
@@ -2840,12 +3062,13 @@
         "opts_bottom": 428.63999999999993,
         "ans_top": 431.03999999999996,
         "ans_page": 11
-      }
+      },
+      "qkey": "5e85667f078f6e19"
     },
     {
       "n": 61,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "P and Q together can complete a job in 16 days. Q and R together can complete it in 24 days, and R and P together can do it in 32 days. In how many days can P alone complete the job?\n1",
       "blocks": [
@@ -2858,8 +3081,10 @@
           "text": "1"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "30 days 2",
         "32 days 2",
@@ -2887,12 +3112,13 @@
         "opts_bottom": 546.77,
         "ans_top": 549.17,
         "ans_page": 11
-      }
+      },
+      "qkey": "9db33eb7e13ef645"
     },
     {
       "n": 62,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Profit & Loss",
       "render_mode": "text",
       "stem": "A trader sells one variety of sugar at ₹36 per kg, incurring a 10% loss, and another variety at ₹48 per kg, incurring a 20% loss. If he mixes the two varieties in equal quantities and sells the mixture at ₹42 per kg, what is his overall profit or loss percentage?",
       "blocks": [
@@ -2901,8 +3127,10 @@
           "text": "A trader sells one variety of sugar at ₹36 per kg, incurring a 10% loss, and another variety at ₹48 per kg, incurring a 20% loss. If he mixes the two varieties in equal quantities and sells the mixture at ₹42 per kg, what is his overall profit or loss percentage?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Loss of 16%",
         "Loss of 15%",
@@ -2930,12 +3158,13 @@
         "opts_bottom": 667.51,
         "ans_top": 669.91,
         "ans_page": 11
-      }
+      },
+      "qkey": "f942ff45be307542"
     },
     {
       "n": 63,
       "section": "quantitative_aptitude",
-      "topic": "Geometry & Mensuration",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "What is the area of a sector of a circle with radius 9 cm and central angle 80°?",
       "blocks": [
@@ -2944,8 +3173,10 @@
           "text": "What is the area of a sector of a circle with radius 9 cm and central angle 80°?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "18π cm²",
         "27π cm²",
@@ -2973,12 +3204,13 @@
         "opts_bottom": 761.616,
         "ans_top": 764.016,
         "ans_page": 11
-      }
+      },
+      "qkey": "9eb304f735d7bf46"
     },
     {
       "n": 64,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Which of the following lines is parallel to 4x − 3y = 7?",
       "blocks": [
@@ -2987,8 +3219,10 @@
           "text": "Which of the following lines is parallel to 4x − 3y = 7?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "4x − 3y = 5",
         "3x − 4y = 7",
@@ -3016,7 +3250,8 @@
         "opts_bottom": 173.44999999999993,
         "ans_top": 175.85000000000002,
         "ans_page": 12
-      }
+      },
+      "qkey": "5676bf695daa01bf"
     },
     {
       "n": 65,
@@ -3030,8 +3265,10 @@
           "text": "If cos(90° − θ) = sin(2θ), what is θ?"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2025-09-13-s1/q065_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2025-09-13-s1/q065_orig.webp",
       "options": [
         "60°",
         "30°",
@@ -3059,12 +3296,13 @@
         "opts_bottom": 267.54999999999995,
         "ans_top": 269.94999999999993,
         "ans_page": 12
-      }
+      },
+      "qkey": "39db856d929c0654"
     },
     {
       "n": 66,
       "section": "quantitative_aptitude",
-      "topic": "Trigonometry",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Given that angles A and B are complementary and cosA = 5/13, what is tanB?",
       "blocks": [
@@ -3073,8 +3311,10 @@
           "text": "Given that angles A and B are complementary and cosA = 5/13, what is tanB?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "12/5",
         "5/12",
@@ -3102,12 +3342,13 @@
         "opts_bottom": 361.65999999999997,
         "ans_top": 364.08,
         "ans_page": 12
-      }
+      },
+      "qkey": "760421e891506359"
     },
     {
       "n": 67,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "In a cyclic quadrilateral PQRS, if angle P is 110°, what is the measure of angle R?",
       "blocks": [
@@ -3116,8 +3357,10 @@
           "text": "In a cyclic quadrilateral PQRS, if angle P is 110°, what is the measure of angle R?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "70°",
         "80°",
@@ -3145,12 +3388,13 @@
         "opts_bottom": 455.5199999999999,
         "ans_top": 457.94,
         "ans_page": 12
-      }
+      },
+      "qkey": "c7237c756071a241"
     },
     {
       "n": 68,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Profit & Loss",
       "render_mode": "text",
       "stem": "A milkman mixes water with pure milk. If he sells the mixture at the cost price of pure milk and makes a profit of 25%, what is the ratio of water to milk in the mixture?",
       "blocks": [
@@ -3159,8 +3403,10 @@
           "text": "A milkman mixes water with pure milk. If he sells the mixture at the cost price of pure milk and makes a profit of 25%, what is the ratio of water to milk in the mixture?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1:3",
         "1:4",
@@ -3188,7 +3434,8 @@
         "opts_bottom": 563.0899999999999,
         "ans_top": 565.49,
         "ans_page": 12
-      }
+      },
+      "qkey": "031cde5e5625566c"
     },
     {
       "n": 69,
@@ -3202,8 +3449,10 @@
           "text": "Two cyclists start from the same point on a circular track of length 900 m at 7:00 a.m. and ride in opposite directions. Their speeds are 6 km/h and 9 km/h respectively. At what time will they meet for the fourth time?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "7:15:18 a.m.",
         "7:14:24 a.m.",
@@ -3231,12 +3480,13 @@
         "opts_bottom": 670.39,
         "ans_top": 672.79,
         "ans_page": 12
-      }
+      },
+      "qkey": "e0a7d1ebd3d54f12"
     },
     {
       "n": 70,
       "section": "quantitative_aptitude",
-      "topic": "Geometry & Mensuration",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "In triangles DEF and PQR, if DE = PQ, EF = QR, and FD = RP, which congruence criterion shows that triangle DEF is congruent to triangle PQR?",
       "blocks": [
@@ -3245,8 +3495,10 @@
           "text": "In triangles DEF and PQR, if DE = PQ, EF = QR, and FD = RP, which congruence criterion shows that triangle DEF is congruent to triangle PQR?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "SSS",
         "SAS",
@@ -3274,7 +3526,8 @@
         "opts_bottom": 777.9359999999999,
         "ans_top": 95.41999999999996,
         "ans_page": 13
-      }
+      },
+      "qkey": "e4a629eb0358fcaa"
     },
     {
       "n": 71,
@@ -3288,8 +3541,10 @@
           "text": "A bus covers 30% of a journey at a speed of 24 km/h and the remaining distance at a speed of 36 km/h. What is the average speed of the bus for the entire journey?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "28.8 km/h",
         "29.4 km/h",
@@ -3317,12 +3572,13 @@
         "opts_bottom": 200.32999999999993,
         "ans_top": 202.75,
         "ans_page": 13
-      }
+      },
+      "qkey": "a4423456f417f60d"
     },
     {
       "n": 72,
       "section": "quantitative_aptitude",
-      "topic": "Geometry & Mensuration",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "The area of a sector of a circle of radius 6 cm with central angle 120° is:",
       "blocks": [
@@ -3331,8 +3587,10 @@
           "text": "The area of a sector of a circle of radius 6 cm with central angle 120° is:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "12π cm²",
         "18π cm²",
@@ -3360,12 +3618,13 @@
         "opts_bottom": 294.4599999999999,
         "ans_top": 296.86,
         "ans_page": 13
-      }
+      },
+      "qkey": "ed5a80ffb169eb72"
     },
     {
       "n": 73,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "If t = √6 + 3, find t² − 6√6.",
       "blocks": [
@@ -3374,8 +3633,10 @@
           "text": "If t = √6 + 3, find t² − 6√6."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "3",
         "5",
@@ -3403,7 +3664,8 @@
         "opts_bottom": 388.55999999999995,
         "ans_top": 390.71999999999997,
         "ans_page": 13
-      }
+      },
+      "qkey": "f5990e9a93d62e09"
     },
     {
       "n": 74,
@@ -3417,8 +3679,10 @@
           "text": "What is the radian measure of 135°?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "3π/5",
         "5π/6",
@@ -3446,12 +3710,13 @@
         "opts_bottom": 482.41999999999996,
         "ans_top": 484.82,
         "ans_page": 13
-      }
+      },
+      "qkey": "4e128288d90b3ee9"
     },
     {
       "n": 75,
       "section": "quantitative_aptitude",
-      "topic": "Trigonometry",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "If sin²θ − cos²θ = −1/3, find the value of cos²θ.",
       "blocks": [
@@ -3460,8 +3725,10 @@
           "text": "If sin²θ − cos²θ = −1/3, find the value of cos²θ."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1/3",
         "1/2",
@@ -3489,12 +3756,13 @@
         "opts_bottom": 576.53,
         "ans_top": 578.93,
         "ans_page": 13
-      }
+      },
+      "qkey": "d2cfe70eefa94146"
     },
     {
       "n": 76,
       "section": "english",
-      "topic": "Vocabulary: Synonyms & Antonyms",
+      "topic": "Synonyms & Antonyms",
       "render_mode": "text",
       "stem": "Select the most appropriate antonym of the given word: FLEETING",
       "blocks": [
@@ -3503,8 +3771,10 @@
           "text": "Select the most appropriate antonym of the given word: FLEETING"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Short-lived",
         "Transient",
@@ -3532,12 +3802,13 @@
         "opts_bottom": 670.39,
         "ans_top": 672.79,
         "ans_page": 13
-      }
+      },
+      "qkey": "be6489ba0932857c"
     },
     {
       "n": 77,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the sentence containing the homonym of the highlighted word:\nDuring the ceremony, the fanon lay across the bishop’s shoulder.",
       "blocks": [
@@ -3550,8 +3821,10 @@
           "text": "During the ceremony, the fanon lay across the bishop’s shoulder."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "The researcher documented the fanon’s use in early rituals.",
         "The seamstress reinforced the fanon’s border with fine stitching.",
@@ -3579,12 +3852,13 @@
         "opts_bottom": 777.9359999999999,
         "ans_top": 95.41999999999996,
         "ans_page": 14
-      }
+      },
+      "qkey": "ca51054e5a9fc3b3"
     },
     {
       "n": 78,
       "section": "english",
-      "topic": "Data Interpretation & Statistics",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Choose the most suitable option to replace the highlighted part of the sentence:\nI am used to get up early every morning.",
       "blocks": [
@@ -3597,8 +3871,10 @@
           "text": "I am used to get up early every morning."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "of getting up",
         "with getting up",
@@ -3626,12 +3902,13 @@
         "opts_bottom": 200.32999999999993,
         "ans_top": 202.75,
         "ans_page": 14
-      }
+      },
+      "qkey": "3b01b193ab055dde"
     },
     {
       "n": 79,
       "section": "english",
-      "topic": "Spotting Errors & Sentence Correction",
+      "topic": "Error Spotting",
       "render_mode": "text",
       "stem": "Find the part of the sentence that contains an error:\nThe initiatives praised by the committee (1)/ are not only designed to modernise reporting systems (2)/ but also improving transparency in funding distribution (3)/ across all districts. (4)",
       "blocks": [
@@ -3644,8 +3921,10 @@
           "text": "The initiatives praised by the committee (1)/ are not only designed to modernise reporting systems (2)/ but also improving transparency in funding distribution (3)/ across all districts. (4)"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "(1)",
         "(2)",
@@ -3673,12 +3952,13 @@
         "opts_bottom": 321.3399999999999,
         "ans_top": 323.74,
         "ans_page": 14
-      }
+      },
+      "qkey": "08ad62799cf00742"
     },
     {
       "n": 80,
       "section": "english",
-      "topic": "Para Jumbles & Sentence Rearrangement",
+      "topic": "Para Jumbles",
       "render_mode": "text",
       "stem": "Rearrange the following sentences to form a coherent paragraph:\n1. Such stories frequently examine the moral and societal impact of technological progress, from AI to genetic modification.\n2. Science fiction is a form of speculative writing that commonly presents imaginative ideas related to future science and technology.\n3. As a result, it becomes a strong medium for social critique and for forecasting upcoming problems and dilemmas.\n4. Though it entertains readers, the genre offers more than simple escapism.",
       "blocks": [
@@ -3707,8 +3987,10 @@
           "text": "Though it entertains readers, the genre offers more than simple escapism."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2, 4, 1, 3",
         "1, 3, 2, 4",
@@ -3736,12 +4018,13 @@
         "opts_bottom": 495.85999999999996,
         "ans_top": 498.26,
         "ans_page": 14
-      }
+      },
+      "qkey": "c0a6dc849e2e47ec"
     },
     {
       "n": 81,
       "section": "english",
-      "topic": "Spelling Correction",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Spot the correct spelling of a metamorphic rock texture with large, conspicuous crystals.",
       "blocks": [
@@ -3750,8 +4033,10 @@
           "text": "Spot the correct spelling of a metamorphic rock texture with large, conspicuous crystals."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Prephyroblastic",
         "Porphyroblastic",
@@ -3779,12 +4064,13 @@
         "opts_bottom": 589.9699999999999,
         "ans_top": 592.3699999999999,
         "ans_page": 14
-      }
+      },
+      "qkey": "1a4b7adc53db0204"
     },
     {
       "n": 82,
       "section": "english",
-      "topic": "Spotting Errors & Sentence Correction",
+      "topic": "Error Spotting",
       "render_mode": "text",
       "stem": "Find the part of the sentence that contains an error:\nWhat the organization did not examine thoroughly enough (1)/ were not the scheme’s objectives themselves, (2)/ but the political consequences it (3)/ might have caused if carried out without wider agreement. (4)",
       "blocks": [
@@ -3797,8 +4083,10 @@
           "text": "What the organization did not examine thoroughly enough (1)/ were not the scheme’s objectives themselves, (2)/ but the political consequences it (3)/ might have caused if carried out without wider agreement. (4)"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "(1)",
         "(2)",
@@ -3826,12 +4114,13 @@
         "opts_bottom": 710.74,
         "ans_top": 713.14,
         "ans_page": 14
-      }
+      },
+      "qkey": "f5300a2c93627b98"
     },
     {
       "n": 83,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the correct option:\nThe speaker’s explanation was so packed with technical jargon that it veered into __________.",
       "blocks": [
@@ -3844,8 +4133,10 @@
           "text": "The speaker’s explanation was so packed with technical jargon that it veered into __________."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "opacity",
         "opalescent",
@@ -3873,12 +4164,13 @@
         "opts_bottom": 777.9359999999999,
         "ans_top": 135.52999999999997,
         "ans_page": 15
-      }
+      },
+      "qkey": "d593b61bad4c0e41"
     },
     {
       "n": 84,
       "section": "english",
-      "topic": "Vocabulary: Synonyms & Antonyms",
+      "topic": "Synonyms & Antonyms",
       "render_mode": "text",
       "stem": "Select the most appropriate synonym of the given word: CUTTING",
       "blocks": [
@@ -3887,8 +4179,10 @@
           "text": "Select the most appropriate synonym of the given word: CUTTING"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Kind",
         "Pleasant",
@@ -3916,12 +4210,13 @@
         "opts_bottom": 227.2299999999999,
         "ans_top": 229.63,
         "ans_page": 15
-      }
+      },
+      "qkey": "0762e2275a98b8f7"
     },
     {
       "n": 85,
       "section": "english",
-      "topic": "Data Interpretation & Statistics",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Choose the most suitable option to replace the highlighted part of the sentence:\nI suggested that he goes to the veterinary surgeon immediately as his dog was not well.",
       "blocks": [
@@ -3934,8 +4229,10 @@
           "text": "I suggested that he goes to the veterinary surgeon immediately as his dog was not well."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "go to veterinary surgeon at once",
         "should goes to the veterinary surgeon",
@@ -3963,12 +4260,13 @@
         "opts_bottom": 334.78,
         "ans_top": 337.18,
         "ans_page": 15
-      }
+      },
+      "qkey": "e936a06d98bafa30"
     },
     {
       "n": 86,
       "section": "english",
-      "topic": "Trigonometry",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the correct option:\nOnly after ten years of fieldwork __ she truly understand the dialect’s nuances.",
       "blocks": [
@@ -3981,8 +4279,10 @@
           "text": "Only after ten years of fieldwork __ she truly understand the dialect’s nuances."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "she had",
         "did she",
@@ -4010,7 +4310,8 @@
         "opts_bottom": 442.0799999999999,
         "ans_top": 444.47999999999996,
         "ans_page": 15
-      }
+      },
+      "qkey": "08bac6efc381f071"
     },
     {
       "n": 87,
@@ -4028,8 +4329,10 @@
           "text": "Ritika said, “Rajiv does not listen to me.”"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Ritika said Rajiv don’t listen to her.",
         "Ritika said that Rajiv doesn’t listened to her.",
@@ -4057,12 +4360,13 @@
         "opts_bottom": 563.0899999999999,
         "ans_top": 565.49,
         "ans_page": 15
-      }
+      },
+      "qkey": "c2b5b99d997cfc8a"
     },
     {
       "n": 88,
       "section": "english",
-      "topic": "Geography & Environment",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Change the following from active to passive:\nThe research team will have reverified the samples before sunrise.",
       "blocks": [
@@ -4075,8 +4379,10 @@
           "text": "The research team will have reverified the samples before sunrise."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "The samples have been reverified by the research team before sunrise.",
         "The samples will have been reverified by the research team before sunrise.",
@@ -4104,12 +4410,13 @@
         "opts_bottom": 670.39,
         "ans_top": 672.79,
         "ans_page": 15
-      }
+      },
+      "qkey": "04b2cb28c28c7ca4"
     },
     {
       "n": 89,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the correct option:\nHer rebuttal, although polished, did not __________ the core issue raised by the opposition.",
       "blocks": [
@@ -4122,8 +4429,10 @@
           "text": "Her rebuttal, although polished, did not __________ the core issue raised by the opposition."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "address",
         "depress",
@@ -4151,7 +4460,8 @@
         "opts_bottom": 777.9359999999999,
         "ans_top": 95.41999999999996,
         "ans_page": 16
-      }
+      },
+      "qkey": "3e87d53cb933545e"
     },
     {
       "n": 90,
@@ -4165,8 +4475,10 @@
           "text": "Choose the correct one-word substitute for: “A government controlled by the rich and powerful.”"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Oligarchy",
         "Bureaucracy",
@@ -4194,12 +4506,13 @@
         "opts_bottom": 186.89,
         "ans_top": 189.28999999999996,
         "ans_page": 16
-      }
+      },
+      "qkey": "64f9dd3cb91c9113"
     },
     {
       "n": 91,
       "section": "english",
-      "topic": "Spelling Correction",
+      "topic": "Spelling",
       "render_mode": "text",
       "stem": "Identify the incorrectly spelt word:",
       "blocks": [
@@ -4208,8 +4521,10 @@
           "text": "Identify the incorrectly spelt word:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Avaricious",
         "Temerarious",
@@ -4237,7 +4552,8 @@
         "opts_bottom": 280.9899999999999,
         "ans_top": 283.41999999999996,
         "ans_page": 16
-      }
+      },
+      "qkey": "95c26cb49654fdd2"
     },
     {
       "n": 92,
@@ -4251,8 +4567,10 @@
           "text": "Convert the sentence provided below from its passive voice structure to an active voice structure: Ancient artifacts are believed to have been quietly removed from the location by trespassers before the audit."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Trespassers removed the ancient artifacts before the audit.",
         "The location was quietly cleared before the audit.",
@@ -4280,12 +4598,13 @@
         "opts_bottom": 388.55999999999995,
         "ans_top": 390.71999999999997,
         "ans_page": 16
-      }
+      },
+      "qkey": "fb35cca92ee2bd78"
     },
     {
       "n": 93,
       "section": "english",
-      "topic": "Para Jumbles & Sentence Rearrangement",
+      "topic": "Para Jumbles",
       "render_mode": "text",
       "stem": "Rearrange the following sentences to form a coherent paragraph:\n1. This process helps ensure that the food we consume is safe and free from harmful microbes or other impurities.\n2. Food processing refers to a set of techniques used to convert raw ingredients into edible products.\n3. These techniques may include simple steps like chopping and grinding, as well as advanced procedures such as pasteurization and fermentation.\n4. In addition, it supports preservation by increasing shelf life and can also improve nutritional value.",
       "blocks": [
@@ -4314,8 +4633,10 @@
           "text": "In addition, it supports preservation by increasing shelf life and can also improve nutritional value."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2, 3, 1, 4",
         "1, 2, 3, 4",
@@ -4343,7 +4664,8 @@
         "opts_bottom": 549.65,
         "ans_top": 552.05,
         "ans_page": 16
-      }
+      },
+      "qkey": "92e829fee94311ce"
     },
     {
       "n": 94,
@@ -4357,8 +4679,10 @@
           "text": "Choose the correct meaning of idiom: Pull no punches"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "To remain impartial",
         "To hesitate before talking",
@@ -4386,7 +4710,8 @@
         "opts_bottom": 643.75,
         "ans_top": 645.91,
         "ans_page": 16
-      }
+      },
+      "qkey": "4b6b2691ef813dcb"
     },
     {
       "n": 95,
@@ -4416,8 +4741,10 @@
           "text": "With consistent counseling, Meera learned to separate society’s imposed standards from her real, inner worth. Slowly, she started accepting that beauty is not a single fixed model decided by culture; rather, it exists in many forms shaped by diversity, well-being, and self-kindness. Meera’s story is not an isolated case—it reflects a larger crisis in which many teenagers fight invisible battles behind seemingly perfect digital lives. Addressing this problem demands more than simple awareness; it requires sharp media literacy, supportive and empathetic spaces, and a broader redefinition of beauty that goes beyond shallow measurements."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "The physical ache of hunger from missing meals",
         "The nagging conflict between her real self and online beauty ideals",
@@ -4445,7 +4772,8 @@
         "opts_bottom": 348.21999999999997,
         "ans_top": 350.62,
         "ans_page": 17
-      }
+      },
+      "qkey": "77d7fbef7d7154cb"
     },
     {
       "n": 96,
@@ -4475,8 +4803,10 @@
           "text": "With consistent counseling, Meera learned to separate society’s imposed standards from her real, inner worth. Slowly, she started accepting that beauty is not a single fixed model decided by culture; rather, it exists in many forms shaped by diversity, well-being, and self-kindness. Meera’s story is not an isolated case—it reflects a larger crisis in which many teenagers fight invisible battles behind seemingly perfect digital lives. Addressing this problem demands more than simple awareness; it requires sharp media literacy, supportive and empathetic spaces, and a broader redefinition of beauty that goes beyond shallow measurements."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Sudden and openly confrontational",
         "Unpredictable and meant to draw attention",
@@ -4504,7 +4834,8 @@
         "opts_bottom": 737.62,
         "ans_top": 740.016,
         "ans_page": 17
-      }
+      },
+      "qkey": "6747f7e4a95716dd"
     },
     {
       "n": 97,
@@ -4530,8 +4861,10 @@
           "text": "With consistent counseling, Meera learned to separate society’s imposed standards from her real, inner worth. Slowly, she started accepting that beauty is not a single fixed model decided by culture; rather, it exists in many forms shaped by diversity, well-being, and self-kindness. Meera’s story is not an isolated case—it reflects a larger crisis in which many teenagers fight invisible battles behind seemingly perfect digital lives. Addressing this problem demands more than simple awareness; it requires sharp media literacy, supportive and empathetic spaces, and a broader redefinition of beauty that goes beyond shallow measurements."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Seeking narcissistic approval from others",
         "Understanding self-image distortion",
@@ -4559,7 +4892,8 @@
         "opts_bottom": 455.5199999999999,
         "ans_top": 457.94,
         "ans_page": 18
-      }
+      },
+      "qkey": "e6053618819a80bc"
     },
     {
       "n": 98,
@@ -4589,8 +4923,10 @@
           "text": "With consistent counseling, Meera learned to separate society’s imposed standards from her real, inner worth. Slowly, she started accepting that beauty is not a single fixed model decided by culture; rather, it exists in many forms shaped by diversity, well-being, and self-kindness. Meera’s story is not an isolated case—it reflects a larger crisis in which many teenagers fight invisible battles behind seemingly perfect digital lives. Addressing this problem demands more than simple awareness; it requires sharp media literacy, supportive and empathetic spaces, and a broader redefinition of beauty that goes beyond shallow measurements."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Teenagers are mainly affected by peer pressure",
         "Modern fashion and cosmetic trends dominate teen life",
@@ -4618,7 +4954,8 @@
         "opts_bottom": 173.44999999999993,
         "ans_top": 175.85000000000002,
         "ans_page": 20
-      }
+      },
+      "qkey": "097eae3e5242763e"
     },
     {
       "n": 99,
@@ -4648,8 +4985,10 @@
           "text": "With consistent counseling, Meera learned to separate society’s imposed standards from her real, inner worth. Slowly, she started accepting that beauty is not a single fixed model decided by culture; rather, it exists in many forms shaped by diversity, well-being, and self-kindness. Meera’s story is not an isolated case—it reflects a larger crisis in which many teenagers fight invisible battles behind seemingly perfect digital lives. Addressing this problem demands more than simple awareness; it requires sharp media literacy, supportive and empathetic spaces, and a broader redefinition of beauty that goes beyond shallow measurements."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Sarcastic and dismissive",
         "Thoughtful and socially critical",
@@ -4677,7 +5016,8 @@
         "opts_bottom": 563.0899999999999,
         "ans_top": 565.49,
         "ans_page": 20
-      }
+      },
+      "qkey": "eab56c2ad078aebe"
     },
     {
       "n": 100,
@@ -4695,8 +5035,10 @@
           "text": "The supervisor told the staff that the submission deadline had been pushed back by two days."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "“You can turn in the work two days after the scheduled date,” the supervisor informed.",
         "“The submission deadline has been pushed back by two days,” said the supervisor.",
@@ -4724,7 +5066,8 @@
         "opts_bottom": 683.8299999999999,
         "ans_top": 686.23,
         "ans_page": 20
-      }
+      },
+      "qkey": "d72817b51b2f464a"
     }
   ]
 }

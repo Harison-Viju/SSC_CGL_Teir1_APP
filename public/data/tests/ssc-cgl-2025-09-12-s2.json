@@ -49,7 +49,7 @@
     {
       "n": 1,
       "section": "reasoning",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Two numbers are in the ratio 5 : 7 and their sum is 144. Find the numbers.",
       "blocks": [
@@ -58,8 +58,10 @@
           "text": "Two numbers are in the ratio 5 : 7 and their sum is 144. Find the numbers."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "50, 94",
         "60, 84",
@@ -87,12 +89,13 @@
         "opts_bottom": 200.32999999999993,
         "ans_top": 203.94999999999993,
         "ans_page": 1
-      }
+      },
+      "qkey": "e99f922f70a9c9ec"
     },
     {
       "n": 2,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Number Series",
       "render_mode": "text",
       "stem": "Find the missing term in the series.\n?, 132, 165, 204, 249",
       "blocks": [
@@ -105,8 +108,10 @@
           "text": "?, 132, 165, 204, 249"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "96",
         "105",
@@ -134,12 +139,13 @@
         "opts_bottom": 316.29999999999995,
         "ans_top": 319.9,
         "ans_page": 1
-      }
+      },
+      "qkey": "7406a93ec694f299"
     },
     {
       "n": 3,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "How many letters are between the 1st from left and 2nd from right in the word COMPETITION, when arranged alphabetically?",
       "blocks": [
@@ -148,8 +154,10 @@
           "text": "How many letters are between the 1st from left and 2nd from right in the word COMPETITION, when arranged alphabetically?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "9",
         "8",
@@ -177,7 +185,8 @@
         "opts_bottom": 432.23999999999995,
         "ans_top": 435.84,
         "ans_page": 1
-      }
+      },
+      "qkey": "4188580cfd44f06c"
     },
     {
       "n": 4,
@@ -191,8 +200,10 @@
           "text": "If X is the daughter of Y and Y is the brother of Z, how is X related to Z?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Niece",
         "Daughter",
@@ -220,12 +231,13 @@
         "opts_bottom": 533.78,
         "ans_top": 537.17,
         "ans_page": 1
-      }
+      },
+      "qkey": "2972575d0d56ff31"
     },
     {
       "n": 5,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "Apply the same pattern used in the following group and find the correct option.\nNUMBER : ERBMUN :: SCHOOL : ?",
       "blocks": [
@@ -238,8 +250,10 @@
           "text": "NUMBER : ERBMUN :: SCHOOL : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "LHCOSO",
         "OLOHCS",
@@ -267,12 +281,13 @@
         "opts_bottom": 649.75,
         "ans_top": 653.1099999999999,
         "ans_page": 1
-      }
+      },
+      "qkey": "d23b6ce913546be9"
     },
     {
       "n": 6,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Number Series",
       "render_mode": "text",
       "stem": "Find the missing term in the series.\n2, 6, 18, 54, ?",
       "blocks": [
@@ -285,8 +300,10 @@
           "text": "2, 6, 18, 54, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "96",
         "108",
@@ -314,12 +331,13 @@
         "opts_bottom": 765.6959999999999,
         "ans_top": 769.2959999999999,
         "ans_page": 1
-      }
+      },
+      "qkey": "031f636e4398457e"
     },
     {
       "n": 7,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Mathematical Operations",
       "render_mode": "text",
       "stem": "If the sum of 36 and 24 is multiplied by 7, what is the result?",
       "blocks": [
@@ -328,8 +346,10 @@
           "text": "If the sum of 36 and 24 is multiplied by 7, what is the result?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "420",
         "392",
@@ -357,12 +377,13 @@
         "opts_bottom": 178.9699999999999,
         "ans_top": 182.33000000000004,
         "ans_page": 3
-      }
+      },
+      "qkey": "a6673f7ff89e8ada"
     },
     {
       "n": 8,
       "section": "reasoning",
-      "topic": "Geography & Environment",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Statement:\nMost students in the class passed the exam.\nConclusions:\nI. Some students failed the exam.\nII. All students appeared for the exam.",
       "blocks": [
@@ -389,8 +410,10 @@
           "text": "All students appeared for the exam."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only I follows",
         "Only II follows",
@@ -418,12 +441,13 @@
         "opts_bottom": 338.37999999999994,
         "ans_top": 341.74,
         "ans_page": 3
-      }
+      },
+      "qkey": "3e5a1f081305affe"
     },
     {
       "n": 9,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Address Matching",
       "render_mode": "text",
       "stem": "Which of the following addresses are exactly identical?\nAmit Verma, 12A, Green Park, Delhi, 110016\nAmit Verma, 12A Green Park, Delhi, 110016\nAmit Verma, 12A, Green Park, Delhi, 110018\nAmit Verma, 12A, Green Park, Delhi, 110016",
       "blocks": [
@@ -448,8 +472,10 @@
           "text": "Amit Verma, 12A, Green Park, Delhi, 110016"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1 and 2",
         "1 and 4",
@@ -477,12 +503,13 @@
         "opts_bottom": 497.78,
         "ans_top": 501.14,
         "ans_page": 3
-      }
+      },
+      "qkey": "d6777141d8c8d3a5"
     },
     {
       "n": 10,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "In the following question, select the related word from the given alternatives.\nFreedom : Independence :: Poverty : ?",
       "blocks": [
@@ -495,8 +522,10 @@
           "text": "Freedom : Independence :: Poverty : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Hunger",
         "Wealth",
@@ -524,12 +553,13 @@
         "opts_bottom": 613.73,
         "ans_top": 617.1099999999999,
         "ans_page": 3
-      }
+      },
+      "qkey": "d76ad7b9c40c2c3c"
     },
     {
       "n": 11,
       "section": "reasoning",
-      "topic": "Statement & Assumption / Argument",
+      "topic": "Statement & Conclusion",
       "render_mode": "text",
       "stem": "Statement:\nOnline education requires reliable internet access.\nAssumptions:\nI. Students have access to the internet.\nII. Traditional education is outdated.",
       "blocks": [
@@ -556,8 +586,10 @@
           "text": "Traditional education is outdated."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only I is implicit",
         "Only II is implicit",
@@ -585,12 +617,13 @@
         "opts_bottom": 773.136,
         "ans_top": 776.496,
         "ans_page": 3
-      }
+      },
+      "qkey": "6a5eecf0a9615ec0"
     },
     {
       "n": 12,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "Apply the same pattern used in the following group and find the correct option.\nKLM : NOP :: STU : ?",
       "blocks": [
@@ -603,8 +636,10 @@
           "text": "KLM : NOP :: STU : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "XYZ",
         "VYZ",
@@ -632,12 +667,13 @@
         "opts_bottom": 193.37,
         "ans_top": 196.73000000000002,
         "ans_page": 4
-      }
+      },
+      "qkey": "977309b86337729f"
     },
     {
       "n": 13,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Classification (odd one out)",
       "render_mode": "text",
       "stem": "Find the odd one out.\nSodium, Calcium, Iron, Oxygen",
       "blocks": [
@@ -650,8 +686,10 @@
           "text": "Sodium, Calcium, Iron, Oxygen"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Sodium",
         "Oxygen",
@@ -679,12 +717,13 @@
         "opts_bottom": 309.3399999999999,
         "ans_top": 312.69999999999993,
         "ans_page": 4
-      }
+      },
+      "qkey": "1dedf9fac3fe29b8"
     },
     {
       "n": 14,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.\nEHF, JKM, ONT, ?",
       "blocks": [
@@ -697,8 +736,10 @@
           "text": "EHF, JKM, ONT, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "TUV",
         "STU",
@@ -726,12 +767,13 @@
         "opts_bottom": 439.67999999999995,
         "ans_top": 443.28,
         "ans_page": 4
-      }
+      },
+      "qkey": "1b49ec3767484be7"
     },
     {
       "n": 15,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "If 8 + 4 = 96 and 7 + 3 = 70, then 6 + 5 = ?",
       "blocks": [
@@ -740,8 +782,10 @@
           "text": "If 8 + 4 = 96 and 7 + 3 = 70, then 6 + 5 = ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "60",
         "66",
@@ -769,7 +813,8 @@
         "opts_bottom": 541.22,
         "ans_top": 544.61,
         "ans_page": 4
-      }
+      },
+      "qkey": "542b83622732ee74"
     },
     {
       "n": 16,
@@ -783,8 +828,10 @@
           "text": "A man says, “She is the wife of my father’s only son.” How is the woman related to the man?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Sister",
         "Mother",
@@ -812,12 +859,13 @@
         "opts_bottom": 642.79,
         "ans_top": 646.15,
         "ans_page": 4
-      }
+      },
+      "qkey": "9999b9ce738246d4"
     },
     {
       "n": 17,
       "section": "reasoning",
-      "topic": "Algebra & Number System",
+      "topic": "Blood Relations",
       "render_mode": "text",
       "stem": "If a + b = 20 and a - b = 6, then what is a × b?",
       "blocks": [
@@ -826,8 +874,10 @@
           "text": "If a + b = 20 and a - b = 6, then what is a × b?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "64",
         "100",
@@ -855,12 +905,13 @@
         "opts_bottom": 744.0999999999999,
         "ans_top": 747.6959999999999,
         "ans_page": 4
-      }
+      },
+      "qkey": "64d798a9a4fc0098"
     },
     {
       "n": 18,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "In the following question, select the related word from the given alternatives.\nCell : Tissue :: Tissue : ?",
       "blocks": [
@@ -873,8 +924,10 @@
           "text": "Cell : Tissue :: Tissue : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Nucleus",
         "Molecule",
@@ -902,12 +955,13 @@
         "opts_bottom": 178.9699999999999,
         "ans_top": 182.33000000000004,
         "ans_page": 5
-      }
+      },
+      "qkey": "0b03a443186dc152"
     },
     {
       "n": 19,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Ranking & Order",
       "render_mode": "text",
       "stem": "In a row of 60 students, P is 18th from the left and Q is 25th from the right. How many students are between P and Q?",
       "blocks": [
@@ -916,8 +970,10 @@
           "text": "In a row of 60 students, P is 18th from the left and Q is 25th from the right. How many students are between P and Q?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "15",
         "16",
@@ -945,12 +1001,13 @@
         "opts_bottom": 294.93999999999994,
         "ans_top": 298.29999999999995,
         "ans_page": 5
-      }
+      },
+      "qkey": "3be0066b2f8c5296"
     },
     {
       "n": 20,
       "section": "reasoning",
-      "topic": "Trigonometry",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "How many meaningful 4-letter English words can be formed using 2nd, 3rd, 4th and 5th letters of the word TEACHER, without repetition?",
       "blocks": [
@@ -959,8 +1016,10 @@
           "text": "How many meaningful 4-letter English words can be formed using 2nd, 3rd, 4th and 5th letters of the word TEACHER, without repetition?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Two",
         "Four",
@@ -988,12 +1047,13 @@
         "opts_bottom": 410.87999999999994,
         "ans_top": 414.24,
         "ans_page": 5
-      }
+      },
+      "qkey": "e96c870c9bf8032b"
     },
     {
       "n": 21,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Classification (odd one out)",
       "render_mode": "text",
       "stem": "Find the odd one out.\n729, 1331, 2197, 3125",
       "blocks": [
@@ -1006,8 +1066,10 @@
           "text": "729, 1331, 2197, 3125"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "729",
         "1331",
@@ -1035,12 +1097,13 @@
         "opts_bottom": 526.8199999999999,
         "ans_top": 530.1800000000001,
         "ans_page": 5
-      }
+      },
+      "qkey": "0607ce2325465f55"
     },
     {
       "n": 22,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.\nBDH, EJM, IPR, ?",
       "blocks": [
@@ -1053,8 +1116,10 @@
           "text": "BDH, EJM, IPR, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "NVW",
         "MUX",
@@ -1082,12 +1147,13 @@
         "opts_bottom": 657.1899999999999,
         "ans_top": 660.55,
         "ans_page": 5
-      }
+      },
+      "qkey": "3c16e17a804eb892"
     },
     {
       "n": 23,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Number Series",
       "render_mode": "text",
       "stem": "Find the number that breaks the pattern:\n3, 7, 15, 31, 63, 120",
       "blocks": [
@@ -1100,8 +1166,10 @@
           "text": "3, 7, 15, 31, 63, 120"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "7",
         "15",
@@ -1129,7 +1197,8 @@
         "opts_bottom": 773.136,
         "ans_top": 776.496,
         "ans_page": 5
-      }
+      },
+      "qkey": "06873bc6d28869c6"
     },
     {
       "n": 24,
@@ -1143,8 +1212,10 @@
           "text": "Pointing to a boy, a woman said, “He is the son of my mother’s only son.” How is the boy related to the woman?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Son",
         "Cousin",
@@ -1172,12 +1243,13 @@
         "opts_bottom": 178.9699999999999,
         "ans_top": 182.33000000000004,
         "ans_page": 6
-      }
+      },
+      "qkey": "d0d03ffffe2763da"
     },
     {
       "n": 25,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Coding-Decoding",
       "render_mode": "text",
       "stem": "If BALL = 211212 and CALL = 311212, then DOLL = ?",
       "blocks": [
@@ -1186,8 +1258,10 @@
           "text": "If BALL = 211212 and CALL = 311212, then DOLL = ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "4141212",
         "4511212",
@@ -1215,12 +1289,13 @@
         "opts_bottom": 280.27,
         "ans_top": 283.9,
         "ans_page": 6
-      }
+      },
+      "qkey": "7787b461272ab739"
     },
     {
       "n": 26,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Examine the statements about long jump technique phases:\n1. The run-up on the runway builds peak momentum prior to takeoff.\n2. Takeoff involves pushing from the weaker leg to ensure stability.\nWhich statements are accurate?",
       "blocks": [
@@ -1243,8 +1318,10 @@
           "text": "Which statements are accurate?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only 1",
         "Only 2",
@@ -1272,12 +1349,13 @@
         "opts_bottom": 425.28,
         "ans_top": 428.64,
         "ans_page": 6
-      }
+      },
+      "qkey": "c74d7eed6cfb357a"
     },
     {
       "n": 27,
       "section": "general_awareness",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Complete the\nstatement:\nThrough the SLKIC component of Khelo India, ______ Kendriya Vidyalayas have been selected in collaboration with KVS.",
       "blocks": [
@@ -1294,8 +1372,10 @@
           "text": "Through the SLKIC component of Khelo India, ______ Kendriya Vidyalayas have been selected in collaboration with KVS."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "3",
         "4",
@@ -1323,12 +1403,13 @@
         "opts_bottom": 555.65,
         "ans_top": 559.25,
         "ans_page": 6
-      }
+      },
+      "qkey": "9696e7d0a34b5f42"
     },
     {
       "n": 28,
       "section": "general_awareness",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "General Science",
       "render_mode": "text",
       "stem": "If Earth’s radius shrinks by 1% with mass constant, surface gravitational acceleration would:",
       "blocks": [
@@ -1337,8 +1418,10 @@
           "text": "If Earth’s radius shrinks by 1% with mass constant, surface gravitational acceleration would:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Rise by about 1%",
         "Fall by about 2%",
@@ -1366,12 +1449,13 @@
         "opts_bottom": 657.1899999999999,
         "ans_top": 660.55,
         "ans_page": 6
-      }
+      },
+      "qkey": "21b8fde006925e80"
     },
     {
       "n": 29,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "Which statements about Article 270 are accurate?\n1. It regulates tax distribution between the Union and States, covering GST proceeds.\n2. Post-101st Amendment, it incorporates Union taxes and GST revenue sharing.\n3. GST Compensation Cess distribution falls under Article 270.",
       "blocks": [
@@ -1395,8 +1479,10 @@
           "text": "GST Compensation Cess distribution falls under Article 270."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1 and 3 only",
         "1 only",
@@ -1424,12 +1510,13 @@
         "opts_bottom": 787.536,
         "ans_top": 109.81999999999994,
         "ans_page": 7
-      }
+      },
+      "qkey": "bd7af87113ac11d9"
     },
     {
       "n": 30,
       "section": "general_awareness",
-      "topic": "General Science",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Lysosomes primarily function in cells to:",
       "blocks": [
@@ -1438,8 +1525,10 @@
           "text": "Lysosomes primarily function in cells to:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Synthesize proteins",
         "Perform intracellular digestion",
@@ -1467,12 +1556,13 @@
         "opts_bottom": 207.76999999999998,
         "ans_top": 211.39,
         "ans_page": 7
-      }
+      },
+      "qkey": "ec6c2fc38ada5e4e"
     },
     {
       "n": 31,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which landslide type features rotational backward movement of the displaced material?",
       "blocks": [
@@ -1481,8 +1571,10 @@
           "text": "Which landslide type features rotational backward movement of the displaced material?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Rockslide",
         "Rock fall",
@@ -1510,12 +1602,13 @@
         "opts_bottom": 309.3399999999999,
         "ans_top": 312.69999999999993,
         "ans_page": 7
-      }
+      },
+      "qkey": "dba9abd689bb0fea"
     },
     {
       "n": 32,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which defines light industries accurately?",
       "blocks": [
@@ -1524,8 +1617,10 @@
           "text": "Which defines light industries accurately?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Processing of heavy ores and minerals",
         "Manufacturing of large industrial equipment",
@@ -1553,12 +1648,13 @@
         "opts_bottom": 410.87999999999994,
         "ans_top": 414.24,
         "ans_page": 7
-      }
+      },
+      "qkey": "a59f913f590bb7cf"
     },
     {
       "n": 33,
       "section": "general_awareness",
-      "topic": "Geography & Environment",
+      "topic": "Geography",
       "render_mode": "text",
       "stem": "Evaluate these statements on India’s water-sharing agreements with neighbors:\n1. The 1996 Mahakali Treaty with Nepal covers joint Mahakali River development and the Pancheshwar Project.\n2. The 1996 Ganga Water Treaty with Bangladesh enables year-round Ganga water allocation at Farakka. Which is/are correct?",
       "blocks": [
@@ -1577,8 +1673,10 @@
           "text": "The 1996 Ganga Water Treaty with Bangladesh enables year-round Ganga water allocation at Farakka. Which is/are correct?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only 1",
         "Only 2",
@@ -1606,12 +1704,13 @@
         "opts_bottom": 555.65,
         "ans_top": 559.25,
         "ans_page": 7
-      }
+      },
+      "qkey": "d65193b2023b38fe"
     },
     {
       "n": 34,
       "section": "general_awareness",
-      "topic": "Trigonometry",
+      "topic": "Geography",
       "render_mode": "text",
       "stem": "Constructing sea walls and raising structures in a coastal area against sea-level rise mainly exemplifies:",
       "blocks": [
@@ -1620,8 +1719,10 @@
           "text": "Constructing sea walls and raising structures in a coastal area against sea-level rise mainly exemplifies:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Climate Change Mitigation",
         "Carbon Sequestration",
@@ -1649,12 +1750,13 @@
         "opts_bottom": 657.1899999999999,
         "ans_top": 660.55,
         "ans_page": 7
-      }
+      },
+      "qkey": "32858bd3e83126f1"
     },
     {
       "n": 35,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which Indian leader spoke at a 2025 special session titled “Environment, COP-30, and Global Health”?",
       "blocks": [
@@ -1663,8 +1765,10 @@
           "text": "Which Indian leader spoke at a 2025 special session titled “Environment, COP-30, and Global Health”?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Piyush Goyal",
         "Hardeep Puri",
@@ -1692,12 +1796,13 @@
         "opts_bottom": 758.736,
         "ans_top": 762.096,
         "ans_page": 7
-      }
+      },
+      "qkey": "ad43a0fb3419b6d7"
     },
     {
       "n": 36,
       "section": "general_awareness",
-      "topic": "Seating Arrangement & Direction",
+      "topic": "Indian History",
       "render_mode": "text",
       "stem": "The Regulating Act of 1773 mainly reformed the East India Company’s administration in which two key domains?",
       "blocks": [
@@ -1706,8 +1811,10 @@
           "text": "The Regulating Act of 1773 mainly reformed the East India Company’s administration in which two key domains?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Judicial processes and revenue systems",
         "Military tactics and commercial policies",
@@ -1735,12 +1842,13 @@
         "opts_bottom": 164.32999999999993,
         "ans_top": 167.92999999999995,
         "ans_page": 8
-      }
+      },
+      "qkey": "2b30ba6851c02d1b"
     },
     {
       "n": 37,
       "section": "general_awareness",
-      "topic": "Economy & Government Schemes",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Assertion\n(A) and Reason\n(R) provided. Choose correctly:\nAssertion (A): UDAN Scheme boosts regional air links.\nReason (R): It offers viability gap funding to airlines.",
       "blocks": [
@@ -1765,8 +1873,10 @@
           "text": "Reason (R): It offers viability gap funding to airlines."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Both true, R explains A",
         "Both true, R does not explain A",
@@ -1794,12 +1904,13 @@
         "opts_bottom": 294.93999999999994,
         "ans_top": 298.29999999999995,
         "ans_page": 8
-      }
+      },
+      "qkey": "6ef19f0ff9b62aa4"
     },
     {
       "n": 38,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "Schedule VII of the Indian Constitution lists:",
       "blocks": [
@@ -1808,8 +1919,10 @@
           "text": "Schedule VII of the Indian Constitution lists:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Election procedures",
         "Three legislative lists",
@@ -1837,12 +1950,13 @@
         "opts_bottom": 396.23999999999995,
         "ans_top": 399.84,
         "ans_page": 8
-      }
+      },
+      "qkey": "dcb26b80ce426dcd"
     },
     {
       "n": 39,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Current Affairs",
       "render_mode": "text",
       "stem": "Per Oxford Economics’ Global Cities Index 2025, which pair of cities held onto their leading ranks?",
       "blocks": [
@@ -1851,8 +1965,10 @@
           "text": "Per Oxford Economics’ Global Cities Index 2025, which pair of cities held onto their leading ranks?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Tokyo and Beijing",
         "London and New York",
@@ -1880,12 +1996,13 @@
         "opts_bottom": 497.78,
         "ans_top": 501.14,
         "ans_page": 8
-      }
+      },
+      "qkey": "8748f2bf1f9d81e4"
     },
     {
       "n": 40,
       "section": "general_awareness",
-      "topic": "Blood Relations",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Assertion\n(A) and Reason\n(R) follow. Select the right choice:\nAssertion (A): Population explosion happens when death rates drop sharply while birth rates stay elevated. Reason (R): Changes in societal reproductive patterns occur immediately with healthcare advancements.",
       "blocks": [
@@ -1906,8 +2023,10 @@
           "text": "Assertion (A): Population explosion happens when death rates drop sharply while birth rates stay elevated. Reason (R): Changes in societal reproductive patterns occur immediately with healthcare advancements."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Both A and R true, R explains A",
         "Both true, R does not explain A",
@@ -1935,12 +2054,13 @@
         "opts_bottom": 628.15,
         "ans_top": 631.75,
         "ans_page": 8
-      }
+      },
+      "qkey": "c2911e67fb84917c"
     },
     {
       "n": 41,
       "section": "general_awareness",
-      "topic": "Indian History & Culture",
+      "topic": "Indian History",
       "render_mode": "text",
       "stem": "Read the statements below labeled as Assertion\n(A) and Reason (R). Select the appropriate option: Assertion (A): Humayun’s Tomb marked the first significant Mughal garden tomb and served as a direct model for the Taj Mahal's architecture.\nReason (R): It pioneered the charbagh garden design and double-domed structure typical of subsequent Mughal tombs.",
       "blocks": [
@@ -1957,8 +2077,10 @@
           "text": "Reason (R): It pioneered the charbagh garden design and double-domed structure typical of subsequent Mughal tombs."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Both A and R are true, and R correctly explains A",
         "Both A and R are true, but R does not explain A",
@@ -1986,12 +2108,13 @@
         "opts_bottom": 787.536,
         "ans_top": 95.41999999999996,
         "ans_page": 9
-      }
+      },
+      "qkey": "79c663755309ef60"
     },
     {
       "n": 42,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Population density refers to:",
       "blocks": [
@@ -2000,8 +2123,10 @@
           "text": "Population density refers to:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Individuals per household",
         "Persons per square kilometre",
@@ -2029,12 +2154,13 @@
         "opts_bottom": 193.37,
         "ans_top": 196.73000000000002,
         "ans_page": 9
-      }
+      },
+      "qkey": "2405bf23c4098d7e"
     },
     {
       "n": 43,
       "section": "general_awareness",
-      "topic": "Economy & Government Schemes",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "The key quantity allowing a satellite to sustain orbit without ongoing thrust is:",
       "blocks": [
@@ -2043,8 +2169,10 @@
           "text": "The key quantity allowing a satellite to sustain orbit without ongoing thrust is:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Mass",
         "Gravitational force",
@@ -2072,12 +2200,13 @@
         "opts_bottom": 294.93999999999994,
         "ans_top": 298.29999999999995,
         "ans_page": 9
-      }
+      },
+      "qkey": "c2cf7b219cc1f735"
     },
     {
       "n": 44,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Indian History",
       "render_mode": "text",
       "stem": "Which ancient Indian ruler's governance was characterized by a strongly centralized administrative framework?",
       "blocks": [
@@ -2086,8 +2215,10 @@
           "text": "Which ancient Indian ruler's governance was characterized by a strongly centralized administrative framework?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Harshavardhana",
         "Samudragupta",
@@ -2115,12 +2246,13 @@
         "opts_bottom": 396.23999999999995,
         "ans_top": 399.84,
         "ans_page": 9
-      }
+      },
+      "qkey": "9368162b08a93f33"
     },
     {
       "n": 45,
       "section": "general_awareness",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Per Bharatiya Nagarik Suraksha Sanhita (BNSS), the total permissible police custody duration, including periodic extensions by a magistrate, is:",
       "blocks": [
@@ -2129,8 +2261,10 @@
           "text": "Per Bharatiya Nagarik Suraksha Sanhita (BNSS), the total permissible police custody duration, including periodic extensions by a magistrate, is:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "30 days",
         "60 days",
@@ -2158,12 +2292,13 @@
         "opts_bottom": 512.18,
         "ans_top": 515.78,
         "ans_page": 9
-      }
+      },
+      "qkey": "b92b470a911d66d7"
     },
     {
       "n": 46,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which option accurately describes the development of Indian classical music traditions?",
       "blocks": [
@@ -2172,8 +2307,10 @@
           "text": "Which option accurately describes the development of Indian classical music traditions?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Jatis developed from ragas according to early scriptures",
         "The 72-mela system originated with Bharata in the 13th century",
@@ -2201,12 +2338,13 @@
         "opts_bottom": 613.73,
         "ans_top": 617.1099999999999,
         "ans_page": 9
-      }
+      },
+      "qkey": "40b144765cb073c5"
     },
     {
       "n": 47,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "What primarily drives the use of generative design in aerospace engineering?",
       "blocks": [
@@ -2215,8 +2353,10 @@
           "text": "What primarily drives the use of generative design in aerospace engineering?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Enabling smooth multi-payload system integration",
         "Refining structures for lowest weight and highest durability",
@@ -2244,12 +2384,13 @@
         "opts_bottom": 715.3,
         "ans_top": 718.66,
         "ans_page": 9
-      }
+      },
+      "qkey": "d516a8e7f137059a"
     },
     {
       "n": 48,
       "section": "general_awareness",
-      "topic": "Number & Letter Series",
+      "topic": "Indian History",
       "render_mode": "text",
       "stem": "Which description fits The Adventures of Kakababu, Volume 1 by Sunil Gangopadhyaya?\n1. A groundbreaking Bengali adventure series starring detective Kakababu, blending mystery and cultural motifs.\n2. A satirical critique of governance in independent India.\n3. An autobiographical account of the author’s involvement in Bengal’s freedom struggle.",
       "blocks": [
@@ -2273,8 +2414,10 @@
           "text": "An autobiographical account of the author’s involvement in Bengal’s freedom struggle."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only 1",
         "Only 2",
@@ -2302,12 +2445,13 @@
         "opts_bottom": 222.42999999999995,
         "ans_top": 225.78999999999996,
         "ans_page": 10
-      }
+      },
+      "qkey": "5cd527a455e23093"
     },
     {
       "n": 49,
       "section": "general_awareness",
-      "topic": "Current Affairs & Sports",
+      "topic": "Sports",
       "render_mode": "text",
       "stem": "In which event did Mary Kom secure her latest international gold medal?",
       "blocks": [
@@ -2316,8 +2460,10 @@
           "text": "In which event did Mary Kom secure her latest international gold medal?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Asian Games, Hangzhou",
         "President’s Cup, Indonesia",
@@ -2345,12 +2491,13 @@
         "opts_bottom": 323.7399999999999,
         "ans_top": 327.3399999999999,
         "ans_page": 10
-      }
+      },
+      "qkey": "5ac36e5c93c5cd4c"
     },
     {
       "n": 50,
       "section": "general_awareness",
-      "topic": "Economy & Government Schemes",
+      "topic": "Current Affairs",
       "render_mode": "text",
       "stem": "Pradhan Mantri Kisan Maandhan Yojana (PM-KMY) enrollment is open to farmers aged:",
       "blocks": [
@@ -2359,8 +2506,10 @@
           "text": "Pradhan Mantri Kisan Maandhan Yojana (PM-KMY) enrollment is open to farmers aged:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "18–30 years",
         "18–40 years",
@@ -2388,12 +2537,13 @@
         "opts_bottom": 425.28,
         "ans_top": 428.64,
         "ans_page": 10
-      }
+      },
+      "qkey": "1b700e2ac16d5f40"
     },
     {
       "n": 51,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Let a = √5 + √7 and b = √12 + √3. Which is greater?",
       "blocks": [
@@ -2402,8 +2552,10 @@
           "text": "Let a = √5 + √7 and b = √12 + √3. Which is greater?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "a = b",
         "a > b",
@@ -2431,12 +2583,13 @@
         "opts_bottom": 526.8199999999999,
         "ans_top": 530.1800000000001,
         "ans_page": 10
-      }
+      },
+      "qkey": "a9f7087ef74fa7f0"
     },
     {
       "n": 52,
       "section": "quantitative_aptitude",
-      "topic": "Geometry & Mensuration",
+      "topic": "Trigonometry",
       "render_mode": "text",
       "stem": "What is the central angle (in radians) of a sector with arc length 12 cm in a circle of radius 4 cm?",
       "blocks": [
@@ -2445,8 +2598,10 @@
           "text": "What is the central angle (in radians) of a sector with arc length 12 cm in a circle of radius 4 cm?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2 radians",
         "3 radians",
@@ -2474,12 +2629,13 @@
         "opts_bottom": 628.15,
         "ans_top": 631.75,
         "ans_page": 10
-      }
+      },
+      "qkey": "d8fb232598ed83dc"
     },
     {
       "n": 53,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "A firm ordered 15 premium machines and some standard machines. The price of a premium machine was 6 times that of a standard machine. By mistake, the number of premium and standard machines was interchanged in the delivery, which increased the total bill by 62.5%. What was the ratio of the number of premium machines to standard machines in the original order?",
       "blocks": [
@@ -2488,8 +2644,10 @@
           "text": "A firm ordered 15 premium machines and some standard machines. The price of a premium machine was 6 times that of a standard machine. By mistake, the number of premium and standard machines was interchanged in the delivery, which increased the total bill by 62.5%. What was the ratio of the number of premium machines to standard machines in the original order?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "3:7",
         "4:9",
@@ -2517,12 +2675,13 @@
         "opts_bottom": 773.136,
         "ans_top": 776.496,
         "ans_page": 10
-      }
+      },
+      "qkey": "e9ac9c59ad5be01c"
     },
     {
       "n": 54,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "A circular garden has a radius of 18\nm. A 2.5 m wide pathway is constructed around it. What is the approximate area of the pathway?",
       "blocks": [
@@ -2535,8 +2694,10 @@
           "text": "m. A 2.5 m wide pathway is constructed around it. What is the approximate area of the pathway?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "282 m²",
         "302 m²",
@@ -2564,7 +2725,8 @@
         "opts_bottom": 193.37,
         "ans_top": 196.73000000000002,
         "ans_page": 11
-      }
+      },
+      "qkey": "37f7b299ebe3d23c"
     },
     {
       "n": 55,
@@ -2586,8 +2748,10 @@
           "text": "2"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2025-09-12-s2/q055_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2025-09-12-s2/q055_orig.webp",
       "options": [
         "180°",
         "210°",
@@ -2615,13 +2779,14 @@
         "opts_bottom": 299.9799999999999,
         "ans_top": 303.58000000000004,
         "ans_page": 11
-      }
+      },
+      "qkey": "8e5341e3481bb3d9"
     },
     {
       "n": 56,
       "section": "quantitative_aptitude",
-      "topic": "Algebra & Number System",
-      "render_mode": "text",
+      "topic": "Number System",
+      "render_mode": "image_stem",
       "stem": "Evaluate the continued fraction:\n1\n𝑥 =3+\n1\n2+ 1\n5+ 3",
       "blocks": [
         {
@@ -2649,8 +2814,10 @@
           "text": "5+ 3"
         }
       ],
-      "stem_image": null,
+      "table": null,
+      "stem_image": "img/ssc-cgl-2025-09-12-s2/q056_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2025-09-12-s2/q056_orig.webp",
       "options": [
         "121/35",
         "47/16",
@@ -2665,7 +2832,7 @@
       ],
       "answer": 0,
       "passage_id": null,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "warnings": [],
       "duplicate_of": null,
       "_bbox": {
@@ -2678,12 +2845,13 @@
         "opts_bottom": 431.75999999999993,
         "ans_top": 435.12,
         "ans_page": 11
-      }
+      },
+      "qkey": "51f13307d75dd581"
     },
     {
       "n": 57,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "M and N contribute to a business investment in the ratio 2:7. They earn a profit of ₹81,000. M is a working partner and receives 15% of the profit extra. What is M's total share?",
       "blocks": [
@@ -2692,8 +2860,10 @@
           "text": "M and N contribute to a business investment in the ratio 2:7. They earn a profit of ₹81,000. M is a working partner and receives 15% of the profit extra. What is M's total share?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹24,000",
         "₹27,450",
@@ -2721,12 +2891,13 @@
         "opts_bottom": 547.73,
         "ans_top": 551.0899999999999,
         "ans_page": 11
-      }
+      },
+      "qkey": "dca1514ad8f9adf9"
     },
     {
       "n": 58,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "The number of yellow, red, and blue pens in a box is in the ratio 2:5:7. If 18 yellow pens, 12 red pens, and some blue pens are added to the box, the ratio of yellow, red, and blue pens becomes 3:6:8. Determine the number of blue pens added.",
       "blocks": [
@@ -2735,8 +2906,10 @@
           "text": "The number of yellow, red, and blue pens in a box is in the ratio 2:5:7. If 18 yellow pens, 12 red pens, and some blue pens are added to the box, the ratio of yellow, red, and blue pens becomes 3:6:8. Determine the number of blue pens added."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "6",
         "8",
@@ -2764,7 +2937,8 @@
         "opts_bottom": 678.0699999999999,
         "ans_top": 681.43,
         "ans_page": 11
-      }
+      },
+      "qkey": "fc87407962b766e8"
     },
     {
       "n": 59,
@@ -2778,8 +2952,10 @@
           "text": "Find the compound interest on ₹12,000 at 8% per annum for 2 years 9 months, interest compounded annually."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹2,456",
         "₹2,598",
@@ -2807,12 +2983,13 @@
         "opts_bottom": 779.616,
         "ans_top": 95.41999999999996,
         "ans_page": 12
-      }
+      },
+      "qkey": "d4e8af82363ee4a4"
     },
     {
       "n": 60,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "An 80-litre mixture contains milk and water in the ratio 7:1. Some quantity of this mixture is removed and replaced with pure milk. If the final ratio of milk to water becomes 15:1, how many litres of the mixture were replaced?",
       "blocks": [
@@ -2821,8 +2998,10 @@
           "text": "An 80-litre mixture contains milk and water in the ratio 7:1. Some quantity of this mixture is removed and replaced with pure milk. If the final ratio of milk to water becomes 15:1, how many litres of the mixture were replaced?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "40 litres",
         "18 litres",
@@ -2850,12 +3029,13 @@
         "opts_bottom": 207.76999999999998,
         "ans_top": 211.39,
         "ans_page": 12
-      }
+      },
+      "qkey": "5d9af51a6a7bcd4a"
     },
     {
       "n": 61,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "P and Q invest ₹50,000 and ₹75,000 respectively in a business. What is P's share in a profit of ₹60,000?",
       "blocks": [
@@ -2864,8 +3044,10 @@
           "text": "P and Q invest ₹50,000 and ₹75,000 respectively in a business. What is P's share in a profit of ₹60,000?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹18,000",
         "₹22,000",
@@ -2893,12 +3075,13 @@
         "opts_bottom": 309.3399999999999,
         "ans_top": 312.69999999999993,
         "ans_page": 12
-      }
+      },
+      "qkey": "f4030e936d32823b"
     },
     {
       "n": 62,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "In a group of 60 workers, the average monthly income per worker is ₹28,000. If 20 junior workers average ₹18,000 each, what is the average monthly income (in ₹) for the senior workers?",
       "blocks": [
@@ -2907,8 +3090,10 @@
           "text": "In a group of 60 workers, the average monthly income per worker is ₹28,000. If 20 junior workers average ₹18,000 each, what is the average monthly income (in ₹) for the senior workers?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹33,000",
         "₹34,500",
@@ -2936,12 +3121,13 @@
         "opts_bottom": 425.28,
         "ans_top": 428.64,
         "ans_page": 12
-      }
+      },
+      "qkey": "e114e34ca57e7ad1"
     },
     {
       "n": 63,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "X, Y, and Z can complete a project in 20, 40, and 60 days respectively. X works every day, while Y and Z join X every third day. How long will it take to finish the project?\n7",
       "blocks": [
@@ -2954,8 +3140,10 @@
           "text": "7"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "12 days 2 5",
         "15 days 6 5",
@@ -2983,12 +3171,13 @@
         "opts_bottom": 557.3299999999999,
         "ans_top": 560.9300000000001,
         "ans_page": 12
-      }
+      },
+      "qkey": "edd91be863400fcf"
     },
     {
       "n": 64,
       "section": "quantitative_aptitude",
-      "topic": "Blood Relations",
+      "topic": "Percentage",
       "render_mode": "text",
       "stem": "The price of diesel increased by 6%. Before the increase, the price was ₹85 per litre. A person travels 2880 km every month and his vehicle gives a mileage of 12 km per litre. What is the increase in the monthly expenditure (to the nearest ₹) on his travel due to the price hike?",
       "blocks": [
@@ -2997,8 +3186,10 @@
           "text": "The price of diesel increased by 6%. Before the increase, the price was ₹85 per litre. A person travels 2880 km every month and his vehicle gives a mileage of 12 km per litre. What is the increase in the monthly expenditure (to the nearest ₹) on his travel due to the price hike?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹1,224",
         "₹1,428",
@@ -3026,7 +3217,8 @@
         "opts_bottom": 687.91,
         "ans_top": 691.27,
         "ans_page": 12
-      }
+      },
+      "qkey": "888147b2f7da235d"
     },
     {
       "n": 65,
@@ -3040,8 +3232,10 @@
           "text": "If sin (90° - B) = 2/3, what is cos B?"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2025-09-12-s2/q065_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2025-09-12-s2/q065_orig.webp",
       "options": [
         "1/3",
         "2/3",
@@ -3069,12 +3263,13 @@
         "opts_bottom": 774.8159999999999,
         "ans_top": 109.81999999999994,
         "ans_page": 13
-      }
+      },
+      "qkey": "c769627a1685b892"
     },
     {
       "n": 66,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Algebra",
       "render_mode": "image_stem",
       "stem": "If x = √11, determine the value of x + 1/x.\n12 √ 11",
       "blocks": [
@@ -3087,8 +3282,10 @@
           "text": "12 √ 11"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2025-09-12-s2/q066_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2025-09-12-s2/q066_orig.webp",
       "options": [
         "11 11 √ 11",
         "12 13 √ 11",
@@ -3116,12 +3313,13 @@
         "opts_bottom": 226.26999999999998,
         "ans_top": 232.26999999999998,
         "ans_page": 13
-      }
+      },
+      "qkey": "1abed28742a1b2d7"
     },
     {
       "n": 67,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "Two similar circles have their radii in the ratio 5:8. What is the ratio of their areas?",
       "blocks": [
@@ -3130,8 +3328,10 @@
           "text": "Two similar circles have their radii in the ratio 5:8. What is the ratio of their areas?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "5:8",
         "25:64",
@@ -3159,12 +3359,13 @@
         "opts_bottom": 330.4599999999999,
         "ans_top": 333.82,
         "ans_page": 13
-      }
+      },
+      "qkey": "a188081e7161fec5"
     },
     {
       "n": 68,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "The ratio of efficiencies of workers A and B is 4:3. If A can finish a task in 18 days, in how many days will B finish the same task alone?",
       "blocks": [
@@ -3173,8 +3374,10 @@
           "text": "The ratio of efficiencies of workers A and B is 4:3. If A can finish a task in 18 days, in how many days will B finish the same task alone?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "20 days",
         "22 days",
@@ -3202,7 +3405,8 @@
         "opts_bottom": 446.4,
         "ans_top": 449.78,
         "ans_page": 13
-      }
+      },
+      "qkey": "0bdce0cf17f96b80"
     },
     {
       "n": 69,
@@ -3216,8 +3420,10 @@
           "text": "On a circular track, a motorcycle starts from point X and a truck starts from point Y, which is 500 m ahead of X in the direction of motion. The speed of the motorcycle is 20 m/s and that of the truck is 8 m/s. If the length of the track is 2.2 km, how much distance will the motorcycle have travelled when it overtakes the truck for the first time?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "845.5 m",
         "1,800 m",
@@ -3245,12 +3451,13 @@
         "opts_bottom": 576.77,
         "ans_top": 580.3699999999999,
         "ans_page": 13
-      }
+      },
+      "qkey": "138b663c86bd8a1b"
     },
     {
       "n": 70,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Profit & Loss",
       "render_mode": "text",
       "stem": "A baker buys three types of flour: wheat, rye, and oats. Wheat flour costs 5 for ₹40, rye flour at 6 for ₹45, and oats flour at 4 for ₹36. He mixes them in the ratio 2:2:3. He sells all the mixed flour at 3 for ₹32. What is his approximate profit or loss percentage?",
       "blocks": [
@@ -3259,8 +3466,10 @@
           "text": "A baker buys three types of flour: wheat, rye, and oats. Wheat flour costs 5 for ₹40, rye flour at 6 for ₹45, and oats flour at 4 for ₹36. He mixes them in the ratio 2:2:3. He sells all the mixed flour at 3 for ₹32. What is his approximate profit or loss percentage?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Loss of 28%",
         "Profit of 27%",
@@ -3288,12 +3497,13 @@
         "opts_bottom": 707.3499999999999,
         "ans_top": 710.74,
         "ans_page": 13
-      }
+      },
+      "qkey": "538a6fc7a973582c"
     },
     {
       "n": 71,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "The ratio of male to female employees in a company is 8:6. If 15 more female employees join the company, the new ratio of male to female employees becomes 8:7. What is the total number of employees in the company initially?",
       "blocks": [
@@ -3302,8 +3512,10 @@
           "text": "The ratio of male to female employees in a company is 8:6. If 15 more female employees join the company, the new ratio of male to female employees becomes 8:7. What is the total number of employees in the company initially?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "180",
         "210",
@@ -3331,12 +3543,13 @@
         "opts_bottom": 779.616,
         "ans_top": 138.89,
         "ans_page": 14
-      }
+      },
+      "qkey": "6f1ac9855f6db97b"
     },
     {
       "n": 72,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "The angles of a cyclic quadrilateral are in the ratio 1:3:4:4. What is the measure of the largest angle?",
       "blocks": [
@@ -3345,8 +3558,10 @@
           "text": "The angles of a cyclic quadrilateral are in the ratio 1:3:4:4. What is the measure of the largest angle?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "90°",
         "108°",
@@ -3374,12 +3589,13 @@
         "opts_bottom": 236.82999999999993,
         "ans_top": 240.18999999999994,
         "ans_page": 14
-      }
+      },
+      "qkey": "2b1c12b3304187fa"
     },
     {
       "n": 73,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Algebra",
       "render_mode": "text",
       "stem": "If 𝑥 = √ 5+2√6 , then determine the value of x² + 3x - 15?\n5−2√6",
       "blocks": [
@@ -3392,8 +3608,10 @@
           "text": "5−2√6"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "50 + 12√6",
         "40 + 23√6",
@@ -3421,12 +3639,13 @@
         "opts_bottom": 351.81999999999994,
         "ans_top": 355.18,
         "ans_page": 14
-      }
+      },
+      "qkey": "583553ed2e9aa883"
     },
     {
       "n": 74,
       "section": "quantitative_aptitude",
-      "topic": "Trigonometry",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "If cosA = 5/13 and A is acute, find tanA.",
       "blocks": [
@@ -3435,8 +3654,10 @@
           "text": "If cosA = 5/13 and A is acute, find tanA."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "5/12",
         "12/5",
@@ -3464,12 +3685,13 @@
         "opts_bottom": 453.11999999999995,
         "ans_top": 456.74,
         "ans_page": 14
-      }
+      },
+      "qkey": "4ecc3f8ac450e3d9"
     },
     {
       "n": 75,
       "section": "quantitative_aptitude",
-      "topic": "Geography & Environment",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "The line 3x + 2y = 12 passes through which of the following points?",
       "blocks": [
@@ -3478,8 +3700,10 @@
           "text": "The line 3x + 2y = 12 passes through which of the following points?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "(2, 3)",
         "(4, 1)",
@@ -3507,7 +3731,8 @@
         "opts_bottom": 554.6899999999999,
         "ans_top": 558.05,
         "ans_page": 14
-      }
+      },
+      "qkey": "f70be988f5f23835"
     },
     {
       "n": 76,
@@ -3525,8 +3750,10 @@
           "text": "‘A person who avoids pleasures and lives with strict self-discipline’."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Skeptic",
         "Ascetic",
@@ -3554,12 +3781,13 @@
         "opts_bottom": 670.6299999999999,
         "ans_top": 673.99,
         "ans_page": 14
-      }
+      },
+      "qkey": "f40347cf80d7842b"
     },
     {
       "n": 77,
       "section": "english",
-      "topic": "Vocabulary: Synonyms & Antonyms",
+      "topic": "Synonyms & Antonyms",
       "render_mode": "text",
       "stem": "Select the most appropriate synonym of the given word: ABJURE",
       "blocks": [
@@ -3568,8 +3796,10 @@
           "text": "Select the most appropriate synonym of the given word: ABJURE"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Demand",
         "Accept",
@@ -3597,12 +3827,13 @@
         "opts_bottom": 772.1759999999999,
         "ans_top": 775.536,
         "ans_page": 14
-      }
+      },
+      "qkey": "760e79a30da53de1"
     },
     {
       "n": 78,
       "section": "english",
-      "topic": "Time, Speed & Distance",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Choose the most suitable option to replace the highlighted part of the sentence:\nNo sooner had I arrived at the platform when the train left.",
       "blocks": [
@@ -3615,8 +3846,10 @@
           "text": "No sooner had I arrived at the platform when the train left."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "than the train left",
         "then the train left",
@@ -3644,12 +3877,13 @@
         "opts_bottom": 193.37,
         "ans_top": 196.73000000000002,
         "ans_page": 15
-      }
+      },
+      "qkey": "43fdd2adb6b0a5d3"
     },
     {
       "n": 79,
       "section": "english",
-      "topic": "Blood Relations",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "What key democratic role of social media is highlighted in the passage?\nRead the following passage and answer the questions based on the passage:\nThe rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves.",
       "blocks": [
@@ -3666,8 +3900,10 @@
           "text": "The rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Increasing entertainment content",
         "Eliminating printed newspapers",
@@ -3695,12 +3931,13 @@
         "opts_bottom": 584.6899999999999,
         "ans_top": 588.05,
         "ans_page": 15
-      }
+      },
+      "qkey": "8f339c940a1b7741"
     },
     {
       "n": 80,
       "section": "english",
-      "topic": "Blood Relations",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Why does the author describe social media as a “double-edged” force in democracy?\nRead the following passage and answer the questions based on the passage:\nThe rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves.",
       "blocks": [
@@ -3717,8 +3954,10 @@
           "text": "The rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "It is inexpensive to use",
         "It focuses mostly on images and videos",
@@ -3746,7 +3985,8 @@
         "opts_bottom": 280.27,
         "ans_top": 283.9,
         "ans_page": 16
-      }
+      },
+      "qkey": "b6bcfffb27a69b76"
     },
     {
       "n": 81,
@@ -3764,8 +4004,10 @@
           "text": "The rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Newspaper editors and boards",
         "Strict journalistic gatekeeping",
@@ -3793,12 +4035,13 @@
         "opts_bottom": 671.5899999999999,
         "ans_top": 675.1899999999999,
         "ans_page": 16
-      }
+      },
+      "qkey": "2e2ba7e82ae68ae5"
     },
     {
       "n": 82,
       "section": "english",
-      "topic": "Blood Relations",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "What remedy does the author emphasize to reduce misuse of social media in democratic systems? Read the following passage and answer the questions based on the passage:\nThe rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves.",
       "blocks": [
@@ -3811,8 +4054,10 @@
           "text": "The rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Promoting meme-based communication",
         "Allowing unrestricted posting of all content",
@@ -3840,12 +4085,13 @@
         "opts_bottom": 367.17999999999995,
         "ans_top": 370.8,
         "ans_page": 17
-      }
+      },
+      "qkey": "a7a3a1362915fb26"
     },
     {
       "n": 83,
       "section": "english",
-      "topic": "Blood Relations",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": ". What factor decides whether social media strengthens or weakens democracy, as per the passage? Read the following passage and answer the questions based on the passage:\nThe rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves.",
       "blocks": [
@@ -3858,8 +4104,10 @@
           "text": "The rapid expansion of social media has reshaped democratic life in profound ways, functioning at once as a driver of public participation and a channel for strategic deception. Platforms such as Twitter, Facebook, and Instagram, once viewed mainly as spaces for personal sharing, have evolved into major arenas of political conversation. They allow citizens to voice opinions, rally around causes, and hold those in power accountable almost instantly. Since democracy depends on the circulation of ideas and information, social media appears to broaden access by weakening the control once exercised by traditional gatekeepers. Political figures can address voters directly without editorial mediation, and citizen-led movements can use viral momentum to bring neglected concerns into public focus. In moments of high political intensity—elections, mass protests, policy disputes—these platforms operate like a modern digital marketplace of ideas, enabling wider involvement than was previously possible through newspapers or public meetings. Yet this openness carries serious risks. The same networks that spread accurate information can also accelerate falsehoods, deepen polarization, and strengthen echo chambers through algorithmic reinforcement. In several democracies, electoral processes have been challenged by fake profiles, coordinated harassment, and organized disinformation efforts. Further, content designed to trigger emotion and maximize engagement often overshadows careful reasoning, turning political discussion into a noisy stream of anger and extremes. Hence, the influence of social media on democracy depends not only on technology, but also on the ethical rules that shape its use. Strong oversight, public media awareness, and transparency in how algorithms rank and recommend content are crucial if societies wish to gain the benefits while limiting the damage. Ultimately, social media is not automatically beneficial or harmful—it reflects collective choices. Whether it strengthens democratic stability or fuels distortion depends on how responsibly it is used by citizens, institutions, and the platforms themselves."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "The amount of political advertising",
         "The revenue model of platforms",
@@ -3887,12 +4135,13 @@
         "opts_bottom": 758.736,
         "ans_top": 762.096,
         "ans_page": 17
-      }
+      },
+      "qkey": "f9f61ac495519a4d"
     },
     {
       "n": 84,
       "section": "english",
-      "topic": "Vocabulary: Synonyms & Antonyms",
+      "topic": "Synonyms & Antonyms",
       "render_mode": "text",
       "stem": "Select the most appropriate antonym of the given word: POTENT",
       "blocks": [
@@ -3901,8 +4150,10 @@
           "text": "Select the most appropriate antonym of the given word: POTENT"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Strong",
         "Robust",
@@ -3930,7 +4181,8 @@
         "opts_bottom": 164.32999999999993,
         "ans_top": 167.92999999999995,
         "ans_page": 18
-      }
+      },
+      "qkey": "b963660920b2cda7"
     },
     {
       "n": 85,
@@ -3948,8 +4200,10 @@
           "text": "The librarian of Public library said that silence must be maintained in the reading hall."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "“Silence should be maintained in the reading hall,” said the librarian of public library.",
         "“You will maintain silence in the reading hall,” said the librarian of public library.",
@@ -3977,12 +4231,13 @@
         "opts_bottom": 294.93999999999994,
         "ans_top": 298.29999999999995,
         "ans_page": 18
-      }
+      },
+      "qkey": "5765cef52e5a3f3d"
     },
     {
       "n": 86,
       "section": "english",
-      "topic": "Statement & Assumption / Argument",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the correct option:\nThe committee meets on Monday, ___ the final decision will be announced.",
       "blocks": [
@@ -3995,8 +4250,10 @@
           "text": "The committee meets on Monday, ___ the final decision will be announced."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "whereupon",
         "at then",
@@ -4024,12 +4281,13 @@
         "opts_bottom": 410.87999999999994,
         "ans_top": 414.24,
         "ans_page": 18
-      }
+      },
+      "qkey": "f3ce1fa4bfaead34"
     },
     {
       "n": 87,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the correct option:\nOnly a complete paradigm shift can ___ the deeply entrenched bureaucratic inertia.",
       "blocks": [
@@ -4042,8 +4300,10 @@
           "text": "Only a complete paradigm shift can ___ the deeply entrenched bureaucratic inertia."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "discourage",
         "dislodge",
@@ -4071,7 +4331,8 @@
         "opts_bottom": 526.8199999999999,
         "ans_top": 530.1800000000001,
         "ans_page": 18
-      }
+      },
+      "qkey": "332b5a52b144d1e9"
     },
     {
       "n": 88,
@@ -4089,8 +4350,10 @@
           "text": "She said, “I met him yesterday morning.”"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "She said she had met him the previous morning.",
         "She said she has met him yesterday morning.",
@@ -4118,12 +4381,13 @@
         "opts_bottom": 657.1899999999999,
         "ans_top": 660.55,
         "ans_page": 18
-      }
+      },
+      "qkey": "0d7c81f666a0e32a"
     },
     {
       "n": 89,
       "section": "english",
-      "topic": "Spelling Correction",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Spot the correct spelling of a drug-effect psychology field.",
       "blocks": [
@@ -4132,8 +4396,10 @@
           "text": "Spot the correct spelling of a drug-effect psychology field."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Psychopharmacolgy",
         "Psychopharmacology",
@@ -4161,12 +4427,13 @@
         "opts_bottom": 758.736,
         "ans_top": 762.096,
         "ans_page": 18
-      }
+      },
+      "qkey": "d18ea9a0ae27301a"
     },
     {
       "n": 90,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the correct option:\nNeither the project lead ___ the team members were prepared for the audit.",
       "blocks": [
@@ -4179,8 +4446,10 @@
           "text": "Neither the project lead ___ the team members were prepared for the audit."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "or",
         "nor",
@@ -4208,12 +4477,13 @@
         "opts_bottom": 178.9699999999999,
         "ans_top": 182.33000000000004,
         "ans_page": 19
-      }
+      },
+      "qkey": "65e38a5e3b5c479b"
     },
     {
       "n": 91,
       "section": "english",
-      "topic": "Geography & Environment",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Change the following from active to passive:\nCitizens can rarely access archived stamps without clearance.",
       "blocks": [
@@ -4226,8 +4496,10 @@
           "text": "Citizens can rarely access archived stamps without clearance."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Archived stamps can rarely being accessed without clearance.",
         "Archived stamps could rarely be accessed without clearance.",
@@ -4255,7 +4527,8 @@
         "opts_bottom": 294.93999999999994,
         "ans_top": 298.29999999999995,
         "ans_page": 19
-      }
+      },
+      "qkey": "1f923de68c6c1b78"
     },
     {
       "n": 92,
@@ -4269,8 +4542,10 @@
           "text": "Convert the sentence provided below from its passive voice structure to an active voice structure: The parcel is delivered to the reception desk every evening."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "The reception desk delivers the parcel every evening.",
         "Someone delivers the parcel to the reception desk every evening.",
@@ -4298,12 +4573,13 @@
         "opts_bottom": 410.87999999999994,
         "ans_top": 414.24,
         "ans_page": 19
-      }
+      },
+      "qkey": "737a61d190c67dd5"
     },
     {
       "n": 93,
       "section": "english",
-      "topic": "Para Jumbles & Sentence Rearrangement",
+      "topic": "Para Jumbles",
       "render_mode": "text",
       "stem": "Rearrange the following sentences to form a coherent paragraph:\n1. Consequently, effective communication depends on more than merely the words we speak.\n2. Non-verbal signals, such as tone, facial expressions, and gestures, may communicate more than the spoken message itself.\n3. Communication is a multifaceted process that involves sharing information, ideas, and emotions between people.\n4. Often, it is these subtle cues that reveal how a message is truly meant or received.",
       "blocks": [
@@ -4332,8 +4608,10 @@
           "text": "Often, it is these subtle cues that reveal how a message is truly meant or received."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "3, 2, 1, 4",
         "2, 4, 1, 3",
@@ -4361,12 +4639,13 @@
         "opts_bottom": 584.6899999999999,
         "ans_top": 588.05,
         "ans_page": 19
-      }
+      },
+      "qkey": "fea548eb932ca120"
     },
     {
       "n": 94,
       "section": "english",
-      "topic": "Spotting Errors & Sentence Correction",
+      "topic": "Error Spotting",
       "render_mode": "text",
       "stem": "Find the part of the sentence that contains an error:\nMuch of what seems to be coordination (1) / among the regulatory bodies and private stakeholders (2) / are, in reality, coincidental overlaps (3) / arising from differing mandates (4).",
       "blocks": [
@@ -4379,8 +4658,10 @@
           "text": "Much of what seems to be coordination (1) / among the regulatory bodies and private stakeholders (2) / are, in reality, coincidental overlaps (3) / arising from differing mandates (4)."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "(1)",
         "(2)",
@@ -4408,12 +4689,13 @@
         "opts_bottom": 715.3,
         "ans_top": 718.66,
         "ans_page": 19
-      }
+      },
+      "qkey": "d0c218b6f63ef60e"
     },
     {
       "n": 95,
       "section": "english",
-      "topic": "Spotting Errors & Sentence Correction",
+      "topic": "Error Spotting",
       "render_mode": "text",
       "stem": "Find the part of the sentence that contains an error:\nThat the policy omits provisions for backward compatibility (1) / is less troubling than the belief (2) / that all regional bodies will, without any pressure, (3) / complies with the central directive as issued (4).",
       "blocks": [
@@ -4426,8 +4708,10 @@
           "text": "That the policy omits provisions for backward compatibility (1) / is less troubling than the belief (2) / that all regional bodies will, without any pressure, (3) / complies with the central directive as issued (4)."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "(1)",
         "(2)",
@@ -4455,12 +4739,13 @@
         "opts_bottom": 193.37,
         "ans_top": 196.73000000000002,
         "ans_page": 20
-      }
+      },
+      "qkey": "76faefb17a7c52ea"
     },
     {
       "n": 96,
       "section": "english",
-      "topic": "Spelling Correction",
+      "topic": "Spelling",
       "render_mode": "text",
       "stem": "Identify the misspelt word:",
       "blocks": [
@@ -4469,8 +4754,10 @@
           "text": "Identify the misspelt word:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Perseverance",
         "Supersede",
@@ -4498,12 +4785,13 @@
         "opts_bottom": 294.93999999999994,
         "ans_top": 298.29999999999995,
         "ans_page": 20
-      }
+      },
+      "qkey": "a0183185aaec4873"
     },
     {
       "n": 97,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the sentence containing the homonym of the highlighted word:\nThe prince’s gules stood out clearly on the family coat of arms.",
       "blocks": [
@@ -4516,8 +4804,10 @@
           "text": "The prince’s gules stood out clearly on the family coat of arms."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "The shield displayed gules and argent in bold patterns.",
         "The cook served a dish with a sauce of rich gules and cumin.",
@@ -4545,12 +4835,13 @@
         "opts_bottom": 410.87999999999994,
         "ans_top": 414.24,
         "ans_page": 20
-      }
+      },
+      "qkey": "bbc883f7c975db8a"
     },
     {
       "n": 98,
       "section": "english",
-      "topic": "Data Interpretation & Statistics",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Choose the most suitable option to replace the highlighted part of the sentence:\nThe teacher asked to the student to submit the papers.",
       "blocks": [
@@ -4563,8 +4854,10 @@
           "text": "The teacher asked to the student to submit the papers."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "asked the student that submit the papers",
         "requested the student to submit papers",
@@ -4592,7 +4885,8 @@
         "opts_bottom": 526.8199999999999,
         "ans_top": 530.1800000000001,
         "ans_page": 20
-      }
+      },
+      "qkey": "bc33a4f0095a2d3b"
     },
     {
       "n": 99,
@@ -4606,8 +4900,10 @@
           "text": "Choose the correct meaning of idiom: Leave no stone unturned"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "To keep shifting from one place to another repeatedly",
         "To make every possible effort to achieve a goal",
@@ -4635,12 +4931,13 @@
         "opts_bottom": 628.15,
         "ans_top": 631.75,
         "ans_page": 20
-      }
+      },
+      "qkey": "d419842a6504635d"
     },
     {
       "n": 100,
       "section": "english",
-      "topic": "Para Jumbles & Sentence Rearrangement",
+      "topic": "Para Jumbles",
       "render_mode": "text",
       "stem": "Rearrange the following sentences to form a coherent paragraph:\n1. One effective approach is to broaden energy options by moving away from fossil fuels towards renewables such as solar, wind, and geothermal energy.\n2. To reduce the severe impacts of climate change, nations must sharply cut dependence on high-carbon energy generation.\n3. This transition not only lowers greenhouse gas output but also improves air quality and opens up new economic possibilities.\n4. In addition, measures that encourage energy efficiency in buildings and transport can further reduce total energy use.",
       "blocks": [
@@ -4669,8 +4966,10 @@
           "text": "In addition, measures that encourage energy efficiency in buildings and transport can further reduce total energy use."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2, 1, 3, 4",
         "1, 2, 4, 3",
@@ -4698,7 +4997,8 @@
         "opts_bottom": 149.92999999999995,
         "ans_top": 153.28999999999996,
         "ans_page": 22
-      }
+      },
+      "qkey": "1005ce7d7cac92d8"
     }
   ]
 }

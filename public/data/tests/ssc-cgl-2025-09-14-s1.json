@@ -49,7 +49,7 @@
     {
       "n": 1,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Classification (odd one out)",
       "render_mode": "text",
       "stem": "Identify the odd one out:",
       "blocks": [
@@ -58,8 +58,10 @@
           "text": "Identify the odd one out:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "A3 : D6 : G9",
         "B4 : E7 : H10",
@@ -87,12 +89,13 @@
         "opts_bottom": 200.32999999999993,
         "ans_top": 203.94999999999993,
         "ans_page": 1
-      }
+      },
+      "qkey": "9a78cf2cb804fd4f"
     },
     {
       "n": 2,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Classification (odd one out)",
       "render_mode": "text",
       "stem": "Identify the group that does NOT follow the same pattern:",
       "blocks": [
@@ -101,8 +104,10 @@
           "text": "Identify the group that does NOT follow the same pattern:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "B2 : E5 : H8",
         "C3 : F6 : I9",
@@ -130,7 +135,8 @@
         "opts_bottom": 301.9,
         "ans_top": 305.26,
         "ans_page": 1
-      }
+      },
+      "qkey": "68b691d3bf52c050"
     },
     {
       "n": 3,
@@ -144,8 +150,10 @@
           "text": "If FLOWER is coded as GMPXFS, then GARDEN is coded as:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "HBSEFO",
         "HBSEEN",
@@ -173,7 +181,8 @@
         "opts_bottom": 403.43999999999994,
         "ans_top": 406.8,
         "ans_page": 1
-      }
+      },
+      "qkey": "9b96a1d362ec93b2"
     },
     {
       "n": 4,
@@ -187,8 +196,10 @@
           "text": "A man says, “She is the daughter of my father’s only son.” How is the woman related to the man?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Sister",
         "Daughter",
@@ -216,7 +227,8 @@
         "opts_bottom": 504.73999999999995,
         "ans_top": 508.34,
         "ans_page": 1
-      }
+      },
+      "qkey": "da5520cdf5fa0cd4"
     },
     {
       "n": 5,
@@ -230,8 +242,10 @@
           "text": "Introducing a woman, Ravi says, “She is the wife of my father’s only son.” How is the woman related to Ravi?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Sister-in-law",
         "Mother",
@@ -259,7 +273,8 @@
         "opts_bottom": 606.29,
         "ans_top": 609.65,
         "ans_page": 1
-      }
+      },
+      "qkey": "beadc0a5c8c206de"
     },
     {
       "n": 6,
@@ -273,8 +288,10 @@
           "text": "A says, “My mother’s brother is the father of B.” How is B related to A?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Cousin",
         "Brother",
@@ -302,12 +319,13 @@
         "opts_bottom": 707.8299999999999,
         "ans_top": 711.22,
         "ans_page": 1
-      }
+      },
+      "qkey": "08712bd139b9aa39"
     },
     {
       "n": 7,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Ranking & Order",
       "render_mode": "text",
       "stem": "There are 45 students in a row. Rohan is 18th from the left and Aman is 20th from the right. How many students are between them?",
       "blocks": [
@@ -316,8 +334,10 @@
           "text": "There are 45 students in a row. Rohan is 18th from the left and Aman is 20th from the right. How many students are between them?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "6",
         "7",
@@ -345,12 +365,13 @@
         "opts_bottom": 780.336,
         "ans_top": 138.89,
         "ans_page": 3
-      }
+      },
+      "qkey": "6f5a397b0baad4f0"
     },
     {
       "n": 8,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Address Matching",
       "render_mode": "text",
       "stem": "Which of the following pairs of addresses are identical?\n1. Mr. Arun, 54/B Lake View, Bhopal, 462016\n2. Mr Arun, 54-B, Lake View, Bhopal - 462016\n3. Mr. Arun, 54/B Lakeview, Bhopal, 462016\n4. Mr. Arjun, 54/B Lake View, Bhopal, 462016",
       "blocks": [
@@ -379,8 +400,10 @@
           "text": "Mr. Arjun, 54/B Lake View, Bhopal, 462016"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1 and 2",
         "2 and 3",
@@ -408,12 +431,13 @@
         "opts_bottom": 294.93999999999994,
         "ans_top": 298.29999999999995,
         "ans_page": 3
-      }
+      },
+      "qkey": "42a57ba722ccaa15"
     },
     {
       "n": 9,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Find the missing term:\nSHOP : TIPQ :: MEGA : ?",
       "blocks": [
@@ -426,8 +450,10 @@
           "text": "SHOP : TIPQ :: MEGA : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "NEHB",
         "NFHB",
@@ -455,12 +481,13 @@
         "opts_bottom": 410.87999999999994,
         "ans_top": 414.24,
         "ans_page": 3
-      }
+      },
+      "qkey": "25d480326bb480cd"
     },
     {
       "n": 10,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Which of the following pairs are exactly the same?\n1. Dr. Neha Jain, 21 Park Street, Jaipur-302001\n2. Dr. Neha Jain, 21 Park Street, Jaipur-302001\n3. Dr. Neha Jain, 21 Park St., Jaipur, 302001\n4. Dr. Neha Jaiswal, 21 Park Street, Jaipur, 302001",
       "blocks": [
@@ -489,8 +516,10 @@
           "text": "Dr. Neha Jaiswal, 21 Park Street, Jaipur, 302001"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1 and 2",
         "2 and 3",
@@ -518,12 +547,13 @@
         "opts_bottom": 570.29,
         "ans_top": 573.65,
         "ans_page": 3
-      }
+      },
+      "qkey": "be9cfedafb463df1"
     },
     {
       "n": 11,
       "section": "reasoning",
-      "topic": "Data Interpretation & Statistics",
+      "topic": "Mathematical Operations",
       "render_mode": "text",
       "stem": "If + means ×, - means ÷, × means + and ÷ means -, then:\n12 + 6 × 4 - 2 ÷ 2 = ?",
       "blocks": [
@@ -536,8 +566,10 @@
           "text": "12 + 6 × 4 - 2 ÷ 2 = ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "68",
         "70",
@@ -565,12 +597,13 @@
         "opts_bottom": 686.23,
         "ans_top": 689.5899999999999,
         "ans_page": 3
-      }
+      },
+      "qkey": "9a36b988bfff2a2d"
     },
     {
       "n": 12,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "Apply the same rearrangement pattern:\nPLAYING : GNIYALP :: READING : ?",
       "blocks": [
@@ -583,8 +616,10 @@
           "text": "PLAYING : GNIYALP :: READING : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "GNIDARE",
         "GINDAER",
@@ -612,12 +647,13 @@
         "opts_bottom": 787.536,
         "ans_top": 109.81999999999994,
         "ans_page": 4
-      }
+      },
+      "qkey": "e8bb4ff48cd29620"
     },
     {
       "n": 13,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Find the missing term:\nBDF, EGH, HJJ, ?",
       "blocks": [
@@ -630,8 +666,10 @@
           "text": "BDF, EGH, HJJ, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "KLM",
         "KNL",
@@ -659,12 +697,13 @@
         "opts_bottom": 222.42999999999995,
         "ans_top": 225.78999999999996,
         "ans_page": 4
-      }
+      },
+      "qkey": "060d90c70e162438"
     },
     {
       "n": 14,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "Watch : Time :: Barometer : ?",
       "blocks": [
@@ -673,8 +712,10 @@
           "text": "Watch : Time :: Barometer : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Heat",
         "Pressure",
@@ -702,12 +743,13 @@
         "opts_bottom": 323.7399999999999,
         "ans_top": 327.3399999999999,
         "ans_page": 4
-      }
+      },
+      "qkey": "8d163b5320d11106"
     },
     {
       "n": 15,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Number Series",
       "render_mode": "text",
       "stem": "Find the missing number:\n2, 6, 12, 20, ?, 42",
       "blocks": [
@@ -720,8 +762,10 @@
           "text": "2, 6, 12, 20, ?, 42"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "28",
         "30",
@@ -749,12 +793,13 @@
         "opts_bottom": 439.67999999999995,
         "ans_top": 443.28,
         "ans_page": 4
-      }
+      },
+      "qkey": "9dd0ac168fed2888"
     },
     {
       "n": 16,
       "section": "reasoning",
-      "topic": "Trigonometry",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Find the missing group:\nEFG, HIJ, LMN, ?",
       "blocks": [
@@ -767,8 +812,10 @@
           "text": "EFG, HIJ, LMN, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "OPQ",
         "NOP",
@@ -796,12 +843,13 @@
         "opts_bottom": 555.65,
         "ans_top": 559.25,
         "ans_page": 4
-      }
+      },
+      "qkey": "5b6ad4ad373db654"
     },
     {
       "n": 17,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "Accused : Crime :: Student : ?",
       "blocks": [
@@ -810,8 +858,10 @@
           "text": "Accused : Crime :: Student : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "School",
         "Teacher",
@@ -839,12 +889,13 @@
         "opts_bottom": 657.1899999999999,
         "ans_top": 660.55,
         "ans_page": 4
-      }
+      },
+      "qkey": "9414946aea3d07a9"
     },
     {
       "n": 18,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Complete the series:\nB E H, D G J, F I L, ?",
       "blocks": [
@@ -857,8 +908,10 @@
           "text": "B E H, D G J, F I L, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "H K N",
         "G J M",
@@ -886,7 +939,8 @@
         "opts_bottom": 773.136,
         "ans_top": 776.496,
         "ans_page": 4
-      }
+      },
+      "qkey": "21589c286f566467"
     },
     {
       "n": 19,
@@ -900,8 +954,10 @@
           "text": "A says to B, “The woman I met is the daughter of your mother.” How is the woman related to B?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Sister",
         "Mother",
@@ -929,12 +985,13 @@
         "opts_bottom": 178.9699999999999,
         "ans_top": 182.33000000000004,
         "ans_page": 5
-      }
+      },
+      "qkey": "864c6585f963874c"
     },
     {
       "n": 20,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Number Series",
       "render_mode": "text",
       "stem": "What comes next?\n2, 6, 14, 30, ?",
       "blocks": [
@@ -947,8 +1004,10 @@
           "text": "2, 6, 14, 30, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "46",
         "58",
@@ -976,12 +1035,13 @@
         "opts_bottom": 294.93999999999994,
         "ans_top": 298.29999999999995,
         "ans_page": 5
-      }
+      },
+      "qkey": "866df6102d8c17a6"
     },
     {
       "n": 21,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Find the missing term:\nMNO, QRS, UVW, ?",
       "blocks": [
@@ -994,8 +1054,10 @@
           "text": "MNO, QRS, UVW, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "XYZ",
         "WXY",
@@ -1023,12 +1085,13 @@
         "opts_bottom": 410.87999999999994,
         "ans_top": 414.24,
         "ans_page": 5
-      }
+      },
+      "qkey": "9ec96813b872879d"
     },
     {
       "n": 22,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "If the letters of the word COMPUTER are arranged alphabetically, how many letters will have the same position as in the original word?",
       "blocks": [
@@ -1037,8 +1100,10 @@
           "text": "If the letters of the word COMPUTER are arranged alphabetically, how many letters will have the same position as in the original word?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "One",
         "Two",
@@ -1066,12 +1131,13 @@
         "opts_bottom": 526.8199999999999,
         "ans_top": 530.1800000000001,
         "ans_page": 5
-      }
+      },
+      "qkey": "a529ed5f7139da40"
     },
     {
       "n": 23,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "A set of letters is followed by the product of their alphabetical positions.\nACE : 15 :: BDF : ?",
       "blocks": [
@@ -1084,8 +1150,10 @@
           "text": "ACE : 15 :: BDF : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "24",
         "48",
@@ -1113,12 +1181,13 @@
         "opts_bottom": 642.79,
         "ans_top": 646.15,
         "ans_page": 5
-      }
+      },
+      "qkey": "8c6203e908d07342"
     },
     {
       "n": 24,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Complete the series:\nXZB - UWY - RTV - ?",
       "blocks": [
@@ -1131,8 +1200,10 @@
           "text": "XZB - UWY - RTV - ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "OQI",
         "OQH",
@@ -1160,12 +1231,13 @@
         "opts_bottom": 758.736,
         "ans_top": 762.096,
         "ans_page": 5
-      }
+      },
+      "qkey": "79f625cf4bc19ee4"
     },
     {
       "n": 25,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Classification (odd one out)",
       "render_mode": "text",
       "stem": "Identify the number which does NOT satisfy: Sum of digits is a factor of the number.",
       "blocks": [
@@ -1174,8 +1246,10 @@
           "text": "Identify the number which does NOT satisfy: Sum of digits is a factor of the number."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "24",
         "36",
@@ -1203,12 +1277,13 @@
         "opts_bottom": 164.32999999999993,
         "ans_top": 167.92999999999995,
         "ans_page": 6
-      }
+      },
+      "qkey": "26dace1d91ad9950"
     },
     {
       "n": 26,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "In judo, which action results in scoring an ippon?",
       "blocks": [
@@ -1217,8 +1292,10 @@
           "text": "In judo, which action results in scoring an ippon?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Stepping outside the mat",
         "Executing a perfect throw",
@@ -1246,12 +1323,13 @@
         "opts_bottom": 265.87,
         "ans_top": 269.23,
         "ans_page": 6
-      }
+      },
+      "qkey": "91d07381a5359e6b"
     },
     {
       "n": 27,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which of the following statements about the Baisakhi festival is correct?",
       "blocks": [
@@ -1260,8 +1338,10 @@
           "text": "Which of the following statements about the Baisakhi festival is correct?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "It marks the harvest season in Punjab",
         "It is celebrated only in winter",
@@ -1289,12 +1369,13 @@
         "opts_bottom": 367.17999999999995,
         "ans_top": 370.8,
         "ans_page": 6
-      }
+      },
+      "qkey": "f485e772f73383a4"
     },
     {
       "n": 28,
       "section": "general_awareness",
-      "topic": "Geography & Environment",
+      "topic": "Geography",
       "render_mode": "text",
       "stem": "The approximate percentage of nitrogen in Earth’s atmosphere is:",
       "blocks": [
@@ -1303,8 +1384,10 @@
           "text": "The approximate percentage of nitrogen in Earth’s atmosphere is:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "58%",
         "68%",
@@ -1332,12 +1415,13 @@
         "opts_bottom": 468.73999999999995,
         "ans_top": 472.09999999999997,
         "ans_page": 6
-      }
+      },
+      "qkey": "4e12ac3947d5f278"
     },
     {
       "n": 29,
       "section": "general_awareness",
-      "topic": "Geography & Environment",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which statements correctly describe rivers in arid regions?",
       "blocks": [
@@ -1346,8 +1430,10 @@
           "text": "Which statements correctly describe rivers in arid regions?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Most rivers are perennial",
         "Rivers often dry up seasonally",
@@ -1375,12 +1461,13 @@
         "opts_bottom": 570.29,
         "ans_top": 573.65,
         "ans_page": 6
-      }
+      },
+      "qkey": "2ffd7dfb7ab060a7"
     },
     {
       "n": 30,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which of the following Padma award and field pairs is correctly matched?",
       "blocks": [
@@ -1389,8 +1476,10 @@
           "text": "Which of the following Padma award and field pairs is correctly matched?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Bhuri Bai – Tribal Art",
         "Rakesh Sharma – Literature",
@@ -1418,12 +1507,13 @@
         "opts_bottom": 671.5899999999999,
         "ans_top": 675.1899999999999,
         "ans_page": 6
-      }
+      },
+      "qkey": "fac4d56425185235"
     },
     {
       "n": 31,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "How are Money Bills treated in Parliament under the Constitution?",
       "blocks": [
@@ -1432,8 +1522,10 @@
           "text": "How are Money Bills treated in Parliament under the Constitution?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Rajya Sabha has equal powers",
         "Rajya Sabha can only delay indefinitely",
@@ -1461,12 +1553,13 @@
         "opts_bottom": 773.136,
         "ans_top": 776.496,
         "ans_page": 6
-      }
+      },
+      "qkey": "c641b4e53b40af27"
     },
     {
       "n": 32,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Art & Culture",
       "render_mode": "text",
       "stem": "Based on the statements given below, choose the correct option:\nStatement I: Gandhara art was influenced by Greco-Roman styles.\nStatement II: Gandhara sculptures avoided depicting human figures.",
       "blocks": [
@@ -1483,8 +1576,10 @@
           "text": "Statement II: Gandhara sculptures avoided depicting human figures."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Statement I and II both are correct",
         "Only statement I is correct",
@@ -1512,12 +1607,13 @@
         "opts_bottom": 207.76999999999998,
         "ans_top": 211.39,
         "ans_page": 7
-      }
+      },
+      "qkey": "7bb2ff4ada7328ae"
     },
     {
       "n": 33,
       "section": "general_awareness",
-      "topic": "Seating Arrangement & Direction",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which initiative was launched in 2024 to strengthen regional digital payment cooperation in South Asia?",
       "blocks": [
@@ -1526,8 +1622,10 @@
           "text": "Which initiative was launched in 2024 to strengthen regional digital payment cooperation in South Asia?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "SAARC Digital Bridge",
         "Regional FinTech Framework",
@@ -1555,12 +1653,13 @@
         "opts_bottom": 309.3399999999999,
         "ans_top": 312.69999999999993,
         "ans_page": 7
-      }
+      },
+      "qkey": "8342baadba4650ff"
     },
     {
       "n": 34,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which wetland is famous for migratory birds in Rajasthan?",
       "blocks": [
@@ -1569,8 +1668,10 @@
           "text": "Which wetland is famous for migratory birds in Rajasthan?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Keoladeo National Park",
         "Dal Lake",
@@ -1598,12 +1699,13 @@
         "opts_bottom": 410.87999999999994,
         "ans_top": 414.24,
         "ans_page": 7
-      }
+      },
+      "qkey": "3dcab0de785b72cb"
     },
     {
       "n": 35,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Art & Culture",
       "render_mode": "text",
       "stem": "The Lavani dance is traditionally associated with which community?",
       "blocks": [
@@ -1612,8 +1714,10 @@
           "text": "The Lavani dance is traditionally associated with which community?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Farmers",
         "Fisherfolk",
@@ -1641,12 +1745,13 @@
         "opts_bottom": 512.18,
         "ans_top": 515.78,
         "ans_page": 7
-      }
+      },
+      "qkey": "358cce9ac7b4438f"
     },
     {
       "n": 36,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Difficulty in starting or stopping motion of a body is due to:",
       "blocks": [
@@ -1655,8 +1760,10 @@
           "text": "Difficulty in starting or stopping motion of a body is due to:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Momentum",
         "Inertia",
@@ -1684,12 +1791,13 @@
         "opts_bottom": 613.73,
         "ans_top": 617.1099999999999,
         "ans_page": 7
-      }
+      },
+      "qkey": "6dcc7e2beee30ad7"
     },
     {
       "n": 37,
       "section": "general_awareness",
-      "topic": "Blood Relations",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Assertion (A): The National Green Hydrogen Mission promotes clean energy.\nReason (R): It is implemented by the Ministry of New and Renewable Energy.",
       "blocks": [
@@ -1702,8 +1810,10 @@
           "text": "Reason (R): It is implemented by the Ministry of New and Renewable Energy."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Both A and R are true and R explains A",
         "Both A and R are true but R does not explain A",
@@ -1731,12 +1841,13 @@
         "opts_bottom": 729.6999999999999,
         "ans_top": 733.06,
         "ans_page": 7
-      }
+      },
+      "qkey": "e30cccc710d22235"
     },
     {
       "n": 38,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "Article 356 of the Constitution deals with:",
       "blocks": [
@@ -1745,8 +1856,10 @@
           "text": "Article 356 of the Constitution deals with:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Goods and Services Tax",
         "President’s Rule in states",
@@ -1774,12 +1887,13 @@
         "opts_bottom": 787.536,
         "ans_top": 138.89,
         "ans_page": 8
-      }
+      },
+      "qkey": "bc129b47d9f16397"
     },
     {
       "n": 39,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Awards & Books",
       "render_mode": "text",
       "stem": "Consider the statements about the novel ‘The Palace of Illusions’:\nStatement I :It retells the Mahabharata from Draupadi’s perspective.\nStatement II: It is a biography of an Indian freedom fighter.\nStatement III: It is a futuristic science fiction novel.",
       "blocks": [
@@ -1800,8 +1914,10 @@
           "text": "Statement III: It is a futuristic science fiction novel."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only statement 1 is correct",
         "Only statement 2 is correct",
@@ -1829,12 +1945,13 @@
         "opts_bottom": 280.27,
         "ans_top": 283.9,
         "ans_page": 8
-      }
+      },
+      "qkey": "8e9ac0c7d2ae45f1"
     },
     {
       "n": 40,
       "section": "general_awareness",
-      "topic": "Current Affairs & Sports",
+      "topic": "Current Affairs",
       "render_mode": "text",
       "stem": "Which technological achievement was demonstrated in ISRO’s reusable launch vehicle landing experiment?",
       "blocks": [
@@ -1843,8 +1960,10 @@
           "text": "Which technological achievement was demonstrated in ISRO’s reusable launch vehicle landing experiment?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Deep-space docking",
         "Autonomous precision landing",
@@ -1872,12 +1991,13 @@
         "opts_bottom": 381.84,
         "ans_top": 385.2,
         "ans_page": 8
-      }
+      },
+      "qkey": "fce571a36905a93b"
     },
     {
       "n": 41,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "Consider the following\nstatements:\n1.The Supreme Court can transfer cases between High Courts.\n2.Article 139A empowers the Supreme Court in this regard.",
       "blocks": [
@@ -1898,8 +2018,10 @@
           "text": "2.Article 139A empowers the Supreme Court in this regard."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only 1",
         "Only 2",
@@ -1927,12 +2049,13 @@
         "opts_bottom": 512.18,
         "ans_top": 515.78,
         "ans_page": 8
-      }
+      },
+      "qkey": "b1b007d53e549b7f"
     },
     {
       "n": 42,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "The Global Energy Transition Index is published by:",
       "blocks": [
@@ -1941,8 +2064,10 @@
           "text": "The Global Energy Transition Index is published by:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "World Bank",
         "World Economic Forum",
@@ -1970,12 +2095,13 @@
         "opts_bottom": 613.73,
         "ans_top": 617.1099999999999,
         "ans_page": 8
-      }
+      },
+      "qkey": "d3cbf686e5b62223"
     },
     {
       "n": 43,
       "section": "general_awareness",
-      "topic": "Blood Relations",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Assertion (A): Census data is crucial for planning social welfare policies.\nReason (R): Census operations are conducted every five years in India.",
       "blocks": [
@@ -1988,8 +2114,10 @@
           "text": "Reason (R): Census operations are conducted every five years in India."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Both A and R are true and R explains A",
         "Both A and R are true but R does not explain A",
@@ -2017,12 +2145,13 @@
         "opts_bottom": 729.6999999999999,
         "ans_top": 733.06,
         "ans_page": 8
-      }
+      },
+      "qkey": "a9e44e9d8b13e863"
     },
     {
       "n": 44,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "The Bharatiya Sakshya Adhiniyam primarily relates to:",
       "blocks": [
@@ -2031,8 +2160,10 @@
           "text": "The Bharatiya Sakshya Adhiniyam primarily relates to:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Civil law",
         "Evidence law",
@@ -2060,12 +2191,13 @@
         "opts_bottom": 787.536,
         "ans_top": 138.89,
         "ans_page": 9
-      }
+      },
+      "qkey": "8780e83e925aec97"
     },
     {
       "n": 45,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Indian History",
       "render_mode": "text",
       "stem": "In ancient Indian music, Desi Sangeet refers to:",
       "blocks": [
@@ -2074,8 +2206,10 @@
           "text": "In ancient Indian music, Desi Sangeet refers to:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Folk traditions",
         "Vedic chants",
@@ -2103,12 +2237,13 @@
         "opts_bottom": 236.82999999999993,
         "ans_top": 240.18999999999994,
         "ans_page": 9
-      }
+      },
+      "qkey": "2a018e41a72879a1"
     },
     {
       "n": 46,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which of the following is a consumer goods industry product?",
       "blocks": [
@@ -2117,8 +2252,10 @@
           "text": "Which of the following is a consumer goods industry product?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Cement",
         "Steel",
@@ -2146,12 +2283,13 @@
         "opts_bottom": 338.37999999999994,
         "ans_top": 341.74,
         "ans_page": 9
-      }
+      },
+      "qkey": "4a29d9f1a2568bb8"
     },
     {
       "n": 47,
       "section": "general_awareness",
-      "topic": "Current Affairs & Sports",
+      "topic": "Sports",
       "render_mode": "text",
       "stem": "In which Olympic Games did Vijender Singh win India's first-ever Olympic medal in boxing?",
       "blocks": [
@@ -2160,8 +2298,10 @@
           "text": "In which Olympic Games did Vijender Singh win India's first-ever Olympic medal in boxing?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2008 Beijing",
         "2004 Athens",
@@ -2189,12 +2329,13 @@
         "opts_bottom": 439.67999999999995,
         "ans_top": 443.28,
         "ans_page": 9
-      }
+      },
+      "qkey": "c529d2f9ef7f9f6c"
     },
     {
       "n": 48,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "The Netaji Subhas National Institute of Sports is located in:",
       "blocks": [
@@ -2203,8 +2344,10 @@
           "text": "The Netaji Subhas National Institute of Sports is located in:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Patiala",
         "Lucknow",
@@ -2232,12 +2375,13 @@
         "opts_bottom": 541.22,
         "ans_top": 544.61,
         "ans_page": 9
-      }
+      },
+      "qkey": "d0fa92ce8263cf89"
     },
     {
       "n": 49,
       "section": "general_awareness",
-      "topic": "Trigonometry",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "The term ‘polygenic inheritance’ refers to:",
       "blocks": [
@@ -2246,8 +2390,10 @@
           "text": "The term ‘polygenic inheritance’ refers to:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "One gene controlling multiple traits",
         "Multiple genes controlling one trait",
@@ -2275,12 +2421,13 @@
         "opts_bottom": 642.79,
         "ans_top": 646.15,
         "ans_page": 9
-      }
+      },
+      "qkey": "5df603bd767dbe24"
     },
     {
       "n": 50,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "Read the statements below:\n1.The Attorney General of India is appointed by the President of India.\n2. The security deposit for contesting the Vice-President election is ₹15,000.\nWhich of the above statements is/are correct?",
       "blocks": [
@@ -2302,8 +2449,10 @@
           "text": "Which of the above statements is/are correct?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only statement 1",
         "Only statement 2",
@@ -2331,7 +2480,8 @@
         "opts_bottom": 787.536,
         "ans_top": 95.41999999999996,
         "ans_page": 10
-      }
+      },
+      "qkey": "5025d99fa6c90eb2"
     },
     {
       "n": 51,
@@ -2345,8 +2495,10 @@
           "text": "Train A leaves Station X at 5:00 AM at 50 km/h. Train B leaves Station Y at 7:30 AM at 80 km/h. Both trains move towards each other. Distance = 500 km. When do they meet?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "10:30 AM",
         "11:00 AM",
@@ -2374,12 +2526,13 @@
         "opts_bottom": 207.76999999999998,
         "ans_top": 211.39,
         "ans_page": 10
-      }
+      },
+      "qkey": "14429ae2cba6f64f"
     },
     {
       "n": 52,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Profit & Loss",
       "render_mode": "text",
       "stem": "A wholesaler marks up goods by 50% and gives 12% trade discount. Retailer marks up by 20% and offers 8% discount. Customer pays ₹12,216. What is wholesaler's cost price approximately?",
       "blocks": [
@@ -2388,8 +2541,10 @@
           "text": "A wholesaler marks up goods by 50% and gives 12% trade discount. Retailer marks up by 20% and offers 8% discount. Customer pays ₹12,216. What is wholesaler's cost price approximately?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹8,000",
         "₹8,383",
@@ -2417,7 +2572,8 @@
         "opts_bottom": 323.7399999999999,
         "ans_top": 327.3399999999999,
         "ans_page": 10
-      }
+      },
+      "qkey": "1324571177720469"
     },
     {
       "n": 53,
@@ -2431,8 +2587,10 @@
           "text": "A traveller goes from City P to Q at 24 km/h in 5 hours. To complete it in 3 hours, by how much should speed increase?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "16 km/h",
         "20 km/h",
@@ -2460,13 +2618,14 @@
         "opts_bottom": 439.67999999999995,
         "ans_top": 443.28,
         "ans_page": 10
-      }
+      },
+      "qkey": "cf97b09c3595d854"
     },
     {
       "n": 54,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
-      "render_mode": "text",
+      "topic": "Ratio & Mixture",
+      "render_mode": "image_stem",
       "stem": "The number of workers in two departments X and Y with different experience levels is shown in the table: Experience Level Dept X Dept Y\n< 5 years 8 6\n5-10 years 12 10\n> 10 years 5 4\nWhat is the ratio of workers with < 10 years experience in Dept X to Dept Y?",
       "blocks": [
         {
@@ -2490,8 +2649,33 @@
           "text": "What is the ratio of workers with < 10 years experience in Dept X to Dept Y?"
         }
       ],
-      "stem_image": null,
+      "table": {
+        "headers": [
+          "Experience Level",
+          "Dept X",
+          "Dept Y"
+        ],
+        "rows": [
+          [
+            "< 5 years",
+            "8",
+            "6"
+          ],
+          [
+            "5-10 years",
+            "12",
+            "10"
+          ],
+          [
+            "> 10 years",
+            "5",
+            "4"
+          ]
+        ]
+      },
+      "stem_image": "img/ssc-cgl-2025-09-14-s1/q054_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2025-09-14-s1/q054_orig.webp",
       "options": [
         "2:1",
         "20:6",
@@ -2506,7 +2690,7 @@
       ],
       "answer": 3,
       "passage_id": null,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "warnings": [],
       "duplicate_of": null,
       "_bbox": {
@@ -2519,12 +2703,13 @@
         "opts_bottom": 616.1299999999999,
         "ans_top": 619.75,
         "ans_page": 10
-      }
+      },
+      "qkey": "08c56acedce75bda"
     },
     {
       "n": 55,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "P, Q, and R invest ₹50,000, ₹75,000, and ₹1,00,000 respectively for 1 year. What is Q's share in ₹60,000 profit?",
       "blocks": [
@@ -2533,8 +2718,10 @@
           "text": "P, Q, and R invest ₹50,000, ₹75,000, and ₹1,00,000 respectively for 1 year. What is Q's share in ₹60,000 profit?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹16,000",
         "₹18,000",
@@ -2562,12 +2749,13 @@
         "opts_bottom": 717.6999999999999,
         "ans_top": 721.06,
         "ans_page": 10
-      }
+      },
+      "qkey": "cdafcf25bd0552c7"
     },
     {
       "n": 56,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Profit & Loss",
       "render_mode": "text",
       "stem": "One grain is sold for ₹84/kg at 20% profit. Another is sold for ₹72/kg at 20% profit. Mixed in ratio 3:2 and sold at ₹78/kg, what is the profit/loss percentage?",
       "blocks": [
@@ -2576,8 +2764,10 @@
           "text": "One grain is sold for ₹84/kg at 20% profit. Another is sold for ₹72/kg at 20% profit. Mixed in ratio 3:2 and sold at ₹78/kg, what is the profit/loss percentage?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "10% profit",
         "15.15% loss",
@@ -2605,12 +2795,13 @@
         "opts_bottom": 149.92999999999995,
         "ans_top": 153.28999999999996,
         "ans_page": 11
-      }
+      },
+      "qkey": "1ab096f823020bbb"
     },
     {
       "n": 57,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "X can do a job in 10 days, Y in 15 days. They work together for 4 days. What part of work remains?",
       "blocks": [
@@ -2619,8 +2810,10 @@
           "text": "X can do a job in 10 days, Y in 15 days. They work together for 4 days. What part of work remains?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1/6",
         "1/5",
@@ -2648,12 +2841,13 @@
         "opts_bottom": 251.2299999999999,
         "ans_top": 254.83000000000004,
         "ans_page": 11
-      }
+      },
+      "qkey": "fd1635a6755851a1"
     },
     {
       "n": 58,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "image_stem",
       "stem": "(0.2×0.2×0.2+0.04×0.04×0.04)\nQ58. What is the value of ?\n(0.4×0.4×0.4+0.08×0.08×0.08)",
       "blocks": [
@@ -2670,8 +2864,10 @@
           "text": "(0.4×0.4×0.4+0.08×0.08×0.08)"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2025-09-14-s1/q058_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2025-09-14-s1/q058_orig.webp",
       "options": [
         "0.015",
         "0.125",
@@ -2699,12 +2895,13 @@
         "opts_bottom": 360.4599999999999,
         "ans_top": 363.82,
         "ans_page": 11
-      }
+      },
+      "qkey": "e5b5417fd5fe75a1"
     },
     {
       "n": 59,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "A merchant mixes 50 kg of rice costing ₹60/kg with another variety costing ₹90/kg. He sells at ₹75/kg with 8% profit. How much of the second variety(approximate) did he mix?",
       "blocks": [
@@ -2713,8 +2910,10 @@
           "text": "A merchant mixes 50 kg of rice costing ₹60/kg with another variety costing ₹90/kg. He sells at ₹75/kg with 8% profit. How much of the second variety(approximate) did he mix?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "10 kg",
         "15 kg",
@@ -2742,12 +2941,13 @@
         "opts_bottom": 476.41999999999996,
         "ans_top": 479.78,
         "ans_page": 11
-      }
+      },
+      "qkey": "9e8c0025232f6e30"
     },
     {
       "n": 60,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Simple & Compound Interest",
       "render_mode": "text",
       "stem": "M and N invest ₹80,000 and ₹1,20,000 respectively. After one year, profit including 8% simple interest on capital is ₹30,000. What is M's share?",
       "blocks": [
@@ -2756,8 +2956,10 @@
           "text": "M and N invest ₹80,000 and ₹1,20,000 respectively. After one year, profit including 8% simple interest on capital is ₹30,000. What is M's share?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹10,800",
         "₹12,000",
@@ -2785,12 +2987,13 @@
         "opts_bottom": 592.3699999999999,
         "ans_top": 595.73,
         "ans_page": 11
-      }
+      },
+      "qkey": "fa8b90e11c76bd09"
     },
     {
       "n": 61,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Average",
       "render_mode": "text",
       "stem": "Three numbers are such that when the average of any two is added to the third, the results are 200, 180, and 160. What is the average of the three numbers?",
       "blocks": [
@@ -2799,8 +3002,10 @@
           "text": "Three numbers are such that when the average of any two is added to the third, the results are 200, 180, and 160. What is the average of the three numbers?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "80",
         "85",
@@ -2828,12 +3033,13 @@
         "opts_bottom": 708.31,
         "ans_top": 711.6999999999999,
         "ans_page": 11
-      }
+      },
+      "qkey": "b62203b085f1cb59"
     },
     {
       "n": 62,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Profit & Loss",
       "render_mode": "text",
       "stem": "A store sold 3 items with selling prices in ratio 4:5:6. Profit/loss: 25% profit, 15% loss, 20% profit respectively. What is approximate total profit/loss percentage?",
       "blocks": [
@@ -2842,8 +3048,10 @@
           "text": "A store sold 3 items with selling prices in ratio 4:5:6. Profit/loss: 25% profit, 15% loss, 20% profit respectively. What is approximate total profit/loss percentage?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "6.5% profit",
         "8.52% loss",
@@ -2871,7 +3079,8 @@
         "opts_bottom": 780.8159999999999,
         "ans_top": 138.89,
         "ans_page": 12
-      }
+      },
+      "qkey": "0a55d6a274fc59b5"
     },
     {
       "n": 63,
@@ -2885,8 +3094,10 @@
           "text": "Find the compound interest on ₹12,000 at 8% per annum for 2 years 6 months, compounded annually."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹2,000",
         "₹2,140.8",
@@ -2914,12 +3125,13 @@
         "opts_bottom": 236.82999999999993,
         "ans_top": 240.18999999999994,
         "ans_page": 12
-      }
+      },
+      "qkey": "2b3b905217f1d6cf"
     },
     {
       "n": 64,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Simple & Compound Interest",
       "render_mode": "text",
       "stem": "A certain amount invested at 15% compound interest per annum, compounded annually, becomes ₹4,235 in 2 years. What is 120% of the principal?",
       "blocks": [
@@ -2928,8 +3140,10 @@
           "text": "A certain amount invested at 15% compound interest per annum, compounded annually, becomes ₹4,235 in 2 years. What is 120% of the principal?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹3,080",
         "₹3,200",
@@ -2957,12 +3171,13 @@
         "opts_bottom": 352.78,
         "ans_top": 356.14,
         "ans_page": 12
-      }
+      },
+      "qkey": "29f2c3c017f5a6c8"
     },
     {
       "n": 65,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "image_stem",
       "stem": "1 2\nQ65. Find the product: 1.5×3 ×\n3 5",
       "blocks": [
@@ -2979,8 +3194,10 @@
           "text": "3 5"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2025-09-14-s1/q065_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2025-09-14-s1/q065_orig.webp",
       "options": [
         "2.0",
         "2.5",
@@ -3008,13 +3225,14 @@
         "opts_bottom": 459.61999999999995,
         "ans_top": 462.97999999999996,
         "ans_page": 12
-      }
+      },
+      "qkey": "5e3ec24bcff80efb"
     },
     {
       "n": 66,
       "section": "quantitative_aptitude",
-      "topic": "Data Interpretation & Statistics",
-      "render_mode": "text",
+      "topic": "Number System",
+      "render_mode": "image_stem",
       "stem": "Table - Sales of 3 Items over 3 Months\nItem Jan Feb Mar\nX 150 180 170\nY 120 110 130\nZ 200 210 190\nWhich item had the highest average sales?",
       "blocks": [
         {
@@ -3042,8 +3260,37 @@
           "text": "Which item had the highest average sales?"
         }
       ],
-      "stem_image": null,
+      "table": {
+        "headers": [
+          "Item",
+          "Jan",
+          "Feb",
+          "Mar"
+        ],
+        "rows": [
+          [
+            "X",
+            "150",
+            "180",
+            "170"
+          ],
+          [
+            "Y",
+            "120",
+            "110",
+            "130"
+          ],
+          [
+            "Z",
+            "200",
+            "210",
+            "190"
+          ]
+        ]
+      },
+      "stem_image": "img/ssc-cgl-2025-09-14-s1/q066_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2025-09-14-s1/q066_orig.webp",
       "options": [
         "X",
         "Y",
@@ -3058,7 +3305,7 @@
       ],
       "answer": 2,
       "passage_id": null,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "warnings": [],
       "duplicate_of": null,
       "_bbox": {
@@ -3071,12 +3318,13 @@
         "opts_bottom": 636.0699999999999,
         "ans_top": 639.43,
         "ans_page": 12
-      }
+      },
+      "qkey": "525332a7731d33ed"
     },
     {
       "n": 67,
       "section": "quantitative_aptitude",
-      "topic": "Time, Speed & Distance",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "A company organized training for 120 employees and 15 supervisors. Each employee got a kit with items equal to 12% of total employees. Each supervisor got a kit with items equal to 20% of total employees. How many total kit items were distributed?",
       "blocks": [
@@ -3085,8 +3333,10 @@
           "text": "A company organized training for 120 employees and 15 supervisors. Each employee got a kit with items equal to 12% of total employees. Each supervisor got a kit with items equal to 20% of total employees. How many total kit items were distributed?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1800",
         "2088",
@@ -3114,12 +3364,13 @@
         "opts_bottom": 766.4159999999999,
         "ans_top": 770.016,
         "ans_page": 12
-      }
+      },
+      "qkey": "d89a2bda3bdf6976"
     },
     {
       "n": 68,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "A 50-litre mixture of oil and water has 16% water. How many litres of oil must be added to make water content 10%?",
       "blocks": [
@@ -3128,8 +3379,10 @@
           "text": "A 50-litre mixture of oil and water has 16% water. How many litres of oil must be added to make water content 10%?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "10 litres",
         "15 litres",
@@ -3157,12 +3410,13 @@
         "opts_bottom": 193.37,
         "ans_top": 196.73000000000002,
         "ans_page": 13
-      }
+      },
+      "qkey": "f374b84cd1a3c0f9"
     },
     {
       "n": 69,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Time & Work",
       "render_mode": "text",
       "stem": "X and Y complete a task in 14 days, Y and Z in 18 days. X works 6 days, Y works 8 days, Z works 12 days to complete it. How many days for Z alone(approximate)?",
       "blocks": [
@@ -3171,8 +3425,10 @@
           "text": "X and Y complete a task in 14 days, Y and Z in 18 days. X works 6 days, Y works 8 days, Z works 12 days to complete it. How many days for Z alone(approximate)?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "20 days",
         "22 days",
@@ -3200,12 +3456,13 @@
         "opts_bottom": 309.3399999999999,
         "ans_top": 312.69999999999993,
         "ans_page": 13
-      }
+      },
+      "qkey": "d2a3bdefaa10eb09"
     },
     {
       "n": 70,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "A circular park with 8 m diameter is surrounded by 0.5 m wide path. What is the percentage increase in area?",
       "blocks": [
@@ -3214,8 +3471,10 @@
           "text": "A circular park with 8 m diameter is surrounded by 0.5 m wide path. What is the percentage increase in area?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "40%",
         "26.66%",
@@ -3243,12 +3502,13 @@
         "opts_bottom": 410.87999999999994,
         "ans_top": 414.24,
         "ans_page": 13
-      }
+      },
+      "qkey": "5cb57bd0e7646744"
     },
     {
       "n": 71,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Find y-intercept of 5x + 3y = 15.",
       "blocks": [
@@ -3257,8 +3517,10 @@
           "text": "Find y-intercept of 5x + 3y = 15."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "3",
         "4",
@@ -3286,12 +3548,13 @@
         "opts_bottom": 512.18,
         "ans_top": 515.78,
         "ans_page": 13
-      }
+      },
+      "qkey": "436a5850cc21fcbb"
     },
     {
       "n": 72,
       "section": "quantitative_aptitude",
-      "topic": "Trigonometry",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "A sector with radius 12 cm has area 132 cm². Find the central angle.",
       "blocks": [
@@ -3300,8 +3563,10 @@
           "text": "A sector with radius 12 cm has area 132 cm². Find the central angle."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "105°",
         "110°",
@@ -3329,12 +3594,13 @@
         "opts_bottom": 613.73,
         "ans_top": 617.1099999999999,
         "ans_page": 13
-      }
+      },
+      "qkey": "13d78d6e135c9af4"
     },
     {
       "n": 73,
       "section": "quantitative_aptitude",
-      "topic": "Trigonometry",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "A circular board radius 3\nm. Painting costs ₹50/m². If 15% is unpainted, what is total cost?",
       "blocks": [
@@ -3347,8 +3613,10 @@
           "text": "m. Painting costs ₹50/m². If 15% is unpainted, what is total cost?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹1185",
         "₹1202",
@@ -3376,12 +3644,13 @@
         "opts_bottom": 715.3,
         "ans_top": 718.66,
         "ans_page": 13
-      }
+      },
+      "qkey": "e023ca4e110cc11a"
     },
     {
       "n": 74,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "image_stem",
       "stem": "1 1\nQ74. Given x + = 5, find x³ +\n𝑥 𝑥 3",
       "blocks": [
@@ -3398,8 +3667,10 @@
           "text": "𝑥 𝑥 3"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2025-09-14-s1/q074_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2025-09-14-s1/q074_orig.webp",
       "options": [
         "100",
         "110",
@@ -3427,12 +3698,13 @@
         "opts_bottom": 169.6099999999999,
         "ans_top": 172.97000000000003,
         "ans_page": 14
-      }
+      },
+      "qkey": "2058bfdf30385f5b"
     },
     {
       "n": 75,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "0.2 + 0.02 + 0.002 = ?",
       "blocks": [
@@ -3441,8 +3713,10 @@
           "text": "0.2 + 0.02 + 0.002 = ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "0.220",
         "0.222",
@@ -3470,12 +3744,13 @@
         "opts_bottom": 271.15,
         "ans_top": 274.51,
         "ans_page": 14
-      }
+      },
+      "qkey": "b8d5ae7dfbc1ca3e"
     },
     {
       "n": 76,
       "section": "english",
-      "topic": "Para Jumbles & Sentence Rearrangement",
+      "topic": "Para Jumbles",
       "render_mode": "text",
       "stem": "Rearrange the following sentences to form a coherent paragraph:\n1. This is why it is widely used for tasks such as spam detection, speech recognition, and disease prediction.\n2. Data science involves extracting useful insights from data using statistical methods and computational tools.\n3. By examining large datasets, it uncovers hidden trends and supports better decision-making.\n4. Rather than relying on guesses, analysts work with evidence drawn from real-world data.",
       "blocks": [
@@ -3504,8 +3779,10 @@
           "text": "Rather than relying on guesses, analysts work with evidence drawn from real-world data."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2, 4, 3, 1",
         "4, 3, 2, 1",
@@ -3533,12 +3810,13 @@
         "opts_bottom": 430.55999999999995,
         "ans_top": 433.91999999999996,
         "ans_page": 14
-      }
+      },
+      "qkey": "a57ad1dc59edac5d"
     },
     {
       "n": 77,
       "section": "english",
-      "topic": "Data Interpretation & Statistics",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Choose the most suitable option to replace the highlighted part of the sentence:\nIt is high time you must follow a proper routine.",
       "blocks": [
@@ -3551,8 +3829,10 @@
           "text": "It is high time you must follow a proper routine."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "followed a proper routine",
         "must have followed a proper routine",
@@ -3580,12 +3860,13 @@
         "opts_bottom": 546.53,
         "ans_top": 549.89,
         "ans_page": 14
-      }
+      },
+      "qkey": "8661d7bae91b2e92"
     },
     {
       "n": 78,
       "section": "english",
-      "topic": "Spelling Correction",
+      "topic": "Spelling",
       "render_mode": "text",
       "stem": "Identify the misspelt word",
       "blocks": [
@@ -3594,8 +3875,10 @@
           "text": "Identify the misspelt word"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Accommodation",
         "Occurence",
@@ -3612,7 +3895,7 @@
       "passage_id": null,
       "confidence": 1.0,
       "warnings": [],
-      "duplicate_of": null,
+      "duplicate_of": "ssc-cgl-2025-09-12-s1:89",
       "_bbox": {
         "page": 14,
         "min_page": 14,
@@ -3623,12 +3906,13 @@
         "opts_bottom": 648.0699999999999,
         "ans_top": 651.43,
         "ans_page": 14
-      }
+      },
+      "qkey": "82bcb8009b04cd7f"
     },
     {
       "n": 79,
       "section": "english",
-      "topic": "Vocabulary: Synonyms & Antonyms",
+      "topic": "Synonyms & Antonyms",
       "render_mode": "text",
       "stem": "Select the most appropriate antonym of the given word: OBLITERATE",
       "blocks": [
@@ -3637,8 +3921,10 @@
           "text": "Select the most appropriate antonym of the given word: OBLITERATE"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Erase",
         "Foster",
@@ -3666,12 +3952,13 @@
         "opts_bottom": 749.376,
         "ans_top": 752.976,
         "ans_page": 14
-      }
+      },
+      "qkey": "c6d7de2c8975947f"
     },
     {
       "n": 80,
       "section": "english",
-      "topic": "Data Interpretation & Statistics",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Choose the most suitable option to replace the highlighted part of the sentence:\nHad I been aware of the delay, I will start earlier.",
       "blocks": [
@@ -3684,8 +3971,10 @@
           "text": "Had I been aware of the delay, I will start earlier."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "would have started earlier",
         "would start earlier",
@@ -3713,7 +4002,8 @@
         "opts_bottom": 178.9699999999999,
         "ans_top": 182.33000000000004,
         "ans_page": 15
-      }
+      },
+      "qkey": "b1a5e481b66ac0c4"
     },
     {
       "n": 81,
@@ -3731,8 +4021,10 @@
           "text": "She said, “Finish it right now.”"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "She said to finish it instantly.",
         "She told to finish it then.",
@@ -3760,12 +4052,13 @@
         "opts_bottom": 309.3399999999999,
         "ans_top": 312.69999999999993,
         "ans_page": 15
-      }
+      },
+      "qkey": "1c2508a61f452e0a"
     },
     {
       "n": 82,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the correct option:\nThe committee issued several directives, none of _______ were implemented.",
       "blocks": [
@@ -3778,8 +4071,10 @@
           "text": "The committee issued several directives, none of _______ were implemented."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "that",
         "them",
@@ -3807,7 +4102,8 @@
         "opts_bottom": 425.28,
         "ans_top": 428.64,
         "ans_page": 15
-      }
+      },
+      "qkey": "9e1e6968835c7230"
     },
     {
       "n": 83,
@@ -3825,8 +4121,10 @@
           "text": "The manager remarked that employees needed to submit their reports by Monday."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "“Employees need to submit their reports by Monday,” the manager remarked.",
         "“Employees needed to submit their reports by Monday,” the manager said.",
@@ -3854,12 +4152,13 @@
         "opts_bottom": 555.65,
         "ans_top": 559.25,
         "ans_page": 15
-      }
+      },
+      "qkey": "55eb3d29680a7844"
     },
     {
       "n": 84,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the correct option:\nHer interpretation was diametrically ________ to the accepted doctrine.",
       "blocks": [
@@ -3872,8 +4171,10 @@
           "text": "Her interpretation was diametrically ________ to the accepted doctrine."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "adverse",
         "averse",
@@ -3901,12 +4202,13 @@
         "opts_bottom": 671.5899999999999,
         "ans_top": 675.1899999999999,
         "ans_page": 15
-      }
+      },
+      "qkey": "107b631737d5d42b"
     },
     {
       "n": 85,
       "section": "english",
-      "topic": "Para Jumbles & Sentence Rearrangement",
+      "topic": "Para Jumbles",
       "render_mode": "text",
       "stem": "Rearrange the following sentences to form a coherent paragraph:\n1. The key aim of this process is to make items safer to consume by reducing germs and impurities.\n2. Food preservation refers to techniques used to keep perishable items from spoiling quickly.\n3. These techniques may include drying, freezing, canning, and methods like salting or pickling.\n4. Moreover, it helps retain quality, improves storage duration, and reduces overall food waste.",
       "blocks": [
@@ -3935,8 +4237,10 @@
           "text": "Moreover, it helps retain quality, improves storage duration, and reduces overall food waste."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2, 3, 1, 4",
         "1, 2, 3, 4",
@@ -3964,12 +4268,13 @@
         "opts_bottom": 787.536,
         "ans_top": 138.89,
         "ans_page": 16
-      }
+      },
+      "qkey": "3880ca01fe1d6a7a"
     },
     {
       "n": 86,
       "section": "english",
-      "topic": "Spotting Errors & Sentence Correction",
+      "topic": "Error Spotting",
       "render_mode": "text",
       "stem": "Find the part of the sentence that contains an error:\nIt was not only the scattering of administrative authority across multiple agencies (1)/ that weakened coordinated policy-making, but the rigidity built into intersecting compliance frameworks (2)/ which, though intended to preserve procedural independence, (3)/ end up stalling inter-departmental coordination completely. (4)",
       "blocks": [
@@ -3982,8 +4287,10 @@
           "text": "It was not only the scattering of administrative authority across multiple agencies (1)/ that weakened coordinated policy-making, but the rigidity built into intersecting compliance frameworks (2)/ which, though intended to preserve procedural independence, (3)/ end up stalling inter-departmental coordination completely. (4)"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "(1)",
         "(2)",
@@ -4011,12 +4318,13 @@
         "opts_bottom": 280.27,
         "ans_top": 283.9,
         "ans_page": 16
-      }
+      },
+      "qkey": "ae69adaf9d7f0825"
     },
     {
       "n": 87,
       "section": "english",
-      "topic": "Geography & Environment",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Change the following from active to passive:\nThe panel had been reviewing sensitive proposals when the alarm sounded.",
       "blocks": [
@@ -4029,8 +4337,10 @@
           "text": "The panel had been reviewing sensitive proposals when the alarm sounded."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Sensitive proposals had had been reviewed by the panel when the alarm sounded.",
         "Sensitive proposals had been being reviewed by the panel when the alarm sounded.",
@@ -4058,7 +4368,8 @@
         "opts_bottom": 396.23999999999995,
         "ans_top": 399.84,
         "ans_page": 16
-      }
+      },
+      "qkey": "2b23aca388ddd79a"
     },
     {
       "n": 88,
@@ -4088,8 +4399,10 @@
           "text": "In recent decades, though, the story has shifted towards guarded hope. With initiatives like the Target Olympic Podium Scheme (TOPS) and stronger corporate backing, athletes increasingly receive better coaching, nutrition planning, and mental-conditioning support. Medal counts remain moderate but have improved—highlighted by Neeraj Chopra’s landmark javelin gold at Tokyo 2020. Another encouraging development is the widening of India’s sporting footprint: progress is now visible across badminton, shooting, boxing, athletics, and more—not just hockey and wrestling. Notably, Indian women athletes have also emerged as key contributors in recent Olympic performances. Even so, converting promise into podium finishes still demands sustained funding, scientific sports planning, and a culture that values multiple sports beyond cricket. India’s Olympic identity is still taking shape, but the ambition is unmistakable: to evolve from participation to true powerhouse status."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1900 Games held in France",
         "1936 Games hosted in Germany",
@@ -4117,7 +4430,8 @@
         "opts_bottom": 773.136,
         "ans_top": 776.496,
         "ans_page": 16
-      }
+      },
+      "qkey": "729b0203febad92c"
     },
     {
       "n": 89,
@@ -4143,8 +4457,10 @@
           "text": "In recent decades, though, the story has shifted towards guarded hope. With initiatives like the Target Olympic Podium Scheme (TOPS) and stronger corporate backing, athletes increasingly receive better coaching, nutrition planning, and mental-conditioning support. Medal counts remain moderate but have improved—highlighted by Neeraj Chopra’s landmark javelin gold at Tokyo 2020. Another encouraging development is the widening of India’s sporting footprint: progress is now visible across badminton, shooting, boxing, athletics, and more—not just hockey and wrestling. Notably, Indian women athletes have also emerged as key contributors in recent Olympic performances. Even so, converting promise into podium finishes still demands sustained funding, scientific sports planning, and a culture that values multiple sports beyond cricket. India’s Olympic identity is still taking shape, but the ambition is unmistakable: to evolve from participation to true powerhouse status."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Weak public enthusiasm for sports",
         "Excessive dependence on cricket culture",
@@ -4172,7 +4488,8 @@
         "opts_bottom": 454.31999999999994,
         "ans_top": 457.7,
         "ans_page": 17
-      }
+      },
+      "qkey": "09fc98e1b559bb87"
     },
     {
       "n": 90,
@@ -4198,8 +4515,10 @@
           "text": "In recent decades, though, the story has shifted towards guarded hope. With initiatives like the Target Olympic Podium Scheme (TOPS) and stronger corporate backing, athletes increasingly receive better coaching, nutrition planning, and mental-conditioning support. Medal counts remain moderate but have improved—highlighted by Neeraj Chopra’s landmark javelin gold at Tokyo 2020. Another encouraging development is the widening of India’s sporting footprint: progress is now visible across badminton, shooting, boxing, athletics, and more—not just hockey and wrestling. Notably, Indian women athletes have also emerged as key contributors in recent Olympic performances. Even so, converting promise into podium finishes still demands sustained funding, scientific sports planning, and a culture that values multiple sports beyond cricket. India’s Olympic identity is still taking shape, but the ambition is unmistakable: to evolve from participation to true powerhouse status."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Khel Pragati Abhiyan",
         "Olympic Excellence Drive",
@@ -4227,7 +4546,8 @@
         "opts_bottom": 787.536,
         "ans_top": 138.89,
         "ans_page": 18
-      }
+      },
+      "qkey": "b67aeef561081206"
     },
     {
       "n": 91,
@@ -4253,8 +4573,10 @@
           "text": "In recent decades, though, the story has shifted towards guarded hope. With initiatives like the Target Olympic Podium Scheme (TOPS) and stronger corporate backing, athletes increasingly receive better coaching, nutrition planning, and mental-conditioning support. Medal counts remain moderate but have improved—highlighted by Neeraj Chopra’s landmark javelin gold at Tokyo 2020. Another encouraging development is the widening of India’s sporting footprint: progress is now visible across badminton, shooting, boxing, athletics, and more—not just hockey and wrestling. Notably, Indian women athletes have also emerged as key contributors in recent Olympic performances. Even so, converting promise into podium finishes still demands sustained funding, scientific sports planning, and a culture that values multiple sports beyond cricket. India’s Olympic identity is still taking shape, but the ambition is unmistakable: to evolve from participation to true powerhouse status."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Cutting down cricket-related focus",
         "Returning to complete hockey supremacy",
@@ -4282,7 +4604,8 @@
         "opts_bottom": 512.18,
         "ans_top": 515.78,
         "ans_page": 18
-      }
+      },
+      "qkey": "c27a420ef14f2654"
     },
     {
       "n": 92,
@@ -4312,8 +4635,10 @@
           "text": "In recent decades, though, the story has shifted towards guarded hope. With initiatives like the Target Olympic Podium Scheme (TOPS) and stronger corporate backing, athletes increasingly receive better coaching, nutrition planning, and mental-conditioning support. Medal counts remain moderate but have improved—highlighted by Neeraj Chopra’s landmark javelin gold at Tokyo 2020. Another encouraging development is the widening of India’s sporting footprint: progress is now visible across badminton, shooting, boxing, athletics, and more—not just hockey and wrestling. Notably, Indian women athletes have also emerged as key contributors in recent Olympic performances. Even so, converting promise into podium finishes still demands sustained funding, scientific sports planning, and a culture that values multiple sports beyond cricket. India’s Olympic identity is still taking shape, but the ambition is unmistakable: to evolve from participation to true powerhouse status."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "They depend completely on overseas training support",
         "They are restricted to regular participation only",
@@ -4341,12 +4666,13 @@
         "opts_bottom": 193.37,
         "ans_top": 196.73000000000002,
         "ans_page": 19
-      }
+      },
+      "qkey": "48b018ff25e6edc7"
     },
     {
       "n": 93,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the correct option:\nNo sooner _________ the report released than the media erupted with criticism.",
       "blocks": [
@@ -4359,8 +4685,10 @@
           "text": "No sooner _________ the report released than the media erupted with criticism."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "was",
         "had",
@@ -4388,12 +4716,13 @@
         "opts_bottom": 309.3399999999999,
         "ans_top": 312.69999999999993,
         "ans_page": 19
-      }
+      },
+      "qkey": "7c481ff438ac2181"
     },
     {
       "n": 94,
       "section": "english",
-      "topic": "Spotting Errors & Sentence Correction",
+      "topic": "Error Spotting",
       "render_mode": "text",
       "stem": "Find the part of the sentence that contains an error:\nThe guideline seeks to neither prosecute minor violations (1)/ nor to overlook repeated breaches (2)/ arising from procedural confusion (3)/ rather than deliberate misconduct. (4)",
       "blocks": [
@@ -4406,8 +4735,10 @@
           "text": "The guideline seeks to neither prosecute minor violations (1)/ nor to overlook repeated breaches (2)/ arising from procedural confusion (3)/ rather than deliberate misconduct. (4)"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "(1)",
         "(2)",
@@ -4435,12 +4766,13 @@
         "opts_bottom": 439.67999999999995,
         "ans_top": 443.28,
         "ans_page": 19
-      }
+      },
+      "qkey": "92ab306c2098f651"
     },
     {
       "n": 95,
       "section": "english",
-      "topic": "Vocabulary: Synonyms & Antonyms",
+      "topic": "Synonyms & Antonyms",
       "render_mode": "text",
       "stem": "Select the most appropriate synonym of the given word: INFANTILE",
       "blocks": [
@@ -4449,8 +4781,10 @@
           "text": "Select the most appropriate synonym of the given word: INFANTILE"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Sophisticated",
         "Seasoned",
@@ -4478,7 +4812,8 @@
         "opts_bottom": 541.22,
         "ans_top": 544.61,
         "ans_page": 19
-      }
+      },
+      "qkey": "b60dc19bff2b70c4"
     },
     {
       "n": 96,
@@ -4492,8 +4827,10 @@
           "text": "Convert the sentence provided below from its passive voice structure to an active voice structure: A report is submitted to the supervisor by the intern every Monday."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "The supervisor submits a report to the intern every Monday.",
         "The intern submits a report to the supervisor every Monday.",
@@ -4521,12 +4858,13 @@
         "opts_bottom": 657.1899999999999,
         "ans_top": 660.55,
         "ans_page": 19
-      }
+      },
+      "qkey": "fc81b94924bb7096"
     },
     {
       "n": 97,
       "section": "english",
-      "topic": "Spelling Correction",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Spot the correct spelling of an early film material.",
       "blocks": [
@@ -4535,8 +4873,10 @@
           "text": "Spot the correct spelling of an early film material."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Celluloid",
         "Celluloidn",
@@ -4564,7 +4904,8 @@
         "opts_bottom": 758.736,
         "ans_top": 762.096,
         "ans_page": 19
-      }
+      },
+      "qkey": "41a4ef71f9c260f3"
     },
     {
       "n": 98,
@@ -4578,8 +4919,10 @@
           "text": "Choose the correct meaning of idiom: Mend fences"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "To restore friendly relations after a dispute",
         "To intensify rivalry",
@@ -4607,7 +4950,8 @@
         "opts_bottom": 164.32999999999993,
         "ans_top": 167.92999999999995,
         "ans_page": 21
-      }
+      },
+      "qkey": "7f48f4c59f177837"
     },
     {
       "n": 99,
@@ -4625,8 +4969,10 @@
           "text": "“A person who is excessively fond of eating and drinking.”"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Ascetic",
         "Gourmand",
@@ -4654,12 +5000,13 @@
         "opts_bottom": 280.27,
         "ans_top": 283.9,
         "ans_page": 21
-      }
+      },
+      "qkey": "0629bc168a6e05c6"
     },
     {
       "n": 100,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the sentence containing the homonym of the highlighted word:\nThe knight adjusted his pauldron before the joust.",
       "blocks": [
@@ -4672,8 +5019,10 @@
           "text": "The knight adjusted his pauldron before the joust."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "The armourer repaired the dented pauldron and refastened its straps.",
         "In the gallery, the curator tagged the pauldron as part of a full suit of armour.",
@@ -4701,7 +5050,8 @@
         "opts_bottom": 396.23999999999995,
         "ans_top": 399.84,
         "ans_page": 21
-      }
+      },
+      "qkey": "d9056226f7067113"
     }
   ]
 }

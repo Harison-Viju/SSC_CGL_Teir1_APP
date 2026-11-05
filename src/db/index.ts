@@ -9,6 +9,8 @@ import type {
   QuestionFlag,
   InProgressAttempt,
   UserStats,
+  QuestionStat,
+  ExamTest,
 } from "../types";
 
 export class ExamQuestDatabase extends Dexie {
@@ -18,6 +20,7 @@ export class ExamQuestDatabase extends Dexie {
   inProgress!: Table<InProgressAttempt, string>;
   stats!: Table<UserStats & { id: string }, string>;
   keyValSettings!: Table<{ key: string; value: any }, string>;
+  questionStats!: Table<QuestionStat, string>;
 
   constructor() {
     super("ExamQuestDB");
@@ -28,6 +31,9 @@ export class ExamQuestDatabase extends Dexie {
       inProgress: "testId, lastUpdated",
       stats: "id",
       keyValSettings: "key",
+    });
+    this.version(2).stores({
+      questionStats: "qkey, lastResult, lastAnsweredAt",
     });
   }
 }
@@ -40,8 +46,8 @@ export async function getUserStats(): Promise<UserStats> {
     return existing;
   }
   const initial: UserStats = {
-    xp: 150,
-    streak: 3,
+    xp: 0,
+    streak: 0,
     lastActiveDate: new Date().toISOString().split("T")[0],
     completedTestsCount: 0,
     totalAnswered: 0,
@@ -184,5 +190,112 @@ export async function saveMistakeNote(questionKey: string, note: string): Promis
   const current = await getMistakeNotes();
   current[questionKey] = note;
   await db.keyValSettings.put({ key: "mistake_notes", value: current });
+}
+
+export interface RecordAnswerParams {
+  qkey: string;
+  result: "correct" | "wrong" | "skipped";
+  timeMs?: number;
+}
+
+/**
+ * Record an answer result for a question identified by its stable qkey.
+ * Works across all modes: mock exams, section tests, practice/learn, and sprint.
+ */
+export async function recordAnswer(params: RecordAnswerParams): Promise<void> {
+  const { qkey, result, timeMs = 0 } = params;
+  if (!qkey) return;
+
+  const existing = await db.questionStats.get(qkey);
+  const now = new Date().toISOString();
+
+  if (existing) {
+    await db.questionStats.put({
+      qkey,
+      attempts: existing.attempts + 1,
+      correct: existing.correct + (result === "correct" ? 1 : 0),
+      wrong: existing.wrong + (result === "wrong" ? 1 : 0),
+      skipped: existing.skipped + (result === "skipped" ? 1 : 0),
+      lastAnsweredAt: now,
+      lastResult: result,
+      totalTimeMs: (existing.totalTimeMs || 0) + timeMs,
+    });
+  } else {
+    await db.questionStats.put({
+      qkey,
+      attempts: 1,
+      correct: result === "correct" ? 1 : 0,
+      wrong: result === "wrong" ? 1 : 0,
+      skipped: result === "skipped" ? 1 : 0,
+      lastAnsweredAt: now,
+      lastResult: result,
+      totalTimeMs: timeMs,
+    });
+  }
+}
+
+/**
+ * Get all recorded question stats indexed by qkey.
+ */
+export async function getAllQuestionStats(): Promise<Record<string, QuestionStat>> {
+  const statsList = await db.questionStats.toArray();
+  const map: Record<string, QuestionStat> = {};
+  for (const s of statsList) {
+    map[s.qkey] = s;
+  }
+  return map;
+}
+
+/**
+ * Backfill questionStats from existing test attempts if not already performed.
+ */
+export async function backfillQuestionStatsFromAttempts(
+  testResolver?: (testId: string) => Promise<ExamTest | null>
+): Promise<void> {
+  const backfilled = await db.keyValSettings.get("question_stats_backfilled");
+  if (backfilled?.value) return;
+
+  const attempts = await db.attempts.toArray();
+  if (attempts.length === 0) {
+    await db.keyValSettings.put({ key: "question_stats_backfilled", value: true });
+    return;
+  }
+
+  for (const att of attempts) {
+    if (!att.testId || !att.userAnswers) continue;
+    let testData: ExamTest | null = null;
+    if (testResolver) {
+      testData = await testResolver(att.testId);
+    } else {
+      try {
+        const res = await fetch(`./data/tests/${att.testId}.json`);
+        if (res.ok) {
+          testData = await res.json();
+        }
+      } catch {
+        // Skip if fetch fails during headless test
+      }
+    }
+
+    if (!testData || !testData.questions) continue;
+
+    for (const q of testData.questions) {
+      if (!q.qkey) continue;
+      const userAns = att.userAnswers[q.n];
+      const timeSec = att.timeSpentPerQuestion?.[q.n] || 0;
+      let result: "correct" | "wrong" | "skipped" = "skipped";
+      if (userAns !== undefined && userAns !== null) {
+        result = userAns === q.answer ? "correct" : "wrong";
+      }
+
+      await recordAnswer({
+        qkey: q.qkey,
+        result,
+        timeMs: timeSec * 1000,
+      });
+    }
+  }
+
+  await db.keyValSettings.put({ key: "question_stats_backfilled", value: true });
 }
 

@@ -3,7 +3,7 @@
  * instant feedback, streak combos, audio chimes, and confetti.
  */
 
-import React, { useState, useEffect, useMemo, useCallback } from "react";
+import React, { useState, useEffect, useMemo, useCallback, useRef } from "react";
 import { useParams, useNavigate, useSearchParams } from "react-router-dom";
 import { motion, AnimatePresence } from "motion/react";
 import confetti from "canvas-confetti";
@@ -16,15 +16,28 @@ import {
   playFinishFanfare,
 } from "../utils/soundEffects";
 import { calculateQuestionXp, calculateLevel } from "../utils/gamification";
-import { db, getAttemptsForTest } from "../db";
+import { db, getAttemptsForTest, recordAnswer } from "../db";
 import type { Question } from "../types";
 import { QuestionBlocksRenderer } from "../components/QuestionBlocksRenderer";
 import messages from "../content/messages.json";
+import { fetchAllQuestions, getStatsMap } from "../utils/questionsLoader";
+import { pickQuestions, slugify } from "../utils/topicStats";
 
-export const PracticeView: React.FC = () => {
-  const { testId } = useParams<{ testId: string }>();
+export interface PracticeViewProps {
+  isTopicLearnMode?: boolean;
+}
+
+export const PracticeView: React.FC<PracticeViewProps> = ({
+  isTopicLearnMode: propIsTopicLearnMode,
+}) => {
+  const { testId, topicId } = useParams<{ testId?: string; topicId?: string }>();
   const [searchParams] = useSearchParams();
   const navigate = useNavigate();
+
+  const isTopicLearnMode = propIsTopicLearnMode || !!topicId || searchParams.get("mode") === "learn";
+  const targetTopic = topicId || searchParams.get("topic");
+  const filterParam = (searchParams.get("filter") as any) || "all";
+  const countParam = parseInt(searchParams.get("count") || "10", 10);
 
   const activeTest = useAppStore((state) => state.activeTest);
   const fetchTest = useAppStore((state) => state.fetchTest);
@@ -38,9 +51,12 @@ export const PracticeView: React.FC = () => {
   const [lessonIndex, setLessonIndex] = useState<number>(0);
   const [selectedSection, setSelectedSection] = useState<string>("all");
 
+  // Topic mode questions
+  const [topicQuestions, setTopicQuestions] = useState<Question[] | null>(null);
+  const [loadingTopicQuestions, setLoadingTopicQuestions] = useState<boolean>(false);
+
   // Query param filters
   const filterWrongOnly = searchParams.get("onlyWrong") === "1";
-  const targetTopic = searchParams.get("topic");
   const [wrongQNums, setWrongQNums] = useState<Set<number> | null>(null);
 
   // Current session questions
@@ -73,14 +89,64 @@ export const PracticeView: React.FC = () => {
 
   // Load test data
   useEffect(() => {
-    if (testId) {
+    if (!isTopicLearnMode && testId) {
       fetchTest(testId);
     }
-  }, [testId, fetchTest]);
+  }, [isTopicLearnMode, testId, fetchTest]);
 
-  // Load mistakes from past attempts if onlyWrong=1
+  // Load topic practice questions via pickQuestions across all tests
+  const loadTopicDeck = useCallback(() => {
+    if (isTopicLearnMode && targetTopic) {
+      setLoadingTopicQuestions(true);
+      Promise.all([
+        fetchAllQuestions(),
+        getStatsMap(),
+        db.bookmarks.toArray(),
+        db.flags.toArray(),
+      ])
+        .then(([allQs, sMap, bList, fList]) => {
+          const bSet = new Set<string>();
+          for (const b of bList) {
+            const matched = allQs.find(
+              (q) => q.n === b.qNum && (!b.testId || (q as any).testId === b.testId)
+            );
+            if (matched?.qkey) bSet.add(matched.qkey);
+          }
+          const fSet = new Set<string>();
+          for (const f of fList) {
+            const matched = allQs.find(
+              (q) => q.n === f.qNum && (!f.testId || (q as any).testId === f.testId)
+            );
+            if (matched?.qkey) fSet.add(matched.qkey);
+          }
+
+          const chosen = pickQuestions({
+            questions: allQs,
+            topicId: targetTopic,
+            filter: filterParam,
+            count: countParam === 0 ? 9999 : countParam,
+            statsMap: sMap,
+            bookmarkedKeys: bSet,
+            flaggedKeys: fSet,
+          });
+
+          setTopicQuestions(chosen);
+          setLoadingTopicQuestions(false);
+        })
+        .catch((err) => {
+          console.error("Failed to load topic questions:", err);
+          setLoadingTopicQuestions(false);
+        });
+    }
+  }, [isTopicLearnMode, targetTopic, filterParam, countParam]);
+
   useEffect(() => {
-    if (testId && filterWrongOnly && activeTest) {
+    loadTopicDeck();
+  }, [loadTopicDeck]);
+
+  // Load mistakes from past attempts if onlyWrong=1 (test practice mode)
+  useEffect(() => {
+    if (!isTopicLearnMode && testId && filterWrongOnly && activeTest) {
       getAttemptsForTest(testId).then((attempts) => {
         if (attempts.length > 0) {
           const latest = attempts[0];
@@ -95,10 +161,13 @@ export const PracticeView: React.FC = () => {
         }
       });
     }
-  }, [testId, filterWrongOnly, activeTest]);
+  }, [isTopicLearnMode, testId, filterWrongOnly, activeTest]);
 
   // Filter pool based on section, wrong items, or topic
   const questionPool = useMemo(() => {
+    if (isTopicLearnMode) {
+      return topicQuestions || [];
+    }
     if (!activeTest) return [];
     let list = activeTest.questions;
     if (selectedSection !== "all") {
@@ -113,29 +182,34 @@ export const PracticeView: React.FC = () => {
       );
     }
     return list;
-  }, [activeTest, selectedSection, filterWrongOnly, wrongQNums, targetTopic]);
+  }, [isTopicLearnMode, topicQuestions, activeTest, selectedSection, filterWrongOnly, wrongQNums, targetTopic]);
 
   // Sliced questions for the current lesson chunk
   const lessonQuestions = useMemo(() => {
+    if (isTopicLearnMode) {
+      return topicQuestions || [];
+    }
     if (chunkSize === 0) return questionPool; // all
     const start = lessonIndex * chunkSize;
     return questionPool.slice(start, start + chunkSize);
-  }, [questionPool, lessonIndex, chunkSize]);
+  }, [isTopicLearnMode, topicQuestions, questionPool, lessonIndex, chunkSize]);
 
   const currentQuestion: Question | undefined = lessonQuestions[currentIndex];
 
   // Total lessons in current pool
   const totalLessons = useMemo(() => {
+    if (isTopicLearnMode) return 1;
     if (chunkSize === 0) return 1;
     return Math.max(1, Math.ceil(questionPool.length / chunkSize));
-  }, [questionPool.length, chunkSize]);
+  }, [isTopicLearnMode, questionPool.length, chunkSize]);
 
   // Check bookmark status
   useEffect(() => {
-    if (!testId || !currentQuestion) return;
+    if (!currentQuestion) return;
+    const effectiveTestId = (currentQuestion as any).testId || testId || "topic";
     db.bookmarks
       .where(["testId", "qNum"])
-      .equals([testId, currentQuestion.n])
+      .equals([effectiveTestId, currentQuestion.n])
       .first()
       .then((bm) => setIsBookmarked(!!bm))
       .catch(() => setIsBookmarked(false));
@@ -148,6 +222,12 @@ export const PracticeView: React.FC = () => {
     return arr[Math.floor(Math.random() * arr.length)];
   }, []);
 
+  // Question timing ref for recording answer duration
+  const questionStartRef = useRef<number>(Date.now());
+  useEffect(() => {
+    questionStartRef.current = Date.now();
+  }, [currentIndex, currentQuestion]);
+
   // Handle option selection & instant check
   const handleSelectOption = useCallback(
     (index: number) => {
@@ -159,6 +239,16 @@ export const PracticeView: React.FC = () => {
       const correct = index === currentQuestion.answer;
       setIsCorrect(correct);
       setSessionAnsweredCount((prev) => prev + 1);
+
+      // Record answer history immediately for topic mastery and sprint prioritization
+      const elapsedMs = Math.max(0, Date.now() - questionStartRef.current);
+      if (currentQuestion.qkey) {
+        recordAnswer({
+          qkey: currentQuestion.qkey,
+          result: correct ? "correct" : "wrong",
+          timeMs: elapsedMs,
+        });
+      }
 
       if (correct) {
         const nextStreak = sessionStreak + 1;
@@ -259,17 +349,18 @@ export const PracticeView: React.FC = () => {
 
   // Toggle bookmark
   const toggleBookmark = async () => {
-    if (!testId || !currentQuestion) return;
+    if (!currentQuestion) return;
+    const effectiveTestId = (currentQuestion as any).testId || testId || "topic";
     if (isBookmarked) {
       await db.bookmarks
         .where(["testId", "qNum"])
-        .equals([testId, currentQuestion.n])
+        .equals([effectiveTestId, currentQuestion.n])
         .delete();
       setIsBookmarked(false);
     } else {
       await db.bookmarks.put({
-        id: `${testId}_${currentQuestion.n}`,
-        testId,
+        id: `${effectiveTestId}_${currentQuestion.n}`,
+        testId: effectiveTestId,
         qNum: currentQuestion.n,
         dateAdded: Date.now(),
         topic: currentQuestion.topic,
@@ -280,10 +371,11 @@ export const PracticeView: React.FC = () => {
 
   // Submit flag
   const handleFlagSubmit = async () => {
-    if (!testId || !currentQuestion) return;
+    if (!currentQuestion) return;
+    const effectiveTestId = (currentQuestion as any).testId || testId || "topic";
     await db.flags.put({
-      id: `${testId}_${currentQuestion.n}_${Date.now()}`,
-      testId,
+      id: `${effectiveTestId}_${currentQuestion.n}_${Date.now()}`,
+      testId: effectiveTestId,
       qNum: currentQuestion.n,
       dateAdded: Date.now(),
       reason: flagReason,
@@ -355,7 +447,11 @@ export const PracticeView: React.FC = () => {
     setMascotState("idle");
   };
 
-  if (loadingTest || !activeTest) {
+  if (
+    isTopicLearnMode
+      ? loadingTopicQuestions || topicQuestions === null
+      : loadingTest || !activeTest
+  ) {
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] p-6 text-center">
         <Mascot state="thinking" size="lg" message="Loading practice questions..." />
@@ -366,10 +462,32 @@ export const PracticeView: React.FC = () => {
     );
   }
 
+  // Handle empty question deck in topic learn mode
+  if (isTopicLearnMode && topicQuestions && topicQuestions.length === 0) {
+    return (
+      <div className="flex flex-col items-center justify-center min-h-[60vh] p-6 text-center max-w-md mx-auto">
+        <Mascot state="thinking" size="lg" message="No questions match this filter." />
+        <h3 className="text-xl font-bold text-slate-900 dark:text-white mt-4">
+          No Questions Available
+        </h3>
+        <p className="text-sm text-slate-500 dark:text-slate-400 mt-2 mb-6">
+          There are no questions matching "{filterParam}" for this topic.
+        </p>
+        <button
+          onClick={() => navigate(targetTopic ? `/train/${targetTopic}` : "/train")}
+          className="px-6 py-3 rounded-2xl bg-blue-600 hover:bg-blue-500 text-white font-bold shadow-md transition"
+        >
+          Back to Topic
+        </button>
+      </div>
+    );
+  }
+
   // Active Passage if question is part of a reading comprehension set
-  const activePassage = currentQuestion?.passage_id
-    ? activeTest.passages.find((p) => p.id === currentQuestion.passage_id)
-    : null;
+  const activePassage =
+    currentQuestion?.passage_id && activeTest
+      ? activeTest.passages.find((p) => p.id === currentQuestion.passage_id)
+      : null;
 
   const currentLevelInfo = calculateLevel(userStats.xp + sessionXp);
   const progressPercent = Math.round(
@@ -383,7 +501,15 @@ export const PracticeView: React.FC = () => {
         <div className="max-w-4xl mx-auto flex items-center justify-between gap-4">
           {/* Close button */}
           <button
-            onClick={() => navigate(`/test/${activeTest.id}`)}
+            onClick={() => {
+              if (isTopicLearnMode && targetTopic) {
+                navigate(`/train/${targetTopic}`);
+              } else if (activeTest) {
+                navigate(`/test/${activeTest.id}`);
+              } else {
+                navigate("/train");
+              }
+            }}
             className="p-2 rounded-xl text-slate-500 hover:text-slate-800 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 transition"
             title="Exit Practice"
           >
@@ -407,7 +533,7 @@ export const PracticeView: React.FC = () => {
                 Q {currentIndex + 1} of {lessonQuestions.length}
               </span>
               <span>
-                Lesson {lessonIndex + 1}/{totalLessons}
+                {isTopicLearnMode ? "Learn Mode" : `Lesson ${lessonIndex + 1}/${totalLessons}`}
               </span>
             </div>
           </div>
@@ -676,7 +802,25 @@ export const PracticeView: React.FC = () => {
 
             {/* Action Buttons */}
             <div className="flex flex-col gap-3">
-              {lessonIndex + 1 < totalLessons ? (
+              {isTopicLearnMode ? (
+                <>
+                  <button
+                    onClick={() => {
+                      loadTopicDeck();
+                      restartCurrentLesson();
+                    }}
+                    className="w-full py-3.5 bg-blue-600 hover:bg-blue-500 text-white font-bold rounded-2xl shadow-lg shadow-blue-600/20 transition active:scale-[0.98]"
+                  >
+                    Practice again
+                  </button>
+                  <button
+                    onClick={() => navigate(targetTopic ? `/train/${targetTopic}` : "/train")}
+                    className="w-full py-3 bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 font-bold rounded-2xl transition"
+                  >
+                    Back to topic
+                  </button>
+                </>
+              ) : lessonIndex + 1 < totalLessons ? (
                 <button
                   onClick={startNextLesson}
                   className="w-full py-3.5 bg-emerald-600 hover:bg-emerald-500 text-white font-bold rounded-2xl shadow-lg shadow-emerald-600/20 transition active:scale-[0.98]"
@@ -685,19 +829,21 @@ export const PracticeView: React.FC = () => {
                 </button>
               ) : (
                 <button
-                  onClick={() => navigate(`/test/${activeTest.id}`)}
+                  onClick={() => navigate(`/test/${activeTest?.id || ""}`)}
                   className="w-full py-3.5 bg-indigo-600 hover:bg-indigo-500 text-white font-bold rounded-2xl shadow-lg shadow-indigo-600/20 transition active:scale-[0.98]"
                 >
                   Finish & Back to Test Details
                 </button>
               )}
 
-              <button
-                onClick={restartCurrentLesson}
-                className="w-full py-3 bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 font-bold rounded-2xl transition"
-              >
-                Practice This Lesson Again
-              </button>
+              {!isTopicLearnMode && (
+                <button
+                  onClick={restartCurrentLesson}
+                  className="w-full py-3 bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 font-bold rounded-2xl transition"
+                >
+                  Practice This Lesson Again
+                </button>
+              )}
             </div>
           </motion.div>
         )}

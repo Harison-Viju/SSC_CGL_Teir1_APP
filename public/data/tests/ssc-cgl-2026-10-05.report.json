@@ -5,9 +5,9 @@
   "expected_questions": 100,
   "passed": true,
   "render_mode_counts": {
-    "text": 91,
-    "image_stem": 5,
-    "image_full": 4
+    "text": 86,
+    "image_stem": 7,
+    "image_full": 7
   },
   "missing_answers": [],
   "invalid_answers": [],
@@ -15,5 +15,5 @@
   "numbering_gaps": [],
   "empty_stems": [],
   "low_confidence_questions": [],
-  "total_warnings": 1
+  "total_warnings": 7
 }

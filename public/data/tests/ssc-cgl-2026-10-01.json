@@ -58,7 +58,7 @@
     {
       "n": 1,
       "section": "reasoning",
-      "topic": "Mirror & Water Images",
+      "topic": "Mirror & Water Image",
       "render_mode": "image_full",
       "stem": "Select the correct mirror image of the given figure if the mirror is placed vertically to the right side of the figure.",
       "blocks": [
@@ -67,8 +67,10 @@
           "text": "Select the correct mirror image of the given figure if the mirror is placed vertically to the right side of the figure."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": "img/ssc-cgl-2026-10-01/q001_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-01/q001_orig.webp",
       "options": [
         "A",
         "B",
@@ -83,8 +85,10 @@
       ],
       "answer": 1,
       "passage_id": null,
-      "confidence": 0.95,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Empty option text found for Q1"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 1,
@@ -96,12 +100,13 @@
         "opts_bottom": 265.294,
         "ans_top": 270.57399999999996,
         "ans_page": 1
-      }
+      },
+      "qkey": "d452b35b784cdd6d"
     },
     {
       "n": 2,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Number Series",
       "render_mode": "text",
       "stem": "Directions:\nPick the correct options from below.\n5, 10.5, 18, 27.5, 39. __",
       "blocks": [
@@ -118,8 +123,10 @@
           "text": "5, 10.5, 18, 27.5, 39. __"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "48.5",
         "52.5",
@@ -147,12 +154,13 @@
         "opts_bottom": 403.58399999999995,
         "ans_top": 408.8639999999999,
         "ans_page": 1
-      }
+      },
+      "qkey": "b779b8f53fe028ea"
     },
     {
       "n": 3,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Figure Series",
       "render_mode": "image_full",
       "stem": "In the following figure series, select the figure which can be placed at the sign of question mark (?) from the given alternatives.",
       "blocks": [
@@ -161,8 +169,10 @@
           "text": "In the following figure series, select the figure which can be placed at the sign of question mark (?) from the given alternatives."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": "img/ssc-cgl-2026-10-01/q003_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-01/q003_orig.webp",
       "options": [
         "A",
         "B",
@@ -177,9 +187,11 @@
       ],
       "answer": 0,
       "passage_id": null,
-      "confidence": 0.95,
-      "warnings": [],
-      "duplicate_of": null,
+      "confidence": 0.85,
+      "warnings": [
+        "Empty option text found for Q3"
+      ],
+      "duplicate_of": "ssc-cgl-2026-09-30:17",
       "_bbox": {
         "page": 1,
         "min_page": 1,
@@ -190,12 +202,13 @@
         "opts_bottom": 754.56,
         "ans_top": 759.8399999999999,
         "ans_page": 1
-      }
+      },
+      "qkey": "79669e70baf90f25"
     },
     {
       "n": 4,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Statement & Conclusion",
       "render_mode": "text",
       "stem": "A statement showing relationship between different elements is given, followed by two conclusions, I and II. Assuming the statement to be true, find out which of the conclusions is/are definitely true.\nStatement:\nF ≥ I < N ≤ G = E < R\nConclusions:\nI. E > F\nII. R > I",
       "blocks": [
@@ -226,8 +239,10 @@
           "text": "R > I"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Both conclusions I and II are true.",
         "Neither conclusion I nor conclusion II is true.",
@@ -255,12 +270,13 @@
         "opts_bottom": 277.534,
         "ans_top": 280.924,
         "ans_page": 4
-      }
+      },
+      "qkey": "0b422df1b49806d4"
     },
     {
       "n": 5,
       "section": "reasoning",
-      "topic": "Statement & Assumption / Argument",
+      "topic": "Statement & Course of Action",
       "render_mode": "text",
       "stem": "The statement given below is followed by two decisions labeled I, and II. You have to assume everything in the statement to be true, and then decide which of the two suggested decisions logically follows for pursuing.\nStatement:\nHighway robbery on the expressway between Delhi to Agra is increasing day by day.\nDecisions:\nI. As soon as possible robbers should be arrested.\nII. Regular police patrolling should be started at this expressway.",
       "blocks": [
@@ -291,8 +307,10 @@
           "text": "Regular police patrolling should be started at this expressway."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "only I follows",
         "Both I and II follow",
@@ -320,12 +338,13 @@
         "opts_bottom": 478.72399999999993,
         "ans_top": 482.32399999999996,
         "ans_page": 4
-      }
+      },
+      "qkey": "25fee2959373b221"
     },
     {
       "n": 6,
       "section": "reasoning",
-      "topic": "Master Address Matching",
+      "topic": "Address Matching",
       "render_mode": "text",
       "stem": "You are given a Master Address (MA) from official records. Your task is to identify the correct candidate address that matches exactly with the master address in terms of formatting, punctuation, spelling, and structure.\nMaster Address (MA): Shop No. G-12, City Centre Mall, 100 Ft. Road, Jayanagar, Bengaluru - 560041\nCandidate Addresses:",
       "blocks": [
@@ -342,8 +361,10 @@
           "text": "Candidate Addresses"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Shop No G-12, City Centre Mall, 100 Ft. Road, Jayanagar, Bengaluru - 560041",
         "Shop No. G-12, City Center Mall, 100 Ft. Road, Jayanagar, Bengaluru - 560041",
@@ -371,7 +392,8 @@
         "opts_bottom": 648.934,
         "ans_top": 652.5339999999999,
         "ans_page": 4
-      }
+      },
+      "qkey": "305a53a23d7b8483"
     },
     {
       "n": 7,
@@ -385,8 +407,10 @@
           "text": "In a certain coded language 'BODS' is coded as 'HVJZ' and 'SKIP' is coded as 'YROW'. How will 'BOWL' be coded in the same code language?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "FWCT",
         "HVCS",
@@ -414,7 +438,8 @@
         "opts_bottom": 772.8,
         "ans_top": 95.32399999999996,
         "ans_page": 5
-      }
+      },
+      "qkey": "167d1ea9fc7f6cab"
     },
     {
       "n": 8,
@@ -428,8 +453,10 @@
           "text": "If ‘CONCISE’ is coded as 91 in a code language, how would ‘IDEALISM’ be coded in the same code language?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "130",
         "131",
@@ -457,12 +484,13 @@
         "opts_bottom": 219.93399999999997,
         "ans_top": 224.0139999999999,
         "ans_page": 5
-      }
+      },
+      "qkey": "5f2855e01c07ef45"
     },
     {
       "n": 9,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Figure Series",
       "render_mode": "image_full",
       "stem": "In the following figure series, select the figure which can be placed at the sign of question mark (?) from the given alternatives.",
       "blocks": [
@@ -471,8 +499,10 @@
           "text": "In the following figure series, select the figure which can be placed at the sign of question mark (?) from the given alternatives."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": "img/ssc-cgl-2026-10-01/q009_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-01/q009_orig.webp",
       "options": [
         "A",
         "B",
@@ -487,9 +517,11 @@
       ],
       "answer": 1,
       "passage_id": null,
-      "confidence": 0.95,
-      "warnings": [],
-      "duplicate_of": null,
+      "confidence": 0.85,
+      "warnings": [
+        "Empty option text found for Q9"
+      ],
+      "duplicate_of": "ssc-cgl-2026-09-30:17",
       "_bbox": {
         "page": 5,
         "min_page": 5,
@@ -500,7 +532,8 @@
         "opts_bottom": 593.7139999999999,
         "ans_top": 598.0339999999999,
         "ans_page": 5
-      }
+      },
+      "qkey": "79669e70baf90f25"
     },
     {
       "n": 10,
@@ -514,8 +547,10 @@
           "text": "In this type of questions, question is provided with substitutes for various mathematical symbols, followed by a question involving calculation of an expression or choosing the correct/incorrect equation. You have to put the real signs in the given equation and then solve the questions as required. If '*' stands for '+', '@' stands for '-', '%' stands for '×', '^' stands for '÷', then find the value of: 4 ^ 9 % 8 % 6 = ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "64/3",
         "70/3",
@@ -543,12 +578,13 @@
         "opts_bottom": 771.8399999999999,
         "ans_top": 776.16,
         "ans_page": 5
-      }
+      },
+      "qkey": "479583ab1906115e"
     },
     {
       "n": 11,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "In the following question, set of letter clusters are given. The letter clusters of each set are related to the letter clusters of the same set by some Logic/Rule/Relation. From the given alternatives, select a group of letter clusters which follows the same Logic/Rule/Relation.\n(IP,CJ,VC)\n(GR, AL, TE)",
       "blocks": [
@@ -565,8 +601,10 @@
           "text": "(GR, AL, TE)"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "(EF,YX,ST)",
         "(KM,EG,XZ)",
@@ -594,13 +632,14 @@
         "opts_bottom": 246.57399999999996,
         "ans_top": 249.93399999999997,
         "ans_page": 6
-      }
+      },
+      "qkey": "3cb21d841c44f835"
     },
     {
       "n": 12,
       "section": "reasoning",
-      "topic": "Blood Relations",
-      "render_mode": "text",
+      "topic": "Seating Arrangement",
+      "render_mode": "image_stem",
       "stem": "A, B, C, D, E, F and G are sitting around a circular table facing the centre. Only one person sits between G and C when counted from the left of\nC. E sits third to the right of A. F sits third to the left of\nD. E sits to the immediate right of F. B is not an immediate neighbour of F. Who sits third to the right of G?",
       "blocks": [
         {
@@ -618,8 +657,10 @@
           "text": "E sits to the immediate right of F. B is not an immediate neighbour of F. Who sits third to the right of G?"
         }
       ],
-      "stem_image": null,
+      "table": null,
+      "stem_image": "img/ssc-cgl-2026-10-01/q012_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-01/q012_orig.webp",
       "options": [
         "F",
         "B",
@@ -634,8 +675,10 @@
       ],
       "answer": 0,
       "passage_id": null,
-      "confidence": 1.0,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Stray option marker 'D. E sits ' left in stem for Q12"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 6,
@@ -647,12 +690,13 @@
         "opts_bottom": 401.4239999999999,
         "ans_top": 404.78399999999993,
         "ans_page": 6
-      }
+      },
+      "qkey": "c0f3febae5e642e2"
     },
     {
       "n": 13,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Figure Series",
       "render_mode": "image_full",
       "stem": "Two figures given on the left side of (::) are related with some logic/rule/relation. Select the missing figure on the right side of (::) from the given alternatives based on the same logic/rule/relation.",
       "blocks": [
@@ -661,8 +705,10 @@
           "text": "Two figures given on the left side of (::) are related with some logic/rule/relation. Select the missing figure on the right side of (::) from the given alternatives based on the same logic/rule/relation."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": "img/ssc-cgl-2026-10-01/q013_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-01/q013_orig.webp",
       "options": [
         "A",
         "B",
@@ -677,8 +723,10 @@
       ],
       "answer": 3,
       "passage_id": null,
-      "confidence": 0.95,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Empty option text found for Q13"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 6,
@@ -690,12 +738,13 @@
         "opts_bottom": 768.9599999999999,
         "ans_top": 772.56,
         "ans_page": 6
-      }
+      },
+      "qkey": "98a678e9152eb277"
     },
     {
       "n": 14,
       "section": "reasoning",
-      "topic": "Cube & Dice / Paper Folding",
+      "topic": "Paper Folding & Cutting",
       "render_mode": "image_stem",
       "stem": "Which of the following cubes can be formed from the given unfolded cube?",
       "blocks": [
@@ -704,8 +753,10 @@
           "text": "Which of the following cubes can be formed from the given unfolded cube?"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-01/q014_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-01/q014_orig.webp",
       "options": [
         "Only 1, 2 and 3",
         "Only 2, 3 and 4",
@@ -733,12 +784,13 @@
         "opts_bottom": 421.82399999999996,
         "ans_top": 424.22399999999993,
         "ans_page": 7
-      }
+      },
+      "qkey": "b0647c3f27e997d2"
     },
     {
       "n": 15,
       "section": "reasoning",
-      "topic": "Algebra & Number System",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Each item describes a situation and is followed by four possible responses. Indicate the response you find most appropriate. Choose only one response for each item. The responses will be evaluated based on the level of appropriateness for the given situation.\nNisha is choosing between two job offers. One offers a high salary but requires frequent travel and overtime. The other offers flexible hours, remote work, and a moderate salary. Nisha values work-life balance and spends weekends with her family. Which job should she take?",
       "blocks": [
@@ -751,8 +803,10 @@
           "text": "Nisha is choosing between two job offers. One offers a high salary but requires frequent travel and overtime. The other offers flexible hours, remote work, and a moderate salary. Nisha values work-life balance and spends weekends with her family. Which job should she take?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "High – Salary job with travel",
         "Moderate – salary job with flexibility",
@@ -780,12 +834,13 @@
         "opts_bottom": 594.194,
         "ans_top": 596.5939999999999,
         "ans_page": 7
-      }
+      },
+      "qkey": "63eb28f39a1da9b4"
     },
     {
       "n": 16,
       "section": "reasoning",
-      "topic": "Coding-Decoding",
+      "topic": "Blood Relations",
       "render_mode": "text",
       "stem": "In a certain code language, A % B means ‘A is the sister of B’\nA € B means ‘A is the son of B’\nA = B means ‘A is the father of B’\nA ? B means ‘A is the daughter of B’\nBased on the above, how is B related to X if 'B % C ? O € P = X'?",
       "blocks": [
@@ -810,8 +865,10 @@
           "text": "Based on the above, how is B related to X if 'B % C ? O € P = X'?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Mother's mother",
         "Mother",
@@ -839,12 +896,13 @@
         "opts_bottom": 766.56,
         "ans_top": 768.9599999999999,
         "ans_page": 7
-      }
+      },
+      "qkey": "88c3555abab60d1d"
     },
     {
       "n": 17,
       "section": "reasoning",
-      "topic": "Seating Arrangement & Direction",
+      "topic": "Ranking & Order",
       "render_mode": "text",
       "stem": "Criteria to be selected as an Office Clerk in an organization (as on 01-01-2024):\nMust be a graduate in any discipline with at least 60% marks.\nAge must be between 21 and 28 years.\nMust have basic computer knowledge certificate.\nMust have at least 1 year of office experience.\nSpecial Condition:\nIf the candidate fulfills all conditions except experience, but has scored 70% in graduation, refer to Senior HR.\nCase:\nRavi is 24 years old and holds a B.A. degree with 70% marks. He has a computer certificate but no office experience.\nWhat should be done in Ravi's case?",
       "blocks": [
@@ -889,8 +947,10 @@
           "text": "What should be done in Ravi's case?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Reject the candidate",
         "Select the candidate",
@@ -918,12 +978,13 @@
         "opts_bottom": 358.20399999999995,
         "ans_top": 362.0439999999999,
         "ans_page": 8
-      }
+      },
+      "qkey": "8b81fa2408e93617"
     },
     {
       "n": 18,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Classification (odd one out)",
       "render_mode": "text",
       "stem": "Four numbers are given below, in which three of them follow the same logic, find the different number and mark it as an answer.",
       "blocks": [
@@ -932,8 +993,10 @@
           "text": "Four numbers are given below, in which three of them follow the same logic, find the different number and mark it as an answer."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "91",
         "217",
@@ -961,12 +1024,13 @@
         "opts_bottom": 484.4839999999999,
         "ans_top": 488.08399999999995,
         "ans_page": 8
-      }
+      },
+      "qkey": "b74c65016366aa03"
     },
     {
       "n": 19,
       "section": "reasoning",
-      "topic": "Master Address Matching",
+      "topic": "Address Matching",
       "render_mode": "text",
       "stem": "You are given a Master Address (MA) from official records. Your task is to identify the correct candidate address that matches exactly with the master address in terms of formatting, punctuation, spelling, and structure.\nMaster Address (MA): Gate No. 5, IT Park, Phase IV, Electronic City, Bengaluru - 560100\nCandidate Addresses:",
       "blocks": [
@@ -983,8 +1047,10 @@
           "text": "Candidate Addresses"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Gate No. 5, IT Park, Phase 4, Electronic City, Bengaluru - 560100",
         "Gate No 5, IT Park, Phase IV, Electronic City, Bengaluru - 560100",
@@ -1012,12 +1078,13 @@
         "opts_bottom": 657.814,
         "ans_top": 661.654,
         "ans_page": 8
-      }
+      },
+      "qkey": "85e73180394f04b9"
     },
     {
       "n": 20,
       "section": "reasoning",
-      "topic": "Statement & Assumption / Argument",
+      "topic": "Statement & Conclusion",
       "render_mode": "text",
       "stem": "Read the following statement carefully and identify the inference that follows.\nStatement:\nThe government has announced a new tax policy that will increase taxes on luxury goods.\nInference:\nI. The government wants to discourage people from buying luxury goods.\nII. The government wants to generate more revenue through taxes.\nIII. The government is trying to address income inequality by targeting luxury goods.",
       "blocks": [
@@ -1053,8 +1120,10 @@
           "text": "The government is trying to address income inequality by targeting luxury goods."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "If only I follows",
         "If only II follows",
@@ -1082,12 +1151,13 @@
         "opts_bottom": 152.71399999999994,
         "ans_top": 156.07399999999996,
         "ans_page": 9
-      }
+      },
+      "qkey": "5e50ea03b47af536"
     },
     {
       "n": 21,
       "section": "reasoning",
-      "topic": "Data Interpretation & Statistics",
+      "topic": "Matrix",
       "render_mode": "image_stem",
       "stem": "Find code for LEARN\nMatrix-I:\n0 1 2 3 4\n0 M A T H S\n1 S C I E N\n2 C E S T R\n3 B O O K S\n4 L P K R N\nMatrix-II:\n5 6 7 8 9\n5 P Q A S T\n6 U V E X Y\n7 Z A B C D\n8 E F G H I\nTwo matrices are provided: Matrix I uses row and column numbers 0 to 4. Matrix II uses row and column numbers 5 to 9. A letter is represented by row number, column number (for example, 23 means row 2, column 3 in Matrix I; 66 means row 6, column 6 in Matrix II). From the matrices, find the row-column codes for each letter in LEARN in sequence, and select the correct option from the given alternatives.",
       "blocks": [
@@ -1152,8 +1222,61 @@
           "text": "Two matrices are provided: Matrix I uses row and column numbers 0 to 4. Matrix II uses row and column numbers 5 to 9. A letter is represented by row number, column number (for example, 23 means row 2, column 3 in Matrix I; 66 means row 6, column 6 in Matrix II). From the matrices, find the row-column codes for each letter in LEARN in sequence, and select the correct option from the given alternatives."
         }
       ],
+      "table": {
+        "headers": [
+          "",
+          "0",
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "rows": [
+          [
+            "0",
+            "M",
+            "A",
+            "T",
+            "H",
+            "S"
+          ],
+          [
+            "1",
+            "S",
+            "C",
+            "I",
+            "E",
+            "N"
+          ],
+          [
+            "2",
+            "C",
+            "E",
+            "S",
+            "T",
+            "R"
+          ],
+          [
+            "3",
+            "B",
+            "O",
+            "O",
+            "K",
+            "S"
+          ],
+          [
+            "4",
+            "L",
+            "P",
+            "K",
+            "R",
+            "N"
+          ]
+        ]
+      },
       "stem_image": "img/ssc-cgl-2026-10-01/q021_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-01/q021_orig.webp",
       "options": [
         "40,67,57,42,44",
         "41,40,42,43,44",
@@ -1181,12 +1304,13 @@
         "opts_bottom": 523.8439999999999,
         "ans_top": 526.9639999999999,
         "ans_page": 9
-      }
+      },
+      "qkey": "61cad0a47bc6fd08"
     },
     {
       "n": 22,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Number Series",
       "render_mode": "text",
       "stem": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nVV, QP, LJ, GD, BX, ?, RL, MF",
       "blocks": [
@@ -1199,8 +1323,10 @@
           "text": "VV, QP, LJ, GD, BX, ?, RL, MF"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "ZP",
         "WR",
@@ -1228,12 +1354,13 @@
         "opts_bottom": 660.454,
         "ans_top": 663.574,
         "ans_page": 9
-      }
+      },
+      "qkey": "0a2e50077862fca9"
     },
     {
       "n": 23,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Address Matching",
       "render_mode": "text",
       "stem": "Select the option exactly similar to: P.O. Box 789, Attn: Billing Dept., 100 Main Ave., City, CA 90210",
       "blocks": [
@@ -1242,8 +1369,10 @@
           "text": "Select the option exactly similar to: P.O. Box 789, Attn: Billing Dept., 100 Main Ave., City, CA 90210"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "PO Box 789, Attn: Billing Dept., 100 Main Ave., City, CA 90210",
         "P.O. Box 789, Attn: Billing Dept., 100 Main Ave., City, CA 90210",
@@ -1271,12 +1400,13 @@
         "opts_bottom": 766.8,
         "ans_top": 769.92,
         "ans_page": 9
-      }
+      },
+      "qkey": "5983d0e38d1ef368"
     },
     {
       "n": 24,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Figure Series",
       "render_mode": "image_full",
       "stem": "Two figures given on the left side of (::) are related with some logic/rule/relation. Select the missing figure on the right side of (::) from the given alternatives based on the same logic/rule/relation.",
       "blocks": [
@@ -1285,8 +1415,10 @@
           "text": "Two figures given on the left side of (::) are related with some logic/rule/relation. Select the missing figure on the right side of (::) from the given alternatives based on the same logic/rule/relation."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": "img/ssc-cgl-2026-10-01/q024_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-01/q024_orig.webp",
       "options": [
         "A",
         "B",
@@ -1301,9 +1433,11 @@
       ],
       "answer": 0,
       "passage_id": null,
-      "confidence": 0.95,
-      "warnings": [],
-      "duplicate_of": null,
+      "confidence": 0.85,
+      "warnings": [
+        "Empty option text found for Q24"
+      ],
+      "duplicate_of": "ssc-cgl-2026-10-01:13",
       "_bbox": {
         "page": 10,
         "min_page": 10,
@@ -1314,12 +1448,13 @@
         "opts_bottom": 440.304,
         "ans_top": 442.94399999999996,
         "ans_page": 10
-      }
+      },
+      "qkey": "98a678e9152eb277"
     },
     {
       "n": 25,
       "section": "reasoning",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "A shopkeeper bought 15 dozens of eggs at ₹50 per dozen. He sold 10 dozens at ₹60 per dozen and the remaining eggs at ₹45 per dozen. What is his total profit or loss?",
       "blocks": [
@@ -1328,8 +1463,10 @@
           "text": "A shopkeeper bought 15 dozens of eggs at ₹50 per dozen. He sold 10 dozens at ₹60 per dozen and the remaining eggs at ₹45 per dozen. What is his total profit or loss?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹50 Profit",
         "₹75 Profit",
@@ -1357,12 +1494,13 @@
         "opts_bottom": 559.394,
         "ans_top": 562.2739999999999,
         "ans_page": 10
-      }
+      },
+      "qkey": "64a6cf119b7675f2"
     },
     {
       "n": 26,
       "section": "general_awareness",
-      "topic": "Time, Speed & Distance",
+      "topic": "Awards & Books",
       "render_mode": "text",
       "stem": "The novel ‘Train to Pakistan’ was written by ______.",
       "blocks": [
@@ -1371,8 +1509,10 @@
           "text": "The novel ‘Train to Pakistan’ was written by ______."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Khushwant Singh",
         "Nawaz Sharif",
@@ -1400,12 +1540,13 @@
         "opts_bottom": 663.574,
         "ans_top": 666.454,
         "ans_page": 10
-      }
+      },
+      "qkey": "e9951cf97c52453e"
     },
     {
       "n": 27,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which company launched the market-linked savings plan ‘Promise4Wealth’ in April 2026?",
       "blocks": [
@@ -1414,8 +1555,10 @@
           "text": "Which company launched the market-linked savings plan ‘Promise4Wealth’ in April 2026?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "LIC of India",
         "HDFC Life Insurance",
@@ -1443,12 +1586,13 @@
         "opts_bottom": 767.76,
         "ans_top": 770.64,
         "ans_page": 10
-      }
+      },
+      "qkey": "155a02cafb7ca688"
     },
     {
       "n": 28,
       "section": "general_awareness",
-      "topic": "Current Affairs & Sports",
+      "topic": "Current Affairs",
       "render_mode": "text",
       "stem": "At which location will the 2026 BRICS Summit be held?",
       "blocks": [
@@ -1457,8 +1601,10 @@
           "text": "At which location will the 2026 BRICS Summit be held?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "New Delhi",
         "Moscow",
@@ -1486,12 +1632,13 @@
         "opts_bottom": 179.59399999999994,
         "ans_top": 182.23399999999992,
         "ans_page": 11
-      }
+      },
+      "qkey": "79a59ad705d0c042"
     },
     {
       "n": 29,
       "section": "general_awareness",
-      "topic": "Economy & Government Schemes",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Who among the following was the deputy chairman of Planning Commission under the tenth five year plan?",
       "blocks": [
@@ -1500,8 +1647,10 @@
           "text": "Who among the following was the deputy chairman of Planning Commission under the tenth five year plan?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Shankarrao Chavan",
         "K.C. Pant",
@@ -1529,12 +1678,13 @@
         "opts_bottom": 295.56399999999996,
         "ans_top": 297.96399999999994,
         "ans_page": 11
-      }
+      },
+      "qkey": "79735990246b35aa"
     },
     {
       "n": 30,
       "section": "general_awareness",
-      "topic": "Trigonometry",
+      "topic": "Geography",
       "render_mode": "text",
       "stem": "Consider the following statements regarding the strategic objectives and features of IMEC:\n1. IMEC is both an economic and political project linking Asia, the Gulf, and Europe.\n2. IMEC cuts transport time and cost to Europe by 20% and 15% via maritime routes.\nWhich of the above statements is/are correct?",
       "blocks": [
@@ -1557,8 +1707,10 @@
           "text": "Which of the above statements is/are correct?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only 1 is correct",
         "Only 2 is correct",
@@ -1586,12 +1738,13 @@
         "opts_bottom": 440.304,
         "ans_top": 442.94399999999996,
         "ans_page": 11
-      }
+      },
+      "qkey": "563c82bcfae04872"
     },
     {
       "n": 31,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "Which of the following falls under the Supreme Court’s original jurisdiction, according to the Constitution of India (Article 131)?",
       "blocks": [
@@ -1600,8 +1753,10 @@
           "text": "Which of the following falls under the Supreme Court’s original jurisdiction, according to the Constitution of India (Article 131)?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Disputes between States or between a State and the Union",
         "Election petitions against sitting Members of Parliament",
@@ -1629,12 +1784,13 @@
         "opts_bottom": 556.2739999999999,
         "ans_top": 558.674,
         "ans_page": 11
-      }
+      },
+      "qkey": "6e2143c29360d73f"
     },
     {
       "n": 32,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "In which city was the grand finale of the 61st Femina Miss India World 2026 held?",
       "blocks": [
@@ -1643,8 +1799,10 @@
           "text": "In which city was the grand finale of the 61st Femina Miss India World 2026 held?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Mumbai",
         "Panaji",
@@ -1672,12 +1830,13 @@
         "opts_bottom": 657.574,
         "ans_top": 659.9739999999999,
         "ans_page": 11
-      }
+      },
+      "qkey": "fe79337be01f4634"
     },
     {
       "n": 33,
       "section": "general_awareness",
-      "topic": "Current Affairs & Sports",
+      "topic": "Sports",
       "render_mode": "text",
       "stem": "Who became the first Indian woman scientist to receive the COSPAR Vikram Sarabhai Medal in 2026?",
       "blocks": [
@@ -1686,8 +1845,10 @@
           "text": "Who became the first Indian woman scientist to receive the COSPAR Vikram Sarabhai Medal in 2026?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Gagandeep Kang",
         "Tessy Thomas",
@@ -1715,12 +1876,13 @@
         "opts_bottom": 773.52,
         "ans_top": 775.92,
         "ans_page": 11
-      }
+      },
+      "qkey": "11c41b4443ff1fcd"
     },
     {
       "n": 34,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Current Affairs",
       "render_mode": "text",
       "stem": "What is the primary function of the Solar Wind lon Spectrometer (SWIS), included in the ASPEX payload on Aditya-L1?",
       "blocks": [
@@ -1729,8 +1891,10 @@
           "text": "What is the primary function of the Solar Wind lon Spectrometer (SWIS), included in the ASPEX payload on Aditya-L1?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Records UV imagery of solar flare activity",
         "Monitors tremors and vibrations on the solar surface",
@@ -1758,12 +1922,13 @@
         "opts_bottom": 195.914,
         "ans_top": 198.57399999999996,
         "ans_page": 12
-      }
+      },
+      "qkey": "6ff53754d3c87a09"
     },
     {
       "n": 35,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "Consider the following statements.\n1. Article 13 provides for judicial review of both pre-constitutional and postconstitutional laws.\n2. Article 13 declares that all laws inconsistent with or in derogation of the Fundamental Rights shall be null and void. Which of the above statements is/are correct?",
       "blocks": [
@@ -1782,8 +1947,10 @@
           "text": "Article 13 declares that all laws inconsistent with or in derogation of the Fundamental Rights shall be null and void. Which of the above statements is/are correct?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Neither 1 nor 2",
         "Both 1 and 2",
@@ -1811,12 +1978,13 @@
         "opts_bottom": 343.56399999999996,
         "ans_top": 346.44399999999996,
         "ans_page": 12
-      }
+      },
+      "qkey": "0329d4fc24e4b28e"
     },
     {
       "n": 36,
       "section": "general_awareness",
-      "topic": "Indian History & Culture",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "During which period were the Puranas mainly composed?",
       "blocks": [
@@ -1825,8 +1993,10 @@
           "text": "During which period were the Puranas mainly composed?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Vedic Period",
         "Gupta Period",
@@ -1854,12 +2024,13 @@
         "opts_bottom": 447.02399999999994,
         "ans_top": 449.9239999999999,
         "ans_page": 12
-      }
+      },
+      "qkey": "85761132962b86ee"
     },
     {
       "n": 37,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "Which of the following types of emergencies is declared under Article 360 of the Indian Constitution?",
       "blocks": [
@@ -1868,8 +2039,10 @@
           "text": "Which of the following types of emergencies is declared under Article 360 of the Indian Constitution?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "State Emergency",
         "Financial Emergency",
@@ -1897,12 +2070,13 @@
         "opts_bottom": 565.394,
         "ans_top": 568.0339999999999,
         "ans_page": 12
-      }
+      },
+      "qkey": "fe7564191b4909c1"
     },
     {
       "n": 38,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Among the following cities, which is closest to the Prime Meridian?",
       "blocks": [
@@ -1911,8 +2085,10 @@
           "text": "Among the following cities, which is closest to the Prime Meridian?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Ahmedabad",
         "Agartala",
@@ -1940,12 +2116,13 @@
         "opts_bottom": 668.6139999999999,
         "ans_top": 671.4939999999999,
         "ans_page": 12
-      }
+      },
+      "qkey": "be189e4850aa0927"
     },
     {
       "n": 39,
       "section": "general_awareness",
-      "topic": "Current Affairs & Sports",
+      "topic": "Sports",
       "render_mode": "text",
       "stem": "Who was the first Indian to win a Grand Slam title in tennis?",
       "blocks": [
@@ -1954,8 +2131,10 @@
           "text": "Who was the first Indian to win a Grand Slam title in tennis?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Ramanathan Krishnan",
         "Leander Paes",
@@ -1983,12 +2162,13 @@
         "opts_bottom": 772.0799999999999,
         "ans_top": 774.9599999999999,
         "ans_page": 12
-      }
+      },
+      "qkey": "308917f3a6c9d5ae"
     },
     {
       "n": 40,
       "section": "general_awareness",
-      "topic": "Economy & Government Schemes",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "In which of the following ways has the private sector contributed to India's industrial growth and global expansion since the economic reforms of 1991?",
       "blocks": [
@@ -1997,8 +2177,10 @@
           "text": "In which of the following ways has the private sector contributed to India's industrial growth and global expansion since the economic reforms of 1991?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Relying solely on government subsidies for expansion",
         "Aggressively pursuing global acquisitions and enhancing industrial growth",
@@ -2026,12 +2208,13 @@
         "opts_bottom": 196.3939999999999,
         "ans_top": 199.29399999999998,
         "ans_page": 13
-      }
+      },
+      "qkey": "4a5a5b0843408a5d"
     },
     {
       "n": 41,
       "section": "general_awareness",
-      "topic": "Mathematical Operations",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "The \"IMEC\" initiative launched during global economic diplomacy stands for:",
       "blocks": [
@@ -2040,8 +2223,10 @@
           "text": "The \"IMEC\" initiative launched during global economic diplomacy stands for:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "India-Mediterranean Economic Corridor",
         "India-Middle East-Europe Economic Corridor",
@@ -2069,12 +2254,13 @@
         "opts_bottom": 300.84399999999994,
         "ans_top": 303.72399999999993,
         "ans_page": 13
-      }
+      },
+      "qkey": "e58d17f4b2a8fd87"
     },
     {
       "n": 42,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "“Mission Indradhanush” is a flagship health program of the Government of India related to what?",
       "blocks": [
@@ -2083,8 +2269,10 @@
           "text": "“Mission Indradhanush” is a flagship health program of the Government of India related to what?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Vaccination of children and pregnant women",
         "Providing iron tablets to school girls",
@@ -2112,12 +2300,13 @@
         "opts_bottom": 405.02399999999994,
         "ans_top": 407.90399999999994,
         "ans_page": 13
-      }
+      },
+      "qkey": "667f0448e52f3d78"
     },
     {
       "n": 43,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Current Affairs",
       "render_mode": "text",
       "stem": "Which of the following statements is correct regarding the Chandrayaan-1 mission?\nI. It was the first lunar mission of India.\nII. It confirmed the presence of water on the Moon.",
       "blocks": [
@@ -2136,8 +2325,10 @@
           "text": "It confirmed the presence of water on the Moon."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Only I",
         "Only II",
@@ -2165,12 +2356,13 @@
         "opts_bottom": 538.9639999999999,
         "ans_top": 541.874,
         "ans_page": 13
-      }
+      },
+      "qkey": "476775f1cc3e7e28"
     },
     {
       "n": 44,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "Which Article allows constitutional remedies for enforcement of Fundamental Rights by courts?",
       "blocks": [
@@ -2179,8 +2371,10 @@
           "text": "Which Article allows constitutional remedies for enforcement of Fundamental Rights by courts?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Article 226",
         "Article 300",
@@ -2208,12 +2402,13 @@
         "opts_bottom": 643.174,
         "ans_top": 646.294,
         "ans_page": 13
-      }
+      },
+      "qkey": "902209f7d1a553eb"
     },
     {
       "n": 45,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "The Ministry of Panchayati Raj (MoPR) launched the 'DAANVEER' initiative in July 2026 with the primary objective of:",
       "blocks": [
@@ -2222,8 +2417,10 @@
           "text": "The Ministry of Panchayati Raj (MoPR) launched the 'DAANVEER' initiative in July 2026 with the primary objective of:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Providing financial assistance to Gram Panchayats",
         "Promoting organic farming in villages",
@@ -2251,12 +2448,13 @@
         "opts_bottom": 762.48,
         "ans_top": 765.3599999999999,
         "ans_page": 13
-      }
+      },
+      "qkey": "ee3f35a502ab29d7"
     },
     {
       "n": 46,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Chapchar Kut, one of the oldest and most significant festivals, is celebrated in which Indian state?",
       "blocks": [
@@ -2265,8 +2463,10 @@
           "text": "Chapchar Kut, one of the oldest and most significant festivals, is celebrated in which Indian state?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Meghalaya",
         "Manipur",
@@ -2294,12 +2494,13 @@
         "opts_bottom": 181.7539999999999,
         "ans_top": 184.6339999999999,
         "ans_page": 14
-      }
+      },
+      "qkey": "49ed0d0b7a388442"
     },
     {
       "n": 47,
       "section": "general_awareness",
-      "topic": "Economy & Government Schemes",
+      "topic": "Economy",
       "render_mode": "text",
       "stem": "Which of the following correctly represents the adjustments needed to move from GDP (Gross Domestic Product) at market prices to NNP (Net National Product) at factor cost?",
       "blocks": [
@@ -2308,8 +2509,10 @@
           "text": "Which of the following correctly represents the adjustments needed to move from GDP (Gross Domestic Product) at market prices to NNP (Net National Product) at factor cost?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Subtract net factor income from abroad, add depreciation, and add subsidies",
         "Subtract net exports, then add depreciation, then subtract indirect taxes",
@@ -2337,12 +2540,13 @@
         "opts_bottom": 300.84399999999994,
         "ans_top": 303.72399999999993,
         "ans_page": 14
-      }
+      },
+      "qkey": "c71906026d4f8790"
     },
     {
       "n": 48,
       "section": "general_awareness",
-      "topic": "Current Affairs & Sports",
+      "topic": "Current Affairs",
       "render_mode": "text",
       "stem": "What is the significance of ISRO's upcoming GSLV-F15 NVS-02 mission?",
       "blocks": [
@@ -2351,8 +2555,10 @@
           "text": "What is the significance of ISRO's upcoming GSLV-F15 NVS-02 mission?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "First satellite launch by ISRO",
         "Launch of the 100th satellite by ISRO",
@@ -2380,12 +2586,13 @@
         "opts_bottom": 405.02399999999994,
         "ans_top": 407.90399999999994,
         "ans_page": 14
-      }
+      },
+      "qkey": "547f5eab93fed884"
     },
     {
       "n": 49,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Who ordered the compilation of the Fatawa-i-Alamgiri, a famous Islamic law code?",
       "blocks": [
@@ -2394,8 +2601,10 @@
           "text": "Who ordered the compilation of the Fatawa-i-Alamgiri, a famous Islamic law code?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Akbar",
         "Aurangzeb",
@@ -2423,12 +2632,13 @@
         "opts_bottom": 509.44399999999996,
         "ans_top": 512.324,
         "ans_page": 14
-      }
+      },
+      "qkey": "787d0e9a9aae65b5"
     },
     {
       "n": 50,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "Article 243ZI of the Indian Constitution empowers the State Legislature to make laws regarding co-operative societies. Which principle is NOT included in its scope?",
       "blocks": [
@@ -2437,8 +2647,10 @@
           "text": "Article 243ZI of the Indian Constitution empowers the State Legislature to make laws regarding co-operative societies. Which principle is NOT included in its scope?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Democratic member control",
         "Autonomous functioning",
@@ -2466,12 +2678,13 @@
         "opts_bottom": 628.5339999999999,
         "ans_top": 631.414,
         "ans_page": 14
-      }
+      },
+      "qkey": "d5c9a0e0bcde5d24"
     },
     {
       "n": 51,
       "section": "quantitative_aptitude",
-      "topic": "Time, Speed & Distance",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "The lengths of a common external tangent and a common internal tangent to two circles are 8 cm and 6 cm, respectively. If the distance between their centers is 10 cm, what are the radii of the two circles?",
       "blocks": [
@@ -2480,8 +2693,10 @@
           "text": "The lengths of a common external tangent and a common internal tangent to two circles are 8 cm and 6 cm, respectively. If the distance between their centers is 10 cm, what are the radii of the two circles?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "10 cm and 4 cm",
         "8 cm and 6 cm",
@@ -2509,7 +2724,8 @@
         "opts_bottom": 762.48,
         "ans_top": 765.3599999999999,
         "ans_page": 14
-      }
+      },
+      "qkey": "4ec87a3951b029ff"
     },
     {
       "n": 52,
@@ -2531,8 +2747,10 @@
           "text": "13 cos 2 𝑥"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-01/q052_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-01/q052_orig.webp",
       "options": [
         "117/36",
         "91/35",
@@ -2560,12 +2778,13 @@
         "opts_bottom": 189.19399999999996,
         "ans_top": 192.07399999999996,
         "ans_page": 15
-      }
+      },
+      "qkey": "c38837836100696d"
     },
     {
       "n": 53,
       "section": "quantitative_aptitude",
-      "topic": "Trigonometry",
+      "topic": "Number System",
       "render_mode": "image_stem",
       "stem": "√1+sin4𝜃\nQ53. Find the value of √1−sin4𝜃",
       "blocks": [
@@ -2578,8 +2797,10 @@
           "text": "Q53. Find the value of √1−sin4𝜃"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-01/q053_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-01/q053_orig.webp",
       "options": [
         "tan 4θ + cot 4θ",
         "-sec 4θ + tan 4θ",
@@ -2607,12 +2828,13 @@
         "opts_bottom": 302.284,
         "ans_top": 304.924,
         "ans_page": 15
-      }
+      },
+      "qkey": "00031f6d21d90997"
     },
     {
       "n": 54,
       "section": "quantitative_aptitude",
-      "topic": "Algebra & Number System",
+      "topic": "Algebra",
       "render_mode": "text",
       "stem": "If a + b = 3 and ab = 1, find the value of a⁴ - b⁴.",
       "blocks": [
@@ -2621,8 +2843,10 @@
           "text": "If a + b = 3 and ab = 1, find the value of a⁴ - b⁴."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "15 √5",
         "20",
@@ -2650,12 +2874,13 @@
         "opts_bottom": 409.34399999999994,
         "ans_top": 411.9839999999999,
         "ans_page": 15
-      }
+      },
+      "qkey": "e24924c760ca57da"
     },
     {
       "n": 55,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "image_stem",
       "stem": "(𝑥+𝑦) 3 +(𝑦+𝑧) 3 +(𝑧+𝑥) 3 −3(𝑥+𝑦)(𝑦+𝑧)(𝑧+𝑥)\nQ55. Simplify:\n𝑥 3 +𝑦 3 +𝑧 3 −3𝑥𝑦𝑧",
       "blocks": [
@@ -2672,8 +2897,10 @@
           "text": "𝑥 3 +𝑦 3 +𝑧 3 −3𝑥𝑦𝑧"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-01/q055_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-01/q055_orig.webp",
       "options": [
         "4",
         "2",
@@ -2701,12 +2928,13 @@
         "opts_bottom": 522.404,
         "ans_top": 525.2839999999999,
         "ans_page": 15
-      }
+      },
+      "qkey": "98ffe4f7b757474d"
     },
     {
       "n": 56,
       "section": "quantitative_aptitude",
-      "topic": "Data Interpretation & Statistics",
+      "topic": "Data Interpretation",
       "render_mode": "image_stem",
       "stem": "Study the given table and answer the questions.\nThe table presents the production of vegetable oil (in lakh tonnes) by five factories from the year 1990 to 1994.\nS.No Factory 1990 1991 1992 1993 1994\ni Almond 9.0 10.7 8.9 11.6 8.4\nii Coco-Queen 14.5 16.3 16.2 16.4 16.7\niii Nut-Megalo 14.9 15.7 16.8 16.9 17.8\niv Vegeol 7.6 8.4 7.4 7.9 8.7\nv Appella 21.0 22.6 23.1 22.2 23.9\nDuring which year was the total annual production of all five factories together the highest?",
       "blocks": [
@@ -2747,8 +2975,67 @@
           "text": "During which year was the total annual production of all five factories together the highest?"
         }
       ],
+      "table": {
+        "headers": [
+          "S.No",
+          "Factory",
+          "1990",
+          "1991",
+          "1992",
+          "1993",
+          "1994"
+        ],
+        "rows": [
+          [
+            "i",
+            "Almond",
+            "9.0",
+            "10.7",
+            "8.9",
+            "11.6",
+            "8.4"
+          ],
+          [
+            "ii",
+            "Coco-Queen",
+            "14.5",
+            "16.3",
+            "16.2",
+            "16.4",
+            "16.7"
+          ],
+          [
+            "iii",
+            "Nut-Megalo",
+            "14.9",
+            "15.7",
+            "16.8",
+            "16.9",
+            "17.8"
+          ],
+          [
+            "iv",
+            "Vegeol",
+            "7.6",
+            "8.4",
+            "7.4",
+            "7.9",
+            "8.7"
+          ],
+          [
+            "v",
+            "Appella",
+            "21.0",
+            "22.6",
+            "23.1",
+            "22.2",
+            "23.9"
+          ]
+        ]
+      },
       "stem_image": "img/ssc-cgl-2026-10-01/q056_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-01/q056_orig.webp",
       "options": [
         "1993",
         "1994",
@@ -2776,12 +3063,13 @@
         "opts_bottom": 762.48,
         "ans_top": 765.12,
         "ans_page": 15
-      }
+      },
+      "qkey": "0d0f57bf2325f029"
     },
     {
       "n": 57,
       "section": "quantitative_aptitude",
-      "topic": "Trigonometry",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "X, Y, and Z can complete a piece of work alone in 22, 40, and 110 days respectively. If X and Y work together on the first day, and then X and Z work together on the second day, and the same pattern repeats alternately, in how much time would the work be completed?",
       "blocks": [
@@ -2790,8 +3078,10 @@
           "text": "X, Y, and Z can complete a piece of work alone in 22, 40, and 110 days respectively. If X and Y work together on the first day, and then X and Z work together on the second day, and the same pattern repeats alternately, in how much time would the work be completed?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "12 days",
         "16 days",
@@ -2819,12 +3109,13 @@
         "opts_bottom": 205.7539999999999,
         "ans_top": 207.69399999999996,
         "ans_page": 16
-      }
+      },
+      "qkey": "c0a07b019833a53a"
     },
     {
       "n": 58,
       "section": "quantitative_aptitude",
-      "topic": "Time & Work / Pipes & Cisterns",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "A circular pipe has an external diameter of 42 cm and an internal diameter of 36\ncm. Find the area of the cross-section of the pipe.",
       "blocks": [
@@ -2837,8 +3128,10 @@
           "text": "cm. Find the area of the cross-section of the pipe."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "367.57 cm²",
         "385.12 cm²",
@@ -2866,12 +3159,13 @@
         "opts_bottom": 318.3639999999999,
         "ans_top": 320.284,
         "ans_page": 16
-      }
+      },
+      "qkey": "2ad86a2a11c7f8ef"
     },
     {
       "n": 59,
       "section": "quantitative_aptitude",
-      "topic": "Geometry & Mensuration",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "The base of a right prism is a triangle with sides 14 cm, 48 cm, and 50\ncm. If the height of the prism is 5 cm, find the volume of the prism.",
       "blocks": [
@@ -2884,8 +3178,10 @@
           "text": "cm. If the height of the prism is 5 cm, find the volume of the prism."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1900 cm³",
         "1760 cm³",
@@ -2913,7 +3209,8 @@
         "opts_bottom": 430.70399999999995,
         "ans_top": 432.8639999999999,
         "ans_page": 16
-      }
+      },
+      "qkey": "def3b4b43d47f3c4"
     },
     {
       "n": 60,
@@ -2927,8 +3224,10 @@
           "text": "If sin θ + cos θ = √2, where 0° < θ < 90°, find the value of sin 4 𝜃+cos 4 𝜃."
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-01/q060_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-01/q060_orig.webp",
       "options": [
         "1/2",
         "1/4",
@@ -2956,12 +3255,13 @@
         "opts_bottom": 529.3639999999999,
         "ans_top": 531.554,
         "ans_page": 16
-      }
+      },
+      "qkey": "5e139f9b78ee80de"
     },
     {
       "n": 61,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Profit & Loss",
       "render_mode": "text",
       "stem": "A dealer buys an article at a discount of 25% on its list price and marks it at 35% above the list price. If he allows a discount of 20% on the new marked price, find his profit percent.",
       "blocks": [
@@ -2970,8 +3270,10 @@
           "text": "A dealer buys an article at a discount of 25% on its list price and marks it at 35% above the list price. If he allows a discount of 20% on the new marked price, find his profit percent."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "44%",
         "34%",
@@ -2999,12 +3301,13 @@
         "opts_bottom": 641.9739999999999,
         "ans_top": 644.134,
         "ans_page": 16
-      }
+      },
+      "qkey": "cc8a31b8809cf62a"
     },
     {
       "n": 62,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "Two containers of equal capacity are each filled with a milk-water mixture. In the first container, the ratio of milk to water is 3:2, while in the second container the ratio is 4:1. If the contents of both containers are combined thoroughly in a larger vessel, what will be the resulting ratio of milk to water in the final mixture?",
       "blocks": [
@@ -3013,8 +3316,10 @@
           "text": "Two containers of equal capacity are each filled with a milk-water mixture. In the first container, the ratio of milk to water is 3:2, while in the second container the ratio is 4:1. If the contents of both containers are combined thoroughly in a larger vessel, what will be the resulting ratio of milk to water in the final mixture?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "7:3",
         "31:19",
@@ -3042,12 +3347,13 @@
         "opts_bottom": 782.64,
         "ans_top": 95.08399999999995,
         "ans_page": 17
-      }
+      },
+      "qkey": "53e462d18c87a2cb"
     },
     {
       "n": 63,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "In a partnership, A and B invest in the ratio 4:5. If the total profit is Rs. 1, 10,000, how much profit does A get?",
       "blocks": [
@@ -3056,8 +3362,10 @@
           "text": "In a partnership, A and B invest in the ratio 4:5. If the total profit is Rs. 1, 10,000, how much profit does A get?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Rs. 44,000",
         "Rs. 52,678",
@@ -3085,12 +3393,13 @@
         "opts_bottom": 218.49399999999991,
         "ans_top": 222.57399999999996,
         "ans_page": 17
-      }
+      },
+      "qkey": "d6cc3ba223f8f3b3"
     },
     {
       "n": 64,
       "section": "quantitative_aptitude",
-      "topic": "Time & Work / Pipes & Cisterns",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "X alone can do a work in 15 days. Y alone can do the same work in 20 days. Z alone can do the same work in 30 days. All three together completed the work. Wages received by X out of total wages received by X,Y and Z are Rs. 6000. What are total wages (in Rs.) received by Y and Z?",
       "blocks": [
@@ -3099,8 +3408,10 @@
           "text": "X alone can do a work in 15 days. Y alone can do the same work in 20 days. Z alone can do the same work in 30 days. All three together completed the work. Wages received by X out of total wages received by X,Y and Z are Rs. 6000. What are total wages (in Rs.) received by Y and Z?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "7000",
         "7200",
@@ -3128,7 +3439,8 @@
         "opts_bottom": 363.96399999999994,
         "ans_top": 368.304,
         "ans_page": 17
-      }
+      },
+      "qkey": "2fe422b0bfb88fd3"
     },
     {
       "n": 65,
@@ -3142,8 +3454,10 @@
           "text": "A sum of money amounts to ₹12,000 in 5 years and ₹14,400 in 9 years at simple interest. What is the principal?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹8,000",
         "₹9,000",
@@ -3171,12 +3485,13 @@
         "opts_bottom": 493.6039999999999,
         "ans_top": 497.68399999999997,
         "ans_page": 17
-      }
+      },
+      "qkey": "26f192d24f5969d2"
     },
     {
       "n": 66,
       "section": "quantitative_aptitude",
-      "topic": "Geometry & Mensuration",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "Two circles with centres O and O′, with radii 6 cm and 8 cm, respectively, intersect at two points A and B. If OA is a tangent to the circle with centre O′ and vice versa, what is the length of the common chord AB?",
       "blocks": [
@@ -3185,8 +3500,10 @@
           "text": "Two circles with centres O and O′, with radii 6 cm and 8 cm, respectively, intersect at two points A and B. If OA is a tangent to the circle with centre O′ and vice versa, what is the length of the common chord AB?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "11.44 cm",
         "9.60 cm",
@@ -3214,12 +3531,13 @@
         "opts_bottom": 639.0939999999999,
         "ans_top": 643.414,
         "ans_page": 17
-      }
+      },
+      "qkey": "290753874b484598"
     },
     {
       "n": 67,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "A batsman typically scores 40 runs in 20 innings. To raise his average by two, how many runs does he need to score in the twenty-first inning?",
       "blocks": [
@@ -3228,8 +3546,10 @@
           "text": "A batsman typically scores 40 runs in 20 innings. To raise his average by two, how many runs does he need to score in the twenty-first inning?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "80",
         "82",
@@ -3257,12 +3577,13 @@
         "opts_bottom": 768.7199999999999,
         "ans_top": 772.8,
         "ans_page": 17
-      }
+      },
+      "qkey": "3891385029bd9bfe"
     },
     {
       "n": 68,
       "section": "quantitative_aptitude",
-      "topic": "Time, Speed & Distance",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "A circular track has a radius of 28\nm. If a sector (the pie-shaped region enclosed by two radii and the arc connecting their endpoints) subtending 90° is to be fenced along its boundary three times at the rate of ₹15 per meter, the total cost of fencing is: (Use π = 22/7)",
       "blocks": [
@@ -3275,8 +3596,10 @@
           "text": "m. If a sector (the pie-shaped region enclosed by two radii and the arc connecting their endpoints) subtending 90° is to be fenced along its boundary three times at the rate of ₹15 per meter, the total cost of fencing is: (Use π = 22/7)"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹4,500",
         "₹5,400",
@@ -3304,12 +3627,13 @@
         "opts_bottom": 222.57399999999996,
         "ans_top": 227.1339999999999,
         "ans_page": 18
-      }
+      },
+      "qkey": "be8234d212890cf1"
     },
     {
       "n": 69,
       "section": "quantitative_aptitude",
-      "topic": "Time & Work / Pipes & Cisterns",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "A cylindrical tank with a radius of 7 cm contains water up to a height of 40\ncm. After a solid spherical ball with a radius of 7 cm is completely submerged in the tank, what will be the new water height?",
       "blocks": [
@@ -3322,8 +3646,10 @@
           "text": "cm. After a solid spherical ball with a radius of 7 cm is completely submerged in the tank, what will be the new water height?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "52.22 cm",
         "46 cm",
@@ -3351,12 +3677,13 @@
         "opts_bottom": 370.9239999999999,
         "ans_top": 375.26399999999995,
         "ans_page": 18
-      }
+      },
+      "qkey": "c919f4ae021e13b7"
     },
     {
       "n": 70,
       "section": "quantitative_aptitude",
-      "topic": "Geometry & Mensuration",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "A solid hemisphere is joined to a solid cylinder of the same base radius by their flat faces. Find the total surface area of the combined solid (including curved and flat surfaces).",
       "blocks": [
@@ -3365,8 +3692,10 @@
           "text": "A solid hemisphere is joined to a solid cylinder of the same base radius by their flat faces. Find the total surface area of the combined solid (including curved and flat surfaces)."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "πr² + πrh",
         "3πr² + 2πrh",
@@ -3394,12 +3723,13 @@
         "opts_bottom": 502.72399999999993,
         "ans_top": 507.0439999999999,
         "ans_page": 18
-      }
+      },
+      "qkey": "0b6ff7f4dfd8c758"
     },
     {
       "n": 71,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Algebra",
       "render_mode": "text",
       "stem": "Arvind bought an article for ₹x. He sold it to Biru at a loss of 20%. Biru spent ₹140 on its transportation and sold it to Minu at a profit of 46%. If Minu bought it for ₹1,752, then what is the value of x?",
       "blocks": [
@@ -3408,8 +3738,10 @@
           "text": "Arvind bought an article for ₹x. He sold it to Biru at a loss of 20%. Biru spent ₹140 on its transportation and sold it to Minu at a profit of 46%. If Minu bought it for ₹1,752, then what is the value of x?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1,356",
         "1,357",
@@ -3437,12 +3769,13 @@
         "opts_bottom": 650.8539999999999,
         "ans_top": 655.414,
         "ans_page": 18
-      }
+      },
+      "qkey": "09fd01a1d27c5303"
     },
     {
       "n": 72,
       "section": "quantitative_aptitude",
-      "topic": "Algebra & Number System",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "If (125x³ - 343y³) ÷ (5x - 7y) = Ax² - By² + Cxy, then find the value of (2A + B - C).",
       "blocks": [
@@ -3451,8 +3784,10 @@
           "text": "If (125x³ - 343y³) ÷ (5x - 7y) = Ax² - By² + Cxy, then find the value of (2A + B - C)."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "-34",
         "-67",
@@ -3480,12 +3815,13 @@
         "opts_bottom": 766.3199999999999,
         "ans_top": 770.88,
         "ans_page": 18
-      }
+      },
+      "qkey": "650a12b5abf66288"
     },
     {
       "n": 73,
       "section": "quantitative_aptitude",
-      "topic": "Time, Speed & Distance",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "In a circle with center O, two parallel chords AB and CD are on opposite sides of the center. If the length of chord AB is 16 cm and chord CD is 12 cm, and the distance between them is 14 cm, find the radius of the circle.",
       "blocks": [
@@ -3494,8 +3830,10 @@
           "text": "In a circle with center O, two parallel chords AB and CD are on opposite sides of the center. If the length of chord AB is 16 cm and chord CD is 12 cm, and the distance between them is 14 cm, find the radius of the circle."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "15 cm",
         "10 cm",
@@ -3523,12 +3861,13 @@
         "opts_bottom": 205.7539999999999,
         "ans_top": 207.69399999999996,
         "ans_page": 19
-      }
+      },
+      "qkey": "116a6d7be64553da"
     },
     {
       "n": 74,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "For which of the following equations is the slope of the line equal to zero?",
       "blocks": [
@@ -3537,8 +3876,10 @@
           "text": "For which of the following equations is the slope of the line equal to zero?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "y = 5x + 2",
         "2y = 8",
@@ -3566,7 +3907,8 @@
         "opts_bottom": 304.20399999999995,
         "ans_top": 306.3639999999999,
         "ans_page": 19
-      }
+      },
+      "qkey": "5a3a50e40f106c36"
     },
     {
       "n": 75,
@@ -3580,8 +3922,10 @@
           "text": "Kaushal travelled for 16 hours 20 minutes at the speed of 90 km/h. At what speed (in km/h) should he travel to cover the same distance in 14 hours?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "104",
         "102",
@@ -3609,7 +3953,8 @@
         "opts_bottom": 416.78399999999993,
         "ans_top": 418.70399999999995,
         "ans_page": 19
-      }
+      },
+      "qkey": "d0d13cf3cbb2cd2e"
     },
     {
       "n": 76,
@@ -3623,8 +3968,10 @@
           "text": "Choose the correct one-word substitute for: ‘A person who is skilled in many areas’."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Autodidact",
         "Dilettante",
@@ -3652,12 +3999,13 @@
         "opts_bottom": 515.204,
         "ans_top": 517.3639999999999,
         "ans_page": 19
-      }
+      },
+      "qkey": "673a45202defa8ff"
     },
     {
       "n": 77,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Which of the following is the correct tense used in the sentence:\n\"Disruption of this process through habitual short sleep has been tentatively linked to elevated long-term risk of cognitive decline.\"?",
       "blocks": [
@@ -3670,8 +4018,10 @@
           "text": "\"Disruption of this process through habitual short sleep has been tentatively linked to elevated long-term risk of cognitive decline.\"?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Simple Past",
         "Present Perfect Passive",
@@ -3699,7 +4049,8 @@
         "opts_bottom": 312.3639999999999,
         "ans_top": 315.96399999999994,
         "ans_page": 20
-      }
+      },
+      "qkey": "db118c87c02a275a"
     },
     {
       "n": 78,
@@ -3713,8 +4064,10 @@
           "text": "Identify the grammatical function of the phrase \"Beyond the well-documented effects on alertness and reaction time\" in the first paragraph."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "A noun clause functioning as the main subject of the sentence.",
         "A relative clause modifying the noun 'evidence'.",
@@ -3742,12 +4095,13 @@
         "opts_bottom": 438.38399999999996,
         "ans_top": 442.22399999999993,
         "ans_page": 20
-      }
+      },
+      "qkey": "93b3705ce9a25637"
     },
     {
       "n": 79,
       "section": "english",
-      "topic": "Geography & Environment",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "What is the meaning of the word \"imperceptibly\" as used in the passage?",
       "blocks": [
@@ -3756,8 +4110,10 @@
           "text": "What is the meaning of the word \"imperceptibly\" as used in the passage?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Rapidly and measurably",
         "Predictably and systematically",
@@ -3785,12 +4141,13 @@
         "opts_bottom": 548.834,
         "ans_top": 552.674,
         "ans_page": 20
-      }
+      },
+      "qkey": "e9b8ac6fd9d66bb0"
     },
     {
       "n": 80,
       "section": "english",
-      "topic": "Vocabulary: Synonyms & Antonyms",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "The word \"valorise\" most nearly means:",
       "blocks": [
@@ -3799,8 +4156,10 @@
           "text": "The word \"valorise\" most nearly means:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Condemn",
         "Elevate in status or worth",
@@ -3828,7 +4187,8 @@
         "opts_bottom": 659.2539999999999,
         "ans_top": 663.0939999999999,
         "ans_page": 20
-      }
+      },
+      "qkey": "4e3cb4467d5df54e"
     },
     {
       "n": 81,
@@ -3842,8 +4202,10 @@
           "text": "According to the passage, what makes prolonged sleep debt particularly treacherous?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "It causes immediate and catastrophic neurological failure.",
         "Individuals become progressively less capable without realising it.",
@@ -3871,12 +4233,13 @@
         "opts_bottom": 769.68,
         "ans_top": 773.52,
         "ans_page": 20
-      }
+      },
+      "qkey": "6366a1af21a7dbf3"
     },
     {
       "n": 82,
       "section": "english",
-      "topic": "Cloze Test & Fill in the Blanks",
+      "topic": "Fill in the Blanks",
       "render_mode": "text",
       "stem": "Choose the most suitable preposition from the given options to fill in the blank in the following sentence:\nWe should always be grateful _____ those who help us.",
       "blocks": [
@@ -3889,8 +4252,10 @@
           "text": "We should always be grateful _____ those who help us."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "with",
         "from",
@@ -3918,12 +4283,13 @@
         "opts_bottom": 225.45399999999995,
         "ans_top": 230.2539999999999,
         "ans_page": 21
-      }
+      },
+      "qkey": "353f57f9e1433b05"
     },
     {
       "n": 83,
       "section": "english",
-      "topic": "Cloze Test & Fill in the Blanks",
+      "topic": "Spelling",
       "render_mode": "text",
       "stem": "Fill in the blank with the correctly spelt word.\nThe scientist was known for her _________ adherence to ethical standards.",
       "blocks": [
@@ -3936,8 +4302,10 @@
           "text": "The scientist was known for her _________ adherence to ethical standards."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "unasssailable",
         "unassailable",
@@ -3965,7 +4333,8 @@
         "opts_bottom": 360.6039999999999,
         "ans_top": 365.4239999999999,
         "ans_page": 21
-      }
+      },
+      "qkey": "0f1b9502d4a38179"
     },
     {
       "n": 84,
@@ -3979,8 +4348,10 @@
           "text": "Convert the sentence provided below from its passive voice structure to an active voice structure: The patients were being monitored closely by the duty nurse."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "The duty nurse has monitored the patients closely.",
         "The duty nurse was monitoring the patients closely.",
@@ -4008,12 +4379,13 @@
         "opts_bottom": 495.52399999999994,
         "ans_top": 500.56399999999996,
         "ans_page": 21
-      }
+      },
+      "qkey": "a64a891bfaf00533"
     },
     {
       "n": 85,
       "section": "english",
-      "topic": "Geography & Environment",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Change the following from active to passive:\nThey should be reviewing the departmental expenditure reports this month.",
       "blocks": [
@@ -4026,8 +4398,10 @@
           "text": "They should be reviewing the departmental expenditure reports this month."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "The departmental expenditure reports should have been reviewed by them this month.",
         "The departmental expenditure reports are being reviewed by them this month.",
@@ -4055,7 +4429,8 @@
         "opts_bottom": 630.694,
         "ans_top": 635.7339999999999,
         "ans_page": 21
-      }
+      },
+      "qkey": "659e1ea2afda27b6"
     },
     {
       "n": 86,
@@ -4073,8 +4448,10 @@
           "text": "Hit the purple patch"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "To experience a period of great success or achievement",
         "To face an unexpected period of failure",
@@ -4102,7 +4479,8 @@
         "opts_bottom": 765.8399999999999,
         "ans_top": 770.64,
         "ans_page": 21
-      }
+      },
+      "qkey": "33a25722c9caa225"
     },
     {
       "n": 87,
@@ -4120,8 +4498,10 @@
           "text": "He remarked that, had the expedition team been better equipped, they might still have reached the summit before nightfall."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "He said, “If the expedition team was better equipped, they may still reach the summit before nightfall.”",
         "He said, “Had the expedition team been better equipped, they must still have reached the summit before nightfall.”",
@@ -4149,12 +4529,13 @@
         "opts_bottom": 269.1339999999999,
         "ans_top": 289.56399999999996,
         "ans_page": 22
-      }
+      },
+      "qkey": "57df39d78dff675f"
     },
     {
       "n": 88,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "1. Scarcely had the notification been issued than the establishments began to file their objections.\n2. The Regional Commissioner, along with his two deputies, was present throughout the hearing.\n3. He is one of those officers who never misses a deadline.\nIdentify which of the given three sentences are grammatically and contextually accurate.",
       "blocks": [
@@ -4178,8 +4559,10 @@
           "text": "Identify which of the given three sentences are grammatically and contextually accurate."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1 and 2",
         "2 only",
@@ -4207,12 +4590,13 @@
         "opts_bottom": 447.02399999999994,
         "ans_top": 451.3639999999999,
         "ans_page": 22
-      }
+      },
+      "qkey": "8d451978877ad163"
     },
     {
       "n": 89,
       "section": "english",
-      "topic": "Economy & Government Schemes",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "1. No sooner had the Tribunal risen than the parties resumed their negotiations in the corridor.\n2. The quantum of arrears, together with the interest accruing thereon, are to be recovered within ninety days.\n3. Neither of the two schemes has achieved the coverage that its framers had predicted.\nIdentify which of the given three sentences are grammatically and contextually accurate.",
       "blocks": [
@@ -4236,8 +4620,10 @@
           "text": "Identify which of the given three sentences are grammatically and contextually accurate."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1 only",
         "1 and 2",
@@ -4265,12 +4651,13 @@
         "opts_bottom": 625.174,
         "ans_top": 629.2539999999999,
         "ans_page": 22
-      }
+      },
+      "qkey": "ddc34b79582e42e9"
     },
     {
       "n": 90,
       "section": "english",
-      "topic": "Spelling Correction",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Choose the correct spelling to complete the sentence:\n“Her advice proved to be truly ______ to the success of the project.”",
       "blocks": [
@@ -4283,8 +4670,10 @@
           "text": "“Her advice proved to be truly ______ to the success of the project.”"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "indispensible",
         "indespensable",
@@ -4312,12 +4701,13 @@
         "opts_bottom": 754.56,
         "ans_top": 758.64,
         "ans_page": 22
-      }
+      },
+      "qkey": "b523b890a106eab8"
     },
     {
       "n": 91,
       "section": "english",
-      "topic": "Vocabulary: Synonyms & Antonyms",
+      "topic": "Synonyms & Antonyms",
       "render_mode": "text",
       "stem": "Select the most appropriate synonym of the given word:\nASPERITY",
       "blocks": [
@@ -4330,8 +4720,10 @@
           "text": "ASPERITY"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Gentleness",
         "Harshness",
@@ -4359,12 +4751,13 @@
         "opts_bottom": 204.31399999999996,
         "ans_top": 208.654,
         "ans_page": 23
-      }
+      },
+      "qkey": "13025cd6b1c90c9b"
     },
     {
       "n": 92,
       "section": "english",
-      "topic": "Para Jumbles & Sentence Rearrangement",
+      "topic": "Para Jumbles",
       "render_mode": "text",
       "stem": "Rearrange the following sentences in correct order to make a logical passage.\n1. The central bank then intervenes by adjusting interest rates to curb the resulting inflationary pressures.\n2. Excess liquidity in the financial system consequently leads to a surge in consumer spending.\n3. A chain of events is often triggered when governments resort to deficit financing beyond sustainable limits.\n4. Rising demand, unchecked by supply constraints, ultimately translates into broad-based inflation.",
       "blocks": [
@@ -4393,8 +4786,10 @@
           "text": "Rising demand, unchecked by supply constraints, ultimately translates into broad-based inflation."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "3-2-4-1",
         "2-3-4-1",
@@ -4422,12 +4817,13 @@
         "opts_bottom": 414.62399999999997,
         "ans_top": 418.94399999999996,
         "ans_page": 23
-      }
+      },
+      "qkey": "df8304cabcb2c072"
     },
     {
       "n": 93,
       "section": "english",
-      "topic": "Vocabulary: Synonyms & Antonyms",
+      "topic": "Synonyms & Antonyms",
       "render_mode": "text",
       "stem": "Select the most appropriate synonym of the given word: AWRY",
       "blocks": [
@@ -4436,8 +4832,10 @@
           "text": "Select the most appropriate synonym of the given word: AWRY"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Aligned",
         "Orderly",
@@ -4465,12 +4863,13 @@
         "opts_bottom": 527.924,
         "ans_top": 532.2739999999999,
         "ans_page": 23
-      }
+      },
+      "qkey": "0eebc37218c648ba"
     },
     {
       "n": 94,
       "section": "english",
-      "topic": "Para Jumbles & Sentence Rearrangement",
+      "topic": "Para Jumbles",
       "render_mode": "text",
       "stem": "Rearrange the following sentences to form a coherent paragraph:\n1. Human-driven climate change, caused by greenhouse gas emissions, is disrupting global ecosystems in many ways.\n2. Polar ice melt and shrinking glaciers have accelerated, contributing to rising sea levels.\n3. This has resulted in more frequent and severe extreme weather events such as droughts, floods, and heatwaves.\n4. Together, these impacts pose a major threat to biodiversity and human societies.",
       "blocks": [
@@ -4499,8 +4898,10 @@
           "text": "Together, these impacts pose a major threat to biodiversity and human societies."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2, 4, 3, 1",
         "3, 1, 4, 2",
@@ -4528,12 +4929,13 @@
         "opts_bottom": 738.4839999999999,
         "ans_top": 742.56,
         "ans_page": 23
-      }
+      },
+      "qkey": "ec4990f22850f2ac"
     },
     {
       "n": 95,
       "section": "english",
-      "topic": "Para Jumbles & Sentence Rearrangement",
+      "topic": "Para Jumbles",
       "render_mode": "text",
       "stem": "Rearrange the following sentences in correct order to make a logical passage.\n1. This, in turn, strengthens the capacity to assess evidence and resist manipulation.\n2. Critical thinking is among the most valued competencies in the modern knowledge economy.\n3. It encompasses skills such as logical reasoning, structured argumentation, and reflective analysis.\n4. Systematic instruction in critical thinking should therefore be embedded across educational curricula.",
       "blocks": [
@@ -4562,8 +4964,10 @@
           "text": "Systematic instruction in critical thinking should therefore be embedded across educational curricula."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2-1-3-4",
         "2-3-1-4",
@@ -4591,12 +4995,13 @@
         "opts_bottom": 236.73399999999992,
         "ans_top": 240.81399999999996,
         "ans_page": 24
-      }
+      },
+      "qkey": "7f8cab810b4da671"
     },
     {
       "n": 96,
       "section": "english",
-      "topic": "Para Jumbles & Sentence Rearrangement",
+      "topic": "Para Jumbles",
       "render_mode": "text",
       "stem": "Rearrange the following sentences to form a coherent paragraph:\n1. As a result, urban planners are now focusing on climate-resilient infrastructure.\n2. Extreme weather events have become more frequent in recent years.\n3. These developments have exposed vulnerabilities in existing city systems.\n4. Flooded roads, heatwaves, and power outages are increasingly common.",
       "blocks": [
@@ -4625,8 +5030,10 @@
           "text": "Flooded roads, heatwaves, and power outages are increasingly common."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2, 4, 3, 1",
         "4, 2, 1, 3",
@@ -4654,7 +5061,8 @@
         "opts_bottom": 414.62399999999997,
         "ans_top": 418.94399999999996,
         "ans_page": 24
-      }
+      },
+      "qkey": "8cd4cc21f1efbed1"
     },
     {
       "n": 97,
@@ -4672,8 +5080,10 @@
           "text": "She wondered whether she could ever reconcile her ambitions with her commitments."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "She said, \"Could I ever reconcile my ambitions with my commitments?\"",
         "She wondered, \"Can I ever reconcile my ambitions with my commitments?\"",
@@ -4701,12 +5111,13 @@
         "opts_bottom": 560.3539999999999,
         "ans_top": 564.674,
         "ans_page": 24
-      }
+      },
+      "qkey": "5ac34b1df93a8c1b"
     },
     {
       "n": 98,
       "section": "english",
-      "topic": "Vocabulary: Synonyms & Antonyms",
+      "topic": "Synonyms & Antonyms",
       "render_mode": "text",
       "stem": "Select the most appropriate antonym of the given word: Recalcitrance",
       "blocks": [
@@ -4715,8 +5126,10 @@
           "text": "Select the most appropriate antonym of the given word: Recalcitrance"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Obstinacy",
         "Compliance",
@@ -4744,12 +5157,13 @@
         "opts_bottom": 673.654,
         "ans_top": 677.7339999999999,
         "ans_page": 24
-      }
+      },
+      "qkey": "84c946fb7baf6ad6"
     },
     {
       "n": 99,
       "section": "english",
-      "topic": "Vocabulary: Synonyms & Antonyms",
+      "topic": "Synonyms & Antonyms",
       "render_mode": "text",
       "stem": "Select the most appropriate antonym of the given word. Opulent",
       "blocks": [
@@ -4758,8 +5172,10 @@
           "text": "Select the most appropriate antonym of the given word. Opulent"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Wealthy",
         "Luxurious",
@@ -4787,12 +5203,13 @@
         "opts_bottom": 786.9599999999999,
         "ans_top": 95.32399999999996,
         "ans_page": 27
-      }
+      },
+      "qkey": "eb1ae78481c481bf"
     },
     {
       "n": 100,
       "section": "english",
-      "topic": "Cloze Test & Fill in the Blanks",
+      "topic": "Fill in the Blanks",
       "render_mode": "text",
       "stem": "Fill in the blanks with the correct expression:\nFar from the applause she expected, her speech ______.",
       "blocks": [
@@ -4805,8 +5222,10 @@
           "text": "Far from the applause she expected, her speech ______."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "fell out",
         "fell off",
@@ -4834,7 +5253,8 @@
         "opts_bottom": 220.654,
         "ans_top": 224.73399999999992,
         "ans_page": 27
-      }
+      },
+      "qkey": "bf3f7782f540b751"
     }
   ]
 }

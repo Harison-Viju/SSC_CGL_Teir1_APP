@@ -58,7 +58,7 @@
     {
       "n": 1,
       "section": "reasoning",
-      "topic": "Trigonometry",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Findthemissingnumberpairintheollowingseries.\n(2,5),(3,10),(5,26),(7,50),?,(13,170)",
       "blocks": [
@@ -71,8 +71,10 @@
           "text": "(2,5),(3,10),(5,26),(7,50),?,(13,170)"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "(9,82)",
         "(11,122)",
@@ -100,12 +102,13 @@
         "opts_bottom": 202.4405645138437,
         "ans_top": 205.13212603334262,
         "ans_page": 1
-      }
+      },
+      "qkey": "a4394e719f897c06"
     },
     {
       "n": 2,
       "section": "reasoning",
-      "topic": "Trigonometry",
+      "topic": "Statement & Course of Action",
       "render_mode": "text",
       "stem": "Inthistypeoquestions,questionisprovidedwithsomeissues/disputes/problem,ollowedbyewmethodstoresolve theprobleminstatementchoosingtheappropriateproblemsolvingmethodthatcanbeimplemented.\nDuringaculturalestival,twocommunitygroupsclaimthesamevenueortheirperormances.Howshouldtheorganizer decide?",
       "blocks": [
@@ -118,8 +121,10 @@
           "text": "Duringaculturalestival,twocommunitygroupsclaimthesamevenueortheirperormances.Howshouldtheorganizer decide?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Giveittothebiggergroup",
         "Splitthevenuetimeandcoordinateschedules",
@@ -147,12 +152,13 @@
         "opts_bottom": 328.9694645138437,
         "ans_top": 331.6409360333426,
         "ans_page": 1
-      }
+      },
+      "qkey": "1a159329967ff310"
     },
     {
       "n": 3,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Figure Series",
       "render_mode": "image_full",
       "stem": "In the ollowing figure series, select the figure which can be placed at the sign o question mark (?) rom the given alternatives.",
       "blocks": [
@@ -161,8 +167,10 @@
           "text": "In the ollowing figure series, select the figure which can be placed at the sign o question mark (?) rom the given alternatives."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": "img/ssc-cgl-2026-10-16/q003_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-16/q003_orig.webp",
       "options": [
         "A",
         "B",
@@ -177,8 +185,10 @@
       ],
       "answer": 3,
       "passage_id": null,
-      "confidence": 0.95,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Empty option text found for Q3"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 1,
@@ -190,12 +200,13 @@
         "opts_bottom": 681.1363045138437,
         "ans_top": 683.8078060333426,
         "ans_page": 1
-      }
+      },
+      "qkey": "eee36eba6574fe31"
     },
     {
       "n": 4,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Coding-Decoding",
       "render_mode": "text",
       "stem": "I‘TABLOID’iscodedas82inacodelanguage,howwould‘PEACOCK’becodedinthesamecodelanguage?",
       "blocks": [
@@ -204,8 +215,10 @@
           "text": "I‘TABLOID’iscodedas82inacodelanguage,howwould‘PEACOCK’becodedinthesamecodelanguage?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "91",
         "92",
@@ -233,12 +246,13 @@
         "opts_bottom": 769.7214445138437,
         "ans_top": 772.3930060333425,
         "ans_page": 1
-      }
+      },
+      "qkey": "fba13fde078344af"
     },
     {
       "n": 5,
       "section": "reasoning",
-      "topic": "Trigonometry",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Instructions:CareullyexaminetheReerenceStatement.Then,identiythesingleoptionamongtheouralternatives(a, b, c, d) that isan EXACT AND COMPLETE REPLICATIONo the Reerence Statement. Pay exceptionally close attention to everycharacter,number,symbol,space,andpunctuationmark.\nReerence:Jaipur.Mar.20th,2026(Thursday).",
       "blocks": [
@@ -251,8 +265,10 @@
           "text": "Reerence:Jaipur.Mar.20th,2026(Thursday)."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Jaipur.Mar.20th,2026(Thursday).",
         "Jaipur.Mar.20th,2026(Thrusday).",
@@ -280,12 +296,13 @@
         "opts_bottom": 206.04058451384378,
         "ans_top": 208.7320460333425,
         "ans_page": 4
-      }
+      },
+      "qkey": "090068b36a9f308a"
     },
     {
       "n": 6,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Mirror & Water Image",
       "render_mode": "image_full",
       "stem": "Whichotheollowingchoicesistheexactmirrorimageothemainfigure.",
       "blocks": [
@@ -294,8 +311,10 @@
           "text": "Whichotheollowingchoicesistheexactmirrorimageothemainfigure."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": "img/ssc-cgl-2026-10-16/q006_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-16/q006_orig.webp",
       "options": [
         "A",
         "B",
@@ -310,8 +329,10 @@
       ],
       "answer": 0,
       "passage_id": null,
-      "confidence": 0.95,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Empty option text found for Q6"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 4,
@@ -323,12 +344,13 @@
         "opts_bottom": 587.0371845138437,
         "ans_top": 589.7085660333425,
         "ans_page": 4
-      }
+      },
+      "qkey": "efcecccdde863eb3"
     },
     {
       "n": 7,
       "section": "reasoning",
-      "topic": "Geography & Environment",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Duringagroupassignment,onemembercontributeslessbutclaimstobebusy.Howdoyoumanagethesituationsocially intelligently?",
       "blocks": [
@@ -337,8 +359,10 @@
           "text": "Duringagroupassignment,onemembercontributeslessbutclaimstobebusy.Howdoyoumanagethesituationsocially intelligently?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Dividetasksclearlyandcheck-inprivatelytounderstandconstraintsandoerhelp/",
         "Excludethemwithoutdiscussion",
@@ -366,12 +390,13 @@
         "opts_bottom": 688.3362545138438,
         "ans_top": 691.0076960333425,
         "ans_page": 4
-      }
+      },
+      "qkey": "bda8f170485f6f0f"
     },
     {
       "n": 8,
       "section": "reasoning",
-      "topic": "Trigonometry",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Awhistleblowerexposescorruptioninyourorganizationbutbreaksinternalconfidentialityrules.Whatshouldyoudo?",
       "blocks": [
@@ -380,8 +405,10 @@
           "text": "Awhistleblowerexposescorruptioninyourorganizationbutbreaksinternalconfidentialityrules.Whatshouldyoudo?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Punishthemorbreachingrules",
         "Praisethemasahero",
@@ -409,12 +436,13 @@
         "opts_bottom": 776.9214645138437,
         "ans_top": 94.92308503334255,
         "ans_page": 5
-      }
+      },
+      "qkey": "ccb7a20ab2350cda"
     },
     {
       "n": 9,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Whatshouldcomeinplaceothequestionmark(?)inthegivenseries?\n185210246295359?",
       "blocks": [
@@ -427,8 +455,10 @@
           "text": "185210246295359?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "433",
         "411",
@@ -456,12 +486,13 @@
         "opts_bottom": 193.56063451384375,
         "ans_top": 195.99217603334262,
         "ans_page": 5
-      }
+      },
+      "qkey": "6fcfa7212410f8ca"
     },
     {
       "n": 10,
       "section": "reasoning",
-      "topic": "Statement & Assumption / Argument",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Eachquestiongivenbelowconsistsoastatement,ollowedbytwoargumentsnumberedIandII.Youhavetodecide whichotheargumentsisa’strong’argumentandwhichisa’weak’argument.\nStatement:\nShouldtherebetaxbenetsorparentssendingkidstogovernmentschools?\nArgumentI:Yes,itwillimproveenrollment.\nArgumentII:No,itdiscriminatesagainstprivateschoolstudents.",
       "blocks": [
@@ -486,8 +517,10 @@
           "text": "ArgumentII:No,itdiscriminatesagainstprivateschoolstudents."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "OnlyIisstrong",
         "BothIandIIarestrong",
@@ -515,12 +548,13 @@
         "opts_bottom": 332.8094345138437,
         "ans_top": 335.2409060333426,
         "ans_page": 5
-      }
+      },
+      "qkey": "50740d456c19d007"
     },
     {
       "n": 11,
       "section": "reasoning",
-      "topic": "Trigonometry",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Aseriesisgivenwithonetermmissing.Selectthecorrectalternativeromthegivenonesthatwillcompletetheseries. BT,YP,?,SE,PX,MP,JG,GW",
       "blocks": [
@@ -529,8 +563,10 @@
           "text": "Aseriesisgivenwithonetermmissing.Selectthecorrectalternativeromthegivenonesthatwillcompletetheseries. BT,YP,?,SE,PX,MP,JG,GW"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "TK",
         "VK",
@@ -558,12 +594,13 @@
         "opts_bottom": 433.8685445138437,
         "ans_top": 436.5400160333426,
         "ans_page": 5
-      }
+      },
+      "qkey": "61f5fcdaad70bd5e"
     },
     {
       "n": 12,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Mirror & Water Image",
       "render_mode": "image_full",
       "stem": "IamirrorisplacedonthelineMN,thenwhichotheanswerfiguresisthecorrectimageothegivenfigure?",
       "blocks": [
@@ -572,8 +609,10 @@
           "text": "IamirrorisplacedonthelineMN,thenwhichotheanswerfiguresisthecorrectimageothegivenfigure?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": "img/ssc-cgl-2026-10-16/q012_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-16/q012_orig.webp",
       "options": [
         "A",
         "B",
@@ -588,8 +627,10 @@
       ],
       "answer": 2,
       "passage_id": null,
-      "confidence": 0.95,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Empty option text found for Q12"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 5,
@@ -601,12 +642,13 @@
         "opts_bottom": 769.0015345138437,
         "ans_top": 771.6730360333426,
         "ans_page": 5
-      }
+      },
+      "qkey": "208eeae380d5008f"
     },
     {
       "n": 13,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Coding-Decoding",
       "render_mode": "text",
       "stem": "Inacertaincodedlanguage'PRAM'iscodedas'KLVG'and'DENY'iscodedas'YYIS'.Howwill'HATS'becodedinthe samecodelanguage?",
       "blocks": [
@@ -615,8 +657,10 @@
           "text": "Inacertaincodedlanguage'PRAM'iscodedas'KLVG'and'DENY'iscodedas'YYIS'.Howwill'HATS'becodedinthe samecodelanguage?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "CUOM",
         "EVNL",
@@ -644,12 +688,13 @@
         "opts_bottom": 175.32079451384368,
         "ans_top": 176.7923460333426,
         "ans_page": 6
-      }
+      },
+      "qkey": "f1d19fb790e463ca"
     },
     {
       "n": 14,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Figure Series",
       "render_mode": "image_full",
       "stem": "In the ollowing figure series, select the figure which can be placed at the sign oquestion mark (?)rom the given alternatives.",
       "blocks": [
@@ -658,8 +703,10 @@
           "text": "In the ollowing figure series, select the figure which can be placed at the sign oquestion mark (?)rom the given alternatives."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": "img/ssc-cgl-2026-10-16/q014_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-16/q014_orig.webp",
       "options": [
         "A",
         "B",
@@ -674,8 +721,10 @@
       ],
       "answer": 0,
       "passage_id": null,
-      "confidence": 0.95,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Empty option text found for Q14"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 6,
@@ -687,12 +736,13 @@
         "opts_bottom": 519.0877245138437,
         "ans_top": 520.7991960333427,
         "ans_page": 6
-      }
+      },
+      "qkey": "0d87dc82393c572f"
     },
     {
       "n": 15,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Statement:\nAnyyoungmanwhomakesdowryaconditionormarriagediscreditshimselanddishonourswomanhood.\nConclusions:\nI.Thosewhotakedowryinmarriageshouldbecondemnedbysociety.\nII.Thosewhodonottakedowryinmarriagerespectwomanhood.",
       "blocks": [
@@ -717,8 +767,10 @@
           "text": "II.Thosewhodonottakedowryinmarriagerespectwomanhood."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "OnlyconclusionIollows",
         "OnlyconclusionIIollows",
@@ -746,12 +798,13 @@
         "opts_bottom": 636.2567245138437,
         "ans_top": 637.9682060333425,
         "ans_page": 6
-      }
+      },
+      "qkey": "03b79dec475ef92c"
     },
     {
       "n": 16,
       "section": "reasoning",
-      "topic": "Blood Relations",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "Selecttheoptionthatisrelatedtothefithnumberinthesamewayasthesecondnumberisrelatedtothefirstnumber andourthnumberisrelatedtothirdnumber.\n(NOTE:Operationsshouldbeperormedonthewholenumbers,withoutbreakingdownthenumbersintoitsconstituent digits.E.g.13-Operationson13suchasadding/subtracting/multiplyingetc.to13canbeperormed.Breakingdown13into 1and3andthenperormingmathematicaloperationson1and3isnotallowed)\n2976:493::4902:814::2466:?",
       "blocks": [
@@ -768,8 +821,10 @@
           "text": "2976:493::4902:814::2466:?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "404",
         "412",
@@ -797,12 +852,13 @@
         "opts_bottom": 777.1613945138437,
         "ans_top": 94.68308803334253,
         "ans_page": 7
-      }
+      },
+      "qkey": "8a8a16ed4b595cda"
     },
     {
       "n": 17,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Mirror & Water Image",
       "render_mode": "image_full",
       "stem": "SelectthecorrectmirrorimageothegivenfigurewhenthemirrorisplacedatMN,asshownbelow.",
       "blocks": [
@@ -811,8 +867,10 @@
           "text": "SelectthecorrectmirrorimageothegivenfigurewhenthemirrorisplacedatMN,asshownbelow."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": "img/ssc-cgl-2026-10-16/q017_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-16/q017_orig.webp",
       "options": [
         "A",
         "B",
@@ -827,8 +885,10 @@
       ],
       "answer": 1,
       "passage_id": null,
-      "confidence": 0.95,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Empty option text found for Q17"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 7,
@@ -840,12 +900,13 @@
         "opts_bottom": 303.2896845138438,
         "ans_top": 305.9611860333425,
         "ans_page": 7
-      }
+      },
+      "qkey": "5199cb8b9c3b447e"
     },
     {
       "n": 18,
       "section": "reasoning",
-      "topic": "Economy & Government Schemes",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Whichotheollowingoptioncanbelogicallyinerredromthestatement?\nStatement:\nPubliceducationbudgetcutshaveledtoa15%reductioninsciencelabundingacrossStateY,whichlimitsthe abilityoschoolstoconductpracticalexperiments.",
       "blocks": [
@@ -862,8 +923,10 @@
           "text": "Publiceducationbudgetcutshaveledtoa15%reductioninsciencelabundingacrossStateY,whichlimitsthe abilityoschoolstoconductpracticalexperiments."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Practicalexperimentsaretheonlywaytoteachscienceeectively.",
         "ThequalityoscienceeducationinStateYislikelytosuerduetothebudgetcuts.",
@@ -891,12 +954,13 @@
         "opts_bottom": 417.3086945138437,
         "ans_top": 419.7401760333426,
         "ans_page": 7
-      }
+      },
+      "qkey": "2d0342695a51f55a"
     },
     {
       "n": 19,
       "section": "reasoning",
-      "topic": "Blood Relations",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Selectthesetinwhichthenumbersarerelatedinthesamewayasarethenumbersothegivensets. (NOTE:Operationsshouldbeperormedonthewholenumbers,withoutbreakingdownthenumbersintotheirconstituent digits.E.g.13-Operationson13suchasadding/subtracting/multiplyingto13canbeperormed.Breakingdown13into1 and3andthenperormingmathematicaloperationson1and3isnotallowed.)\n(16,6,111)\n(9,14,141)",
       "blocks": [
@@ -913,8 +977,10 @@
           "text": "(9,14,141)"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "(17,8,146)",
         "(13,10,145)",
@@ -942,12 +1008,13 @@
         "opts_bottom": 569.0373045138438,
         "ans_top": 571.7087460333425,
         "ans_page": 7
-      }
+      },
+      "qkey": "772ea8909628e643"
     },
     {
       "n": 20,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Syllogism",
       "render_mode": "text",
       "stem": "Readthegivenstatementsandconclusionscareully.Assumingthattheinormationgiveninthestatementsistrue, eveniitappearstobeatvariancewithcommonlyknownacts,decidewhichothegivenconclusionslogicallyollow(s) romthestatements.\nStatements:\nAllIronisZinc\nSomeCopperisgold\nNoGoldisZinc.\nConclusions:\n(I)SomeIroncanbeGold.\n(II)NoIronisGold.\n(III)SomeCopperisZinc.",
       "blocks": [
@@ -988,8 +1055,10 @@
           "text": "(III)SomeCopperisZinc."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "EitherConclusion(I)or(II)ollows",
         "OnlyConclusion(I)ollows",
@@ -1017,12 +1086,13 @@
         "opts_bottom": 784.3613445138437,
         "ans_top": 94.92308503334255,
         "ans_page": 8
-      }
+      },
+      "qkey": "a78cdf97fd6386c2"
     },
     {
       "n": 21,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "image_full",
       "stem": "Twofiguresgivenontheletsideo(::)arerelatedwithsomelogic/rule/relation.Selectthemissingfigureontheright sideo(::)romthegivenalternativesbasedonthesamelogic/rule/relation.",
       "blocks": [
@@ -1031,8 +1101,10 @@
           "text": "Twofiguresgivenontheletsideo(::)arerelatedwithsomelogic/rule/relation.Selectthemissingfigureontheright sideo(::)romthegivenalternativesbasedonthesamelogic/rule/relation."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": "img/ssc-cgl-2026-10-16/q021_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-16/q021_orig.webp",
       "options": [
         "A",
         "B",
@@ -1047,8 +1119,10 @@
       ],
       "answer": 0,
       "passage_id": null,
-      "confidence": 0.95,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Empty option text found for Q21"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 8,
@@ -1060,12 +1134,13 @@
         "opts_bottom": 444.42841451384373,
         "ans_top": 447.0999160333426,
         "ans_page": 8
-      }
+      },
+      "qkey": "ce4a14946e0d4f7a"
     },
     {
       "n": 22,
       "section": "reasoning",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "₹900istobedividedamongA,B,andCintheratio2:3:4.HowmuchwillBreceive?",
       "blocks": [
@@ -1074,8 +1149,10 @@
           "text": "₹900istobedividedamongA,B,andCintheratio2:3:4.HowmuchwillBreceive?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹200",
         "₹300",
@@ -1103,12 +1180,13 @@
         "opts_bottom": 533.0075845138438,
         "ans_top": 535.7090460333427,
         "ans_page": 8
-      }
+      },
+      "qkey": "440868411c34c9a6"
     },
     {
       "n": 23,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Other Reasoning",
       "render_mode": "text",
       "stem": "Youmanageabusyretailstore.Along-time,valuedcustomerisrequestingareundoranitemthatallsoutsidethe oficial30-dayreturnwindow,astheydonothavetheoriginalreceipt.Theythreatentonevershopatyourstoreagainiyou reuse.Howshouldyourespond?",
       "blocks": [
@@ -1117,8 +1195,10 @@
           "text": "Youmanageabusyretailstore.Along-time,valuedcustomerisrequestingareundoranitemthatallsoutsidethe oficial30-dayreturnwindow,astheydonothavetheoriginalreceipt.Theythreatentonevershopatyourstoreagainiyou reuse.Howshouldyourespond?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Grantthereundimmediatelytoretainthevaluedcustomer,ignoringthepolicy.",
         "Inormthecustomerthatsincetheydon'thavethereceipt,youcannottakeanyaction.",
@@ -1146,12 +1226,13 @@
         "opts_bottom": 647.0565945138437,
         "ans_top": 649.4881060333425,
         "ans_page": 8
-      }
+      },
+      "qkey": "5ff68082ac6016a2"
     },
     {
       "n": 24,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "Selecttheoptionthatshowsthesamerelationshipasbetweenthefirstpairowords.\nRIM:ULP::HUB:?",
       "blocks": [
@@ -1164,8 +1245,10 @@
           "text": "RIM:ULP::HUB:?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "KYE",
         "KXF",
@@ -1193,7 +1276,8 @@
         "opts_bottom": 748.1216545138437,
         "ans_top": 750.7932160333426,
         "ans_page": 8
-      }
+      },
+      "qkey": "fa2d732da62f573a"
     },
     {
       "n": 25,
@@ -1211,8 +1295,10 @@
           "text": "HowisSrelatedtoUi‘S#M@H−Y%U’?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Wie'sbrother",
         "Brother'swie'sbrother",
@@ -1240,12 +1326,13 @@
         "opts_bottom": 222.14042451384375,
         "ans_top": 223.85190603334252,
         "ans_page": 9
-      }
+      },
+      "qkey": "829d33e05ad2b6fd"
     },
     {
       "n": 26,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Art & Culture",
       "render_mode": "text",
       "stem": "OliJerang,aSattriyadancer,belongstowhichotheollowingstates?",
       "blocks": [
@@ -1254,8 +1341,10 @@
           "text": "OliJerang,aSattriyadancer,belongstowhichotheollowingstates?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "ArunachalPradesh",
         "Meghalaya",
@@ -1283,12 +1372,13 @@
         "opts_bottom": 304.24967451384373,
         "ans_top": 305.9611860333425,
         "ans_page": 9
-      }
+      },
+      "qkey": "1efe4eb2df665f12"
     },
     {
       "n": 27,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Considertheollowingstatements:I.Anincreaseinthelevelocarbondioxidecausesglobalwarming.II.Thedepletion otheozonelayerismainlyduetochlorofluorocarbons.III.Watervapourisnotagreenhousegas.Whichothestatements givenaboveis/arecorrect?",
       "blocks": [
@@ -1297,8 +1387,10 @@
           "text": "Considertheollowingstatements:I.Anincreaseinthelevelocarbondioxidecausesglobalwarming.II.Thedepletion otheozonelayerismainlyduetochlorofluorocarbons.III.Watervapourisnotagreenhousegas.Whichothestatements givenaboveis/arecorrect?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "IandIIIonly",
         "IIandIIIonly",
@@ -1326,12 +1418,13 @@
         "opts_bottom": 409.8687545138437,
         "ans_top": 411.3402160333426,
         "ans_page": 9
-      }
+      },
+      "qkey": "8309bc1279b00b99"
     },
     {
       "n": 28,
       "section": "general_awareness",
-      "topic": "Trigonometry",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Howdoesnutrientpollutionaectmarineecosystem?",
       "blocks": [
@@ -1340,8 +1433,10 @@
           "text": "Howdoesnutrientpollutionaectmarineecosystem?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Enhancesbiodiversity",
         "Promotescoralreegrowth",
@@ -1369,12 +1464,13 @@
         "opts_bottom": 491.7280045138437,
         "ans_top": 493.4394560333426,
         "ans_page": 9
-      }
+      },
+      "qkey": "aec0b5413b3d6c31"
     },
     {
       "n": 29,
       "section": "general_awareness",
-      "topic": "General Science",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Inaphotosyntheticplant,theCalvincyclecontinuesorsometimeevenwhentheplantistranserredromlightto darkness.Whichotheollowingbestexplainsthisobservation?",
       "blocks": [
@@ -1383,8 +1479,10 @@
           "text": "Inaphotosyntheticplant,theCalvincyclecontinuesorsometimeevenwhentheplantistranserredromlightto darkness.Whichotheollowingbestexplainsthisobservation?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Carbondioxidecanbefixedwithoutanyenzymes",
         "ATPandNADPHproducedduringthelightreactionsaretemporarilyavailable",
@@ -1412,12 +1510,13 @@
         "opts_bottom": 585.5971245138437,
         "ans_top": 587.3085960333425,
         "ans_page": 9
-      }
+      },
+      "qkey": "a96c61524a35dc82"
     },
     {
       "n": 30,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Sports",
       "render_mode": "text",
       "stem": "WhichteamwontheWomen'sFIHHockeyWorldCupin2026?",
       "blocks": [
@@ -1426,8 +1525,10 @@
           "text": "WhichteamwontheWomen'sFIHHockeyWorldCupin2026?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Australia",
         "Argentina",
@@ -1455,12 +1556,13 @@
         "opts_bottom": 667.6964245138437,
         "ans_top": 669.4079060333426,
         "ans_page": 9
-      }
+      },
+      "qkey": "f0e190fc99975dd5"
     },
     {
       "n": 31,
       "section": "general_awareness",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Whichotheollowingbestcharacterizesthenatureandobjectivesosecond-generationeconomicreormsinIndia, initiatedatertheinitial1991liberalization?",
       "blocks": [
@@ -1469,8 +1571,10 @@
           "text": "Whichotheollowingbestcharacterizesthenatureandobjectivesosecond-generationeconomicreormsinIndia, initiatedatertheinitial1991liberalization?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Theyocusedexclusivelyonreversingthefirst-generationreormsduetosocialbacklash",
         "They aimed at deepening structural changes by improving governance, labor laws, financial sector regulation, and inrastructuredevelopment",
@@ -1498,12 +1602,13 @@
         "opts_bottom": 773.3214845138438,
         "ans_top": 775.0329060333426,
         "ans_page": 9
-      }
+      },
+      "qkey": "f1f4c0539ed9a911"
     },
     {
       "n": 32,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "UndertheIndianEvidenceAct,1872,whichotheollowingstatementsmostaccuratelydescribestheruleregarding theadmissibilityoconessionsmadetopoliceoficers?",
       "blocks": [
@@ -1512,8 +1617,10 @@
           "text": "UndertheIndianEvidenceAct,1872,whichotheollowingstatementsmostaccuratelydescribestheruleregarding theadmissibilityoconessionsmadetopoliceoficers?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Aconessionmadetoapoliceoficerisadmissibleirecordedinthepresenceoamagistrate.",
         "AconessionmadetoapoliceoficerisadmissibleonlyiitleadstothediscoveryoaactunderSection27.",
@@ -1541,12 +1648,13 @@
         "opts_bottom": 175.32079451384368,
         "ans_top": 176.7923460333426,
         "ans_page": 10
-      }
+      },
+      "qkey": "b2842ca361c650ab"
     },
     {
       "n": 33,
       "section": "general_awareness",
-      "topic": "Indian History & Culture",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "SultanBalbanwasamousorhispolicyo:",
       "blocks": [
@@ -1555,8 +1663,10 @@
           "text": "SultanBalbanwasamousorhispolicyo:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "BloodandIron(RaktaurLauh)",
         "Philanthropy",
@@ -1584,53 +1694,37 @@
         "opts_bottom": 257.42010451384374,
         "ans_top": 258.89160603334255,
         "ans_page": 10
-      }
+      },
+      "qkey": "bbf0e5c100d300aa"
     },
     {
       "n": 34,
       "section": "general_awareness",
-      "topic": "Time, Speed & Distance",
-      "render_mode": "text",
-      "stem": "Regardingthe'Neolithic-Chalcolithic'settlementatMehrgarh,considertheollowingstatements:\nA.PeriodI(c.7000–5500BCE)isaceramic(non-pottery)andshowsevidenceomud-brickhouses.\nB.Thetransitionromwildtodomesticcattle(Bosindicus)isclearlyvisibleintheaunalremains.\nC.Lapislazuli,turquoise,andseashellsindicatelong-distancetrade.\nD.Theearliestevidenceodentaldrilling(dentistry)wasoundintheNeolithicburialshere.\nE.PeriodIII(the'CopperAge')ismarkedbythecompleteabsenceowheel-madepottery.\nChoosethecorrectanswerromtheoptionsgivenbelow:",
+      "topic": "Static GK",
+      "render_mode": "image_full",
+      "stem": "Regardingthe'Neolithic-Chalcolithic'settlementatMehrgarh,considertheollowingstatements:",
       "blocks": [
         {
           "type": "paragraph",
           "text": "Regardingthe'Neolithic-Chalcolithic'settlementatMehrgarh,considertheollowingstatements:"
-        },
-        {
-          "type": "paragraph",
-          "text": "A.PeriodI(c.7000–5500BCE)isaceramic(non-pottery)andshowsevidenceomud-brickhouses."
-        },
-        {
-          "type": "paragraph",
-          "text": "B.Thetransitionromwildtodomesticcattle(Bosindicus)isclearlyvisibleintheaunalremains."
-        },
-        {
-          "type": "paragraph",
-          "text": "C.Lapislazuli,turquoise,andseashellsindicatelong-distancetrade."
-        },
-        {
-          "type": "paragraph",
-          "text": "D.Theearliestevidenceodentaldrilling(dentistry)wasoundintheNeolithicburialshere."
-        },
-        {
-          "type": "paragraph",
-          "text": "E.PeriodIII(the'CopperAge')ismarkedbythecompleteabsenceowheel-madepottery."
-        },
-        {
-          "type": "paragraph",
-          "text": "Choosethecorrectanswerromtheoptionsgivenbelow:"
         }
       ],
+      "table": null,
       "stem_image": null,
-      "full_image": null,
+      "full_image": "img/ssc-cgl-2026-10-16/q034_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-16/q034_orig.webp",
       "options": [
-        "B,C,D,andEonly",
-        "A,B,C,andDonly",
-        "A,C,andEonly",
-        "Allotheabove"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
       "raw_options": [
+        "PeriodI(c.7000–5500BCE)isaceramic(non-pottery)andshowsevidenceomud-brickhouses.",
+        "Thetransitionromwildtodomesticcattle(Bosindicus)isclearlyvisibleintheaunalremains.",
+        "Lapislazuli,turquoise,andseashellsindicatelong-distancetrade.",
+        "Theearliestevidenceodentaldrilling(dentistry)wasoundintheNeolithicburialshere.",
+        "PeriodIII(the'CopperAge')ismarkedbythecompleteabsenceowheel-madepottery. Choosethecorrectanswerromtheoptionsgivenbelow:",
         "B,C,D,andEonly",
         "A,B,C,andDonly",
         "A,C,andEonly",
@@ -1638,25 +1732,28 @@
       ],
       "answer": 1,
       "passage_id": null,
-      "confidence": 1.0,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Expected 4 options, found 9 for Q34"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 10,
         "min_page": 10,
         "max_page": 10,
         "stem_top": 282.4413760333425,
-        "stem_bottom": 362.80915451384374,
-        "first_opt_top": 364.5406560333426,
+        "stem_bottom": 292.4897845138437,
+        "first_opt_top": 294.20126603334256,
         "opts_bottom": 409.8687545138437,
         "ans_top": 411.3402160333426,
         "ans_page": 10
-      }
+      },
+      "qkey": "861657a53a2c3c31"
     },
     {
       "n": 35,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "WhichotheollowingstatementiscorrectregardingtheelectionoVicepresidentoIndia?\nI.Heshouldhavecompleted35yearsoage.\nII.HeshouldbequalifiedorelectionasamemberotheCounciloStates.",
       "blocks": [
@@ -1673,8 +1770,10 @@
           "text": "II.HeshouldbequalifiedorelectionasamemberotheCounciloStates."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "OnlyI",
         "OnlyII",
@@ -1702,12 +1801,13 @@
         "opts_bottom": 515.2477545138437,
         "ans_top": 516.9592360333427,
         "ans_page": 10
-      }
+      },
+      "qkey": "0f3cc6abff851e20"
     },
     {
       "n": 36,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Whopennedthenovel'LastManinTower'?",
       "blocks": [
@@ -1716,8 +1816,10 @@
           "text": "Whopennedthenovel'LastManinTower'?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "KiranDesai",
         "AravindAdiga",
@@ -1745,12 +1847,13 @@
         "opts_bottom": 597.3570045138437,
         "ans_top": 599.0684860333425,
         "ans_page": 10
-      }
+      },
+      "qkey": "ca71c96be7e07e2f"
     },
     {
       "n": 37,
       "section": "general_awareness",
-      "topic": "Blood Relations",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "WhatwastheprimaryreasonortheslowgrowthothesecondarysectorinIndiabeore1991?",
       "blocks": [
@@ -1759,8 +1862,10 @@
           "text": "WhatwastheprimaryreasonortheslowgrowthothesecondarysectorinIndiabeore1991?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Lackorawmaterials",
         "Heavygovernmentregulationsandlicensingpolicies",
@@ -1788,12 +1893,13 @@
         "opts_bottom": 679.4563145138437,
         "ans_top": 681.1677860333425,
         "ans_page": 10
-      }
+      },
+      "qkey": "c15f564d915e46e8"
     },
     {
       "n": 38,
       "section": "general_awareness",
-      "topic": "Trigonometry",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "WhichindustrialregioninIndiaishistoricallyrenownedoritsdominanceinthecottontextileindustryandisoten reerredtoasthe\"ManchesteroIndia\"?",
       "blocks": [
@@ -1802,8 +1908,10 @@
           "text": "WhichindustrialregioninIndiaishistoricallyrenownedoritsdominanceinthecottontextileindustryandisoten reerredtoasthe\"ManchesteroIndia\"?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "ChotaNagpurIndustrialRegion",
         "Mumbai-PuneIndustrialRegion",
@@ -1831,12 +1939,13 @@
         "opts_bottom": 773.3214845138438,
         "ans_top": 775.0329060333426,
         "ans_page": 10
-      }
+      },
+      "qkey": "768a91bee25ad20c"
     },
     {
       "n": 39,
       "section": "general_awareness",
-      "topic": "Current Affairs & Sports",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Which organization was awarded with the Subhash Chandra Bose Aapda Prabandhan Puraskar 2025 in the InstitutionalCategory?",
       "blocks": [
@@ -1845,8 +1954,10 @@
           "text": "Which organization was awarded with the Subhash Chandra Bose Aapda Prabandhan Puraskar 2025 in the InstitutionalCategory?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "NationalDisasterManagementAuthority(NDMA)",
         "IndianNationalCentreorOceanInormationServices(INCOIS)",
@@ -1874,12 +1985,13 @@
         "opts_bottom": 180.84081451384372,
         "ans_top": 183.51222603334259,
         "ans_page": 11
-      }
+      },
+      "qkey": "17011ab163d2eb71"
     },
     {
       "n": 40,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "WhichArticleotheIndianConstitutionincludestheRighttoFreedomoSpeechandExpression?",
       "blocks": [
@@ -1888,8 +2000,10 @@
           "text": "WhichArticleotheIndianConstitutionincludestheRighttoFreedomoSpeechandExpression?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Article14",
         "Article19",
@@ -1917,45 +2031,36 @@
         "opts_bottom": 269.4199945138438,
         "ans_top": 272.0914660333425,
         "ans_page": 11
-      }
+      },
+      "qkey": "0813acb7749c2af2"
     },
     {
       "n": 41,
       "section": "general_awareness",
-      "topic": "Geography & Environment",
-      "render_mode": "text",
-      "stem": "Choosethecorrectstatementaboutthepeninsularrivers.\na.TheNarmadarisesintheMalwaplateau.\nb.TheGodavaririsesromtheslopesotheWesternGhatsnearNashik.\nc.TheMahanadirisesinthehighlandsoChhattisgarh.\nd.TheKrishnarisesromaspringnearMahabaleshwar.",
+      "topic": "Static GK",
+      "render_mode": "image_full",
+      "stem": "Choosethecorrectstatementaboutthepeninsularrivers.",
       "blocks": [
         {
           "type": "paragraph",
           "text": "Choosethecorrectstatementaboutthepeninsularrivers."
-        },
-        {
-          "type": "paragraph",
-          "text": "a.TheNarmadarisesintheMalwaplateau."
-        },
-        {
-          "type": "paragraph",
-          "text": "b.TheGodavaririsesromtheslopesotheWesternGhatsnearNashik."
-        },
-        {
-          "type": "paragraph",
-          "text": "c.TheMahanadirisesinthehighlandsoChhattisgarh."
-        },
-        {
-          "type": "paragraph",
-          "text": "d.TheKrishnarisesromaspringnearMahabaleshwar."
         }
       ],
+      "table": null,
       "stem_image": null,
-      "full_image": null,
+      "full_image": "img/ssc-cgl-2026-10-16/q041_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-16/q041_orig.webp",
       "options": [
-        "Onlyb,candd",
-        "Onlya,bandc",
-        "a,b,candd",
-        "Onlya,candd"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
       "raw_options": [
+        "TheNarmadarisesintheMalwaplateau.",
+        "TheGodavaririsesromtheslopesotheWesternGhatsnearNashik.",
+        "TheMahanadirisesinthehighlandsoChhattisgarh.",
+        "TheKrishnarisesromaspringnearMahabaleshwar.",
         "Onlyb,candd",
         "Onlya,bandc",
         "a,b,candd",
@@ -1963,25 +2068,28 @@
       ],
       "answer": 0,
       "passage_id": null,
-      "confidence": 1.0,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Expected 4 options, found 8 for Q41"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 11,
         "min_page": 11,
         "max_page": 11,
         "stem_top": 297.32126603334257,
-        "stem_bottom": 358.0091645138437,
-        "first_opt_top": 360.6806660333426,
+        "stem_bottom": 307.36967451384373,
+        "first_opt_top": 310.04114603334256,
         "opts_bottom": 408.6687445138437,
         "ans_top": 411.3402160333426,
         "ans_page": 11
-      }
+      },
+      "qkey": "2b0824eef7be8267"
     },
     {
       "n": 42,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, what new statutory provision has been introduced regardingpreliminaryinquiriesbeoreregisteringanFIR?",
       "blocks": [
@@ -1990,8 +2098,10 @@
           "text": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, what new statutory provision has been introduced regardingpreliminaryinquiriesbeoreregisteringanFIR?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "TheMagistratecandirectapreliminaryinquiryorallcasespunishablebydeath..",
         "ThePolicecanconductapreliminaryinquiryorcasespunishableby3yearsormorebutlessthan7years.",
@@ -2019,12 +2129,13 @@
         "opts_bottom": 509.96781451384373,
         "ans_top": 512.3992960333426,
         "ans_page": 11
-      }
+      },
+      "qkey": "d6d4eda0cbca7848"
     },
     {
       "n": 43,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "SteeplechaseisahurdleracewithwaterjumpsthatcameintoexistenceinEnglandaround______.",
       "blocks": [
@@ -2033,8 +2144,10 @@
           "text": "SteeplechaseisahurdleracewithwaterjumpsthatcameintoexistenceinEnglandaround______."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1850",
         "1900",
@@ -2062,12 +2175,13 @@
         "opts_bottom": 598.5570145138437,
         "ans_top": 600.9884660333425,
         "ans_page": 11
-      }
+      },
+      "qkey": "a0df3588cab96179"
     },
     {
       "n": 44,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "WhicharchaeologicalsiteshowspitdwellingsandevidenceodomesticateddogsduringtheNeolithicperiod?",
       "blocks": [
@@ -2076,8 +2190,10 @@
           "text": "WhicharchaeologicalsiteshowspitdwellingsandevidenceodomesticateddogsduringtheNeolithicperiod?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Koldihwa",
         "Burzahom",
@@ -2105,12 +2221,13 @@
         "opts_bottom": 687.1362445138437,
         "ans_top": 689.5677560333426,
         "ans_page": 11
-      }
+      },
+      "qkey": "2c26b6edc5a66db2"
     },
     {
       "n": 45,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Wherewasthefinalothe2026Women’sT20AsiaCupplayed?",
       "blocks": [
@@ -2119,8 +2236,10 @@
           "text": "Wherewasthefinalothe2026Women’sT20AsiaCupplayed?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "SharjahCricketStadium,Sharjah,UnitedArabEmirates",
         "DubaiInternationalCricketStadium,Dubai,UnitedArabEmirates",
@@ -2148,12 +2267,13 @@
         "opts_bottom": 775.7214445138437,
         "ans_top": 94.92308503334255,
         "ans_page": 12
-      }
+      },
+      "qkey": "4f09e942ecf461d4"
     },
     {
       "n": 46,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Art & Culture",
       "render_mode": "text",
       "stem": "AttukalPongala,amajor10-dayestivalknownormassparticipationbywomenoeringritualdishes,iscelebratedin whichIndianstate?",
       "blocks": [
@@ -2162,8 +2282,10 @@
           "text": "AttukalPongala,amajor10-dayestivalknownormassparticipationbywomenoeringritualdishes,iscelebratedin whichIndianstate?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "TamilNadu",
         "Kerala",
@@ -2191,12 +2313,13 @@
         "opts_bottom": 193.56063451384375,
         "ans_top": 195.99217603334262,
         "ans_page": 12
-      }
+      },
+      "qkey": "79483b9dc22c723a"
     },
     {
       "n": 47,
       "section": "general_awareness",
-      "topic": "Trigonometry",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Whichlawquantifiestherelationshipbetweenresistance,voltage,andcurrent?",
       "blocks": [
@@ -2205,8 +2328,10 @@
           "text": "Whichlawquantifiestherelationshipbetweenresistance,voltage,andcurrent?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Boyle'sLaw",
         "Ohm'sLaw",
@@ -2234,12 +2359,13 @@
         "opts_bottom": 282.13987451384367,
         "ans_top": 284.60135603334254,
         "ans_page": 12
-      }
+      },
+      "qkey": "533f8e5139441730"
     },
     {
       "n": 48,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "PresidentDroupadiMurmuappointedPraveenVashistatowhichpositioninJanuary2026?",
       "blocks": [
@@ -2248,8 +2374,10 @@
           "text": "PresidentDroupadiMurmuappointedPraveenVashistatowhichpositioninJanuary2026?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "CentralInormationCommissioner",
         "VigilanceCommissionerinCVC",
@@ -2277,12 +2405,13 @@
         "opts_bottom": 370.7290745138437,
         "ans_top": 373.1805460333426,
         "ans_page": 12
-      }
+      },
+      "qkey": "d1ec276d9661423b"
     },
     {
       "n": 49,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "WhatistheprimaryobjectiveotheAngamiSekrenyiestival?",
       "blocks": [
@@ -2291,8 +2420,10 @@
           "text": "WhatistheprimaryobjectiveotheAngamiSekrenyiestival?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Cleansebodyandsoul",
         "Prayorabundantharvest",
@@ -2320,12 +2451,13 @@
         "opts_bottom": 459.32829451384373,
         "ans_top": 461.7597660333426,
         "ans_page": 12
-      }
+      },
+      "qkey": "e85240ff7a704d3b"
     },
     {
       "n": 50,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Ineconomics,theslopeothedemandcurveistypically_____.",
       "blocks": [
@@ -2334,8 +2466,10 @@
           "text": "Ineconomics,theslopeothedemandcurveistypically_____."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Curvedmovingromlettoright",
         "downwardromlettoright",
@@ -2363,12 +2497,13 @@
         "opts_bottom": 547.9174945138437,
         "ans_top": 550.3489460333426,
         "ans_page": 12
-      }
+      },
+      "qkey": "83e18a445ee1280d"
     },
     {
       "n": 51,
       "section": "quantitative_aptitude",
-      "topic": "Blood Relations",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Whichotheollowingpointsliesonthesamestraightlineasthepoints(2,3)and(4,7)?",
       "blocks": [
@@ -2377,8 +2512,10 @@
           "text": "Whichotheollowingpointsliesonthesamestraightlineasthepoints(2,3)and(4,7)?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "(6,11)",
         "(5,8)",
@@ -2406,12 +2543,13 @@
         "opts_bottom": 636.4967145138437,
         "ans_top": 638.9281660333426,
         "ans_page": 12
-      }
+      },
+      "qkey": "9bf83a23410174cb"
     },
     {
       "n": 52,
       "section": "quantitative_aptitude",
-      "topic": "Geometry & Mensuration",
+      "topic": "Mensuration",
       "render_mode": "text",
       "stem": "A regular right square pyramid hasa base side o8\ncm. An insect crawls rom abasecorner to the midpoint o an oppositeslantedgealongthesuracebytheshortestroute.Itheperpendicularheightothepyramidis15cm,findtheslant height.",
       "blocks": [
@@ -2424,8 +2562,10 @@
           "text": "cm. An insect crawls rom abasecorner to the midpoint o an oppositeslantedgealongthesuracebytheshortestroute.Itheperpendicularheightothepyramidis15cm,findtheslant height."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "23.68cm",
         "15.52cm",
@@ -2453,12 +2593,13 @@
         "opts_bottom": 750.2816945138437,
         "ans_top": 752.9531960333426,
         "ans_page": 12
-      }
+      },
+      "qkey": "0dc4f6fd3aecd172"
     },
     {
       "n": 53,
       "section": "quantitative_aptitude",
-      "topic": "Trigonometry",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Aperumerblendstwoperumescosting₹900/Land₹600/Ltomake240Loblendat₹750/L.Duetopoorpackaging, 15Lleaksout.Howmuchothe₹900/Lperumewasused?",
       "blocks": [
@@ -2467,8 +2608,10 @@
           "text": "Aperumerblendstwoperumescosting₹900/Land₹600/Ltomake240Loblendat₹750/L.Duetopoorpackaging, 15Lleaksout.Howmuchothe₹900/Lperumewasused?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "100",
         "110",
@@ -2496,12 +2639,13 @@
         "opts_bottom": 185.88070451384374,
         "ans_top": 189.2721760333426,
         "ans_page": 13
-      }
+      },
+      "qkey": "2207fc615affad64"
     },
     {
       "n": 54,
       "section": "quantitative_aptitude",
-      "topic": "Data Interpretation & Statistics",
+      "topic": "Number System",
       "render_mode": "image_stem",
       "stem": "Findthemedianclassothedata.Whosegraphisasshownbelow.",
       "blocks": [
@@ -2510,8 +2654,10 @@
           "text": "Findthemedianclassothedata.Whosegraphisasshownbelow."
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-16/q054_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-16/q054_orig.webp",
       "options": [
         "30-35",
         "35-40",
@@ -2539,12 +2685,13 @@
         "opts_bottom": 550.5574445138437,
         "ans_top": 553.9489160333426,
         "ans_page": 13
-      }
+      },
+      "qkey": "351a12cbf24f0119"
     },
     {
       "n": 55,
       "section": "quantitative_aptitude",
-      "topic": "Trigonometry",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Itanθ=p,whereθisanacuteangle,thensinθisequalto:",
       "blocks": [
@@ -2553,8 +2700,10 @@
           "text": "Itanθ=p,whereθisanacuteangle,thensinθisequalto:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1/√(1+p²)",
         "√(1+p²)/p",
@@ -2582,12 +2731,13 @@
         "opts_bottom": 644.8966145138437,
         "ans_top": 648.2880860333426,
         "ans_page": 13
-      }
+      },
+      "qkey": "2dd36cf57357d5ce"
     },
     {
       "n": 56,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Tworiends,GhanshyamandKanhaiya,openedagroceryshoptogether.Ghanshyaminvested₹40,000inthebusiness, whileKanhaiyainvested₹50,000.Theyrantheshoptogetheroroneullyear,attheendowhichtheymadeatotalprofito ₹22,500,andtheyagreedtosharethisprofitinthesameratioastheirinvestments.WhatisKanhaiya'sshareotheprofit?",
       "blocks": [
@@ -2596,8 +2746,10 @@
           "text": "Tworiends,GhanshyamandKanhaiya,openedagroceryshoptogether.Ghanshyaminvested₹40,000inthebusiness, whileKanhaiyainvested₹50,000.Theyrantheshoptogetheroroneullyear,attheendowhichtheymadeatotalprofito ₹22,500,andtheyagreedtosharethisprofitinthesameratioastheirinvestments.WhatisKanhaiya'sshareotheprofit?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹12,500",
         "₹10,000",
@@ -2625,12 +2777,13 @@
         "opts_bottom": 766.3615845138437,
         "ans_top": 769.7529960333426,
         "ans_page": 13
-      }
+      },
+      "qkey": "a6184ef6505fe83a"
     },
     {
       "n": 57,
       "section": "quantitative_aptitude",
-      "topic": "Time, Speed & Distance",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "FromanexternalpointP,twotangentsegmentsPAandPBaredrawntoacirclewithcenterOandaradiuso5units. ThedistanceromPtoOis13units.CalculatetheareaoquadrilateralPAOB.",
       "blocks": [
@@ -2639,8 +2792,10 @@
           "text": "FromanexternalpointP,twotangentsegmentsPAandPBaredrawntoacirclewithcenterOandaradiuso5units. ThedistanceromPtoOis13units.CalculatetheareaoquadrilateralPAOB."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "65squareunits",
         "60squareunits",
@@ -2668,12 +2823,13 @@
         "opts_bottom": 180.84081451384372,
         "ans_top": 183.51222603334259,
         "ans_page": 14
-      }
+      },
+      "qkey": "79ee4408f5e8008d"
     },
     {
       "n": 58,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Ina70litermixtureomilkandwater,theratioomilktowateris4:3.Howmuchwatermustbeaddedtomakethe ratioomilktowater2:3?",
       "blocks": [
@@ -2682,8 +2838,10 @@
           "text": "Ina70litermixtureomilkandwater,theratioomilktowateris4:3.Howmuchwatermustbeaddedtomakethe ratioomilktowater2:3?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "25liters",
         "20liters",
@@ -2711,12 +2869,13 @@
         "opts_bottom": 282.13987451384367,
         "ans_top": 284.60135603334254,
         "ans_page": 14
-      }
+      },
+      "qkey": "ee6cd0c60c13ba64"
     },
     {
       "n": 59,
       "section": "quantitative_aptitude",
-      "topic": "Simple & Compound Interest",
+      "topic": "Number System",
       "render_mode": "image_stem",
       "stem": "1\nQ59. AloanoRs.47600isto be paidbackintwoequalannualinstalments.Itheinterest chargedis12 % per annum, \ncompoundedannually,thenhowmuchiseachinstallment?",
       "blocks": [
@@ -2733,8 +2892,10 @@
           "text": "compoundedannually,thenhowmuchiseachinstallment?"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-16/q059_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-16/q059_orig.webp",
       "options": [
         "Rs.28530",
         "Rs.29200",
@@ -2762,13 +2923,14 @@
         "opts_bottom": 388.2689045138437,
         "ans_top": 390.9404060333426,
         "ans_page": 14
-      }
+      },
+      "qkey": "b4daab66787e365d"
     },
     {
       "n": 60,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
-      "render_mode": "text",
+      "topic": "Number System",
+      "render_mode": "image_stem",
       "stem": "Studytheollowingpiechartandthetableandanswerthequestionsbasedonthem.\nProportionoPopulationoSevenVillagesin2002\nVillage %PopulationBelowPovertyLine\nX 38\nY 52\nZ 42\nR 51\nS 49\nT 46\nV 58\nFindthepopulationovillageVithepopulationovillageRlivingbelowthepovertylinein2002is11220.",
       "blocks": [
         {
@@ -2816,8 +2978,45 @@
           "text": "FindthepopulationovillageVithepopulationovillageRlivingbelowthepovertylinein2002is11220."
         }
       ],
-      "stem_image": null,
+      "table": {
+        "headers": [
+          "Village",
+          "%PopulationBelowPovertyLine"
+        ],
+        "rows": [
+          [
+            "X",
+            "38"
+          ],
+          [
+            "Y",
+            "52"
+          ],
+          [
+            "Z",
+            "42"
+          ],
+          [
+            "R",
+            "51"
+          ],
+          [
+            "S",
+            "49"
+          ],
+          [
+            "T",
+            "46"
+          ],
+          [
+            "V",
+            "58"
+          ]
+        ]
+      },
+      "stem_image": "img/ssc-cgl-2026-10-16/q060_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-16/q060_orig.webp",
       "options": [
         "12750",
         "13750",
@@ -2832,7 +3031,7 @@
       ],
       "answer": 1,
       "passage_id": null,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "warnings": [],
       "duplicate_of": null,
       "_bbox": {
@@ -2845,12 +3044,13 @@
         "opts_bottom": 155.40104451384366,
         "ans_top": 158.07245403334252,
         "ans_page": 15
-      }
+      },
+      "qkey": "7346792cb0ab4980"
     },
     {
       "n": 61,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Whichotheollowingstatementsisnotcorrect?",
       "blocks": [
@@ -2859,8 +3059,10 @@
           "text": "Whichotheollowingstatementsisnotcorrect?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Ianumberisthesumotwooddprimes,thenthenumberisacompositenumber.",
         "Apositivecompositenumbercanbewrittenasproductotwoormoreprimes.",
@@ -2888,12 +3090,13 @@
         "opts_bottom": 244.22022451384373,
         "ans_top": 246.65170603334252,
         "ans_page": 15
-      }
+      },
+      "qkey": "de5c10047b581dc1"
     },
     {
       "n": 62,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Profit & Loss",
       "render_mode": "text",
       "stem": "Awholesalebooksellerobservesaninterestingactaboutaparticulartitleobooks:thetotalcostpriceo20copieso thatbookisexactlyequaltothetotalsellingpriceatwhichhesells16copiesothesamebook.Hewonderswhathisexact percentageoprofitorlossperbookis,giventhathebuysandsellseverycopyothebookatuniormrates.Whatishisprofit percentage?",
       "blocks": [
@@ -2902,8 +3105,10 @@
           "text": "Awholesalebooksellerobservesaninterestingactaboutaparticulartitleobooks:thetotalcostpriceo20copieso thatbookisexactlyequaltothetotalsellingpriceatwhichhesells16copiesothesamebook.Hewonderswhathisexact percentageoprofitorlossperbookis,giventhathebuysandsellseverycopyothebookatuniormrates.Whatishisprofit percentage?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "20%",
         "30%",
@@ -2931,12 +3136,13 @@
         "opts_bottom": 370.7290745138437,
         "ans_top": 373.1805460333426,
         "ans_page": 15
-      }
+      },
+      "qkey": "88e224f0675c03c2"
     },
     {
       "n": 63,
       "section": "quantitative_aptitude",
-      "topic": "Geometry & Mensuration",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Asolidmetalconeoheight24cmandbaseradius3.5cmismeltedandrecastintosmallsphericalballsoradius1cm. Howmanyballsareormed?",
       "blocks": [
@@ -2945,8 +3151,10 @@
           "text": "Asolidmetalconeoheight24cmandbaseradius3.5cmismeltedandrecastintosmallsphericalballsoradius1cm. Howmanyballsareormed?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "72",
         "73",
@@ -2974,12 +3182,13 @@
         "opts_bottom": 471.8081745138437,
         "ans_top": 474.4796460333426,
         "ans_page": 15
-      }
+      },
+      "qkey": "38d8c864fd5812e9"
     },
     {
       "n": 64,
       "section": "quantitative_aptitude",
-      "topic": "Geometry & Mensuration",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "Atrapeziumhasoneparallelsidedoubletheother.Theheightis10cm,andtheareais900cm².Findthelengthsothe parallelsides.",
       "blocks": [
@@ -2988,8 +3197,10 @@
           "text": "Atrapeziumhasoneparallelsidedoubletheother.Theheightis10cm,andtheareais900cm².Findthelengthsothe parallelsides."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "30cmand60cm",
         "50cmand100cm",
@@ -3017,12 +3228,13 @@
         "opts_bottom": 573.1172645138437,
         "ans_top": 575.7887060333426,
         "ans_page": 15
-      }
+      },
+      "qkey": "07b7e791e77ced73"
     },
     {
       "n": 65,
       "section": "quantitative_aptitude",
-      "topic": "Time, Speed & Distance",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Itwocirclesoradiir₁andr₂havencommontangents,andthedistancebetweentheircentersislessthan|r₁-r₂|, thennis:",
       "blocks": [
@@ -3031,8 +3243,10 @@
           "text": "Itwocirclesoradiir₁andr₂havencommontangents,andthedistancebetweentheircentersislessthan|r₁-r₂|, thennis:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "0",
         "1",
@@ -3060,7 +3274,8 @@
         "opts_bottom": 674.4163945138437,
         "ans_top": 677.0878360333426,
         "ans_page": 15
-      }
+      },
+      "qkey": "15d14cff96abe79b"
     },
     {
       "n": 66,
@@ -3074,8 +3289,10 @@
           "text": "Apersonreacheshisdestination30minuteslate,ihisspeedis3km/h,andreaches30minutesbeoretimeihisspeed is4km/h.Findthedistanceohisdestinationromhisstartingpoint."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "13km",
         "12km",
@@ -3103,12 +3320,13 @@
         "opts_bottom": 775.7214445138437,
         "ans_top": 94.68308803334253,
         "ans_page": 16
-      }
+      },
+      "qkey": "ef3749a96dbcddef"
     },
     {
       "n": 67,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "image_stem",
       "stem": "\nQ67. Giventhat (√+/√) =10,findthevalueo   +/  .",
       "blocks": [
@@ -3121,8 +3339,10 @@
           "text": "Q67. Giventhat (√+/√) =10,findthevalueo   +/  ."
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-16/q067_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-16/q067_orig.webp",
       "options": [
         "60",
         "61",
@@ -3150,12 +3370,13 @@
         "opts_bottom": 179.40083451384373,
         "ans_top": 181.11230603334252,
         "ans_page": 16
-      }
+      },
+      "qkey": "6750e37ca8c07122"
     },
     {
       "n": 68,
       "section": "quantitative_aptitude",
-      "topic": "Trigonometry",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Ix=6cosA+8sinAandy=6sinA-8cosA,findthevalueox²+y².",
       "blocks": [
@@ -3164,8 +3385,10 @@
           "text": "Ix=6cosA+8sinAandy=6sinA-8cosA,findthevalueox²+y²."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "120",
         "150",
@@ -3193,12 +3416,13 @@
         "opts_bottom": 261.50007451384374,
         "ans_top": 263.2115560333426,
         "ans_page": 16
-      }
+      },
+      "qkey": "8ba29488eb4b9319"
     },
     {
       "n": 69,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Profit & Loss",
       "render_mode": "text",
       "stem": "A shopkeeper increases the marked price by 25% above cost and then gives a 20% discount. What is his profit percentage?",
       "blocks": [
@@ -3207,8 +3431,10 @@
           "text": "A shopkeeper increases the marked price by 25% above cost and then gives a 20% discount. What is his profit percentage?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "0%",
         "2%",
@@ -3236,12 +3462,13 @@
         "opts_bottom": 355.36924451384374,
         "ans_top": 357.0807260333426,
         "ans_page": 16
-      }
+      },
+      "qkey": "2d6d372c963643ea"
     },
     {
       "n": 70,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Thepopulationoaplaceincreasedatarateo5%perannumtoreach66,150intheyear2023.Findthepopulationin theyear2021.",
       "blocks": [
@@ -3250,8 +3477,10 @@
           "text": "Thepopulationoaplaceincreasedatarateo5%perannumtoreach66,150intheyear2023.Findthepopulationin theyear2021."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "70,000",
         "50,000",
@@ -3279,12 +3508,13 @@
         "opts_bottom": 449.22837451384373,
         "ans_top": 450.9598760333426,
         "ans_page": 16
-      }
+      },
+      "qkey": "cd4202948d2c2ba1"
     },
     {
       "n": 71,
       "section": "quantitative_aptitude",
-      "topic": "Trigonometry",
+      "topic": "Number System",
       "render_mode": "image_stem",
       "stem": "Studytheollowinggraphcareullytoanswerthequestionthatollows.\nInwhichcityisthedierencebetweenthecosto1kgoappleandcosto1kgoorangesecondhighest?",
       "blocks": [
@@ -3297,8 +3527,10 @@
           "text": "Inwhichcityisthedierencebetweenthecosto1kgoappleandcosto1kgoorangesecondhighest?"
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-16/q071_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-16/q071_orig.webp",
       "options": [
         "Agra",
         "Kanpur",
@@ -3326,12 +3558,13 @@
         "opts_bottom": 770.9215245138437,
         "ans_top": 772.6329360333425,
         "ans_page": 16
-      }
+      },
+      "qkey": "317a078c97a6e36d"
     },
     {
       "n": 72,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Number System",
       "render_mode": "image_stem",
       "stem": "3\nQ72. Aruitvendorsold ohisapplesataprofito20%andtherestatalosso10%.IhegainedRs.90onthewhole,find 4\nthecostpriceoallapples.",
       "blocks": [
@@ -3348,8 +3581,10 @@
           "text": "thecostpriceoallapples."
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-16/q072_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-16/q072_orig.webp",
       "options": [
         "Rs.680",
         "Rs.800",
@@ -3377,12 +3612,13 @@
         "opts_bottom": 180.36082451384368,
         "ans_top": 181.83224603334259,
         "ans_page": 17
-      }
+      },
+      "qkey": "9d8d7c4d40183221"
     },
     {
       "n": 73,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "10 women can do hal part o the total work in 20days.How many more women will be required to complete the remainingworkin4days?",
       "blocks": [
@@ -3391,8 +3627,10 @@
           "text": "10 women can do hal part o the total work in 20days.How many more women will be required to complete the remainingworkin4days?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "35",
         "50",
@@ -3420,12 +3658,13 @@
         "opts_bottom": 273.9799645138437,
         "ans_top": 275.6914460333426,
         "ans_page": 17
-      }
+      },
+      "qkey": "2555f1d77fa7ff19"
     },
     {
       "n": 74,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Thecompoundinterest(compoundinghalyearly)receivedonRs.6000or1.5yearsisRs.1986Whatistherateo interestperannum?",
       "blocks": [
@@ -3434,8 +3673,10 @@
           "text": "Thecompoundinterest(compoundinghalyearly)receivedonRs.6000or1.5yearsisRs.1986Whatistherateo interestperannum?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "20percent",
         "25percent",
@@ -3463,7 +3704,8 @@
         "opts_bottom": 367.8491045138437,
         "ans_top": 369.5806060333426,
         "ans_page": 17
-      }
+      },
+      "qkey": "62dac04bcbbfe17c"
     },
     {
       "n": 75,
@@ -3485,8 +3727,10 @@
           "text": "5 1cot 2 "
         }
       ],
+      "table": null,
       "stem_image": "img/ssc-cgl-2026-10-16/q075_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-16/q075_orig.webp",
       "options": [
         "7/111",
         "11/19",
@@ -3514,12 +3758,13 @@
         "opts_bottom": 456.9083345138437,
         "ans_top": 458.6398060333426,
         "ans_page": 17
-      }
+      },
+      "qkey": "d3426ee18009ea70"
     },
     {
       "n": 76,
       "section": "english",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Selectthesentencecontainingthehomonymothehighlightedword:\nTheproessordeliveredalectureonconstitutionalmorality.",
       "blocks": [
@@ -3532,8 +3777,10 @@
           "text": "Theproessordeliveredalectureonconstitutionalmorality."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Thestudentsattendedalectureonparliamentarydemocracy.",
         "Theuniversityconstructedanewlecturehalloracademicseminars.",
@@ -3561,12 +3808,13 @@
         "opts_bottom": 550.7974345138438,
         "ans_top": 552.5089160333425,
         "ans_page": 17
-      }
+      },
+      "qkey": "4ce865e2192259c3"
     },
     {
       "n": 77,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Selectthemostappropriateoptiontofillintheblank.\nAmongallthetechnologicalinnovationsothe21stcentury,artificialintelligencehasemergedasthe_________transormative orcereshapingglobaleconomicparadigms.",
       "blocks": [
@@ -3579,8 +3827,10 @@
           "text": "Amongallthetechnologicalinnovationsothe21stcentury,artificialintelligencehasemergedasthe_________transormative orcereshapingglobaleconomicparadigms."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "more",
         "most",
@@ -3608,45 +3858,36 @@
         "opts_bottom": 656.1765245138437,
         "ans_top": 657.8880060333425,
         "ans_page": 17
-      }
+      },
+      "qkey": "8ee7ca5f80c08a0e"
     },
     {
       "n": 78,
       "section": "english",
-      "topic": "Trigonometry",
-      "render_mode": "text",
-      "stem": "Theollowingsentencesaregiveninjumbledorder.Selecttheoptionthatarrangestheminthecorrectsequenceto ormacoherentparagraph.\nA.Theresultisamapthattellsuswheretigersare,andverylittleaboutwhethertheyareflourishing.\nB.Indiacountsitstigersphotographically,sincenotwoanimalscarrythesamearrangementostripes.\nC.Cameratraps,however,areplacedwheretigersareexpectedtobe,andtheabsenceoaphotographisnottheabsenceo atiger.\nD.Themethodiselegantand,withinitslimits,thoroughlyreliable.",
+      "topic": "Reading Comprehension",
+      "render_mode": "image_full",
+      "stem": "Theollowingsentencesaregiveninjumbledorder.Selecttheoptionthatarrangestheminthecorrectsequenceto ormacoherentparagraph.",
       "blocks": [
         {
           "type": "paragraph",
           "text": "Theollowingsentencesaregiveninjumbledorder.Selecttheoptionthatarrangestheminthecorrectsequenceto ormacoherentparagraph."
-        },
-        {
-          "type": "paragraph",
-          "text": "A.Theresultisamapthattellsuswheretigersare,andverylittleaboutwhethertheyareflourishing."
-        },
-        {
-          "type": "paragraph",
-          "text": "B.Indiacountsitstigersphotographically,sincenotwoanimalscarrythesamearrangementostripes."
-        },
-        {
-          "type": "paragraph",
-          "text": "C.Cameratraps,however,areplacedwheretigersareexpectedtobe,andtheabsenceoaphotographisnottheabsenceo atiger."
-        },
-        {
-          "type": "paragraph",
-          "text": "D.Themethodiselegantand,withinitslimits,thoroughlyreliable."
         }
       ],
+      "table": null,
       "stem_image": null,
-      "full_image": null,
+      "full_image": "img/ssc-cgl-2026-10-16/q078_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-16/q078_orig.webp",
       "options": [
-        "B-C-D-A",
-        "B-D-C-A",
-        "D-B-C-A",
-        "B-A-D-C"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
       "raw_options": [
+        "Theresultisamapthattellsuswheretigersare,andverylittleaboutwhethertheyareflourishing.",
+        "Indiacountsitstigersphotographically,sincenotwoanimalscarrythesamearrangementostripes.",
+        "Cameratraps,however,areplacedwheretigersareexpectedtobe,andtheabsenceoaphotographisnottheabsenceo atiger.",
+        "Themethodiselegantand,withinitslimits,thoroughlyreliable.",
         "B-C-D-A",
         "B-D-C-A",
         "D-B-C-A",
@@ -3654,25 +3895,28 @@
       ],
       "answer": 1,
       "passage_id": null,
-      "confidence": 1.0,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Expected 4 options, found 8 for Q78"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 17,
         "min_page": 17,
         "max_page": 18,
         "stem_top": 681.4077760333425,
-        "stem_bottom": 761.8015245138437,
+        "stem_bottom": 703.2161345138437,
         "first_opt_top": 94.68308803334253,
         "opts_bottom": 785.3213645138437,
         "ans_top": 118.23287703334256,
         "ans_page": 18
-      }
+      },
+      "qkey": "7f9ae65548296eaf"
     },
     {
       "n": 79,
       "section": "english",
-      "topic": "Idioms & Phrases",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Choosethecorrectmeaningotheidiom:\nTheswordoDamocles",
       "blocks": [
@@ -3685,8 +3929,10 @@
           "text": "TheswordoDamocles"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Aceremonialweaponoroyalty",
         "Anunexpectedortune",
@@ -3714,12 +3960,13 @@
         "opts_bottom": 215.9004845138437,
         "ans_top": 218.57194603334256,
         "ans_page": 18
-      }
+      },
+      "qkey": "a1404634f9487236"
     },
     {
       "n": 80,
       "section": "english",
-      "topic": "Blood Relations",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Fillintheblankwiththemostappropriateoption.\nTheproessor'sremarkswereso________thatevenseasonedscholarsoundthemdificulttodecipher.",
       "blocks": [
@@ -3732,8 +3979,10 @@
           "text": "Theproessor'sremarkswereso________thatevenseasonedscholarsoundthemdificulttodecipher."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "translucent",
         "enigmatic",
@@ -3761,14 +4010,15 @@
         "opts_bottom": 317.2095745138437,
         "ans_top": 319.8811060333426,
         "ans_page": 18
-      }
+      },
+      "qkey": "0759da52ad8c5212"
     },
     {
       "n": 81,
       "section": "english",
-      "topic": "Trigonometry",
-      "render_mode": "text",
-      "stem": "IdentiythatpartothegivensentencewhichisnotacceptableinstandardwrittenEnglish:\nHavingbeendismissedordeaultbythetrialcourt,(A)/theappellantpreerredanappeal(B)/beoretheDistrictJudge.",
+      "topic": "Reading Comprehension",
+      "render_mode": "image_stem",
+      "stem": "IdentiythatpartothegivensentencewhichisnotacceptableinstandardwrittenEnglish:\nHavingbeendismissedordeaultbythetrialcourt,(A)/theappellantpreerredanappeal(B)/beoretheDistrictJudge. (C)/Noerror(D)",
       "blocks": [
         {
           "type": "paragraph",
@@ -3776,20 +4026,20 @@
         },
         {
           "type": "paragraph",
-          "text": "Havingbeendismissedordeaultbythetrialcourt,(A)/theappellantpreerredanappeal(B)/beoretheDistrictJudge."
+          "text": "Havingbeendismissedordeaultbythetrialcourt,(A)/theappellantpreerredanappeal(B)/beoretheDistrictJudge. (C)/Noerror(D)"
         }
       ],
-      "stem_image": null,
+      "table": null,
+      "stem_image": "img/ssc-cgl-2026-10-16/q081_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2026-10-16/q081_orig.webp",
       "options": [
-        "/Noerror(D)",
         "A",
         "B",
         "C",
         "D"
       ],
       "raw_options": [
-        "/Noerror(D)",
         "A",
         "B",
         "C",
@@ -3797,58 +4047,51 @@
       ],
       "answer": 0,
       "passage_id": null,
-      "confidence": 1.0,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Stray option marker '(C)/Noerro' left in stem for Q81"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 18,
         "min_page": 18,
         "max_page": 18,
         "stem_top": 345.0808160333426,
-        "stem_bottom": 367.8491045138437,
-        "first_opt_top": 370.5405960333426,
+        "stem_bottom": 380.5890045138437,
+        "first_opt_top": 383.0204860333426,
         "opts_bottom": 431.2285245138437,
         "ans_top": 433.6600060333426,
         "ans_page": 18
-      }
+      },
+      "qkey": "91b6bc1780e9e235"
     },
     {
       "n": 82,
       "section": "english",
-      "topic": "Statement & Assumption / Argument",
-      "render_mode": "text",
-      "stem": "Arrangethesentencesinasequencetomakeacoherentparagraphandchoosethepropersequenceromthegiven options:\nA.Hecitedacatenaoprecedentsinsupportohissubmissions.\nB.ThecounselorthepetitioneraddressedtheBenchatconsiderablelength.\nC.However,thefinaldecisionrestedwiththeCourt.\nD.Thejudgesheardhimpatientlyandputaewsearchingquestionstohim.",
+      "topic": "Reading Comprehension",
+      "render_mode": "image_full",
+      "stem": "Arrangethesentencesinasequencetomakeacoherentparagraphandchoosethepropersequenceromthegiven options:",
       "blocks": [
         {
           "type": "paragraph",
           "text": "Arrangethesentencesinasequencetomakeacoherentparagraphandchoosethepropersequenceromthegiven options:"
-        },
-        {
-          "type": "paragraph",
-          "text": "A.Hecitedacatenaoprecedentsinsupportohissubmissions."
-        },
-        {
-          "type": "paragraph",
-          "text": "B.ThecounselorthepetitioneraddressedtheBenchatconsiderablelength."
-        },
-        {
-          "type": "paragraph",
-          "text": "C.However,thefinaldecisionrestedwiththeCourt."
-        },
-        {
-          "type": "paragraph",
-          "text": "D.Thejudgesheardhimpatientlyandputaewsearchingquestionstohim."
         }
       ],
+      "table": null,
       "stem_image": null,
-      "full_image": null,
+      "full_image": "img/ssc-cgl-2026-10-16/q082_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-16/q082_orig.webp",
       "options": [
-        "BADC",
-        "BDAC",
-        "ABDC",
-        "DABC"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
       "raw_options": [
+        "Hecitedacatenaoprecedentsinsupportohissubmissions.",
+        "ThecounselorthepetitioneraddressedtheBenchatconsiderablelength.",
+        "However,thefinaldecisionrestedwiththeCourt.",
+        "Thejudgesheardhimpatientlyandputaewsearchingquestionstohim.",
         "BADC",
         "BDAC",
         "ABDC",
@@ -3856,25 +4099,28 @@
       ],
       "answer": 0,
       "passage_id": null,
-      "confidence": 1.0,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Expected 4 options, found 8 for Q82"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 18,
         "min_page": 18,
         "max_page": 18,
         "stem_top": 459.1197860333426,
-        "stem_bottom": 532.2876745138437,
-        "first_opt_top": 534.9891360333427,
+        "stem_bottom": 481.8880745138437,
+        "first_opt_top": 484.3195260333426,
         "opts_bottom": 582.9571645138437,
         "ans_top": 585.6286060333425,
         "ans_page": 18
-      }
+      },
+      "qkey": "9b46f1084e15e06f"
     },
     {
       "n": 83,
       "section": "english",
-      "topic": "Idioms & Phrases",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Choosethemostsuitablemeaningortheollowingidiom.\nTohaveachiponone'sshoulder.",
       "blocks": [
@@ -3887,8 +4133,10 @@
           "text": "Tohaveachiponone'sshoulder."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Tohaveabadtemper",
         "Tohaveagrudgeorgrievance",
@@ -3916,12 +4164,13 @@
         "opts_bottom": 684.2562945138437,
         "ans_top": 686.9277360333425,
         "ans_page": 18
-      }
+      },
+      "qkey": "6b5a99abd9b92b81"
     },
     {
       "n": 84,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Fillintheblankwiththemostappropriateoption.\nAter_____ormyriendor45minutes,Irealisedthatshewasnotcoming.",
       "blocks": [
@@ -3934,8 +4183,10 @@
           "text": "Ater_____ormyriendor45minutes,Irealisedthatshewasnotcoming."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "waited",
         "havewaited",
@@ -3963,12 +4214,13 @@
         "opts_bottom": 785.5613545138438,
         "ans_top": 94.92308503334255,
         "ans_page": 19
-      }
+      },
+      "qkey": "417d8e143159cff2"
     },
     {
       "n": 85,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Selectthesegmentthatcontainsagrammaticalerror.",
       "blocks": [
@@ -3977,8 +4229,10 @@
           "text": "Selectthesegmentthatcontainsagrammaticalerror."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Scarcelyanyone",
         "inthecommittee",
@@ -4006,12 +4260,13 @@
         "opts_bottom": 176.04086451384376,
         "ans_top": 177.75233603334254,
         "ans_page": 19
-      }
+      },
+      "qkey": "194ced736a4597bf"
     },
     {
       "n": 86,
       "section": "english",
-      "topic": "Statement & Assumption / Argument",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Selectthemostappropriateoptionthatcansubstitutethehighlightedsegmentinthegivensentence. Bythetimethecommitteearrivedatadecision,theprotestershavealreadydispersed,leavingbehindonlyplacardsand bannersasremnantsotheiragitation.",
       "blocks": [
@@ -4020,8 +4275,10 @@
           "text": "Selectthemostappropriateoptionthatcansubstitutethehighlightedsegmentinthegivensentence. Bythetimethecommitteearrivedatadecision,theprotestershavealreadydispersed,leavingbehindonlyplacardsand bannersasremnantsotheiragitation."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "theprotestershadalreadydispersed",
         "theprotesterswerealreadydispersing",
@@ -4049,12 +4306,13 @@
         "opts_bottom": 281.6598945138437,
         "ans_top": 283.40137603334256,
         "ans_page": 19
-      }
+      },
+      "qkey": "b51bcfb836b6ed53"
     },
     {
       "n": 87,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "ChoosetheoptionthatisthemostappropriateconversionotheollowingsentenceintoActiveVoice. Thecakewasdecoratedbythechildrenortheparty.",
       "blocks": [
@@ -4063,8 +4321,10 @@
           "text": "ChoosetheoptionthatisthemostappropriateconversionotheollowingsentenceintoActiveVoice. Thecakewasdecoratedbythechildrenortheparty."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Thechildrendecoratedthecakeortheparty.",
         "Thechildrenweredecoratingthecakeortheparty.",
@@ -4092,12 +4352,13 @@
         "opts_bottom": 375.54902451384373,
         "ans_top": 377.2605360333426,
         "ans_page": 19
-      }
+      },
+      "qkey": "3540d2c8a15b3714"
     },
     {
       "n": 88,
       "section": "english",
-      "topic": "Data Interpretation & Statistics",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Choosethemostsuitableoptiontoreplacethehighlightedpartothesentence:\nBythetimethedelegatesarrived,thenegotiationsalreadycollapsed.",
       "blocks": [
@@ -4110,8 +4371,10 @@
           "text": "Bythetimethedelegatesarrived,thenegotiationsalreadycollapsed."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "alreadycollapse",
         "havealreadycollapsed",
@@ -4139,12 +4402,13 @@
         "opts_bottom": 469.4081845138437,
         "ans_top": 470.8796760333426,
         "ans_page": 19
-      }
+      },
+      "qkey": "9df828505d11ddf2"
     },
     {
       "n": 89,
       "section": "english",
-      "topic": "Trigonometry",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Choosetheoptioninwhichthewordisincorrectlyspelt.",
       "blocks": [
@@ -4153,8 +4417,10 @@
           "text": "Choosetheoptioninwhichthewordisincorrectlyspelt."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Obuscate",
         "Sycophant",
@@ -4182,12 +4448,13 @@
         "opts_bottom": 551.5174045138438,
         "ans_top": 552.9889560333427,
         "ans_page": 19
-      }
+      },
+      "qkey": "cb42b1bc4888fd94"
     },
     {
       "n": 90,
       "section": "english",
-      "topic": "Data Interpretation & Statistics",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Choosethewordthatmeansthesameas\"Sycophant.\"",
       "blocks": [
@@ -4196,8 +4463,10 @@
           "text": "Choosethewordthatmeansthesameas\"Sycophant.\""
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Sympathizer",
         "Flatterer",
@@ -4225,12 +4494,13 @@
         "opts_bottom": 633.6167145138437,
         "ans_top": 635.0881960333426,
         "ans_page": 19
-      }
+      },
+      "qkey": "244191230ed18c36"
     },
     {
       "n": 91,
       "section": "english",
-      "topic": "Trigonometry",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Rearrangetheollowingsentencepartstoormameaningulandgrammaticallycorrectparagraph: P.Hecollectedwaterromastreamintoapotandplaceditoverafire.\nQ Hebroughtthewatertoarollingboilorseveralminutes,killingallthepathogens.\nR.Hetookadrinkotheclear,saewater,histhirstfinallyquenched.\nS.Heallowedthewatertocool,thenpoureditthroughaclothtofilteroutanysediment.",
       "blocks": [
@@ -4251,8 +4521,10 @@
           "text": "S.Heallowedthewatertocool,thenpoureditthroughaclothtofilteroutanysediment."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "P,Q,S,R",
         "R,Q,S,P",
@@ -4280,12 +4552,13 @@
         "opts_bottom": 762.5216145138437,
         "ans_top": 764.2330960333426,
         "ans_page": 19
-      }
+      },
+      "qkey": "d76e74371889d9c8"
     },
     {
       "n": 92,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Selecttheoptionthatcanbeusedasaone-wordsubstituteorthegivengroupowords.\nStrongtasteorlikingorsomething",
       "blocks": [
@@ -4298,8 +4571,10 @@
           "text": "Strongtasteorlikingorsomething"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Insolvent",
         "Parole",
@@ -4327,12 +4602,13 @@
         "opts_bottom": 168.1208625138437,
         "ans_top": 170.79240603334256,
         "ans_page": 20
-      }
+      },
+      "qkey": "cad6aa5fc7bf0e77"
     },
     {
       "n": 93,
       "section": "english",
-      "topic": "Trigonometry",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Selecttheoptionthatarrangesthegivensentencesinthecorrectlogicalorder.\n1.Thelocaldoctorvisitsthevillageeveryweekend.\n2.Hechecksbloodpressureandgivesadvice.\n3.Villagerscomeorconsultation.\n4.Childrenreceivereevaccination.",
       "blocks": [
@@ -4357,8 +4633,10 @@
           "text": "4.Childrenreceivereevaccination."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "3,1,2,4",
         "1,3,2,4",
@@ -4386,45 +4664,36 @@
         "opts_bottom": 307.36967451384373,
         "ans_top": 310.04114603334256,
         "ans_page": 20
-      }
+      },
+      "qkey": "fd33143debefa309"
     },
     {
       "n": 94,
       "section": "english",
-      "topic": "Data Interpretation & Statistics",
-      "render_mode": "text",
-      "stem": "Givenbelowareourjumbledpartsoasentence.Selecttheoptionthatgivestheircorrectorderandormsameaningul sentence.\nA.abright\nB.shedecided\nC.andsunnyyellow\nD.topaintherbedroom",
+      "topic": "Reading Comprehension",
+      "render_mode": "image_full",
+      "stem": "Givenbelowareourjumbledpartsoasentence.Selecttheoptionthatgivestheircorrectorderandormsameaningul sentence.",
       "blocks": [
         {
           "type": "paragraph",
           "text": "Givenbelowareourjumbledpartsoasentence.Selecttheoptionthatgivestheircorrectorderandormsameaningul sentence."
-        },
-        {
-          "type": "paragraph",
-          "text": "A.abright"
-        },
-        {
-          "type": "paragraph",
-          "text": "B.shedecided"
-        },
-        {
-          "type": "paragraph",
-          "text": "C.andsunnyyellow"
-        },
-        {
-          "type": "paragraph",
-          "text": "D.topaintherbedroom"
         }
       ],
+      "table": null,
       "stem_image": null,
-      "full_image": null,
+      "full_image": "img/ssc-cgl-2026-10-16/q094_full.webp",
+      "orig_image": "img/ssc-cgl-2026-10-16/q094_orig.webp",
       "options": [
-        "DABC",
-        "BDAC",
-        "CDAB",
-        "BCAD"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
       "raw_options": [
+        "abright",
+        "shedecided",
+        "andsunnyyellow",
+        "topaintherbedroom",
         "DABC",
         "BDAC",
         "CDAB",
@@ -4432,25 +4701,28 @@
       ],
       "answer": 1,
       "passage_id": null,
-      "confidence": 1.0,
-      "warnings": [],
+      "confidence": 0.85,
+      "warnings": [
+        "Expected 4 options, found 8 for Q94"
+      ],
       "duplicate_of": null,
       "_bbox": {
         "page": 20,
         "min_page": 20,
         "max_page": 20,
         "stem_top": 335.2409060333426,
-        "stem_bottom": 408.6687445138437,
-        "first_opt_top": 411.3402160333426,
+        "stem_bottom": 358.0091645138437,
+        "first_opt_top": 360.6806660333426,
         "opts_bottom": 459.32829451384373,
         "ans_top": 461.7597660333426,
         "ans_page": 20
-      }
+      },
+      "qkey": "b852ac1f907cb2b0"
     },
     {
       "n": 95,
       "section": "english",
-      "topic": "Geography & Environment",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Whatisprimarilyindicatedbythearchitecturaldesignothepyramidsasdiscussedinthepassage?",
       "blocks": [
@@ -4459,8 +4731,10 @@
           "text": "Whatisprimarilyindicatedbythearchitecturaldesignothepyramidsasdiscussedinthepassage?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Theywereexclusivelyorthepharaohsandtheelite.",
         "Theyrepresentedthetechnologicalandculturalpeakothesociety.",
@@ -4488,12 +4762,13 @@
         "opts_bottom": 775.7214445138437,
         "ans_top": 107.4029740333425,
         "ans_page": 23
-      }
+      },
+      "qkey": "4dda65d10b8ed998"
     },
     {
       "n": 96,
       "section": "english",
-      "topic": "Geography & Environment",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Accordingtothepassage,whatremainsatopicodebateamongresearchersregardingpyramidconstruction?",
       "blocks": [
@@ -4502,8 +4777,10 @@
           "text": "Accordingtothepassage,whatremainsatopicodebateamongresearchersregardingpyramidconstruction?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Thetypesoceremoniesconductedwithinthepyramids.",
         "Theexactconstructiontechniquesusedbyancientbuilders.",
@@ -4531,12 +4808,13 @@
         "opts_bottom": 193.56063451384375,
         "ans_top": 195.99217603334262,
         "ans_page": 23
-      }
+      },
+      "qkey": "d1ad36cf30858891"
     },
     {
       "n": 97,
       "section": "english",
-      "topic": "Geography & Environment",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Asperthepassage,howdothepyramidssigniytherulers'status?",
       "blocks": [
@@ -4545,8 +4823,10 @@
           "text": "Asperthepassage,howdothepyramidssigniytherulers'status?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Byshowcasingtheirwealthandinfluenceovertraderoutes.",
         "Byembodyingtherulers'divinestatusandensuringtheirlegacy.",
@@ -4574,12 +4854,13 @@
         "opts_bottom": 282.13987451384367,
         "ans_top": 284.60135603334254,
         "ans_page": 23
-      }
+      },
+      "qkey": "fa599e5d068f8de0"
     },
     {
       "n": 98,
       "section": "english",
-      "topic": "Geography & Environment",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Whichgoalishighlightedbythemodernstudyandpreservationopyramids,accordingtothepassage?",
       "blocks": [
@@ -4588,8 +4869,10 @@
           "text": "Whichgoalishighlightedbythemodernstudyandpreservationopyramids,accordingtothepassage?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Toenhancethetourismindustryintheregion.",
         "Toosterinternationalrelationsthroughculturalexchange.",
@@ -4617,12 +4900,13 @@
         "opts_bottom": 370.7290745138437,
         "ans_top": 373.1805460333426,
         "ans_page": 23
-      }
+      },
+      "qkey": "7e9145b4566e9380"
     },
     {
       "n": 99,
       "section": "english",
-      "topic": "Data Interpretation & Statistics",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Selectthewordthatisoppositeinmeaningtothegivenword:\nEuphoria",
       "blocks": [
@@ -4635,8 +4919,10 @@
           "text": "Euphoria"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Joy",
         "Misery",
@@ -4664,12 +4950,13 @@
         "opts_bottom": 471.8081745138437,
         "ans_top": 474.4796460333426,
         "ans_page": 23
-      }
+      },
+      "qkey": "0129254b0ba09a7a"
     },
     {
       "n": 100,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Choosethecorrectlyspeltwordromtheollowingoptions.",
       "blocks": [
@@ -4678,8 +4965,10 @@
           "text": "Choosethecorrectlyspeltwordromtheollowingoptions."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Quinquennial",
         "Quinquenial",
@@ -4707,7 +4996,8 @@
         "opts_bottom": 560.3973545138438,
         "ans_top": 563.0688560333426,
         "ans_page": 23
-      }
+      },
+      "qkey": "3fca901b134fa0b4"
     }
   ]
 }

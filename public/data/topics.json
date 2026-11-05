@@ -1,0 +1,515 @@
+[
+  {
+    "id": "other-reasoning",
+    "name": "Other Reasoning",
+    "section": "reasoning",
+    "count": 35,
+    "uniqueCount": 35,
+    "small": false,
+    "average_confidence": 0.997
+  },
+  {
+    "id": "blood-relations",
+    "name": "Blood Relations",
+    "section": "reasoning",
+    "count": 26,
+    "uniqueCount": 26,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "letter-series",
+    "name": "Letter Series",
+    "section": "reasoning",
+    "count": 24,
+    "uniqueCount": 24,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "analogy",
+    "name": "Analogy",
+    "section": "reasoning",
+    "count": 23,
+    "uniqueCount": 23,
+    "small": false,
+    "average_confidence": 0.993
+  },
+  {
+    "id": "statement-conclusion",
+    "name": "Statement & Conclusion",
+    "section": "reasoning",
+    "count": 21,
+    "uniqueCount": 21,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "syllogism",
+    "name": "Syllogism",
+    "section": "reasoning",
+    "count": 20,
+    "uniqueCount": 20,
+    "small": false,
+    "average_confidence": 0.985
+  },
+  {
+    "id": "coding-decoding",
+    "name": "Coding-Decoding",
+    "section": "reasoning",
+    "count": 19,
+    "uniqueCount": 19,
+    "small": false,
+    "average_confidence": 0.997
+  },
+  {
+    "id": "number-series",
+    "name": "Number Series",
+    "section": "reasoning",
+    "count": 19,
+    "uniqueCount": 19,
+    "small": false,
+    "average_confidence": 0.997
+  },
+  {
+    "id": "address-matching",
+    "name": "Address Matching",
+    "section": "reasoning",
+    "count": 18,
+    "uniqueCount": 18,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "mathematical-operations",
+    "name": "Mathematical Operations",
+    "section": "reasoning",
+    "count": 16,
+    "uniqueCount": 16,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "classification-odd-one-out",
+    "name": "Classification (odd one out)",
+    "section": "reasoning",
+    "count": 16,
+    "uniqueCount": 15,
+    "small": false,
+    "average_confidence": 0.975
+  },
+  {
+    "id": "statement-course-of-action",
+    "name": "Statement & Course of Action",
+    "section": "reasoning",
+    "count": 11,
+    "uniqueCount": 11,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "figure-series",
+    "name": "Figure Series",
+    "section": "reasoning",
+    "count": 17,
+    "uniqueCount": 10,
+    "small": false,
+    "average_confidence": 0.85
+  },
+  {
+    "id": "ranking-order",
+    "name": "Ranking & Order",
+    "section": "reasoning",
+    "count": 10,
+    "uniqueCount": 9,
+    "small": false,
+    "average_confidence": 0.94
+  },
+  {
+    "id": "mirror-water-image",
+    "name": "Mirror & Water Image",
+    "section": "reasoning",
+    "count": 7,
+    "uniqueCount": 7,
+    "small": true,
+    "average_confidence": 0.85
+  },
+  {
+    "id": "matrix",
+    "name": "Matrix",
+    "section": "reasoning",
+    "count": 4,
+    "uniqueCount": 4,
+    "small": true,
+    "average_confidence": 0.95
+  },
+  {
+    "id": "direction-distance",
+    "name": "Direction & Distance",
+    "section": "reasoning",
+    "count": 3,
+    "uniqueCount": 3,
+    "small": true,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "seating-arrangement",
+    "name": "Seating Arrangement",
+    "section": "reasoning",
+    "count": 3,
+    "uniqueCount": 3,
+    "small": true,
+    "average_confidence": 0.9
+  },
+  {
+    "id": "embedded-figures",
+    "name": "Embedded Figures",
+    "section": "reasoning",
+    "count": 2,
+    "uniqueCount": 2,
+    "small": true,
+    "average_confidence": 0.85
+  },
+  {
+    "id": "paper-folding-cutting",
+    "name": "Paper Folding & Cutting",
+    "section": "reasoning",
+    "count": 2,
+    "uniqueCount": 2,
+    "small": true,
+    "average_confidence": 0.9
+  },
+  {
+    "id": "counting-figures",
+    "name": "Counting Figures",
+    "section": "reasoning",
+    "count": 1,
+    "uniqueCount": 1,
+    "small": true,
+    "average_confidence": 0.95
+  },
+  {
+    "id": "cube-dice",
+    "name": "Cube & Dice",
+    "section": "reasoning",
+    "count": 1,
+    "uniqueCount": 1,
+    "small": true,
+    "average_confidence": 0.95
+  },
+  {
+    "id": "missing-number",
+    "name": "Missing Number",
+    "section": "reasoning",
+    "count": 1,
+    "uniqueCount": 1,
+    "small": true,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "venn-diagram",
+    "name": "Venn Diagram",
+    "section": "reasoning",
+    "count": 1,
+    "uniqueCount": 1,
+    "small": true,
+    "average_confidence": 0.95
+  },
+  {
+    "id": "static-gk",
+    "name": "Static GK",
+    "section": "general_awareness",
+    "count": 142,
+    "uniqueCount": 142,
+    "small": false,
+    "average_confidence": 0.995
+  },
+  {
+    "id": "indian-polity",
+    "name": "Indian Polity",
+    "section": "general_awareness",
+    "count": 41,
+    "uniqueCount": 41,
+    "small": false,
+    "average_confidence": 0.998
+  },
+  {
+    "id": "geography",
+    "name": "Geography",
+    "section": "general_awareness",
+    "count": 22,
+    "uniqueCount": 22,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "indian-history",
+    "name": "Indian History",
+    "section": "general_awareness",
+    "count": 19,
+    "uniqueCount": 19,
+    "small": false,
+    "average_confidence": 0.992
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "section": "general_awareness",
+    "count": 17,
+    "uniqueCount": 17,
+    "small": false,
+    "average_confidence": 0.997
+  },
+  {
+    "id": "current-affairs",
+    "name": "Current Affairs",
+    "section": "general_awareness",
+    "count": 16,
+    "uniqueCount": 16,
+    "small": false,
+    "average_confidence": 0.994
+  },
+  {
+    "id": "art-culture",
+    "name": "Art & Culture",
+    "section": "general_awareness",
+    "count": 14,
+    "uniqueCount": 14,
+    "small": false,
+    "average_confidence": 0.996
+  },
+  {
+    "id": "awards-books",
+    "name": "Awards & Books",
+    "section": "general_awareness",
+    "count": 11,
+    "uniqueCount": 11,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "economy",
+    "name": "Economy",
+    "section": "general_awareness",
+    "count": 9,
+    "uniqueCount": 9,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "general-science",
+    "name": "General Science",
+    "section": "general_awareness",
+    "count": 9,
+    "uniqueCount": 9,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "number-system",
+    "name": "Number System",
+    "section": "quantitative_aptitude",
+    "count": 113,
+    "uniqueCount": 113,
+    "small": false,
+    "average_confidence": 0.989
+  },
+  {
+    "id": "geometry",
+    "name": "Geometry",
+    "section": "quantitative_aptitude",
+    "count": 51,
+    "uniqueCount": 51,
+    "small": false,
+    "average_confidence": 0.998
+  },
+  {
+    "id": "ratio-mixture",
+    "name": "Ratio & Mixture",
+    "section": "quantitative_aptitude",
+    "count": 28,
+    "uniqueCount": 28,
+    "small": false,
+    "average_confidence": 0.995
+  },
+  {
+    "id": "profit-loss",
+    "name": "Profit & Loss",
+    "section": "quantitative_aptitude",
+    "count": 21,
+    "uniqueCount": 21,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "trigonometry",
+    "name": "Trigonometry",
+    "section": "quantitative_aptitude",
+    "count": 18,
+    "uniqueCount": 18,
+    "small": false,
+    "average_confidence": 0.967
+  },
+  {
+    "id": "time-speed-distance",
+    "name": "Time, Speed & Distance",
+    "section": "quantitative_aptitude",
+    "count": 17,
+    "uniqueCount": 17,
+    "small": false,
+    "average_confidence": 0.991
+  },
+  {
+    "id": "simple-compound-interest",
+    "name": "Simple & Compound Interest",
+    "section": "quantitative_aptitude",
+    "count": 14,
+    "uniqueCount": 14,
+    "small": false,
+    "average_confidence": 0.996
+  },
+  {
+    "id": "algebra",
+    "name": "Algebra",
+    "section": "quantitative_aptitude",
+    "count": 11,
+    "uniqueCount": 11,
+    "small": false,
+    "average_confidence": 0.982
+  },
+  {
+    "id": "data-interpretation",
+    "name": "Data Interpretation",
+    "section": "quantitative_aptitude",
+    "count": 7,
+    "uniqueCount": 7,
+    "small": true,
+    "average_confidence": 0.964
+  },
+  {
+    "id": "average",
+    "name": "Average",
+    "section": "quantitative_aptitude",
+    "count": 6,
+    "uniqueCount": 6,
+    "small": true,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "mensuration",
+    "name": "Mensuration",
+    "section": "quantitative_aptitude",
+    "count": 6,
+    "uniqueCount": 6,
+    "small": true,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "percentage",
+    "name": "Percentage",
+    "section": "quantitative_aptitude",
+    "count": 5,
+    "uniqueCount": 5,
+    "small": true,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "time-work",
+    "name": "Time & Work",
+    "section": "quantitative_aptitude",
+    "count": 3,
+    "uniqueCount": 3,
+    "small": true,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "reading-comprehension",
+    "name": "Reading Comprehension",
+    "section": "english",
+    "count": 136,
+    "uniqueCount": 133,
+    "small": false,
+    "average_confidence": 0.99
+  },
+  {
+    "id": "synonyms-antonyms",
+    "name": "Synonyms & Antonyms",
+    "section": "english",
+    "count": 27,
+    "uniqueCount": 27,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "direct-indirect-speech",
+    "name": "Direct & Indirect Speech",
+    "section": "english",
+    "count": 22,
+    "uniqueCount": 22,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "active-passive-voice",
+    "name": "Active & Passive Voice",
+    "section": "english",
+    "count": 19,
+    "uniqueCount": 19,
+    "small": false,
+    "average_confidence": 0.997
+  },
+  {
+    "id": "fill-in-the-blanks",
+    "name": "Fill in the Blanks",
+    "section": "english",
+    "count": 23,
+    "uniqueCount": 19,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "para-jumbles",
+    "name": "Para Jumbles",
+    "section": "english",
+    "count": 20,
+    "uniqueCount": 19,
+    "small": false,
+    "average_confidence": 0.948
+  },
+  {
+    "id": "idioms-phrases",
+    "name": "Idioms & Phrases",
+    "section": "english",
+    "count": 17,
+    "uniqueCount": 17,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "error-spotting",
+    "name": "Error Spotting",
+    "section": "english",
+    "count": 13,
+    "uniqueCount": 13,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "spelling",
+    "name": "Spelling",
+    "section": "english",
+    "count": 15,
+    "uniqueCount": 10,
+    "small": false,
+    "average_confidence": 1.0
+  },
+  {
+    "id": "one-word-substitution",
+    "name": "One-Word Substitution",
+    "section": "english",
+    "count": 8,
+    "uniqueCount": 8,
+    "small": false,
+    "average_confidence": 1.0
+  }
+]

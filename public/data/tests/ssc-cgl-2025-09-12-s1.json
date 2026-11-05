@@ -58,8 +58,10 @@
           "text": "A man said, “My father’s wife’s only son is the brother of your mother.” How is the man related to you?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Uncle",
         "Father",
@@ -87,12 +89,13 @@
         "opts_bottom": 197.14087999999992,
         "ans_top": 200.04088000000002,
         "ans_page": 1
-      }
+      },
+      "qkey": "eb0e0fb611bfba3d"
     },
     {
       "n": 2,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "In the following question, the second word is related to the first word by a specific pattern of letter transformation. Identify the same pattern and apply it to the third word to find the correct option that completes the analogy.\nCOLD : FRPE :: WARM : ?",
       "blocks": [
@@ -105,8 +108,10 @@
           "text": "COLD : FRPE :: WARM : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "ZDUN",
         "ZDVP",
@@ -134,12 +139,13 @@
         "opts_bottom": 336.3908799999999,
         "ans_top": 339.27088,
         "ans_page": 1
-      }
+      },
+      "qkey": "bda7c76badf6a5e8"
     },
     {
       "n": 3,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.\nXZYX, XYXX, XXWX, XWVX, ?",
       "blocks": [
@@ -152,8 +158,10 @@
           "text": "XZYX, XYXX, XXWX, XWVX, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "XVUX",
         "XTVX",
@@ -181,7 +189,8 @@
         "opts_bottom": 461.7108799999999,
         "ans_top": 464.59087999999997,
         "ans_page": 1
-      }
+      },
+      "qkey": "c1805a419fc17bc3"
     },
     {
       "n": 4,
@@ -195,8 +204,10 @@
           "text": "A woman says, “She is my brother’s wife’s sister.” How is the woman related to the speaker?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Sister",
         "Sister-in-law",
@@ -224,12 +235,13 @@
         "opts_bottom": 559.1808799999999,
         "ans_top": 562.06088,
         "ans_page": 1
-      }
+      },
+      "qkey": "5d71761302d81a2f"
     },
     {
       "n": 5,
       "section": "reasoning",
-      "topic": "Master Address Matching",
+      "topic": "Address Matching",
       "render_mode": "text",
       "stem": "Which of the following addresses are identical to each other:\nWhich of the following addresses are identical?\nRohit Sharma, Flat 203, Green Park, Delhi, 110016\nRohit Sharma, Flat-203, Green Park, Delhi, 110016\nRohit S., Flat 203, Green Park, Delhi, 110016\nRohit Sharma, Flat 203, Green Park, Delhi, 110015",
       "blocks": [
@@ -258,8 +270,10 @@
           "text": "Rohit Sharma, Flat 203, Green Park, Delhi, 110015"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1 & 2",
         "1 & 3",
@@ -287,12 +301,13 @@
         "opts_bottom": 726.2708799999999,
         "ans_top": 729.1508799999999,
         "ans_page": 1
-      }
+      },
+      "qkey": "e909f5881bd26185"
     },
     {
       "n": 6,
       "section": "reasoning",
-      "topic": "Seating Arrangement & Direction",
+      "topic": "Direction & Distance",
       "render_mode": "text",
       "stem": "P is facing South. Q is seated third to the left of P. Who is seated immediately to the right of Q?",
       "blocks": [
@@ -301,8 +316,10 @@
           "text": "P is facing South. Q is seated third to the left of P. Who is seated immediately to the right of Q?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "P",
         "Person opposite P",
@@ -330,12 +347,13 @@
         "opts_bottom": 781.94688,
         "ans_top": 136.90088000000003,
         "ans_page": 3
-      }
+      },
+      "qkey": "36bc5aa5f6af4eaf"
     },
     {
       "n": 7,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "In each of the following questions, a specific pattern such as reversal or rearrangement has been applied to the first word to get the second. Apply the same pattern to the third word and find the correct answer from the given options.\nETAGIROV : VORIGATE :: GNITSET : ?",
       "blocks": [
@@ -348,8 +366,10 @@
           "text": "ETAGIROV : VORIGATE :: GNITSET : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "TESTING",
         "SETTING",
@@ -377,12 +397,13 @@
         "opts_bottom": 273.00087999999994,
         "ans_top": 275.88087999999993,
         "ans_page": 3
-      }
+      },
+      "qkey": "1ceeaedb69e7570f"
     },
     {
       "n": 8,
       "section": "reasoning",
-      "topic": "Master Address Matching",
+      "topic": "Address Matching",
       "render_mode": "text",
       "stem": "Which option is identical to:\nNeha Verma 56, Rose Villa, Sector-9, Jaipur, 302017",
       "blocks": [
@@ -395,8 +416,10 @@
           "text": "Neha Verma 56, Rose Villa, Sector-9, Jaipur, 302017"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Neha Verma 56, Rose Villa, Sector-9, Jaipur, 302017",
         "Neha Verma 56, Rose Villas, Sector-9, Jaipur, 302017",
@@ -424,12 +447,13 @@
         "opts_bottom": 384.41087999999996,
         "ans_top": 387.29087999999996,
         "ans_page": 3
-      }
+      },
+      "qkey": "9d28bf4d62af1090"
     },
     {
       "n": 9,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Classification (odd one out)",
       "render_mode": "text",
       "stem": "Which of the following is the odd one out?",
       "blocks": [
@@ -438,8 +462,10 @@
           "text": "Which of the following is the odd one out?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "6, 10, 14",
         "3, 7, 11",
@@ -467,12 +493,13 @@
         "opts_bottom": 481.87087999999994,
         "ans_top": 484.75088,
         "ans_page": 3
-      }
+      },
+      "qkey": "87ac1c02b24b9824"
     },
     {
       "n": 10,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "In the following question, select the related word from the given alternatives.\nJoule : Energy :: Newton : ?",
       "blocks": [
@@ -485,8 +512,10 @@
           "text": "Joule : Energy :: Newton : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Force",
         "Pressure",
@@ -514,12 +543,13 @@
         "opts_bottom": 593.2608799999999,
         "ans_top": 596.1408799999999,
         "ans_page": 3
-      }
+      },
+      "qkey": "fef1bb07a849b112"
     },
     {
       "n": 11,
       "section": "reasoning",
-      "topic": "Algebra & Number System",
+      "topic": "Mathematical Operations",
       "render_mode": "text",
       "stem": "If @ = ×, # = -, $ = ÷ and % = +, then evaluate:\n8 @ 3 # 4 % 6 $ 2",
       "blocks": [
@@ -532,8 +562,10 @@
           "text": "8 @ 3 # 4 % 6 $ 2"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "26",
         "23",
@@ -561,7 +593,8 @@
         "opts_bottom": 704.6408799999999,
         "ans_top": 707.55088,
         "ans_page": 3
-      }
+      },
+      "qkey": "0de8626bd7c17f91"
     },
     {
       "n": 12,
@@ -575,8 +608,10 @@
           "text": "A man said, “The person is my wife’s father’s only son.” How is the person related to the man?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Brother-in-law",
         "Son",
@@ -604,12 +639,13 @@
         "opts_bottom": 788.18688,
         "ans_top": 109.03088000000002,
         "ans_page": 4
-      }
+      },
+      "qkey": "86343aac002ad508"
     },
     {
       "n": 13,
       "section": "reasoning",
-      "topic": "Mathematical Operations",
+      "topic": "Classification (odd one out)",
       "render_mode": "text",
       "stem": "In each of the following questions, a group of three numbers/symbols is given in each option. Identify the group that does NOT follow the same pattern as the others.",
       "blocks": [
@@ -618,8 +654,10 @@
           "text": "In each of the following questions, a group of three numbers/symbols is given in each option. Identify the group that does NOT follow the same pattern as the others."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "C3 : E5 : G7",
         "D4 : F6 : H8",
@@ -647,12 +685,13 @@
         "opts_bottom": 217.56088,
         "ans_top": 220.44088,
         "ans_page": 4
-      }
+      },
+      "qkey": "8fa92ecb8c74cc65"
     },
     {
       "n": 14,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Number Series",
       "render_mode": "text",
       "stem": "What comes next:\n5, 14, 9, 18, 13, 22, 17, ?",
       "blocks": [
@@ -665,8 +704,10 @@
           "text": "5, 14, 9, 18, 13, 22, 17, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "26",
         "24",
@@ -694,12 +735,13 @@
         "opts_bottom": 328.71088,
         "ans_top": 331.59087999999997,
         "ans_page": 4
-      }
+      },
+      "qkey": "0f7c38124ebd2462"
     },
     {
       "n": 15,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "Find the option that best completes the analogy.\nBF : KL :: DK : ?",
       "blocks": [
@@ -712,8 +754,10 @@
           "text": "BF : KL :: DK : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "NO",
         "NP",
@@ -741,12 +785,13 @@
         "opts_bottom": 440.09087999999997,
         "ans_top": 442.97087999999997,
         "ans_page": 4
-      }
+      },
+      "qkey": "9e01e42fbd992442"
     },
     {
       "n": 16,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.\nACE, DFH, GIK, JLN, ?",
       "blocks": [
@@ -759,8 +804,10 @@
           "text": "ACE, DFH, GIK, JLN, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "NOM",
         "LMN",
@@ -788,12 +835,13 @@
         "opts_bottom": 565.4208799999999,
         "ans_top": 568.30088,
         "ans_page": 4
-      }
+      },
+      "qkey": "0e440d5ff2c6f474"
     },
     {
       "n": 17,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "In each of the following questions, the first word is coded to form the second word using a specific rearrangement and/or substitution rule. Apply the same rule to the third word to determine the correct corresponding word from the given alternatives.\nQWERTY : YTREWQ:: ASDFGH : ?",
       "blocks": [
@@ -806,8 +854,10 @@
           "text": "QWERTY : YTREWQ:: ASDFGH : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "HGFDAS",
         "GHFDAS",
@@ -835,7 +885,8 @@
         "opts_bottom": 704.6408799999999,
         "ans_top": 707.55088,
         "ans_page": 4
-      }
+      },
+      "qkey": "8d6fa2911474323a"
     },
     {
       "n": 18,
@@ -849,8 +900,10 @@
           "text": "Pointing to a boy, a man said, “He is the son of the only daughter of my mother.” How is the boy related to the man?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Son",
         "Nephew",
@@ -878,12 +931,13 @@
         "opts_bottom": 788.18688,
         "ans_top": 122.98087999999996,
         "ans_page": 5
-      }
+      },
+      "qkey": "63059b89490ea7f9"
     },
     {
       "n": 19,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.\nBDHJ, CEIK, DFJL, EGKM, ?",
       "blocks": [
@@ -896,8 +950,10 @@
           "text": "BDHJ, CEIK, DFJL, EGKM, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "FHLN",
         "GJMN",
@@ -925,12 +981,13 @@
         "opts_bottom": 245.40087999999992,
         "ans_top": 248.04088000000002,
         "ans_page": 5
-      }
+      },
+      "qkey": "a0d425794551cce9"
     },
     {
       "n": 20,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.\nDHL, HLP, LPT, PTX, ?",
       "blocks": [
@@ -943,8 +1000,10 @@
           "text": "DHL, HLP, LPT, PTX, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "TXB",
         "TXZ",
@@ -972,12 +1031,13 @@
         "opts_bottom": 370.47087999999997,
         "ans_top": 373.37088,
         "ans_page": 5
-      }
+      },
+      "qkey": "d8ea84b491e227f6"
     },
     {
       "n": 21,
       "section": "reasoning",
-      "topic": "Number & Letter Series",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.\nCFI, HJL, MNO, RRR, ?",
       "blocks": [
@@ -990,8 +1050,10 @@
           "text": "CFI, HJL, MNO, RRR, ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "WVU",
         "WUY",
@@ -1019,12 +1081,13 @@
         "opts_bottom": 495.79087999999996,
         "ans_top": 498.67087999999995,
         "ans_page": 5
-      }
+      },
+      "qkey": "db78e30dd1786a13"
     },
     {
       "n": 22,
       "section": "reasoning",
-      "topic": "Mathematical Operations",
+      "topic": "Classification (odd one out)",
       "render_mode": "text",
       "stem": "In each of the following questions, a group of three numbers/symbols is given in each option. Identify the group that does NOT follow the same pattern as the others.",
       "blocks": [
@@ -1033,8 +1096,10 @@
           "text": "In each of the following questions, a group of three numbers/symbols is given in each option. Identify the group that does NOT follow the same pattern as the others."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "J10 : H8 : F6",
         "M13 : K11 : I9",
@@ -1051,7 +1116,7 @@
       "passage_id": null,
       "confidence": 1.0,
       "warnings": [],
-      "duplicate_of": null,
+      "duplicate_of": "ssc-cgl-2025-09-12-s1:13",
       "_bbox": {
         "page": 5,
         "min_page": 5,
@@ -1062,12 +1127,13 @@
         "opts_bottom": 607.18088,
         "ans_top": 610.06088,
         "ans_page": 5
-      }
+      },
+      "qkey": "8fa92ecb8c74cc65"
     },
     {
       "n": 23,
       "section": "reasoning",
-      "topic": "Analogy & Classification",
+      "topic": "Analogy",
       "render_mode": "text",
       "stem": "In the following question, select the related word from the given alternatives.\nNile : Africa :: Danube : ?",
       "blocks": [
@@ -1080,8 +1146,10 @@
           "text": "Nile : Africa :: Danube : ?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Asia",
         "Europe",
@@ -1109,12 +1177,13 @@
         "opts_bottom": 718.59088,
         "ans_top": 721.47088,
         "ans_page": 5
-      }
+      },
+      "qkey": "e9e16496927f74c3"
     },
     {
       "n": 24,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Classification (odd one out)",
       "render_mode": "text",
       "stem": "Identify the odd one:\n3, 5, 7, 11, 13, 17, 19, 21",
       "blocks": [
@@ -1127,8 +1196,10 @@
           "text": "3, 5, 7, 11, 13, 17, 19, 21"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "21",
         "13",
@@ -1156,12 +1227,13 @@
         "opts_bottom": 175.7808799999999,
         "ans_top": 178.66088000000002,
         "ans_page": 6
-      }
+      },
+      "qkey": "75ffa14daa223852"
     },
     {
       "n": 25,
       "section": "reasoning",
-      "topic": "General",
+      "topic": "Letter Series",
       "render_mode": "text",
       "stem": "Letters of the word TEACHING are arranged alphabetically. How many letters are between the 3rd from left and 2nd from right?",
       "blocks": [
@@ -1170,8 +1242,10 @@
           "text": "Letters of the word TEACHING are arranged alphabetically. How many letters are between the 3rd from left and 2nd from right?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "5",
         "4",
@@ -1199,12 +1273,13 @@
         "opts_bottom": 286.9208799999999,
         "ans_top": 289.83088,
         "ans_page": 6
-      }
+      },
+      "qkey": "509f0818ff0f24d4"
     },
     {
       "n": 26,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "Which Article of the Indian Constitution was amended by the 106th Amendment Act to provide 1/3rd reservation for women?",
       "blocks": [
@@ -1213,8 +1288,10 @@
           "text": "Which Article of the Indian Constitution was amended by the 106th Amendment Act to provide 1/3rd reservation for women?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Article 239AA",
         "Article 330A",
@@ -1242,12 +1319,13 @@
         "opts_bottom": 398.3308799999999,
         "ans_top": 401.21088,
         "ans_page": 6
-      }
+      },
+      "qkey": "8cae07bd2aa2317e"
     },
     {
       "n": 27,
       "section": "general_awareness",
-      "topic": "Geography & Environment",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Under the Indus Waters Treaty (1960), India has unrestricted rights over which set of rivers?",
       "blocks": [
@@ -1256,8 +1334,10 @@
           "text": "Under the Indus Waters Treaty (1960), India has unrestricted rights over which set of rivers?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Indus, Jhelum, Chenab",
         "Ravi, Beas, Satluj",
@@ -1285,12 +1365,13 @@
         "opts_bottom": 495.79087999999996,
         "ans_top": 498.67087999999995,
         "ans_page": 6
-      }
+      },
+      "qkey": "9c469dd08cd8ba3f"
     },
     {
       "n": 28,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "What is the name of the world’s longest expressway tunnel recently opened by China in the Xinjiang Uygur Autonomous Region?",
       "blocks": [
@@ -1299,8 +1380,10 @@
           "text": "What is the name of the world’s longest expressway tunnel recently opened by China in the Xinjiang Uygur Autonomous Region?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Karakoram Mega Tunnel",
         "Pamir Victory Tunnel",
@@ -1328,12 +1411,13 @@
         "opts_bottom": 607.18088,
         "ans_top": 610.06088,
         "ans_page": 6
-      }
+      },
+      "qkey": "942f703b5ab1c9d9"
     },
     {
       "n": 29,
       "section": "general_awareness",
-      "topic": "Time, Speed & Distance",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "By which year does Indian Railways plan to double originating train capacity in 48 major cities?",
       "blocks": [
@@ -1342,8 +1426,10 @@
           "text": "By which year does Indian Railways plan to double originating train capacity in 48 major cities?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2027",
         "2028",
@@ -1371,12 +1457,13 @@
         "opts_bottom": 704.6408799999999,
         "ans_top": 707.55088,
         "ans_page": 6
-      }
+      },
+      "qkey": "d59ee3d0da680c3a"
     },
     {
       "n": 30,
       "section": "general_awareness",
-      "topic": "Indian History & Culture",
+      "topic": "Indian History",
       "render_mode": "text",
       "stem": "Which of the following Harappan sites is known for a unique water harnessing system and storm-water drainage?",
       "blocks": [
@@ -1385,8 +1472,10 @@
           "text": "Which of the following Harappan sites is known for a unique water harnessing system and storm-water drainage?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Lothal",
         "Dholavira",
@@ -1414,12 +1503,13 @@
         "opts_bottom": 175.7808799999999,
         "ans_top": 178.66088000000002,
         "ans_page": 7
-      }
+      },
+      "qkey": "fe67acdfe51b3474"
     },
     {
       "n": 31,
       "section": "general_awareness",
-      "topic": "Economy & Government Schemes",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "The PM-PRANAM scheme aims to:",
       "blocks": [
@@ -1428,8 +1518,10 @@
           "text": "The PM-PRANAM scheme aims to:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Promote religious tourism",
         "Reduce the use of chemical fertilizers by promoting alternatives",
@@ -1457,12 +1549,13 @@
         "opts_bottom": 273.00087999999994,
         "ans_top": 275.88087999999993,
         "ans_page": 7
-      }
+      },
+      "qkey": "8f4ad1a36e676789"
     },
     {
       "n": 32,
       "section": "general_awareness",
-      "topic": "Indian History & Culture",
+      "topic": "Indian History",
       "render_mode": "text",
       "stem": "The Battle of Wandiwash (1760) was fought between:",
       "blocks": [
@@ -1471,8 +1564,10 @@
           "text": "The Battle of Wandiwash (1760) was fought between:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "British and French",
         "British and Marathas",
@@ -1500,12 +1595,13 @@
         "opts_bottom": 370.47087999999997,
         "ans_top": 373.37088,
         "ans_page": 7
-      }
+      },
+      "qkey": "8dcaddac67ba9b41"
     },
     {
       "n": 33,
       "section": "general_awareness",
-      "topic": "Trigonometry",
+      "topic": "General Science",
       "render_mode": "text",
       "stem": "In Quantum Computing, the basic unit of information that can exist in multiple states simultaneously is called:",
       "blocks": [
@@ -1514,8 +1610,10 @@
           "text": "In Quantum Computing, the basic unit of information that can exist in multiple states simultaneously is called:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Bit",
         "Qubit",
@@ -1543,12 +1641,13 @@
         "opts_bottom": 481.87087999999994,
         "ans_top": 484.75088,
         "ans_page": 7
-      }
+      },
+      "qkey": "41fe737a6a941415"
     },
     {
       "n": 34,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "Under the Bharatiya Nyaya Sanhita (BNS), the crime of ‘Sedition’ has been replaced by:",
       "blocks": [
@@ -1557,8 +1656,10 @@
           "text": "Under the Bharatiya Nyaya Sanhita (BNS), the crime of ‘Sedition’ has been replaced by:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Section 150 (Acts endangering sovereignty, unity and integrity of India)",
         "Section 302",
@@ -1586,12 +1687,13 @@
         "opts_bottom": 579.34088,
         "ans_top": 582.22088,
         "ans_page": 7
-      }
+      },
+      "qkey": "3591a80ed3c4a11a"
     },
     {
       "n": 35,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Geography",
       "render_mode": "text",
       "stem": "The ‘Curzon Line’ is the boundary between:",
       "blocks": [
@@ -1600,8 +1702,10 @@
           "text": "The ‘Curzon Line’ is the boundary between:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "India and Pakistan",
         "Poland and Russia",
@@ -1629,12 +1733,13 @@
         "opts_bottom": 676.80088,
         "ans_top": 679.6808799999999,
         "ans_page": 7
-      }
+      },
+      "qkey": "ca450cf825b3f577"
     },
     {
       "n": 36,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Current Affairs",
       "render_mode": "text",
       "stem": "Armenia has unveiled a butterfly-based logo for COP17 featuring which endemic species?",
       "blocks": [
@@ -1643,8 +1748,10 @@
           "text": "Armenia has unveiled a butterfly-based logo for COP17 featuring which endemic species?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Monarch Butterfly",
         "Apollo Butterfly",
@@ -1672,12 +1779,13 @@
         "opts_bottom": 774.2668799999999,
         "ans_top": 777.14688,
         "ans_page": 7
-      }
+      },
+      "qkey": "24d78858eeeba738"
     },
     {
       "n": 37,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Indian History",
       "render_mode": "text",
       "stem": "Who was the first Viceroy of India?",
       "blocks": [
@@ -1686,8 +1794,10 @@
           "text": "Who was the first Viceroy of India?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Lord Warren Hastings",
         "Lord Canning",
@@ -1715,7 +1825,8 @@
         "opts_bottom": 175.7808799999999,
         "ans_top": 178.66088000000002,
         "ans_page": 8
-      }
+      },
+      "qkey": "df37dcf3e4877234"
     },
     {
       "n": 38,
@@ -1729,8 +1840,10 @@
           "text": "Mitochondria are known as the powerhouse of the cell because they produce:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "DNA",
         "ATP",
@@ -1758,12 +1871,13 @@
         "opts_bottom": 273.00087999999994,
         "ans_top": 275.88087999999993,
         "ans_page": 8
-      }
+      },
+      "qkey": "49d099b171b98ce1"
     },
     {
       "n": 39,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Indian History",
       "render_mode": "text",
       "stem": "The Pitt’s India Act of 1784 was significant because it:",
       "blocks": [
@@ -1772,8 +1886,10 @@
           "text": "The Pitt’s India Act of 1784 was significant because it:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Established the Supreme Court in Calcutta.",
         "Distinguished between the commercial and political functions of the Company.",
@@ -1801,12 +1917,13 @@
         "opts_bottom": 370.47087999999997,
         "ans_top": 373.37088,
         "ans_page": 8
-      }
+      },
+      "qkey": "6ac97dece6e8bb61"
     },
     {
       "n": 40,
       "section": "general_awareness",
-      "topic": "Geography & Environment",
+      "topic": "Geography",
       "render_mode": "text",
       "stem": "The ‘Ramsar Convention’ is related to the conservation of:",
       "blocks": [
@@ -1815,8 +1932,10 @@
           "text": "The ‘Ramsar Convention’ is related to the conservation of:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Tigers",
         "Wetlands",
@@ -1844,12 +1963,13 @@
         "opts_bottom": 467.9508799999999,
         "ans_top": 470.83088,
         "ans_page": 8
-      }
+      },
+      "qkey": "52f794ca6862a50e"
     },
     {
       "n": 41,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "Awards & Books",
       "render_mode": "text",
       "stem": "Who is the author of the famous book “Hind Swaraj”?",
       "blocks": [
@@ -1858,8 +1978,10 @@
           "text": "Who is the author of the famous book “Hind Swaraj”?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Bal Gangadhar Tilak",
         "Mahatma Gandhi",
@@ -1887,12 +2009,13 @@
         "opts_bottom": 565.4208799999999,
         "ans_top": 568.30088,
         "ans_page": 8
-      }
+      },
+      "qkey": "efca4a4fe0f49b80"
     },
     {
       "n": 42,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "General Science",
       "render_mode": "text",
       "stem": "Which instrument is used to measure atmospheric pressure?",
       "blocks": [
@@ -1901,8 +2024,10 @@
           "text": "Which instrument is used to measure atmospheric pressure?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Hygrometer",
         "Barometer",
@@ -1930,12 +2055,13 @@
         "opts_bottom": 662.8808799999999,
         "ans_top": 665.7608799999999,
         "ans_page": 8
-      }
+      },
+      "qkey": "42c99a881ac88d41"
     },
     {
       "n": 43,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "General Science",
       "render_mode": "text",
       "stem": "Which gland is often referred to as the ‘Master Gland’ of the human body?",
       "blocks": [
@@ -1944,8 +2070,10 @@
           "text": "Which gland is often referred to as the ‘Master Gland’ of the human body?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Thyroid",
         "Adrenal",
@@ -1973,12 +2101,13 @@
         "opts_bottom": 760.3468799999999,
         "ans_top": 763.2268799999999,
         "ans_page": 8
-      }
+      },
+      "qkey": "29b6c3628dba7d59"
     },
     {
       "n": 44,
       "section": "general_awareness",
-      "topic": "Trigonometry",
+      "topic": "Geography",
       "render_mode": "text",
       "stem": "Which type of volcanic eruption is characterized by the most explosive activity and high-viscosity lava?",
       "blocks": [
@@ -1987,8 +2116,10 @@
           "text": "Which type of volcanic eruption is characterized by the most explosive activity and high-viscosity lava?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Hawaiian",
         "Strombolian",
@@ -2016,12 +2147,13 @@
         "opts_bottom": 161.86087999999995,
         "ans_top": 164.74087999999995,
         "ans_page": 9
-      }
+      },
+      "qkey": "16617e7b77fd9001"
     },
     {
       "n": 45,
       "section": "general_awareness",
-      "topic": "General",
+      "topic": "General Science",
       "render_mode": "text",
       "stem": "The process of ‘Nitrification’ in the nitrogen cycle involves:",
       "blocks": [
@@ -2030,8 +2162,10 @@
           "text": "The process of ‘Nitrification’ in the nitrogen cycle involves:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Conversion of nitrogen gas to ammonia",
         "Conversion of ammonia to nitrites and then nitrates",
@@ -2059,12 +2193,13 @@
         "opts_bottom": 259.08088,
         "ans_top": 261.96088,
         "ans_page": 9
-      }
+      },
+      "qkey": "7ab3f06211468616"
     },
     {
       "n": 46,
       "section": "general_awareness",
-      "topic": "Blood Relations",
+      "topic": "Static GK",
       "render_mode": "text",
       "stem": "Assertion (A): In the Demographic Transition Model, India is currently in the late third stage. Reason (R): Birth rates are falling significantly while death rates have already stabilized at a low level.**",
       "blocks": [
@@ -2073,8 +2208,10 @@
           "text": "Assertion (A): In the Demographic Transition Model, India is currently in the late third stage. Reason (R): Birth rates are falling significantly while death rates have already stabilized at a low level.**"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Both A and R are true, and R is the correct explanation of A.",
         "Both A and R are true, but R is not the correct explanation of A.",
@@ -2102,12 +2239,13 @@
         "opts_bottom": 370.47087999999997,
         "ans_top": 373.37088,
         "ans_page": 9
-      }
+      },
+      "qkey": "8396a795316d4243"
     },
     {
       "n": 47,
       "section": "general_awareness",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "General Science",
       "render_mode": "text",
       "stem": "The value of ‘g’ (acceleration due to gravity) is minimum at:",
       "blocks": [
@@ -2116,8 +2254,10 @@
           "text": "The value of ‘g’ (acceleration due to gravity) is minimum at:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "The Equator",
         "The North Pole",
@@ -2145,12 +2285,13 @@
         "opts_bottom": 467.9508799999999,
         "ans_top": 470.83088,
         "ans_page": 9
-      }
+      },
+      "qkey": "a2114873cf7bf982"
     },
     {
       "n": 48,
       "section": "general_awareness",
-      "topic": "Geography & Environment",
+      "topic": "Geography",
       "render_mode": "text",
       "stem": "Which river is known as the “Sorrow of Bihar”?",
       "blocks": [
@@ -2159,8 +2300,10 @@
           "text": "Which river is known as the “Sorrow of Bihar”?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Gandak",
         "Kosi",
@@ -2188,12 +2331,13 @@
         "opts_bottom": 565.4208799999999,
         "ans_top": 568.30088,
         "ans_page": 9
-      }
+      },
+      "qkey": "3136164774dc7bd9"
     },
     {
       "n": 49,
       "section": "general_awareness",
-      "topic": "Geography & Environment",
+      "topic": "Geography",
       "render_mode": "text",
       "stem": "Which layer of the atmosphere contains Ozone Layer?",
       "blocks": [
@@ -2202,8 +2346,10 @@
           "text": "Which layer of the atmosphere contains Ozone Layer?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Troposphere",
         "Stratosphere",
@@ -2231,12 +2377,13 @@
         "opts_bottom": 662.8808799999999,
         "ans_top": 665.7608799999999,
         "ans_page": 9
-      }
+      },
+      "qkey": "8148430cd2060867"
     },
     {
       "n": 50,
       "section": "general_awareness",
-      "topic": "Indian Polity & Constitution",
+      "topic": "Indian Polity",
       "render_mode": "text",
       "stem": "The Eighth Schedule of the Indian Constitution originally contained how many languages?",
       "blocks": [
@@ -2245,8 +2392,10 @@
           "text": "The Eighth Schedule of the Indian Constitution originally contained how many languages?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "14",
         "18",
@@ -2274,12 +2423,13 @@
         "opts_bottom": 760.3468799999999,
         "ans_top": 763.2268799999999,
         "ans_page": 9
-      }
+      },
+      "qkey": "80416c19f759f663"
     },
     {
       "n": 51,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "P and Q start a business. P invests ₹90,000 for 8 months, Q invests ₹1,50,000 for 5 months. What is Q's share of a ₹50,000 profit(approximate)?",
       "blocks": [
@@ -2288,8 +2438,10 @@
           "text": "P and Q start a business. P invests ₹90,000 for 8 months, Q invests ₹1,50,000 for 5 months. What is Q's share of a ₹50,000 profit(approximate)?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹20,000",
         "₹32,000",
@@ -2317,12 +2469,13 @@
         "opts_bottom": 175.7808799999999,
         "ans_top": 178.66088000000002,
         "ans_page": 10
-      }
+      },
+      "qkey": "78cb401675b2c80b"
     },
     {
       "n": 52,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Rajesh started a business by investing ₹1,00,000. After 5 months, Suresh joined with ₹1,50,000. At the end of 7 months from the start, Tushar joined with ₹2,00,000. If the total profit is ₹1,50,000 at the end of the year, find the share of Tushar(approximate) .",
       "blocks": [
@@ -2331,8 +2484,10 @@
           "text": "Rajesh started a business by investing ₹1,00,000. After 5 months, Suresh joined with ₹1,50,000. At the end of 7 months from the start, Tushar joined with ₹2,00,000. If the total profit is ₹1,50,000 at the end of the year, find the share of Tushar(approximate) ."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹55,000",
         "₹46,154",
@@ -2360,12 +2515,13 @@
         "opts_bottom": 300.87087999999994,
         "ans_top": 303.75087999999994,
         "ans_page": 10
-      }
+      },
+      "qkey": "d21a685918e11b2a"
     },
     {
       "n": 53,
       "section": "quantitative_aptitude",
-      "topic": "Algebra & Number System",
+      "topic": "Average",
       "render_mode": "text",
       "stem": "What is the average of all integers between 150 and 300 that are exactly divisible by 13?",
       "blocks": [
@@ -2374,8 +2530,10 @@
           "text": "What is the average of all integers between 150 and 300 that are exactly divisible by 13?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "220",
         "227.5",
@@ -2403,12 +2561,13 @@
         "opts_bottom": 398.3308799999999,
         "ans_top": 401.21088,
         "ans_page": 10
-      }
+      },
+      "qkey": "dbcd727c983403ef"
     },
     {
       "n": 54,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Average",
       "render_mode": "text",
       "stem": "The average of 12 numbers is\n75. The average of the first 5 numbers is\n68. The average of the next 5 numbers is 20% more than the average of the first 5 numbers. The 11th number is 12 more than the 12th number. What is the average of the 11th and 12th numbers?",
       "blocks": [
@@ -2427,8 +2586,10 @@
           "text": "The average of the next 5 numbers is 20% more than the average of the first 5 numbers. The 11th number is 12 more than the 12th number. What is the average of the 11th and 12th numbers?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "72.5",
         "76",
@@ -2456,12 +2617,13 @@
         "opts_bottom": 523.6308799999999,
         "ans_top": 526.51088,
         "ans_page": 10
-      }
+      },
+      "qkey": "022ba8145795bbe8"
     },
     {
       "n": 55,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Profit & Loss",
       "render_mode": "text",
       "stem": "A landlord bought a property for ₹12,00,000. He wants to earn a 10% annual return on his investment after paying ₹2,500 per month for maintenance. What should be the monthly rent he charges?",
       "blocks": [
@@ -2470,8 +2632,10 @@
           "text": "A landlord bought a property for ₹12,00,000. He wants to earn a 10% annual return on his investment after paying ₹2,500 per month for maintenance. What should be the monthly rent he charges?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹9,500",
         "₹10,000",
@@ -2499,13 +2663,14 @@
         "opts_bottom": 635.04088,
         "ans_top": 637.9208799999999,
         "ans_page": 10
-      }
+      },
+      "qkey": "da6b9f6bdbc158d4"
     },
     {
       "n": 56,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
-      "render_mode": "text",
+      "topic": "Ratio & Mixture",
+      "render_mode": "image_stem",
       "stem": "From a sample of 250 data scientists, determine the ratio of those proficient in Python to those proficient in R.\nCategory Number of Data Scientists\nProficient in Python and R 50\nProficient in Python only 80\nProficient in R only 70\nProficient in neither language 50\nTotal Sample Size 250",
       "blocks": [
         {
@@ -2537,8 +2702,37 @@
           "text": "Total Sample Size 250"
         }
       ],
-      "stem_image": null,
+      "table": {
+        "headers": [
+          "Category",
+          "Number of Data Scientists"
+        ],
+        "rows": [
+          [
+            "Proficient in Python and R",
+            "50"
+          ],
+          [
+            "Proficient in Python only",
+            "80"
+          ],
+          [
+            "Proficient in R only",
+            "70"
+          ],
+          [
+            "Proficient in neither language",
+            "50"
+          ],
+          [
+            "Total Sample Size",
+            "250"
+          ]
+        ]
+      },
+      "stem_image": "img/ssc-cgl-2025-09-12-s1/q056_stem.webp",
       "full_image": null,
+      "orig_image": "img/ssc-cgl-2025-09-12-s1/q056_orig.webp",
       "options": [
         "13:12",
         "12:13",
@@ -2553,7 +2747,7 @@
       ],
       "answer": 0,
       "passage_id": null,
-      "confidence": 1.0,
+      "confidence": 0.95,
       "warnings": [],
       "duplicate_of": null,
       "_bbox": {
@@ -2566,12 +2760,13 @@
         "opts_bottom": 147.94088,
         "ans_top": 150.82088,
         "ans_page": 11
-      }
+      },
+      "qkey": "0ffcd9b3858528ac"
     },
     {
       "n": 57,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Arrange the fractions 7/11, 5/9, 4/7, and 3/5 in ascending order.",
       "blocks": [
@@ -2580,8 +2775,10 @@
           "text": "Arrange the fractions 7/11, 5/9, 4/7, and 3/5 in ascending order."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "3/5, 4/7, 5/9, 7/11",
         "5/9, 4/7, 3/5, 7/11",
@@ -2609,12 +2806,13 @@
         "opts_bottom": 245.40087999999992,
         "ans_top": 248.04088000000002,
         "ans_page": 11
-      }
+      },
+      "qkey": "2c3294fe5f03e8d3"
     },
     {
       "n": 58,
       "section": "quantitative_aptitude",
-      "topic": "Algebra & Number System",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Evaluate:\n1 7 2 1 5 1\n8 −[ ÷{ −( ×( − ))}]\n3 9 5 3 6 6",
       "blocks": [
@@ -2635,8 +2833,10 @@
           "text": "3 9 5 3 6 6"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "-41/15",
         "45/23",
@@ -2664,12 +2864,13 @@
         "opts_bottom": 367.11087999999995,
         "ans_top": 370.01088,
         "ans_page": 11
-      }
+      },
+      "qkey": "3c15ddfa268be142"
     },
     {
       "n": 59,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Algebra",
       "render_mode": "text",
       "stem": "32³ + 19³ - 38³ + 312 is equal to:",
       "blocks": [
@@ -2678,8 +2879,10 @@
           "text": "32³ + 19³ - 38³ + 312 is equal to:"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "-38520",
         "-26840",
@@ -2707,7 +2910,8 @@
         "opts_bottom": 464.59087999999997,
         "ans_top": 467.47087999999997,
         "ans_page": 11
-      }
+      },
+      "qkey": "3e478f9d727eab8e"
     },
     {
       "n": 60,
@@ -2721,8 +2925,10 @@
           "text": "An amount is said to triple in 6 years with compound interest. How many years will it take for the amount to grow to 27 times its original value?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "18",
         "19",
@@ -2750,12 +2956,13 @@
         "opts_bottom": 575.98088,
         "ans_top": 578.86088,
         "ans_page": 11
-      }
+      },
+      "qkey": "f9e6d9016221a047"
     },
     {
       "n": 61,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Profit & Loss",
       "render_mode": "text",
       "stem": "A company produced 1500 units at a total cost of ₹1,20,000. It donated 300 units to an NGO. For the rest, it announced a 15% discount on the market price of ₹110 per unit. It also offered 3 units free for every 10 units purchased. If all 1500 units were distributed, what is the overall gain or loss percentage?",
       "blocks": [
@@ -2764,8 +2971,10 @@
           "text": "A company produced 1500 units at a total cost of ₹1,20,000. It donated 300 units to an NGO. For the rest, it announced a 15% discount on the market price of ₹110 per unit. It also offered 3 units free for every 10 units purchased. If all 1500 units were distributed, what is the overall gain or loss percentage?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "25% loss",
         "15% profit",
@@ -2793,12 +3002,13 @@
         "opts_bottom": 701.28088,
         "ans_top": 704.19088,
         "ans_page": 11
-      }
+      },
+      "qkey": "67d1e08972b991ac"
     },
     {
       "n": 62,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "A 50-litre mixture contains juice and water in the ratio 3:2. How much water (in litres) must be added to this mixture to change the ratio of juice to water to 3:4?",
       "blocks": [
@@ -2807,8 +3017,10 @@
           "text": "A 50-litre mixture contains juice and water in the ratio 3:2. How much water (in litres) must be added to this mixture to change the ratio of juice to water to 3:4?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "12 litres",
         "15 litres",
@@ -2836,12 +3048,13 @@
         "opts_bottom": 784.82688,
         "ans_top": 122.98087999999996,
         "ans_page": 12
-      }
+      },
+      "qkey": "74ae3fe34b249cb0"
     },
     {
       "n": 63,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "Priya purchased 30 litres of honey at ₹50 per litre. She also purchased 20 litres of honey at ₹55 per litre. She combined both quantities and then sold the entire mixture at ₹54 per litre. What was her total profit or loss?",
       "blocks": [
@@ -2850,8 +3063,10 @@
           "text": "Priya purchased 30 litres of honey at ₹50 per litre. She also purchased 20 litres of honey at ₹55 per litre. She combined both quantities and then sold the entire mixture at ₹54 per litre. What was her total profit or loss?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Loss of ₹60",
         "Profit of ₹100",
@@ -2879,7 +3094,8 @@
         "opts_bottom": 231.48087999999996,
         "ans_top": 234.36087999999995,
         "ans_page": 12
-      }
+      },
+      "qkey": "0c5fff17aa1fd94c"
     },
     {
       "n": 64,
@@ -2893,8 +3109,10 @@
           "text": "A sum becomes ₹7,200 in 2 years and ₹8,640 in 3 years at compound interest. What is the original principal?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹4,800",
         "₹5,000",
@@ -2922,7 +3140,8 @@
         "opts_bottom": 328.71088,
         "ans_top": 331.59087999999997,
         "ans_page": 12
-      }
+      },
+      "qkey": "cb234e30617c8c44"
     },
     {
       "n": 65,
@@ -2936,8 +3155,10 @@
           "text": "An express train covers a fixed distance in 40 minutes at an average speed of 200 km/h. Due to construction work, it needs to be diverted, increasing the distance by 25%. If the train needs to arrive at its destination on time (in 40 minutes), what should its new average speed be in km/h?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "250 km/h",
         "260 km/h",
@@ -2965,12 +3186,13 @@
         "opts_bottom": 454.01087999999993,
         "ans_top": 456.91087999999996,
         "ans_page": 12
-      }
+      },
+      "qkey": "090839eeca936f79"
     },
     {
       "n": 66,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "A circular garden having a radius of 28\ncm. If 80% of it is cultivated, what is the area of garden remaining uncultivated?",
       "blocks": [
@@ -2983,8 +3205,10 @@
           "text": "cm. If 80% of it is cultivated, what is the area of garden remaining uncultivated?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "193.6 cm²",
         "246.4 cm²",
@@ -3012,12 +3236,13 @@
         "opts_bottom": 565.4208799999999,
         "ans_top": 568.30088,
         "ans_page": 12
-      }
+      },
+      "qkey": "45d0f287c30f6451"
     },
     {
       "n": 67,
       "section": "quantitative_aptitude",
-      "topic": "Trigonometry",
+      "topic": "Time, Speed & Distance",
       "render_mode": "text",
       "stem": "Two motorcycles, M and N, start from points 480 km apart. They travel at constant speeds. If they move towards each other, they meet in 5 hours. If they move in the same direction, they meet in 15 hours. What is the speed of motorcycle M? (Assume M is the faster motorcycle)",
       "blocks": [
@@ -3026,8 +3251,10 @@
           "text": "Two motorcycles, M and N, start from points 480 km apart. They travel at constant speeds. If they move towards each other, they meet in 5 hours. If they move in the same direction, they meet in 15 hours. What is the speed of motorcycle M? (Assume M is the faster motorcycle)"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "55 km/h",
         "64 km/h",
@@ -3055,12 +3282,13 @@
         "opts_bottom": 690.72088,
         "ans_top": 693.60088,
         "ans_page": 12
-      }
+      },
+      "qkey": "cd7f97e3a0abf6df"
     },
     {
       "n": 68,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Ratio & Mixture",
       "render_mode": "text",
       "stem": "Two spices priced at ₹80 per kg and ₹160 per kg are blended. They are sold at ₹140 per kg, achieving a profit margin of 25%. What is the ratio of the two spices in the mixture?",
       "blocks": [
@@ -3069,8 +3297,10 @@
           "text": "Two spices priced at ₹80 per kg and ₹160 per kg are blended. They are sold at ₹140 per kg, achieving a profit margin of 25%. What is the ratio of the two spices in the mixture?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "3:2",
         "2:1",
@@ -3098,12 +3328,13 @@
         "opts_bottom": 788.18688,
         "ans_top": 109.03088000000002,
         "ans_page": 13
-      }
+      },
+      "qkey": "abe84348cab8da87"
     },
     {
       "n": 69,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Time & Work",
       "render_mode": "text",
       "stem": "X is able to complete a task in 12 days, while Y takes 18 days to finish the same task. If they collaborate and work together for 3 days, what fraction of the work will still remain?",
       "blocks": [
@@ -3112,8 +3343,10 @@
           "text": "X is able to complete a task in 12 days, while Y takes 18 days to finish the same task. If they collaborate and work together for 3 days, what fraction of the work will still remain?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1/3",
         "5/12",
@@ -3141,12 +3374,13 @@
         "opts_bottom": 217.56088,
         "ans_top": 220.44088,
         "ans_page": 13
-      }
+      },
+      "qkey": "11b5e8e6d3feb738"
     },
     {
       "n": 70,
       "section": "quantitative_aptitude",
-      "topic": "Syllogism & Deductive Logic",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Three pumps, A, B, and C are capable of filling a reservoir. A fills in 5 hours, B in 7 hours, and C in 10 hours. When all three pumps are opened together, they operate for 1.5 hours before pump C is closed. How much additional time will it take to completely fill the reservoir after that?",
       "blocks": [
@@ -3155,8 +3389,10 @@
           "text": "Three pumps, A, B, and C are capable of filling a reservoir. A fills in 5 hours, B in 7 hours, and C in 10 hours. When all three pumps are opened together, they operate for 1.5 hours before pump C is closed. How much additional time will it take to completely fill the reservoir after that?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1/2 hours",
         "43/25 hours",
@@ -3184,12 +3420,13 @@
         "opts_bottom": 342.63087999999993,
         "ans_top": 345.51088,
         "ans_page": 13
-      }
+      },
+      "qkey": "7d69c4b5a7a89ca9"
     },
     {
       "n": 71,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Profit & Loss",
       "render_mode": "text",
       "stem": "A retailer marks a laptop 70% above its cost price. He offers a first discount of 20% on the marked price. During a sale, an additional discount of 15% is applied on the already discounted price. If the final selling price is ₹39,312, what is the approximate cost price of the laptop?",
       "blocks": [
@@ -3198,8 +3435,10 @@
           "text": "A retailer marks a laptop 70% above its cost price. He offers a first discount of 20% on the marked price. During a sale, an additional discount of 15% is applied on the already discounted price. If the final selling price is ₹39,312, what is the approximate cost price of the laptop?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "₹28,000",
         "₹34,000",
@@ -3227,12 +3466,13 @@
         "opts_bottom": 467.9508799999999,
         "ans_top": 470.83088,
         "ans_page": 13
-      }
+      },
+      "qkey": "68624558496f7676"
     },
     {
       "n": 72,
       "section": "quantitative_aptitude",
-      "topic": "Ratio, Proportion & Mixture",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "An annular region has outer radius 12 cm and inner radius 8\ncm. What is the approximate ratio of the annular area to the whole outer circle?",
       "blocks": [
@@ -3245,8 +3485,10 @@
           "text": "cm. What is the approximate ratio of the annular area to the whole outer circle?"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "1:2",
         "5:9",
@@ -3274,12 +3516,13 @@
         "opts_bottom": 579.34088,
         "ans_top": 582.22088,
         "ans_page": 13
-      }
+      },
+      "qkey": "46d98537a618c018"
     },
     {
       "n": 73,
       "section": "quantitative_aptitude",
-      "topic": "Arithmetic & Percentage / Profit-Loss",
+      "topic": "Geometry",
       "render_mode": "text",
       "stem": "A car wheel having a radius of 42\ncm. What percentage of its circumference is covered in a half turn? (Use π = 22/7)",
       "blocks": [
@@ -3292,8 +3535,10 @@
           "text": "cm. What percentage of its circumference is covered in a half turn? (Use π = 22/7)"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "25%",
         "40%",
@@ -3321,12 +3566,13 @@
         "opts_bottom": 690.72088,
         "ans_top": 693.60088,
         "ans_page": 13
-      }
+      },
+      "qkey": "0ac4e70a3205c3e8"
     },
     {
       "n": 74,
       "section": "quantitative_aptitude",
-      "topic": "Geography & Environment",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "The line y = mx + 7 passes through (2, 13). Find m.",
       "blocks": [
@@ -3335,8 +3581,10 @@
           "text": "The line y = mx + 7 passes through (2, 13). Find m."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2",
         "3",
@@ -3364,12 +3612,13 @@
         "opts_bottom": 788.18688,
         "ans_top": 95.11087999999995,
         "ans_page": 14
-      }
+      },
+      "qkey": "a2bf9c21104d66e3"
     },
     {
       "n": 75,
       "section": "quantitative_aptitude",
-      "topic": "General",
+      "topic": "Number System",
       "render_mode": "text",
       "stem": "Simplify: (3 + 2.8) - 1.5",
       "blocks": [
@@ -3378,8 +3627,10 @@
           "text": "Simplify: (3 + 2.8) - 1.5"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "3.2",
         "4.3",
@@ -3407,12 +3658,13 @@
         "opts_bottom": 189.70087999999998,
         "ans_top": 192.58087999999998,
         "ans_page": 14
-      }
+      },
+      "qkey": "fb3fa2012c17207b"
     },
     {
       "n": 76,
       "section": "english",
-      "topic": "Spotting Errors & Sentence Correction",
+      "topic": "Error Spotting",
       "render_mode": "text",
       "stem": "Find the part of the sentence that contains an error:\nWhat makes the draft legislation especially contentious is not its proposed restructuring of fiscal authority per se, (1)/ but that it assumes, without empirical evidence, (2)/ a fiscal parity among states whose developmental starting points are (3)/ incomparable by any accepted standard. (4)",
       "blocks": [
@@ -3425,8 +3677,10 @@
           "text": "What makes the draft legislation especially contentious is not its proposed restructuring of fiscal authority per se, (1)/ but that it assumes, without empirical evidence, (2)/ a fiscal parity among states whose developmental starting points are (3)/ incomparable by any accepted standard. (4)"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "(1)",
         "(2)",
@@ -3454,12 +3708,13 @@
         "opts_bottom": 328.71088,
         "ans_top": 331.59087999999997,
         "ans_page": 14
-      }
+      },
+      "qkey": "70940eb4b0f2b36f"
     },
     {
       "n": 77,
       "section": "english",
-      "topic": "Geography & Environment",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Change the following from active to passive:\nThey have been ignoring preservation of the records for years.",
       "blocks": [
@@ -3472,8 +3727,10 @@
           "text": "They have been ignoring preservation of the records for years."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Preservation of the records had been ignored by them for years.",
         "Preservation of the records is being ignored by them for years.",
@@ -3501,7 +3758,8 @@
         "opts_bottom": 440.09087999999997,
         "ans_top": 442.97087999999997,
         "ans_page": 14
-      }
+      },
+      "qkey": "828af44cc5c77937"
     },
     {
       "n": 78,
@@ -3515,8 +3773,10 @@
           "text": "Convert the sentence provided below from its passive voice structure to an active voice structure: It was being reported by several sources that the mission had been compromised internally."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Several sources were reporting that the mission had been compromised internally.",
         "The mission was compromised, several sources reported.",
@@ -3544,12 +3804,13 @@
         "opts_bottom": 551.5008799999999,
         "ans_top": 554.3808799999999,
         "ans_page": 14
-      }
+      },
+      "qkey": "0bdda33e332db63b"
     },
     {
       "n": 79,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the correct option:\nThe company expanded so quickly that its systems could _______ keep up.",
       "blocks": [
@@ -3562,8 +3823,10 @@
           "text": "The company expanded so quickly that its systems could _______ keep up."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "barely",
         "merely",
@@ -3591,12 +3854,13 @@
         "opts_bottom": 662.8808799999999,
         "ans_top": 665.7608799999999,
         "ans_page": 14
-      }
+      },
+      "qkey": "62a49fb234cdf5c9"
     },
     {
       "n": 80,
       "section": "english",
-      "topic": "Para Jumbles & Sentence Rearrangement",
+      "topic": "Para Jumbles",
       "render_mode": "text",
       "stem": "Rearrange the following sentences in correct order to make a logical passage:\n1. A communication strategy was developed using outreach insights.\n2. Demographic data was monitored through campaign dashboards.\n3. User engagement was gathered from multiple platforms.\n4. Analysts classified users according to age and behaviour.",
       "blocks": [
@@ -3625,8 +3889,10 @@
           "text": "Analysts classified users according to age and behaviour."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "3-2-4-1",
         "2-3-1-4",
@@ -3654,12 +3920,13 @@
         "opts_bottom": 788.18688,
         "ans_top": 122.98087999999996,
         "ans_page": 15
-      }
+      },
+      "qkey": "d03b7c40d20ee589"
     },
     {
       "n": 81,
       "section": "english",
-      "topic": "Para Jumbles & Sentence Rearrangement",
+      "topic": "Para Jumbles",
       "render_mode": "text",
       "stem": "Rearrange the following sentences to form a coherent paragraph:\n1. It is a process that involves systematic and objective examination of a subject to uncover new facts or verify existing ones.\n2. Research serves as a fundamental pillar of academic and scientific advancement.\n3. This may be either theoretical, intended to broaden knowledge, or applied, designed to address a practical problem.\n4. The results of this investigation are then recorded and peer-reviewed to ensure validity and credibility.",
       "blocks": [
@@ -3688,8 +3955,10 @@
           "text": "The results of this investigation are then recorded and peer-reviewed to ensure validity and credibility."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "2, 1, 3, 4",
         "1, 2, 4, 3",
@@ -3717,7 +3986,8 @@
         "opts_bottom": 300.87087999999994,
         "ans_top": 303.75087999999994,
         "ans_page": 15
-      }
+      },
+      "qkey": "b7c271b7fd09dead"
     },
     {
       "n": 82,
@@ -3735,8 +4005,10 @@
           "text": "He said that he would attend the meeting after the meal."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "“I will attend the meeting after the meal,” he said.",
         "“I would attend the meeting after the meal,” he said.",
@@ -3764,12 +4036,13 @@
         "opts_bottom": 426.17087999999995,
         "ans_top": 429.05088,
         "ans_page": 15
-      }
+      },
+      "qkey": "48aaa517475eb2ba"
     },
     {
       "n": 83,
       "section": "english",
-      "topic": "Spotting Errors & Sentence Correction",
+      "topic": "Error Spotting",
       "render_mode": "text",
       "stem": "Find the part of the sentence that contains an error:\nThat the report overlooked several underlying causes (1)/ behind the public unrest were surprising (2)/ given the volume of evidence (3)/ collected over the past few months. (4)",
       "blocks": [
@@ -3782,8 +4055,10 @@
           "text": "That the report overlooked several underlying causes (1)/ behind the public unrest were surprising (2)/ given the volume of evidence (3)/ collected over the past few months. (4)"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "(1)",
         "(2)",
@@ -3811,7 +4086,8 @@
         "opts_bottom": 551.5008799999999,
         "ans_top": 554.3808799999999,
         "ans_page": 15
-      }
+      },
+      "qkey": "54816a427e55817e"
     },
     {
       "n": 84,
@@ -3825,8 +4101,10 @@
           "text": "Choose the correct one-word substitute for: ' A person who speaks two languages fluently’."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Accusation",
         "Denunciation",
@@ -3854,12 +4132,13 @@
         "opts_bottom": 648.96088,
         "ans_top": 651.84088,
         "ans_page": 15
-      }
+      },
+      "qkey": "76fb24b3d5d156a9"
     },
     {
       "n": 85,
       "section": "english",
-      "topic": "Data Interpretation & Statistics",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Choose the most suitable option to replace the highlighted part of the sentence:\nThe doctor advised him to stop consuming junk food and doing workouts regularly.",
       "blocks": [
@@ -3872,8 +4151,10 @@
           "text": "The doctor advised him to stop consuming junk food and doing workouts regularly."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "stopping junk food and doing regular workouts",
         "to stop junk food and to workouts regularly",
@@ -3901,12 +4182,13 @@
         "opts_bottom": 760.3468799999999,
         "ans_top": 763.2268799999999,
         "ans_page": 15
-      }
+      },
+      "qkey": "6b6bf0ca104741fd"
     },
     {
       "n": 86,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the correct option:\nEven though the phenomenon is uncommon, it may still occur _________ prolonged drought conditions.",
       "blocks": [
@@ -3919,8 +4201,10 @@
           "text": "Even though the phenomenon is uncommon, it may still occur _________ prolonged drought conditions."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "towards",
         "amidst",
@@ -3948,12 +4232,13 @@
         "opts_bottom": 175.7808799999999,
         "ans_top": 178.66088000000002,
         "ans_page": 16
-      }
+      },
+      "qkey": "4316f34f37d00545"
     },
     {
       "n": 87,
       "section": "english",
-      "topic": "Spelling Correction",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Spot the correct spelling of a CSF-shunt procedure.",
       "blocks": [
@@ -3962,8 +4247,10 @@
           "text": "Spot the correct spelling of a CSF-shunt procedure."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Ventriculoatrial",
         "Ventriculoartial",
@@ -3991,7 +4278,8 @@
         "opts_bottom": 273.00087999999994,
         "ans_top": 275.88087999999993,
         "ans_page": 16
-      }
+      },
+      "qkey": "b85b7acfe739d60d"
     },
     {
       "n": 88,
@@ -4009,8 +4297,10 @@
           "text": "At sixes and sevens"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "A dilemma between two evils",
         "A free and fair decision",
@@ -4038,12 +4328,13 @@
         "opts_bottom": 384.41087999999996,
         "ans_top": 387.29087999999996,
         "ans_page": 16
-      }
+      },
+      "qkey": "e53986e90538196d"
     },
     {
       "n": 89,
       "section": "english",
-      "topic": "Spelling Correction",
+      "topic": "Spelling",
       "render_mode": "text",
       "stem": "Identify the misspelt word",
       "blocks": [
@@ -4052,8 +4343,10 @@
           "text": "Identify the misspelt word"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Vicereine",
         "floccinaucinihilipilification",
@@ -4081,12 +4374,13 @@
         "opts_bottom": 481.87087999999994,
         "ans_top": 484.75088,
         "ans_page": 16
-      }
+      },
+      "qkey": "82bcb8009b04cd7f"
     },
     {
       "n": 90,
       "section": "english",
-      "topic": "Vocabulary: Synonyms & Antonyms",
+      "topic": "Synonyms & Antonyms",
       "render_mode": "text",
       "stem": "Select the most appropriate synonym of the given word:\nDUPLICITOUS",
       "blocks": [
@@ -4099,8 +4393,10 @@
           "text": "DUPLICITOUS"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Honest",
         "Faithful",
@@ -4128,12 +4424,13 @@
         "opts_bottom": 593.2608799999999,
         "ans_top": 596.1408799999999,
         "ans_page": 16
-      }
+      },
+      "qkey": "a6987f7527c88c4b"
     },
     {
       "n": 91,
       "section": "english",
-      "topic": "Blood Relations",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "As per the passage, wisdom is mainly developed through:\nRead the following passage and answer the questions based on the passage:\nEducation and wisdom are frequently treated as interchangeable in everyday discourse, yet a perceptive observer recognises a clear and essential distinction between them. Education refers to the structured acquisition of knowledge, typically validated through degrees, academic achievements, and mastery of formal disciplines. It is imparted via organized curricula, institutional evaluation systems, and theoretical models that emphasize intellectual competence.\nWisdom, however, extends beyond formal learning. It represents the thoughtful and ethical application of knowledge in real-world situations, shaped by experience, self-reflection, emotional intelligence, and moral awareness. A person may be highly educated and still lack wisdom if they are unable to translate learning into sound judgement or responsible action. In contrast, many individuals—such as farmers, craftsmen, or elders— may possess limited formal education, yet demonstrate remarkable wisdom through prudent choices informed by lived experience and practical insight.\nWhile education sharpens the intellect, wisdom deepens understanding. In the modern age of information overload and algorithm-driven thinking, the gap between education and wisdom has become increasingly pronounced. Educational systems often prioritise rote learning, examination performance, and standardized outcomes, sometimes at the expense of critical thinking, ethical reasoning, and emotional maturity. As a result, society produces individuals adept at solving technical problems but less capable of making balanced decisions that require empathy, patience, and foresight.\nUnlike education, wisdom cannot be downloaded, accelerated, or certified. It develops gradually through trial and error, failure, reflection, and a nuanced comprehension of human behaviour. Moreover, education is often temporally limited, concluding with academic milestones or formal qualifications, whereas wisdom is a lifelong pursuit. It reveals itself not through certificates, but through humility, consistency in ethical conduct, and the capacity to navigate uncertainty with clarity and grace.\nUltimately, the highest form of intelligence lies not merely in knowing what is right, but in consistently choosing to act upon it—even when doing so is difficult or inconvenient.",
       "blocks": [
@@ -4166,8 +4463,10 @@
           "text": "Ultimately, the highest form of intelligence lies not merely in knowing what is right, but in consistently choosing to act upon it—even when doing so is difficult or inconvenient."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "textbooks",
         "emotional detachment",
@@ -4195,12 +4494,13 @@
         "opts_bottom": 356.55087999999995,
         "ans_top": 359.43088,
         "ans_page": 17
-      }
+      },
+      "qkey": "3e415639faa52fb7"
     },
     {
       "n": 92,
       "section": "english",
-      "topic": "Blood Relations",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "What is implied by the statement “wisdom enriches the soul”?\nRead the following passage and answer the questions based on the passage:\nEducation and wisdom are frequently treated as interchangeable in everyday discourse, yet a perceptive observer recognises a clear and essential distinction between them. Education refers to the structured acquisition of knowledge, typically validated through degrees, academic achievements, and mastery of formal disciplines. It is imparted via organized curricula, institutional evaluation systems, and theoretical models that emphasize intellectual competence.\nWisdom, however, extends beyond formal learning. It represents the thoughtful and ethical application of knowledge in real-world situations, shaped by experience, self-reflection, emotional intelligence, and moral awareness. A person may be highly educated and still lack wisdom if they are unable to translate learning into sound judgement or responsible action. In contrast, many individuals—such as farmers, craftsmen, or elders— may possess limited formal education, yet demonstrate remarkable wisdom through prudent choices informed by lived experience and practical insight.\nWhile education sharpens the intellect, wisdom deepens understanding. In the modern age of information overload and algorithm-driven thinking, the gap between education and wisdom has become increasingly pronounced. Educational systems often prioritise rote learning, examination performance, and standardized outcomes, sometimes at the expense of critical thinking, ethical reasoning, and emotional maturity. As a result, society produces individuals adept at solving technical problems but less capable of making balanced decisions that require empathy, patience, and foresight.\nUnlike education, wisdom cannot be downloaded, accelerated, or certified. It develops gradually through trial and error, failure, reflection, and a nuanced comprehension of human behaviour. Moreover, education is often temporally limited, concluding with academic milestones or formal qualifications, whereas wisdom is a lifelong pursuit. It reveals itself not through certificates, but through humility, consistency in ethical conduct, and the capacity to navigate uncertainty with clarity and grace.\nUltimately, the highest form of intelligence lies not merely in knowing what is right, but in consistently choosing to act upon it—even when doing so is difficult or inconvenient.",
       "blocks": [
@@ -4233,8 +4533,10 @@
           "text": "Ultimately, the highest form of intelligence lies not merely in knowing what is right, but in consistently choosing to act upon it—even when doing so is difficult or inconvenient."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "It leads to academic achievement",
         "It nurtures profound moral understanding",
@@ -4262,12 +4564,13 @@
         "opts_bottom": 788.18688,
         "ans_top": 109.03088000000002,
         "ans_page": 18
-      }
+      },
+      "qkey": "ef03422218c0822d"
     },
     {
       "n": 93,
       "section": "english",
-      "topic": "Blood Relations",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "According to the author, which individuals may possess wisdom even without formal education? Read the following passage and answer the questions based on the passage:\nEducation and wisdom are frequently treated as interchangeable in everyday discourse, yet a perceptive observer recognises a clear and essential distinction between them. Education refers to the structured acquisition of knowledge, typically validated through degrees, academic achievements, and mastery of formal disciplines. It is imparted via organized curricula, institutional evaluation systems, and theoretical models that emphasize intellectual competence.\nWisdom, however, extends beyond formal learning. It represents the thoughtful and ethical application of knowledge in real-world situations, shaped by experience, self-reflection, emotional intelligence, and moral awareness. A person may be highly educated and still lack wisdom if they are unable to translate learning into sound judgement or responsible action. In contrast, many individuals—such as farmers, craftsmen, or elders— may possess limited formal education, yet demonstrate remarkable wisdom through prudent choices informed by lived experience and practical insight.\nWhile education sharpens the intellect, wisdom deepens understanding. In the modern age of information overload and algorithm-driven thinking, the gap between education and wisdom has become increasingly pronounced. Educational systems often prioritise rote learning, examination performance, and standardized outcomes, sometimes at the expense of critical thinking, ethical reasoning, and emotional maturity. As a result, society produces individuals adept at solving technical problems but less capable of making balanced decisions that require empathy, patience, and foresight.\nUnlike education, wisdom cannot be downloaded, accelerated, or certified. It develops gradually through trial and error, failure, reflection, and a nuanced comprehension of human behaviour. Moreover, education is often temporally limited, concluding with academic milestones or formal qualifications, whereas wisdom is a lifelong pursuit. It reveals itself not through certificates, but through humility, consistency in ethical conduct, and the capacity to navigate uncertainty with clarity and grace.\nUltimately, the highest form of intelligence lies not merely in knowing what is right, but in consistently choosing to act upon it—even when doing so is difficult or inconvenient.",
       "blocks": [
@@ -4296,8 +4599,10 @@
           "text": "Ultimately, the highest form of intelligence lies not merely in knowing what is right, but in consistently choosing to act upon it—even when doing so is difficult or inconvenient."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Corporate executives",
         "Academicians",
@@ -4325,12 +4630,13 @@
         "opts_bottom": 551.5008799999999,
         "ans_top": 554.3808799999999,
         "ans_page": 18
-      }
+      },
+      "qkey": "c983fa523dc089bb"
     },
     {
       "n": 94,
       "section": "english",
-      "topic": "Blood Relations",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "What key distinction does the passage primarily highlight?\nRead the following passage and answer the questions based on the passage:\nEducation and wisdom are frequently treated as interchangeable in everyday discourse, yet a perceptive observer recognises a clear and essential distinction between them. Education refers to the structured acquisition of knowledge, typically validated through degrees, academic achievements, and mastery of formal disciplines. It is imparted via organized curricula, institutional evaluation systems, and theoretical models that emphasize intellectual competence.\nWisdom, however, extends beyond formal learning. It represents the thoughtful and ethical application of knowledge in real-world situations, shaped by experience, self-reflection, emotional intelligence, and moral awareness. A person may be highly educated and still lack wisdom if they are unable to translate learning into sound judgement or responsible action. In contrast, many individuals—such as farmers, craftsmen, or elders— may possess limited formal education, yet demonstrate remarkable wisdom through prudent choices informed by lived experience and practical insight.\nWhile education sharpens the intellect, wisdom deepens understanding. In the modern age of information overload and algorithm-driven thinking, the gap between education and wisdom has become increasingly pronounced. Educational systems often prioritise rote learning, examination performance, and standardized outcomes, sometimes at the expense of critical thinking, ethical reasoning, and emotional maturity. As a result, society produces individuals adept at solving technical problems but less capable of making balanced decisions that require empathy, patience, and foresight.\nUnlike education, wisdom cannot be downloaded, accelerated, or certified. It develops gradually through trial and error, failure, reflection, and a nuanced comprehension of human behaviour. Moreover, education is often temporally limited, concluding with academic milestones or formal qualifications, whereas wisdom is a lifelong pursuit. It reveals itself not through certificates, but through humility, consistency in ethical conduct, and the capacity to navigate uncertainty with clarity and grace.\nUltimately, the highest form of intelligence lies not merely in knowing what is right, but in consistently choosing to act upon it—even when doing so is difficult or inconvenient.",
       "blocks": [
@@ -4363,8 +4669,10 @@
           "text": "Ultimately, the highest form of intelligence lies not merely in knowing what is right, but in consistently choosing to act upon it—even when doing so is difficult or inconvenient."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Education and career growth",
         "Intelligence and memory",
@@ -4392,12 +4700,13 @@
         "opts_bottom": 300.87087999999994,
         "ans_top": 303.75087999999994,
         "ans_page": 19
-      }
+      },
+      "qkey": "036d01f4d092f523"
     },
     {
       "n": 95,
       "section": "english",
-      "topic": "Blood Relations",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": ". As per the author, what has contributed to the growing divide between education and wisdom in modern times?\nRead the following passage and answer the questions based on the passage:\nEducation and wisdom are frequently treated as interchangeable in everyday discourse, yet a perceptive observer recognises a clear and essential distinction between them. Education refers to the structured acquisition of knowledge, typically validated through degrees, academic achievements, and mastery of formal disciplines. It is imparted via organized curricula, institutional evaluation systems, and theoretical models that emphasize intellectual competence.\nWisdom, however, extends beyond formal learning. It represents the thoughtful and ethical application of knowledge in real-world situations, shaped by experience, self-reflection, emotional intelligence, and moral awareness. A person may be highly educated and still lack wisdom if they are unable to translate learning into sound judgement or responsible action. In contrast, many individuals—such as farmers, craftsmen, or elders— may possess limited formal education, yet demonstrate remarkable wisdom through prudent choices informed by lived experience and practical insight.\nWhile education sharpens the intellect, wisdom deepens understanding. In the modern age of information overload and algorithm-driven thinking, the gap between education and wisdom has become increasingly pronounced. Educational systems often prioritise rote learning, examination performance, and standardized outcomes, sometimes at the expense of critical thinking, ethical reasoning, and emotional maturity. As a result, society produces individuals adept at solving technical problems but less capable of making balanced decisions that require empathy, patience, and foresight.\nUnlike education, wisdom cannot be downloaded, accelerated, or certified. It develops gradually through trial and error, failure, reflection, and a nuanced comprehension of human behaviour. Moreover, education is often temporally limited, concluding with academic milestones or formal qualifications, whereas wisdom is a lifelong pursuit. It reveals itself not through certificates, but through humility, consistency in ethical conduct, and the capacity to navigate uncertainty with clarity and grace.\nUltimately, the highest form of intelligence lies not merely in knowing what is right, but in consistently choosing to act upon it—even when doing so is difficult or inconvenient.",
       "blocks": [
@@ -4430,8 +4739,10 @@
           "text": "Ultimately, the highest form of intelligence lies not merely in knowing what is right, but in consistently choosing to act upon it—even when doing so is difficult or inconvenient."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Excessive reliance on social media",
         "Decline in the value placed on wisdom",
@@ -4459,12 +4770,13 @@
         "opts_bottom": 760.3468799999999,
         "ans_top": 763.2268799999999,
         "ans_page": 19
-      }
+      },
+      "qkey": "ad51aaa7aceac857"
     },
     {
       "n": 96,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the correct option:\nEven though the plan looked workable on paper, executing it turned out to be ________ complicated than expected.",
       "blocks": [
@@ -4477,8 +4789,10 @@
           "text": "Even though the plan looked workable on paper, executing it turned out to be ________ complicated than expected."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "less",
         "more",
@@ -4506,12 +4820,13 @@
         "opts_bottom": 175.7808799999999,
         "ans_top": 178.66088000000002,
         "ans_page": 21
-      }
+      },
+      "qkey": "3586f9125e9cf3b1"
     },
     {
       "n": 97,
       "section": "english",
-      "topic": "Vocabulary: Synonyms & Antonyms",
+      "topic": "Synonyms & Antonyms",
       "render_mode": "text",
       "stem": "Select the most appropriate antonym of the given word.\nDUPLICITOUS",
       "blocks": [
@@ -4524,8 +4839,10 @@
           "text": "DUPLICITOUS"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "Betraying",
         "Deceitful",
@@ -4553,12 +4870,13 @@
         "opts_bottom": 286.9208799999999,
         "ans_top": 289.83088,
         "ans_page": 21
-      }
+      },
+      "qkey": "cd54bed8111c4d4f"
     },
     {
       "n": 98,
       "section": "english",
-      "topic": "Data Interpretation & Statistics",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Choose the most suitable option to replace the highlighted part of the sentence:\nShe has the reputation to be an honest leader.",
       "blocks": [
@@ -4571,8 +4889,10 @@
           "text": "She has the reputation to be an honest leader."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "to have honesty",
         "of being an honest leader",
@@ -4600,7 +4920,8 @@
         "opts_bottom": 398.3308799999999,
         "ans_top": 401.21088,
         "ans_page": 21
-      }
+      },
+      "qkey": "9727a601fcfcf3ef"
     },
     {
       "n": 99,
@@ -4618,8 +4939,10 @@
           "text": "He asked me, “Did you submit your homework?”"
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "He asked me if I had submitted my homework.",
         "He asked me did I submit my homework.",
@@ -4647,12 +4970,13 @@
         "opts_bottom": 523.6308799999999,
         "ans_top": 526.51088,
         "ans_page": 21
-      }
+      },
+      "qkey": "dccd412102ad9f99"
     },
     {
       "n": 100,
       "section": "english",
-      "topic": "General",
+      "topic": "Reading Comprehension",
       "render_mode": "text",
       "stem": "Select the sentence containing the homonym of the highlighted word:\nThe choir began the canon at the conductor’s signal.",
       "blocks": [
@@ -4665,8 +4989,10 @@
           "text": "The choir began the canon at the conductor’s signal."
         }
       ],
+      "table": null,
       "stem_image": null,
       "full_image": null,
+      "orig_image": null,
       "options": [
         "The photographer adjusted the canon before taking the shot.",
         "The canon echoed beautifully through the hall.",
@@ -4694,7 +5020,8 @@
         "opts_bottom": 635.04088,
         "ans_top": 637.9208799999999,
         "ans_page": 21
-      }
+      },
+      "qkey": "c2ecbfc412bc353b"
     }
   ]
 }

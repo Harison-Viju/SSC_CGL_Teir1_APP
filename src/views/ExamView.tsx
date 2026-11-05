@@ -32,6 +32,7 @@ import {
   saveInProgressAttempt,
   clearInProgressAttempt,
   saveAttemptSummary,
+  recordAnswer,
 } from "../db";
 import type { ExamTest, Question, InProgressAttempt } from "../types";
 
@@ -39,6 +40,7 @@ const SECTION_SHORT_NAMES: Record<string, string> = {
   reasoning: "Reasoning",
   general_awareness: "Gen Awareness",
   quantitative_aptitude: "Quant",
+  english: "English",
   english_comprehension: "English",
 };
 
@@ -106,7 +108,20 @@ export const ExamView: React.FC = () => {
   }, [test, mode, selectedSectionParam, activeSectionIndex, settings.strictSections]);
 
   const currentQuestion: Question | undefined = activeQuestions[currentQIndex];
-  const activeSection = test?.sections[activeSectionIndex];
+
+  // Derive activeSection dynamically: always matches current question's section or selected section
+  const activeSection = React.useMemo(() => {
+    if (!test) return undefined;
+    if (currentQuestion?.section) {
+      const found = test.sections.find((s) => s.id === currentQuestion.section);
+      if (found) return found;
+    }
+    if (mode === "section" && selectedSectionParam) {
+      const found = test.sections.find((s) => s.id === selectedSectionParam);
+      if (found) return found;
+    }
+    return test.sections[activeSectionIndex] || test.sections[0];
+  }, [test, currentQuestion?.section, mode, selectedSectionParam, activeSectionIndex]);
 
   // Record time spent on current question
   const recordQuestionTime = useCallback(() => {
@@ -137,6 +152,23 @@ export const ExamView: React.FC = () => {
     );
 
     await saveAttemptSummary(summary);
+
+    // Record question history for topic mastery and sprint prioritization
+    for (const q of test.questions) {
+      if (!q.qkey) continue;
+      const userAns = answers[q.n];
+      const spentSec = timeSpentPerQuestion[q.n] || 0;
+      let result: "correct" | "wrong" | "skipped" = "skipped";
+      if (userAns !== undefined && userAns !== null) {
+        result = userAns === q.answer ? "correct" : "wrong";
+      }
+      await recordAnswer({
+        qkey: q.qkey,
+        result,
+        timeMs: spentSec * 1000,
+      });
+    }
+
     if (testId) {
       await clearInProgressAttempt(testId);
     }
@@ -194,12 +226,19 @@ export const ExamView: React.FC = () => {
         const secSecs = 15 * 60;
         setSectionEndsAt(now + secSecs * 1000);
         setSectionRemainingSeconds(secSecs);
+
+        if (mode === "section" && selectedSectionParam) {
+          const sIdx = data.sections.findIndex((s) => s.id === selectedSectionParam);
+          if (sIdx !== -1) {
+            setActiveSectionIndex(sIdx);
+          }
+        }
       }
 
       setLoading(false);
       questionStartRef.current = Date.now();
     });
-  }, [testId, isResume, fetchTest]);
+  }, [testId, isResume, mode, selectedSectionParam, fetchTest]);
 
   // Transition to next section and lock previous section
   const advanceToNextSection = useCallback(() => {
@@ -265,6 +304,15 @@ export const ExamView: React.FC = () => {
       setVisited((prev) => ({ ...prev, [currentQuestion.n]: true }));
     }
   }, [currentQuestion]);
+
+  // Synchronize activeSectionIndex with current question's section
+  useEffect(() => {
+    if (!test || !currentQuestion) return;
+    const targetSecIndex = test.sections.findIndex((s) => s.id === currentQuestion.section);
+    if (targetSecIndex !== -1 && targetSecIndex !== activeSectionIndex) {
+      setActiveSectionIndex(targetSecIndex);
+    }
+  }, [test, currentQuestion?.n, currentQuestion?.section, activeSectionIndex]);
 
   // Autosave to IndexedDB periodically
   useEffect(() => {
@@ -447,7 +495,12 @@ export const ExamView: React.FC = () => {
                     if (!settings.strictSections) {
                       recordQuestionTime();
                       setActiveSectionIndex(idx);
-                      setCurrentQIndex(0);
+                      const targetQIdx = activeQuestions.findIndex((q) => q.section === sec.id);
+                      if (targetQIdx !== -1) {
+                        setCurrentQIndex(targetQIdx);
+                      } else {
+                        setCurrentQIndex(0);
+                      }
                     }
                   }}
                   disabled={settings.strictSections && idx !== activeSectionIndex}
@@ -605,7 +658,12 @@ export const ExamView: React.FC = () => {
                     if (!settings.strictSections) {
                       recordQuestionTime();
                       setActiveSectionIndex(idx);
-                      setCurrentQIndex(0);
+                      const targetQIdx = activeQuestions.findIndex((q) => q.section === sec.id);
+                      if (targetQIdx !== -1) {
+                        setCurrentQIndex(targetQIdx);
+                      } else {
+                        setCurrentQIndex(0);
+                      }
                     }
                   }}
                   disabled={settings.strictSections && idx !== activeSectionIndex}

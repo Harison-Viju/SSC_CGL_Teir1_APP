@@ -43,11 +43,28 @@ export interface Question {
   full_image?: string | null;
   options: string[];
   raw_options?: string[];
-  answer: number; // 0..3 (A..D)
+  orig_image?: string | null;
+  table?: {
+    headers: string[];
+    rows: string[][];
+  };
   passage_id?: string | null;
   confidence?: number;
   warnings?: string[];
   duplicate_of?: string | null;
+  qkey?: string;
+  answer: number;
+  _bbox?: {
+    page?: number;
+    min_page?: number;
+    max_page?: number;
+    stem_top?: number;
+    stem_bottom?: number;
+    first_opt_top?: number;
+    opts_bottom?: number;
+    ans_top?: number;
+    ans_page?: number;
+  };
 }
 
 export interface ExamTest {
@@ -229,4 +246,32 @@ export interface LeaderboardEntry {
     quants: number;
     english: number;
   };
+}
+
+export interface QuestionStat {
+  qkey: string;
+  attempts: number;
+  correct: number;
+  wrong: number;
+  skipped: number;
+  lastAnsweredAt: string;
+  lastResult: "correct" | "wrong" | "skipped";
+  totalTimeMs: number;
+}
+
+export interface TopicStatsResult {
+  total: number;
+  attempted: number;
+  accuracy: number;
+  masteryLevel: 0 | 1 | 2 | 3;
+}
+
+export interface TopicMeta {
+  id: string;
+  name: string;
+  section: string;
+  count: number;
+  uniqueCount: number;
+  small: boolean;
+  average_confidence?: number;
 }

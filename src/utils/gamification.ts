@@ -65,3 +65,58 @@ export function calculateQuestionXp(isCorrect: boolean, currentStreak: number): 
   }
   return xp;
 }
+
+export type LeagueTier = "Bronze" | "Silver" | "Gold" | "Platinum" | "Diamond";
+
+export function getLeagueTier(xp: number): LeagueTier {
+  if (xp >= 1500) return "Diamond";
+  if (xp >= 1000) return "Platinum";
+  if (xp >= 600) return "Gold";
+  if (xp >= 250) return "Silver";
+  return "Bronze";
+}
+
+export function getTierColor(tier: LeagueTier): {
+  bg: string;
+  text: string;
+  border: string;
+  badge: string;
+} {
+  switch (tier) {
+    case "Diamond":
+      return {
+        bg: "bg-cyan-500/10 text-cyan-400 border-cyan-500/30",
+        text: "text-cyan-400",
+        border: "border-cyan-500/40",
+        badge: "bg-gradient-to-r from-cyan-500 to-blue-500 text-white",
+      };
+    case "Platinum":
+      return {
+        bg: "bg-violet-500/10 text-violet-400 border-violet-500/30",
+        text: "text-violet-400",
+        border: "border-violet-500/40",
+        badge: "bg-gradient-to-r from-violet-500 to-purple-500 text-white",
+      };
+    case "Gold":
+      return {
+        bg: "bg-amber-500/10 text-amber-400 border-amber-500/30",
+        text: "text-amber-400",
+        border: "border-amber-500/40",
+        badge: "bg-gradient-to-r from-amber-500 to-yellow-500 text-slate-950 font-bold",
+      };
+    case "Silver":
+      return {
+        bg: "bg-slate-300/10 text-slate-300 border-slate-400/30",
+        text: "text-slate-300",
+        border: "border-slate-400/40",
+        badge: "bg-gradient-to-r from-slate-300 to-slate-400 text-slate-900 font-bold",
+      };
+    case "Bronze":
+      return {
+        bg: "bg-amber-700/10 text-amber-600 border-amber-700/30",
+        text: "text-amber-600",
+        border: "border-amber-700/40",
+        badge: "bg-gradient-to-r from-amber-700 to-orange-800 text-white",
+      };
+  }
+}

@@ -73,12 +73,9 @@ class QuestionCropper:
     ) -> Dict[str, Optional[str]]:
         """Generate cropped WebP image for a question based on its render_mode.
         
-        Returns dict with keys: 'stem_image', 'full_image'.
+        Returns dict with keys: 'stem_image', 'full_image', 'orig_image'.
         """
         mode = q.get("render_mode", "text")
-        if mode == "text":
-            return {"stem_image": None, "full_image": None}
-
         os.makedirs(output_dir, exist_ok=True)
         q_num = q["n"]
         bbox = q.get("_bbox", {})
@@ -91,18 +88,28 @@ class QuestionCropper:
 
         stem_image_path = None
         full_image_path = None
+        orig_image_path = None
+
+        # Always generate original question crop for 'View original' side-by-side inspection
+        orig_filename = f"q{q_num:03d}_orig.webp"
+        orig_file_abs = os.path.join(output_dir, orig_filename)
+        top_pt = max(88.0, stem_top - 4.0)
+        if ans_page == page and ans_top and ans_top > top_pt:
+            bottom_pt = ans_top - 3.0
+        else:
+            bottom_pt = max(stem_bottom, opts_bottom) + 4.0
+
+        try:
+            cropped_orig = self.crop_bbox(page, top_pt, bottom_pt)
+            trimmed_orig = self.trim_whitespace(cropped_orig)
+            trimmed_orig.convert("RGB").save(orig_file_abs, "WEBP", quality=self.quality, method=6)
+            orig_image_path = f"img/{test_id}/{orig_filename}"
+        except Exception as e:
+            print(f"[Warning] Failed to crop orig_image for Q{q_num}: {e}")
 
         if mode == "image_full":
             filename = f"q{q_num:03d}_full.webp"
             file_abs_path = os.path.join(output_dir, filename)
-            
-            # For image_full: start at stem_top - 4, end right above ans_top (if on same page)
-            top_pt = max(88.0, stem_top - 4.0)
-            if ans_page == page and ans_top and ans_top > top_pt:
-                bottom_pt = ans_top - 3.0
-            else:
-                bottom_pt = max(stem_bottom, opts_bottom) + 4.0
-
             cropped = self.crop_bbox(page, top_pt, bottom_pt)
             trimmed = self.trim_whitespace(cropped)
             trimmed.convert("RGB").save(file_abs_path, "WEBP", quality=self.quality, method=6)
@@ -112,10 +119,10 @@ class QuestionCropper:
             filename = f"q{q_num:03d}_stem.webp"
             file_abs_path = os.path.join(output_dir, filename)
 
-            top_pt = max(88.0, stem_top - 4.0)
-            bottom_pt = stem_bottom + 4.0
+            top_pt_stem = max(88.0, stem_top - 4.0)
+            bottom_pt_stem = stem_bottom + 4.0
 
-            cropped = self.crop_bbox(page, top_pt, bottom_pt)
+            cropped = self.crop_bbox(page, top_pt_stem, bottom_pt_stem)
             trimmed = self.trim_whitespace(cropped)
             trimmed.convert("RGB").save(file_abs_path, "WEBP", quality=self.quality, method=6)
             stem_image_path = f"img/{test_id}/{filename}"
@@ -123,4 +130,5 @@ class QuestionCropper:
         return {
             "stem_image": stem_image_path,
             "full_image": full_image_path,
+            "orig_image": orig_image_path,
         }

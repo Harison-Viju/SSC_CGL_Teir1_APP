@@ -65,11 +65,10 @@ export const LeaderboardView: React.FC = () => {
               <TrendingUp className="w-5 h-5" />
             </div>
             <h4 className="font-bold text-sm text-slate-900 dark:text-white">
-              Weekly Promotion & Demotion
+              Upcoming Weekly Leagues
             </h4>
             <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
-              Every Sunday at 23:59 IST, the top 5 aspirants in the Weekly League promote to the next
-              tier (Bronze → Silver → Gold → Platinum → Diamond). The bottom 3 risk relegation.
+              When online peer leagues launch, students will compete in weekly cohort pods. The top aspirants promote to the next tier (Bronze → Silver → Gold → Platinum → Diamond).
             </p>
           </div>
 
@@ -91,7 +90,7 @@ export const LeaderboardView: React.FC = () => {
         {/* Action card */}
         <div className="pt-2 flex flex-col sm:flex-row items-center justify-between gap-4 border-t border-slate-200 dark:border-slate-800">
           <div className="text-xs text-slate-500 dark:text-slate-400 text-center sm:text-left">
-            Ready to overtake the next aspirant? Start a timed section drill or full-length paper.
+            Ready to test your knowledge? Start a timed section drill or full-length paper.
           </div>
           <div className="flex items-center gap-3">
             <Link

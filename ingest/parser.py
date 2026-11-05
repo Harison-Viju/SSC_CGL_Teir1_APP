@@ -14,7 +14,9 @@ from .layout import (
 )
 from .sections import get_section_for_question
 from .topics import TopicClassifier
-from .figures import determine_render_mode
+from .figures import determine_render_mode, detect_table_in_stem
+
+OPT_START_RE = re.compile(r"^(?:\(([a-eA-E])\)|([a-eA-E])[.)])\s*(.*)")
 
 
 LABEL_NAMES = (
@@ -27,6 +29,14 @@ LABEL_NAMES = (
 LABEL_NAMES_SORTED = sorted(LABEL_NAMES, key=len, reverse=True)
 LABEL_NAMES_REGEX = "|".join(re.escape(x) for x in LABEL_NAMES_SORTED) + r"|Matrix-?[IVX]+"
 
+
+def compute_qkey(stem: str, options: Optional[List[str]] = None) -> str:
+    """Compute deterministic normalized text hash for question tracking."""
+    norm_stem = re.sub(r"\s+", " ", stem or "").strip().lower()
+    norm_opts = " ".join(re.sub(r"\s+", " ", o or "").strip().lower() for o in (options or []))
+    content = f"{norm_stem}|{norm_opts}" if norm_opts else norm_stem
+    return hashlib.sha256(content.encode("utf-8")).hexdigest()[:16]
+
 IGNORE_PREV_WORDS = {"to", "and", "or", "from", "between", "labeled", "labelled"}
 PREV_CONNECTOR_ENDINGS = ("and", "or", "to", "from", "between", "with", "of", ",", ";")
 
@@ -34,7 +44,8 @@ PREV_CONNECTOR_ENDINGS = ("and", "or", "to", "from", "between", "with", "of", ",
 def is_marker_start(t: str) -> bool:
     """Check if a line begins with a list marker or semantic section label."""
     t = t.strip()
-    if re.match(r"^(?:[IVXLCDM]{1,6}\.|[1-9]\d?\.\s+|\([a-z]\)\s+|[A-Z]\.\s+)", t):
+    # List markers: Roman numerals, numeric (1., 2.), lowercase (a), (b)
+    if re.match(r"^(?:[IVXLCDM]{1,6}\.|[1-9]\d?\.\s+|\([a-z]\)\s+)", t):
         return True
     m = re.match(rf"^({LABEL_NAMES_REGEX})\s*(:?)(?:\s+(.*)|$)", t, re.IGNORECASE)
     if m:
@@ -163,10 +174,10 @@ def parse_stem_lines_to_blocks(stem_lines: List[Dict[str, Any]]) -> Tuple[str, L
     # Convert to structured blocks
     blocks = []
     for sl in split_lines:
-        m_list = re.match(r"^(?:([IVXLCDM]{1,6})\.|([1-9]\d?)\.|\(([a-z])\)|([A-Z])\.)\s+(.*)", sl)
+        m_list = re.match(r"^(?:([IVXLCDM]{1,6})\.|([1-9]\d?)\.|\(([a-z])\))\s+(.*)", sl)
         m_label = re.match(rf"^({LABEL_NAMES_REGEX})\s*:?$", sl, re.IGNORECASE)
         if m_list:
-            marker = m_list.group(1) or m_list.group(2) or m_list.group(3) or m_list.group(4)
+            marker = m_list.group(1) or m_list.group(2) or m_list.group(3)
             if m_list.group(3):
                 marker = f"({marker})"
             else:
@@ -174,7 +185,7 @@ def parse_stem_lines_to_blocks(stem_lines: List[Dict[str, Any]]) -> Tuple[str, L
             blocks.append({
                 "type": "list_item",
                 "marker": marker,
-                "text": m_list.group(5).strip(),
+                "text": m_list.group(4).strip(),
             })
         elif m_label:
             blocks.append({
@@ -225,11 +236,16 @@ class ExamParser:
             # 1. Identify content vs ad pages
             content_page_indices: List[int] = []
             page_images_map: Dict[int, List[Dict[str, Any]]] = {}
+            page_tables_map: Dict[int, List[Any]] = {}
 
             for idx, p in enumerate(pdf.pages):
                 if is_ad_page(p):
                     continue
                 content_page_indices.append(idx)
+                try:
+                    page_tables_map[idx + 1] = p.find_tables()
+                except Exception:
+                    page_tables_map[idx + 1] = []
                 # Store non-header, non-watermark images
                 clean_imgs = []
                 page_area = float(p.width) * float(p.height)
@@ -354,15 +370,45 @@ class ExamParser:
                 for line_i, line in enumerate(q_lines):
                     if line_i == ans_line_offset:
                         continue
-                    opt_m = re.match(r"^\(([a-eA-E])\)\s*(.*)", line["text"])
+                    text = line["text"].strip()
+                    opt_m = OPT_START_RE.match(text)
                     if opt_m:
-                        options.append(opt_m.group(2).strip())
-                        option_boxes.append(line)
+                        let = (opt_m.group(1) or opt_m.group(2)).lower()
+                        opt_body = opt_m.group(3).strip()
+                        # If no options started yet, accept as option A
+                        if not options:
+                            if let == "a":
+                                options.append(opt_body)
+                                option_boxes.append(line)
+                            else:
+                                stem_lines.append(line)
+                        else:
+                            options.append(opt_body)
+                            option_boxes.append(line)
                     elif not options:
                         stem_lines.append(line)
                     else:
                         # Append continuation line to current option
-                        options[-1] = (options[-1] + " " + line["text"]).strip()
+                        options[-1] = (options[-1] + " " + text).strip()
+
+                # Backward recovery pass: if fewer than 4 options were found, check trailing stem_lines
+                if len(options) < 4 and stem_lines:
+                    recovered_from_stem: List[Tuple[Dict[str, Any], str]] = []
+                    k = len(stem_lines) - 1
+                    while k >= 0 and (len(options) + len(recovered_from_stem)) < 4:
+                        s_line = stem_lines[k]
+                        s_m = OPT_START_RE.match(s_line["text"].strip())
+                        if s_m:
+                            recovered_from_stem.append((s_line, s_m.group(3).strip()))
+                            k -= 1
+                        else:
+                            break
+                    if recovered_from_stem:
+                        stem_lines = stem_lines[: k + 1]
+                        recovered_from_stem.reverse()
+                        for r_box, r_txt in recovered_from_stem:
+                            options.insert(0, r_txt)
+                            option_boxes.insert(0, r_box)
 
                 clean_stem, blocks = parse_stem_lines_to_blocks(stem_lines)
 
@@ -383,6 +429,15 @@ class ExamParser:
                     ans_line = q_lines[ans_line_offset]
                     ans_top = ans_line["top"]
                     ans_page = ans_line["page"]
+
+                # Table detection: pdfplumber find_tables + geometric short lines + column heuristics
+                is_table_detected, reconstructed_table = detect_table_in_stem(
+                    stem_lines=stem_lines,
+                    stem_text=clean_stem,
+                    page_tables=page_tables_map.get(min_page, []),
+                    stem_top=stem_top,
+                    stem_bottom=stem_bottom,
+                )
 
                 # Check if images exist on this page in the question region
                 page_imgs = page_images_map.get(min_page, [])
@@ -408,7 +463,7 @@ class ExamParser:
                         attached_passage_id = p["id"]
                         break
 
-                # Render mode
+                # Render mode determination
                 render_mode, mode_warnings = determine_render_mode(
                     clean_stem,
                     options,
@@ -416,27 +471,63 @@ class ExamParser:
                     has_image_in_options=has_image_in_opts,
                     stem_lines=stem_lines,
                     has_preamble=bool(preamble_lines),
+                    is_table=is_table_detected,
                 )
 
                 # Assign section & topic
                 sec = get_section_for_question(q_num, self.sections)
-                topic = self.classifier.classify(clean_stem, sec["id"])
+                topic = self.classifier.classify(clean_stem, sec["id"], render_mode=render_mode)
 
                 # Answer index
                 answer_idx = letter_to_index.get(ans_letter) if ans_letter else None
 
-                # Warnings
+                # Warnings & Strict Validation Per Question
                 q_warnings = list(mode_warnings)
+                is_valid = True
+
+                # 1. Exactly 4 options
+                if len(options) != 4:
+                    q_warnings.append(f"Expected 4 options, found {len(options)} for Q{q_num}")
+                    is_valid = False
+
+                # 2. No empty options
+                if any(len(str(opt).strip()) == 0 for opt in options):
+                    q_warnings.append(f"Empty option text found for Q{q_num}")
+                    is_valid = False
+
+                # 3. No duplicate options
+                non_empty_opts = [str(opt).strip().lower() for opt in options if str(opt).strip()]
+                if len(set(non_empty_opts)) < len(non_empty_opts):
+                    q_warnings.append(f"Duplicate options detected for Q{q_num}")
+                    is_valid = False
+
+                # 4. No stray option marker lines left in the stem
+                for sl in stem_lines:
+                    if OPT_START_RE.match(sl["text"].strip()):
+                        q_warnings.append(f"Stray option marker '{sl['text'].strip()[:10]}' left in stem for Q{q_num}")
+                        is_valid = False
+                        break
+
+                # 5. Answer is one of the options
                 if answer_idx is None:
                     q_warnings.append(f"Missing answer for Q{q_num}")
-                if len(options) < 4 and render_mode == "text":
-                    q_warnings.append(f"Fewer than 4 options ({len(options)}) for Q{q_num}")
+                    is_valid = False
+                elif answer_idx < 0 or answer_idx >= len(options):
+                    q_warnings.append(f"Answer index {answer_idx} out of range (options={len(options)}) for Q{q_num}")
+                    is_valid = False
 
                 confidence = 1.0
                 if render_mode != "text":
                     confidence = 0.95
-                if q_warnings:
-                    confidence -= 0.1 * len(q_warnings)
+                if not is_valid or q_warnings:
+                    confidence = min(0.85, 1.0 - 0.1 * len(q_warnings))
+
+                # Low-confidence default: if confidence < 0.9, default to cropped image
+                if confidence < 0.9 and render_mode == "text":
+                    if len(options) == 4 and not any(len(str(opt).strip()) == 0 for opt in options):
+                        render_mode = "image_stem"
+                    else:
+                        render_mode = "image_full"
 
                 # Question structure
                 q_obj = {
@@ -446,8 +537,10 @@ class ExamParser:
                     "render_mode": render_mode,
                     "stem": clean_stem,
                     "blocks": blocks,
+                    "table": reconstructed_table,
                     "stem_image": None,
                     "full_image": None,
+                    "orig_image": None,
                     "options": options if render_mode != "image_full" else ["A", "B", "C", "D"],
                     "raw_options": options,
                     "answer": answer_idx,
@@ -455,6 +548,7 @@ class ExamParser:
                     "confidence": round(max(confidence, 0.1), 2),
                     "warnings": q_warnings,
                     "duplicate_of": None,
+                    "qkey": compute_qkey(clean_stem, options),
                     "_bbox": {
                         "page": min_page,
                         "min_page": min_page,

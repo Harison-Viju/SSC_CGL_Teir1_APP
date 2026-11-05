@@ -121,16 +121,13 @@ test("exportAttemptsToCsv correctly formats CSV cells and escape characters", as
 });
 
 test("getLeagueTier accurately maps XP thresholds into competitive tiers", async () => {
-  const { getLeagueTier, PEER_ASPIRANTS } = await import("../data/mockLeaderboard");
+  const { getLeagueTier } = await import("../utils/gamification");
   assert.equal(getLeagueTier(100), "Bronze");
   assert.equal(getLeagueTier(250), "Silver");
   assert.equal(getLeagueTier(600), "Gold");
   assert.equal(getLeagueTier(1000), "Platinum");
   assert.equal(getLeagueTier(1500), "Diamond");
   assert.equal(getLeagueTier(3000), "Diamond");
-
-  assert.ok(PEER_ASPIRANTS.length >= 20);
-  assert.equal(PEER_ASPIRANTS[0].tier, "Diamond");
 });
 
 test("question blocks preserve labels and list items for structured questions like Q20", async () => {

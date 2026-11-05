@@ -5,8 +5,8 @@
   "expected_questions": 100,
   "passed": true,
   "render_mode_counts": {
-    "text": 100,
-    "image_stem": 0,
+    "text": 99,
+    "image_stem": 1,
     "image_full": 0
   },
   "missing_answers": [],
